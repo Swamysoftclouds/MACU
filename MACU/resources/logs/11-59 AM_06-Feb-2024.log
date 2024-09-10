@@ -1,0 +1,18 @@
+[INFO ][06-Feb-2024 11:59:29 AM] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][06-Feb-2024 11:59:32 AM] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--tst1.custhelp.com/app/home
+[ERROR][06-Feb-2024 11:59:36 AM] MACU_Wrapper.signIntoCP:(23) - Error in the signin process
+[ERROR][06-Feb-2024 11:59:45 AM] ArticlePage.testSearchPage:(37) - Search and Select Article Test case is un-successfull
+[ERROR][06-Feb-2024 11:59:51 AM] ArticlePage.testBookmarkArticle:(94) - Bookmark Article Test case is un-successfull
+[ERROR][06-Feb-2024 11:59:59 AM] ArticlePage.testShareEmail:(133) - Share Email Test case is un-successfull
+[ERROR][06-Feb-2024 12:00:09 PM] ArticlePage.testSearchArticle:(154) - Search Existing Article Test case is un-successfull
+[ERROR][06-Feb-2024 12:00:11 PM] Selenium_Wrapper.scrollToWebElement:(487) - org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=121.0.6167.140)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'CAF-QA-SWAMYK', ip: '192.168.0.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.140, chrome: {chromedriverVersion: 121.0.6167.85 (3f98d690ad7e..., userDataDir: C:\Users\swamyk\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58930}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c0c7912048004cf76236fe840b7b22e1
+*** Element info: {Using=class name, value=knowledge}
+[ERROR][06-Feb-2024 12:00:11 PM] ArticlePage.testRequests:(203) - testRequests Test case is un-successfull
+[ERROR][06-Feb-2024 12:00:14 PM] ArticlePage.testSignout:(215) - Logout/SignOut un-successfull

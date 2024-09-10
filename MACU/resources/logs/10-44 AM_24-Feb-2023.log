@@ -1,0 +1,22 @@
+[INFO ][24-Feb-2023 10:44:28 AM] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][24-Feb-2023 10:44:33 AM] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--upgrade.custhelp.com/
+[INFO ][24-Feb-2023 10:44:37 AM] Selenium_Wrapper.enterText:(311) - Entering Text :automation_testing in WebElement :[[ChromeDriver: chrome on WINDOWS (3cabc36afe3239d8d609534224a859c4)] -> id: rn_LoginForm_2_Username]
+[INFO ][24-Feb-2023 10:44:39 AM] Selenium_Wrapper.enterText:(311) - Entering Text :Soft@123 in WebElement :[[ChromeDriver: chrome on WINDOWS (3cabc36afe3239d8d609534224a859c4)] -> id: rn_LoginForm_2_Password]
+[INFO ][24-Feb-2023 10:44:46 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (3cabc36afe3239d8d609534224a859c4)] -> id: rn_LoginForm_2_Submit]
+[INFO ][24-Feb-2023 10:44:56 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (3cabc36afe3239d8d609534224a859c4)] -> xpath: //input[@type='search']]
+[INFO ][24-Feb-2023 10:44:58 AM] Selenium_Wrapper.enterText:(311) - Entering Text :Flexible Work in WebElement :[[ChromeDriver: chrome on WINDOWS (3cabc36afe3239d8d609534224a859c4)] -> xpath: //input[@type='search']]
+[INFO ][24-Feb-2023 10:45:14 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (3cabc36afe3239d8d609534224a859c4)] -> xpath: //ul[@aria-label='Suggested Search']//li[normalize-space()= 'Flexible Work' ]]
+[INFO ][24-Feb-2023 10:45:21 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (3cabc36afe3239d8d609534224a859c4)] -> xpath: //div[@class='rn_SearchResultContent']//a[text()='Flexible Work']]
+[INFO ][24-Feb-2023 10:45:44 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (3cabc36afe3239d8d609534224a859c4)] -> xpath: //button[@class='rn_RecommendContentButton p-0']]
+[INFO ][24-Feb-2023 10:45:45 AM] Selenium_Wrapper.enterText:(311) - Entering Text :Test Improve, comments, updates in WebElement :[[ChromeDriver: chrome on WINDOWS (3cabc36afe3239d8d609534224a859c4)] -> id: rn_RequestUpdate_25_Description]
+[INFO ][24-Feb-2023 10:45:51 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (3cabc36afe3239d8d609534224a859c4)] -> xpath: //button[text()='Submit']]
+[ERROR][24-Feb-2023 10:45:56 AM] Selenium_Wrapper.highlightWebElement:(417) - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id='rnDialog2']//button[@type='button']"}
+  (Session info: chrome=110.0.5481.177)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'QA-SWAMYK', ip: '192.168.0.4', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 110.0.5481.177, chrome: {chromedriverVersion: 110.0.5481.77 (65ed616c6e8e..., userDataDir: C:\Users\SWAMYK~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:52378}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 3cabc36afe3239d8d609534224a859c4
+*** Element info: {Using=xpath, value=//div[@id='rnDialog2']//button[@type='button']}
+[ERROR][24-Feb-2023 10:46:01 AM] FeedbackAdmin.testFeedbackPage:(81) - Request Updates, Comments, Thumbs Up & Down Test is un-successfull

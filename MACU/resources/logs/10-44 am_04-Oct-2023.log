@@ -1,0 +1,32 @@
+[INFO ][04-Oct-2023 10:44:06 am] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][04-Oct-2023 10:44:10 am] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--tst1.custhelp.com/AgentWeb/
+[INFO ][04-Oct-2023 10:44:14 am] Selenium_Wrapper.enterText:(311) - Entering Text :automation_testing in WebElement :[[ChromeDriver: chrome on WINDOWS (ac6aa11af3d4ce94d2f957612f5c31fe)] -> id: username]
+[ERROR][04-Oct-2023 10:44:15 am] MACU_Wrapper.signIntoBUI:(37) - Error in the loginin process
+[INFO ][04-Oct-2023 10:44:27 am] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][04-Oct-2023 10:44:30 am] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--tst1.custhelp.com/AgentWeb/
+[INFO ][04-Oct-2023 10:44:34 am] Selenium_Wrapper.enterText:(311) - Entering Text :automation_testing in WebElement :[[ChromeDriver: chrome on WINDOWS (858a71a487d565778e974f9f035ebc91)] -> id: username]
+[INFO ][04-Oct-2023 10:44:35 am] Selenium_Wrapper.enterText:(311) - Entering Text :Welcome123 in WebElement :[[ChromeDriver: chrome on WINDOWS (858a71a487d565778e974f9f035ebc91)] -> id: password]
+[INFO ][04-Oct-2023 10:45:01 am] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (858a71a487d565778e974f9f035ebc91)] -> id: loginbutton]
+[INFO ][04-Oct-2023 10:45:25 am] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (858a71a487d565778e974f9f035ebc91)] -> xpath: //oj-button[@id='navigationSetBtn']]
+[INFO ][04-Oct-2023 10:45:34 am] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (858a71a487d565778e974f9f035ebc91)] -> xpath: (//div[text()='Analytics']//a)]
+[INFO ][04-Oct-2023 10:45:40 am] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (858a71a487d565778e974f9f035ebc91)] -> xpath: //span[text()='Reports Explorer']]
+[INFO ][04-Oct-2023 10:45:45 am] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (858a71a487d565778e974f9f035ebc91)] -> xpath: //div[text()='Public Reports']]
+[INFO ][04-Oct-2023 10:45:50 am] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (858a71a487d565778e974f9f035ebc91)] -> xpath: //div[text()='MACU CUSTOM REPORTS']]
+[INFO ][04-Oct-2023 10:45:55 am] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (858a71a487d565778e974f9f035ebc91)] -> xpath: //div[text()='SoftClouds']]
+[INFO ][04-Oct-2023 10:46:01 am] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (858a71a487d565778e974f9f035ebc91)] -> xpath: //div[text()='OKCS']]
+[INFO ][04-Oct-2023 10:46:09 am] Selenium_Wrapper.doubleClick:(280) - Double clicking on :[[ChromeDriver: chrome on WINDOWS (858a71a487d565778e974f9f035ebc91)] -> xpath: //div[@class='explorer-right-panel']//div[@class='explorer-data-grid']//span[text()='Feedback Admin Report']]
+[INFO ][04-Oct-2023 10:46:25 am] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (858a71a487d565778e974f9f035ebc91)] -> xpath: //div[@class='container wsx-flex']//div[@class='analyticsTopSection']//div[@class='select-box-root select-box-display-text-active']]
+[INFO ][04-Oct-2023 10:46:30 am] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (858a71a487d565778e974f9f035ebc91)] -> xpath: (//span[text()='Search'])[2]]
+[ERROR][04-Oct-2023 10:46:36 am] Selenium_Wrapper.highlightWebElement:(417) - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='container wsx-flex']//div[contains(@column-id,'2')][1]"}
+  (Session info: chrome=117.0.5938.150)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'CAF-QA-SWAMYK', ip: '192.168.0.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 117.0.5938.150, chrome: {chromedriverVersion: 117.0.5938.92 (67649b10b92b..., userDataDir: C:\Users\swamyk\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53186}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 858a71a487d565778e974f9f035ebc91
+*** Element info: {Using=xpath, value=//div[@class='container wsx-flex']//div[contains(@column-id,'2')][1]}
+[ERROR][04-Oct-2023 10:46:36 am] FeedbackReport.testFeedbackStatus:(87) - Feedback Status in BUI Test is un-successfull
+[INFO ][04-Oct-2023 10:46:44 am] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (858a71a487d565778e974f9f035ebc91)] -> xpath: //body//oj-avatar[@initials='[[userMenuLabel]]']]
+[INFO ][04-Oct-2023 10:46:52 am] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (858a71a487d565778e974f9f035ebc91)] -> xpath: //a//span[text()='Sign Out']]
+[INFO ][04-Oct-2023 10:46:57 am] Selenium_Wrapper.closeCurrentBrowser:(651) - Closing the current Browser

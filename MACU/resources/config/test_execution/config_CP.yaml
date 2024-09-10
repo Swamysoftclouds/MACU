@@ -1,0 +1,42 @@
+#==============================================================================================#
+# This is file has all the configuration settings for running a Customer Portal test suite     #
+# YAML file is used to store Web Elements of a web Page [User can directly pass data from here]# 
+#==============================================================================================#
+
+# This below parameter decides in which browser to run the test suite #
+#browser: FIREFOX
+browser: CHROME
+#browser: MSEDGEDRIVER
+
+# This below parameter decides the wait Time in seconds #
+webdriverWaitTime: 100
+
+# This below parameter decides Environment URL #
+#Customer Portal
+#url: https://macu1--upgrade.custhelp.com/
+url: https://macu1--tst1.custhelp.com/app/home
+
+#SignIn Credentials
+username_bui: automation_testing 
+password_bui: Soft@123
+
+username_cp: swamyk
+password_cp: Soft@123
+
+Article: Business Use Auto Loan
+Search_Article: Business Use Auto Loan
+#Article: Badge Protocol
+#Search_Article: Badge Protocol
+
+
+
+#EmailEmployeeName: Aaron Brown
+
+keyword_search: 100% First Time Home Buyer Loan
+
+#Article Page
+#article: Flexible Work
+#article: Auto Loan
+covid19Article: COVID-19 Critical Updates
+employeeName: Aaron Brown
+helpUsImproveComments: Test Improve, comments, updates

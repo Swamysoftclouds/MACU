@@ -1,0 +1,9 @@
+[INFO ][03-Jul-2024 15:24:59 PM] Selenium_Wrapper.openBrowser:(54) - Opening chrome browser.
+[INFO ][03-Jul-2024 15:25:04 PM] Selenium_Wrapper.enterURL:(88) - Entering url :https://macu1--tst1.custhelp.com/app/home
+[INFO ][03-Jul-2024 15:25:08 PM] Selenium_Wrapper.enterText:(317) - Entering Text :swamyk in WebElement :[[ChromeDriver: chrome on WINDOWS (7edf2633b4ef9ecfb614128ca1049eb9)] -> id: rn_LoginForm_2_Username]
+[INFO ][03-Jul-2024 15:25:09 PM] Selenium_Wrapper.enterText:(317) - Entering Text :Soft@123 in WebElement :[[ChromeDriver: chrome on WINDOWS (7edf2633b4ef9ecfb614128ca1049eb9)] -> id: rn_LoginForm_2_Password]
+[INFO ][03-Jul-2024 15:25:14 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (7edf2633b4ef9ecfb614128ca1049eb9)] -> id: rn_LoginForm_2_Submit]
+[INFO ][03-Jul-2024 15:25:19 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (7edf2633b4ef9ecfb614128ca1049eb9)] -> xpath: //input[@type='search']]
+[INFO ][03-Jul-2024 15:25:21 PM] Selenium_Wrapper.enterText:(317) - Entering Text :Business Use Auto Loan in WebElement :[[ChromeDriver: chrome on WINDOWS (7edf2633b4ef9ecfb614128ca1049eb9)] -> xpath: //input[@type='search']]
+[ERROR][03-Jul-2024 15:26:02 PM] ThumbsDownFeedBack.testJumpToSection:(41) - Jump to section Test is un-successfull
+[ERROR][03-Jul-2024 15:26:06 PM] ThumbsDownFeedBack.testFeedbackPage:(69) - Request Updates, Comments, Thumbs Up & Down Test is un-successfull

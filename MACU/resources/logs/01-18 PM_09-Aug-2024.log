@@ -1,0 +1,19 @@
+[INFO ][09-Aug-2024 13:18:49 PM] Selenium_Wrapper.openBrowser:(54) - Opening chrome browser.
+[INFO ][09-Aug-2024 13:18:59 PM] Selenium_Wrapper.enterURL:(88) - Entering url :https://macu1--tst1.custhelp.com/app/home
+[INFO ][09-Aug-2024 13:19:04 PM] Selenium_Wrapper.enterText:(317) - Entering Text :swamyk in WebElement :[[ChromeDriver: chrome on WINDOWS (b5934c3af6edea197919678f480b06c7)] -> id: rn_LoginForm_2_Username]
+[INFO ][09-Aug-2024 13:19:05 PM] Selenium_Wrapper.enterText:(317) - Entering Text :Soft@123 in WebElement :[[ChromeDriver: chrome on WINDOWS (b5934c3af6edea197919678f480b06c7)] -> id: rn_LoginForm_2_Password]
+[INFO ][09-Aug-2024 13:19:10 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (b5934c3af6edea197919678f480b06c7)] -> id: rn_LoginForm_2_Submit]
+[INFO ][09-Aug-2024 13:19:26 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (b5934c3af6edea197919678f480b06c7)] -> xpath: //a[text()='browse all PAGES']]
+[INFO ][09-Aug-2024 13:19:39 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (b5934c3af6edea197919678f480b06c7)] -> xpath: (//div[@id='category']//following-sibling::ul//a)[1]]
+[INFO ][09-Aug-2024 13:19:58 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (b5934c3af6edea197919678f480b06c7)] -> xpath: //a[text()='Business Accounts']]
+[INFO ][09-Aug-2024 13:20:03 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (b5934c3af6edea197919678f480b06c7)] -> xpath: (//div[@id='category']//following-sibling::ul//a)[1]]
+[INFO ][09-Aug-2024 13:20:16 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (b5934c3af6edea197919678f480b06c7)] -> xpath: //a[text()='Employee Experience']]
+[ERROR][09-Aug-2024 13:20:31 PM] Selenium_Wrapper.waitTillVisible:(270) - org.openqa.selenium.StaleElementReferenceException: stale element reference: stale element not found in the current frame
+  (Session info: chrome=127.0.6533.100)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SC-CAF-CND84305', ip: '192.168.1.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 127.0.6533.100, chrome: {chromedriverVersion: 127.0.6533.72 (9755e24ca85a..., userDataDir: C:\Users\SWAMYK~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:65190}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b5934c3af6edea197919678f480b06c7
+[ERROR][09-Aug-2024 13:20:32 PM] BrowseAllPages.testFilterByProductAndFilterByCategory:(214) - Filter By Product And Filter By Category testing Test is un-successfull

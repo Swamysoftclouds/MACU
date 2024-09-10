@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="BUI Reports">
+    <classes>
+       
+      <class name="com.MACU.BUI.ActionsDashboardReport"/>
+      <class name="com.MACU.BUI.AnswerVotingFeedbackReport"/>
+      <class name="com.MACU.BUI.FeedbackReport"/>
+      <class name="com.MACU.BUI.SmileyFacesFeedBackReport"/>
+      
+       </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

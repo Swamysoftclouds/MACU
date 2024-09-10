@@ -1,0 +1,12 @@
+[INFO ][04-Oct-2023 11:08:19 am] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][04-Oct-2023 11:08:22 am] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--tst1.custhelp.com/AgentWeb/
+[INFO ][04-Oct-2023 11:08:26 am] Selenium_Wrapper.enterText:(311) - Entering Text :automation_testing in WebElement :[[ChromeDriver: chrome on WINDOWS (653840595bc9f39151fdc6ecfc7b4232)] -> id: username]
+[INFO ][04-Oct-2023 11:08:27 am] Selenium_Wrapper.enterText:(311) - Entering Text :Welcome123 in WebElement :[[ChromeDriver: chrome on WINDOWS (653840595bc9f39151fdc6ecfc7b4232)] -> id: password]
+[INFO ][04-Oct-2023 11:08:52 am] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (653840595bc9f39151fdc6ecfc7b4232)] -> id: loginbutton]
+[INFO ][04-Oct-2023 11:09:12 am] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (653840595bc9f39151fdc6ecfc7b4232)] -> id: navigationSetBtn]
+[INFO ][04-Oct-2023 11:09:17 am] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (653840595bc9f39151fdc6ecfc7b4232)] -> xpath: (//div[text()='Contacts']//a)]
+[INFO ][04-Oct-2023 11:09:22 am] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (653840595bc9f39151fdc6ecfc7b4232)] -> xpath: (//span[text()='Contacts'])[2]]
+[INFO ][04-Oct-2023 11:09:29 am] Selenium_Wrapper.enterText:(311) - Entering Text :swamyk in WebElement :[[ChromeDriver: chrome on WINDOWS (653840595bc9f39151fdc6ecfc7b4232)] -> xpath: (//label[text()='Login']//following::input)[1]]
+[INFO ][04-Oct-2023 11:09:34 am] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (653840595bc9f39151fdc6ecfc7b4232)] -> xpath: //span[text()='Search']]
+[INFO ][04-Oct-2023 11:09:50 am] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (653840595bc9f39151fdc6ecfc7b4232)] -> xpath: //span[text()='Summary']]
+[INFO ][04-Oct-2023 11:10:00 am] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (653840595bc9f39151fdc6ecfc7b4232)] -> xpath: (//div[@class='primary-tab-header']//ul//li)[2]//span//a//i]

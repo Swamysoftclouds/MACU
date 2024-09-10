@@ -1,0 +1,16 @@
+[INFO ][23-May-2023 11:38:28 AM] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][23-May-2023 11:38:30 AM] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--tst1.custhelp.com/app/home
+[ERROR][23-May-2023 11:38:34 AM] MACU_Wrapper.signIntoCP:(23) - Error in the signin process
+[ERROR][23-May-2023 11:38:41 AM] AnswerVotingFeedbackReport.testSearchanArticle:(34) - Search an Article in CP is un-successfull
+[ERROR][23-May-2023 11:38:44 AM] Selenium_Wrapper.highlightWebElement:(417) - org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=113.0.5672.127)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'QA-SWAMYK', ip: '192.168.0.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 113.0.5672.127, chrome: {chromedriverVersion: 113.0.5672.63 (0e1a4471d5ae..., userDataDir: C:\Users\SWAMYK~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:57337}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 974a90425613e38a3244f1c3729b35de
+*** Element info: {Using=xpath, value=//div[@class='main_image_div']//div[@class='thumbs_up_down'][2]}
+[ERROR][23-May-2023 11:38:50 AM] AnswerVotingFeedbackReport.testFeedbackPage:(56) - Thumbs Up & Down Test is un-successfull
+[ERROR][23-May-2023 11:38:57 AM] AnswerVotingFeedbackReport.testMyFeedbackStatus:(91) - My Feedback Article Status in CP Test is un-successfull
+[INFO ][23-May-2023 11:38:58 AM] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.

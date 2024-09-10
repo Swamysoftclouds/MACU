@@ -1,0 +1,8 @@
+[INFO ][27-Jul-2023 10:55:10 am] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][27-Jul-2023 10:55:13 am] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--tst1.custhelp.com/AgentWeb/
+[INFO ][27-Jul-2023 10:55:17 am] Selenium_Wrapper.enterText:(311) - Entering Text :automation_testing in WebElement :[[ChromeDriver: chrome on WINDOWS (d0f9f47e9396205db706086570e99689)] -> id: username]
+[INFO ][27-Jul-2023 10:55:19 am] Selenium_Wrapper.enterText:(311) - Entering Text :Welcome123 in WebElement :[[ChromeDriver: chrome on WINDOWS (d0f9f47e9396205db706086570e99689)] -> id: password]
+[INFO ][27-Jul-2023 10:55:44 am] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (d0f9f47e9396205db706086570e99689)] -> id: loginbutton]
+[INFO ][27-Jul-2023 10:55:56 am] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (d0f9f47e9396205db706086570e99689)] -> id: navigationSetBtn]
+[INFO ][27-Jul-2023 10:56:01 am] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (d0f9f47e9396205db706086570e99689)] -> xpath: //div[@automationid='Analytics']]
+[INFO ][27-Jul-2023 10:56:14 am] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (d0f9f47e9396205db706086570e99689)] -> xpath: //div[@automationid='Analytics_Reports Explorer']//span[text()='Reports Explorer']]

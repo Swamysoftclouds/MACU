@@ -1,0 +1,21 @@
+[INFO ][28-Feb-2023 10:52:13 AM] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][28-Feb-2023 10:52:19 AM] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--upgrade.custhelp.com/
+[INFO ][28-Feb-2023 10:52:23 AM] Selenium_Wrapper.enterText:(311) - Entering Text :automation_testing in WebElement :[[ChromeDriver: chrome on WINDOWS (775c515e8a348fda7093a767b4e5277f)] -> id: rn_LoginForm_2_Username]
+[INFO ][28-Feb-2023 10:52:25 AM] Selenium_Wrapper.enterText:(311) - Entering Text :Soft@123 in WebElement :[[ChromeDriver: chrome on WINDOWS (775c515e8a348fda7093a767b4e5277f)] -> id: rn_LoginForm_2_Password]
+[INFO ][28-Feb-2023 10:52:32 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (775c515e8a348fda7093a767b4e5277f)] -> id: rn_LoginForm_2_Submit]
+[INFO ][28-Feb-2023 10:52:47 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (775c515e8a348fda7093a767b4e5277f)] -> xpath: //div[@class='dropdown']]
+[INFO ][28-Feb-2023 10:52:57 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (775c515e8a348fda7093a767b4e5277f)] -> xpath: //a[text()='My Feedback']]
+[INFO ][28-Feb-2023 10:52:58 AM] Selenium_Wrapper.enterText:(311) - Entering Text :Business Auto Loan in WebElement :[[ChromeDriver: chrome on WINDOWS (775c515e8a348fda7093a767b4e5277f)] -> xpath: //input[@placeholder='Search Your Feedback Report']]
+[INFO ][28-Feb-2023 10:53:12 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (775c515e8a348fda7093a767b4e5277f)] -> xpath: //div[@class='rn_SearchInput1 mt-3']//span[@class='btn-srch-icon']//i[@class='fa fa-search']]
+[INFO ][28-Feb-2023 10:53:38 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (775c515e8a348fda7093a767b4e5277f)] -> xpath: //tr[@data-yui3-record='model_11']//td[@headers='Grid_6_c1']/a]
+[ERROR][28-Feb-2023 10:53:52 AM] Selenium_Wrapper.highlightWebElement:(417) - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//li//div[normalize-space()='Unresolved']"}
+  (Session info: chrome=110.0.5481.178)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'QA-SWAMYK', ip: '192.168.0.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 110.0.5481.178, chrome: {chromedriverVersion: 110.0.5481.77 (65ed616c6e8e..., userDataDir: C:\Users\SWAMYK~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:63121}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 775c515e8a348fda7093a767b4e5277f
+*** Element info: {Using=xpath, value=//li//div[normalize-space()='Unresolved']}
+[INFO ][28-Feb-2023 10:54:13 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (775c515e8a348fda7093a767b4e5277f)] -> class name: knowledge]
+[INFO ][28-Feb-2023 10:54:16 AM] Selenium_Wrapper.closeCurrentBrowser:(651) - Closing the current Browser

@@ -1,0 +1,21 @@
+[INFO ][07-May-2024 14:51:27 PM] Selenium_Wrapper.openBrowser:(54) - Opening chrome browser.
+[INFO ][07-May-2024 14:51:37 PM] Selenium_Wrapper.enterURL:(88) - Entering url :https://macu1--tst1.custhelp.com/app/home
+[INFO ][07-May-2024 14:51:42 PM] Selenium_Wrapper.enterText:(317) - Entering Text :swamyk in WebElement :[[ChromeDriver: chrome on WINDOWS (467b0511f9d95f5627dfa435afa79dfd)] -> id: rn_LoginForm_2_Username]
+[INFO ][07-May-2024 14:51:43 PM] Selenium_Wrapper.enterText:(317) - Entering Text :Soft@123 in WebElement :[[ChromeDriver: chrome on WINDOWS (467b0511f9d95f5627dfa435afa79dfd)] -> id: rn_LoginForm_2_Password]
+[INFO ][07-May-2024 14:51:47 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (467b0511f9d95f5627dfa435afa79dfd)] -> id: rn_LoginForm_2_Submit]
+[INFO ][07-May-2024 14:52:04 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (467b0511f9d95f5627dfa435afa79dfd)] -> xpath: //a[text()='browse all PAGES']]
+[INFO ][07-May-2024 14:52:16 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (467b0511f9d95f5627dfa435afa79dfd)] -> xpath: (//div[@id='category']//following-sibling::ul//a)[1]]
+[INFO ][07-May-2024 14:52:34 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (467b0511f9d95f5627dfa435afa79dfd)] -> xpath: //a[text()='Business Accounts']]
+[INFO ][07-May-2024 14:52:39 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (467b0511f9d95f5627dfa435afa79dfd)] -> xpath: (//div[@id='category']//following-sibling::ul//a)[1]]
+[INFO ][07-May-2024 14:52:52 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (467b0511f9d95f5627dfa435afa79dfd)] -> xpath: //a[text()='Employee Experience']]
+[ERROR][07-May-2024 14:53:05 PM] BrowseAllPages.testFilterByProductAndFilterByCategory:(212) - Filter By Product And Filter By Category testing Test is un-successfull
+[INFO ][07-May-2024 14:53:22 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (467b0511f9d95f5627dfa435afa79dfd)] -> xpath: //a[text()='VIEW A-Z INDEX']]
+[INFO ][07-May-2024 14:53:44 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (467b0511f9d95f5627dfa435afa79dfd)] -> xpath: //div[@id='rn_A_ZIndex_2']//ul[@class='indexing_list']//li//a[text()='D']]
+[INFO ][07-May-2024 14:53:58 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (467b0511f9d95f5627dfa435afa79dfd)] -> xpath: //div[@id='rn_A_ZIndex_2']//ul[@class='indexing_list']//li//a[text()='J']]
+[INFO ][07-May-2024 14:54:11 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (467b0511f9d95f5627dfa435afa79dfd)] -> xpath: //div[@id='rn_A_ZIndex_2']//ul[@class='indexing_list']//li//a[text()='P']]
+[INFO ][07-May-2024 14:54:27 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (467b0511f9d95f5627dfa435afa79dfd)] -> xpath: //div[@id='rn_A_ZIndex_2']//ul[@class='indexing_list']//li//a[text()='V']]
+[INFO ][07-May-2024 14:54:40 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (467b0511f9d95f5627dfa435afa79dfd)] -> xpath: //div[@id='rn_A_ZIndex_2']//ul[@class='indexing_list']//li//a[text()='0-9']]
+[INFO ][07-May-2024 14:55:03 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (467b0511f9d95f5627dfa435afa79dfd)] -> xpath: (//div[@class='rn_A_ZIndex']//div[@class='index-content']//a)[1]]
+[INFO ][07-May-2024 14:55:28 PM] Selenium_Wrapper.enterText:(317) - Entering Text :100% First Time Home Buyer Loan in WebElement :[[ChromeDriver: chrome on WINDOWS (467b0511f9d95f5627dfa435afa79dfd)] -> xpath: //input[@type='search']]
+[INFO ][07-May-2024 14:56:10 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (467b0511f9d95f5627dfa435afa79dfd)] -> xpath: //div[@id='rn_PageTitle']//a[text()='BROWSE ALL PAGES']]
+[INFO ][07-May-2024 14:56:19 PM] Selenium_Wrapper.closeCurrentBrowser:(657) - Closing the current Browser

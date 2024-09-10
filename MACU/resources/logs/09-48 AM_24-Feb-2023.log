@@ -1,0 +1,28 @@
+[INFO ][24-Feb-2023 09:49:01 AM] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][24-Feb-2023 09:49:04 AM] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--upgrade.custhelp.com/AgentWeb/
+[INFO ][24-Feb-2023 09:49:08 AM] Selenium_Wrapper.enterText:(311) - Entering Text :automation_testing in WebElement :[[ChromeDriver: chrome on WINDOWS (fd9e68da094a2b6aca750e483fa92273)] -> id: username]
+[INFO ][24-Feb-2023 09:49:09 AM] Selenium_Wrapper.enterText:(311) - Entering Text :Welcome123 in WebElement :[[ChromeDriver: chrome on WINDOWS (fd9e68da094a2b6aca750e483fa92273)] -> id: password]
+[INFO ][24-Feb-2023 09:49:51 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (fd9e68da094a2b6aca750e483fa92273)] -> id: loginbutton]
+[INFO ][24-Feb-2023 09:50:03 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (fd9e68da094a2b6aca750e483fa92273)] -> id: navigationSetBtn]
+[INFO ][24-Feb-2023 09:50:08 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (fd9e68da094a2b6aca750e483fa92273)] -> xpath: //div[@automationid='Analytics']]
+[INFO ][24-Feb-2023 09:50:21 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (fd9e68da094a2b6aca750e483fa92273)] -> xpath: //div[@automationid='Analytics_Reports Explorer']//span[text()='Reports Explorer']]
+[INFO ][24-Feb-2023 09:50:36 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (fd9e68da094a2b6aca750e483fa92273)] -> xpath: //div[@aria-label='Public Reports'][text()='Public Reports']]
+[INFO ][24-Feb-2023 09:50:41 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (fd9e68da094a2b6aca750e483fa92273)] -> xpath: //div[@aria-label='MACU CUSTOM REPORTS'][text()='MACU CUSTOM REPORTS']]
+[INFO ][24-Feb-2023 09:50:47 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (fd9e68da094a2b6aca750e483fa92273)] -> xpath: //div[@aria-label='SoftClouds'][text()='SoftClouds']]
+[INFO ][24-Feb-2023 09:50:52 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (fd9e68da094a2b6aca750e483fa92273)] -> xpath: //div[@aria-label='OKCS'][text()='OKCS'][contains(@id,'ExplorerFolderLabelAnalyticsFolder103223')]]
+[INFO ][24-Feb-2023 09:51:21 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (fd9e68da094a2b6aca750e483fa92273)] -> xpath: //oj-input-text[@automationid='Email']//input]
+[INFO ][24-Feb-2023 09:51:22 AM] Selenium_Wrapper.enterText:(311) - Entering Text :Pramodk@softclouds.com in WebElement :[[ChromeDriver: chrome on WINDOWS (fd9e68da094a2b6aca750e483fa92273)] -> xpath: //oj-input-text[@automationid='Email']//input]
+[INFO ][24-Feb-2023 09:51:30 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (fd9e68da094a2b6aca750e483fa92273)] -> xpath: //div[contains(@class,'filterRegionMargin')]//button//span[text()='Search']]
+[ERROR][24-Feb-2023 09:51:44 AM] Selenium_Wrapper.highlightWebElement:(417) - org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=110.0.5481.177)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'QA-SWAMYK', ip: '192.168.0.4', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 110.0.5481.177, chrome: {chromedriverVersion: 110.0.5481.77 (65ed616c6e8e..., userDataDir: C:\Users\SWAMYK~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:64544}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: fd9e68da094a2b6aca750e483fa92273
+[INFO ][24-Feb-2023 09:51:54 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (fd9e68da094a2b6aca750e483fa92273)] -> xpath: (//div[@class='primary-tab-header']//ul//li)[2]//span//a//i]
+[INFO ][24-Feb-2023 09:52:04 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (fd9e68da094a2b6aca750e483fa92273)] -> xpath: //a[@class='closeButton']]
+[INFO ][24-Feb-2023 09:52:12 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (fd9e68da094a2b6aca750e483fa92273)] -> xpath: //body//oj-avatar[@initials='[[userMenuLabel]]']]
+[INFO ][24-Feb-2023 09:52:19 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (fd9e68da094a2b6aca750e483fa92273)] -> xpath: //a//span[text()='Sign Out']]
+[INFO ][24-Feb-2023 09:52:25 AM] Selenium_Wrapper.closeCurrentBrowser:(651) - Closing the current Browser

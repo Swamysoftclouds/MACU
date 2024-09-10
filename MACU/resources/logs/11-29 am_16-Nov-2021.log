@@ -1,0 +1,36 @@
+[INFO ][16-Nov-2021 11:29:58 am] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][16-Nov-2021 11:30:06 am] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--tst.custhelp.com/app/home
+[INFO ][16-Nov-2021 11:30:10 am] Selenium_Wrapper.enterText:(311) - Entering Text :pramodk in WebElement :[[ChromeDriver: chrome on WINDOWS (a8e23900ec20f9f789f305acfb77dcb9)] -> id: rn_LoginForm_2_Username]
+[INFO ][16-Nov-2021 11:30:12 am] Selenium_Wrapper.enterText:(311) - Entering Text :Soft@123 in WebElement :[[ChromeDriver: chrome on WINDOWS (a8e23900ec20f9f789f305acfb77dcb9)] -> id: rn_LoginForm_2_Password]
+[INFO ][16-Nov-2021 11:30:19 am] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (a8e23900ec20f9f789f305acfb77dcb9)] -> id: rn_LoginForm_2_Submit]
+[INFO ][16-Nov-2021 11:30:28 am] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (a8e23900ec20f9f789f305acfb77dcb9)] -> xpath: //input[@type='search']]
+[INFO ][16-Nov-2021 11:30:30 am] Selenium_Wrapper.enterText:(311) - Entering Text :Auto Loan in WebElement :[[ChromeDriver: chrome on WINDOWS (a8e23900ec20f9f789f305acfb77dcb9)] -> xpath: //input[@type='search']]
+[INFO ][16-Nov-2021 11:30:43 am] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (a8e23900ec20f9f789f305acfb77dcb9)] -> xpath: //ul[@aria-label='Suggested Search']//li[normalize-space()= 'Auto Loan' ]]
+[INFO ][16-Nov-2021 11:30:50 am] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (a8e23900ec20f9f789f305acfb77dcb9)] -> xpath: //div[@class='rn_SearchResultContent']//a[text()='Auto Loan']]
+[INFO ][16-Nov-2021 11:31:04 am] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (a8e23900ec20f9f789f305acfb77dcb9)] -> xpath: //a[@class='add_bookmarkButton']//img[@class='bookmark_icon_blank']]
+[ERROR][16-Nov-2021 11:31:12 am] ArticlePage.testShareEmail:(74) - Share Email Test case is un-successfull
+[ERROR][16-Nov-2021 11:33:00 am] Selenium_Wrapper.getWebElement:(124) - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of [[ChromeDriver: chrome on WINDOWS (a8e23900ec20f9f789f305acfb77dcb9)] -> xpath: //input[@type='search']] (tried for 100 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-N43657M', ip: '192.168.29.58', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 95.0.4638.69, chrome: {chromedriverVersion: 95.0.4638.17 (a9d0719444d4b..., userDataDir: C:\Users\Pramod\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:53330}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: a8e23900ec20f9f789f305acfb77dcb9
+[ERROR][16-Nov-2021 11:33:00 am] ArticlePage.testSearchArticle:(92) - Search Existing Article Test case is un-successfull
+[ERROR][16-Nov-2021 11:33:08 am] Selenium_Wrapper.highlightWebElement:(417) - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//a[@class='add_bookmarkButton']//img[@class='bookmark_icon_blank']"}
+  (Session info: chrome=95.0.4638.69)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-N43657M', ip: '192.168.29.58', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 95.0.4638.69, chrome: {chromedriverVersion: 95.0.4638.17 (a9d0719444d4b..., userDataDir: C:\Users\Pramod\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:53330}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: a8e23900ec20f9f789f305acfb77dcb9
+*** Element info: {Using=xpath, value=//a[@class='add_bookmarkButton']//img[@class='bookmark_icon_blank']}
+[ERROR][16-Nov-2021 11:33:22 am] Selenium_Wrapper.highlightWebElement:(417) - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='rn_SchemaAttributeValue']//div[@class='compliance-content-box']"}
+  (Session info: chrome=95.0.4638.69)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-N43657M', ip: '192.168.29.58', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 95.0.4638.69, chrome: {chromedriverVersion: 95.0.4638.17 (a9d0719444d4b..., userDataDir: C:\Users\Pramod\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:53330}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: a8e23900ec20f9f789f305acfb77dcb9
+*** Element info: {Using=xpath, value=//div[@class='rn_SchemaAttributeValue']//div[@class='compliance-content-box']}

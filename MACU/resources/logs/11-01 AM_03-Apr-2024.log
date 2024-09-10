@@ -1,0 +1,38 @@
+[INFO ][03-Apr-2024 11:01:34 AM] Selenium_Wrapper.openBrowser:(54) - Opening chrome browser.
+[INFO ][03-Apr-2024 11:01:41 AM] Selenium_Wrapper.enterURL:(88) - Entering url :https://macu1--tst1.custhelp.com/app/home
+[ERROR][03-Apr-2024 11:01:45 AM] MACU_Wrapper.signIntoCP:(23) - Error in the signin process
+[ERROR][03-Apr-2024 11:01:49 AM] AnswerVotingFeedbackReport.testSearchanArticle:(34) - Search an Article in CP is un-successfull
+[ERROR][03-Apr-2024 11:01:49 AM] Selenium_Wrapper.scrollToWebElement:(493) - org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=123.0.6312.86)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SC-CAF-IN-CND84', ip: '172.26.9.210', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 123.0.6312.86, chrome: {chromedriverVersion: 123.0.6312.58 (6b4b19e9dfbb..., userDataDir: C:\Users\SWAMYK~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64089}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f9c6027d42048a5b6188741fa0697ba4
+*** Element info: {Using=xpath, value=//div[@class='rn_SearchInput']//input[@type='search']}
+[ERROR][03-Apr-2024 11:01:49 AM] AnswerVotingFeedbackReport.testFeedbackPage:(57) - Thumbs Up & Down Test is un-successfull
+[ERROR][03-Apr-2024 11:01:54 AM] AnswerVotingFeedbackReport.testMyFeedbackStatus:(92) - My Feedback Article Status in CP Test is un-successfull
+[INFO ][03-Apr-2024 11:01:56 AM] Selenium_Wrapper.openBrowser:(54) - Opening chrome browser.
+[ERROR][03-Apr-2024 11:02:05 AM] MACU_Wrapper.signIntoBUI:(37) - Error in the loginin process
+[ERROR][03-Apr-2024 11:02:52 AM] AnswerVotingFeedbackReport.testNavigateToAnwserVotingFeedBackReportlow:(120) - Navigate To Anwser Voting FeedBackReport testing un-successfull
+[ERROR][03-Apr-2024 11:02:55 AM] Selenium_Wrapper.highlightWebElement:(423) - org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=123.0.6312.86)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SC-CAF-IN-CND84', ip: '172.26.9.210', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 123.0.6312.86, chrome: {chromedriverVersion: 123.0.6312.58 (6b4b19e9dfbb..., userDataDir: C:\Users\SWAMYK~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64140}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 7a2dbb97bafce7279c3721999c89e075
+*** Element info: {Using=xpath, value=//div[@class='explorer-right-panel']//div[@class='explorer-data-grid']//span[text()='Feedback Admin Report (old)']}
+[ERROR][03-Apr-2024 11:02:55 AM] Selenium_Wrapper.doubleClick:(279) - org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=123.0.6312.86)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SC-CAF-IN-CND84', ip: '172.26.9.210', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 123.0.6312.86, chrome: {chromedriverVersion: 123.0.6312.58 (6b4b19e9dfbb..., userDataDir: C:\Users\SWAMYK~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64140}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 7a2dbb97bafce7279c3721999c89e075
+*** Element info: {Using=xpath, value=//div[@class='explorer-right-panel']//div[@class='explorer-data-grid']//span[text()='Feedback Admin Report (old)']}
+[ERROR][03-Apr-2024 11:02:55 AM] AnswerVotingFeedbackReport.testSelectingandGivingAnswerstoReportFlow:(172) - Selecting and Giving Asnwers to Report  un-successfull
+[ERROR][03-Apr-2024 11:03:00 AM] AnswerVotingFeedbackReport.testSignout:(187) - Logout/SignOut un-successfull

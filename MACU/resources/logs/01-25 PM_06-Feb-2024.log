@@ -1,0 +1,37 @@
+[INFO ][06-Feb-2024 13:25:37 PM] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][06-Feb-2024 13:25:45 PM] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--tst1.custhelp.com/app/home
+[INFO ][06-Feb-2024 13:25:49 PM] Selenium_Wrapper.enterText:(311) - Entering Text :swamyk in WebElement :[[ChromeDriver: chrome on WINDOWS (05cc0ad67b39036cc84b3ce5ab4e1ebe)] -> id: rn_LoginForm_2_Username]
+[INFO ][06-Feb-2024 13:25:50 PM] Selenium_Wrapper.enterText:(311) - Entering Text :Soft@123 in WebElement :[[ChromeDriver: chrome on WINDOWS (05cc0ad67b39036cc84b3ce5ab4e1ebe)] -> id: rn_LoginForm_2_Password]
+[INFO ][06-Feb-2024 13:25:58 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (05cc0ad67b39036cc84b3ce5ab4e1ebe)] -> id: rn_LoginForm_2_Submit]
+[INFO ][06-Feb-2024 13:26:07 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (05cc0ad67b39036cc84b3ce5ab4e1ebe)] -> xpath: //div[@class='dropdown']]
+[INFO ][06-Feb-2024 13:26:19 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (05cc0ad67b39036cc84b3ce5ab4e1ebe)] -> xpath: //input[@type='search']]
+[INFO ][06-Feb-2024 13:26:20 PM] Selenium_Wrapper.enterText:(311) - Entering Text :Business Auto Loan - ALPS 1.0 in WebElement :[[ChromeDriver: chrome on WINDOWS (05cc0ad67b39036cc84b3ce5ab4e1ebe)] -> xpath: //input[@type='search']]
+[ERROR][06-Feb-2024 13:28:12 PM] Selenium_Wrapper.getWebElement:(124) - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of [[ChromeDriver: chrome on WINDOWS (05cc0ad67b39036cc84b3ce5ab4e1ebe)] -> xpath: (//div[@class='yui3-aclist-content']//li//li)[1]] (tried for 100 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'CAF-QA-SWAMYK', ip: '192.168.0.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.140, chrome: {chromedriverVersion: 121.0.6167.85 (3f98d690ad7e..., userDataDir: C:\Users\swamyk\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64033}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 05cc0ad67b39036cc84b3ce5ab4e1ebe
+[ERROR][06-Feb-2024 13:28:12 PM] QuickNavigation.testBookmarkArticle:(81) - Bookmark Article Test is un-successfull
+[ERROR][06-Feb-2024 13:28:12 PM] QuickNavigation.testVerifyBookmarkArticle:(148) - Verify Bookmark Article and Highlight in List Test is un-successfull
+[INFO ][06-Feb-2024 13:28:28 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (05cc0ad67b39036cc84b3ce5ab4e1ebe)] -> class name: knowledge]
+[INFO ][06-Feb-2024 13:28:36 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (05cc0ad67b39036cc84b3ce5ab4e1ebe)] -> xpath: //div[@class='dropdown']]
+[INFO ][06-Feb-2024 13:28:51 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (05cc0ad67b39036cc84b3ce5ab4e1ebe)] -> xpath: //div[@class='dropdown-content']//a[normalize-space()='My Bookmarks']]
+[ERROR][06-Feb-2024 13:28:54 PM] Selenium_Wrapper.highlightWebElement:(417) - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='rn_NotificationList']//a[normalize-space()='Business Auto Loan - ALPS 1.0']"}
+  (Session info: chrome=121.0.6167.140)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'CAF-QA-SWAMYK', ip: '192.168.0.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.140, chrome: {chromedriverVersion: 121.0.6167.85 (3f98d690ad7e..., userDataDir: C:\Users\swamyk\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64033}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 05cc0ad67b39036cc84b3ce5ab4e1ebe
+*** Element info: {Using=xpath, value=//div[@class='rn_NotificationList']//a[normalize-space()='Business Auto Loan - ALPS 1.0']}
+[INFO ][06-Feb-2024 13:29:05 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (05cc0ad67b39036cc84b3ce5ab4e1ebe)] -> xpath: //select[@class='BookmarkFilter']]
+[INFO ][06-Feb-2024 13:29:16 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (05cc0ad67b39036cc84b3ce5ab4e1ebe)] -> xpath: //select[@class='BookmarkFilter']//option[text()='Alphabetical A-Z']]
+[INFO ][06-Feb-2024 13:29:33 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (05cc0ad67b39036cc84b3ce5ab4e1ebe)] -> class name: knowledge]
+[INFO ][06-Feb-2024 13:29:40 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (05cc0ad67b39036cc84b3ce5ab4e1ebe)] -> xpath: //div[@class='dropdown']]
+[INFO ][06-Feb-2024 13:29:48 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (05cc0ad67b39036cc84b3ce5ab4e1ebe)] -> xpath: //div[@class='dropdown-content']//a[normalize-space()='My Notifications']]
+[INFO ][06-Feb-2024 13:29:56 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (05cc0ad67b39036cc84b3ce5ab4e1ebe)] -> xpath: //a[text()='browse all PAGES']]
+[INFO ][06-Feb-2024 13:30:14 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (05cc0ad67b39036cc84b3ce5ab4e1ebe)] -> xpath: //a[text()='VIEW A-Z INDEX']]
+[INFO ][06-Feb-2024 13:30:30 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (05cc0ad67b39036cc84b3ce5ab4e1ebe)] -> class name: knowledge]
+[INFO ][06-Feb-2024 13:30:33 PM] Selenium_Wrapper.closeCurrentBrowser:(651) - Closing the current Browser

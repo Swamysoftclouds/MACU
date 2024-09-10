@@ -1,0 +1,15 @@
+[INFO ][16-Nov-2021 16:36:08 pm] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][16-Nov-2021 16:36:15 pm] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--tst.custhelp.com/app/home
+[INFO ][16-Nov-2021 16:36:19 pm] Selenium_Wrapper.enterText:(311) - Entering Text :pramodk in WebElement :[[ChromeDriver: chrome on WINDOWS (d03e968b0c28e0ccc7bb2fd8e96bf354)] -> id: rn_LoginForm_2_Username]
+[INFO ][16-Nov-2021 16:36:20 pm] Selenium_Wrapper.enterText:(311) - Entering Text :Soft@123 in WebElement :[[ChromeDriver: chrome on WINDOWS (d03e968b0c28e0ccc7bb2fd8e96bf354)] -> id: rn_LoginForm_2_Password]
+[INFO ][16-Nov-2021 16:36:27 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (d03e968b0c28e0ccc7bb2fd8e96bf354)] -> id: rn_LoginForm_2_Submit]
+[INFO ][16-Nov-2021 16:36:36 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (d03e968b0c28e0ccc7bb2fd8e96bf354)] -> xpath: //input[@type='search']]
+[INFO ][16-Nov-2021 16:36:38 pm] Selenium_Wrapper.enterText:(311) - Entering Text :Auto Loan in WebElement :[[ChromeDriver: chrome on WINDOWS (d03e968b0c28e0ccc7bb2fd8e96bf354)] -> xpath: //input[@type='search']]
+[INFO ][16-Nov-2021 16:36:52 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (d03e968b0c28e0ccc7bb2fd8e96bf354)] -> xpath: //ul[@aria-label='Suggested Search']//li[normalize-space()= 'Auto Loan' ]]
+[INFO ][16-Nov-2021 16:37:00 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (d03e968b0c28e0ccc7bb2fd8e96bf354)] -> xpath: //div[@class='rn_SearchResultContent']//a[text()='Auto Loan']]
+[INFO ][16-Nov-2021 16:37:15 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (d03e968b0c28e0ccc7bb2fd8e96bf354)] -> xpath: //div[contains(@class,'EmailAnswerLink')]//img[@class='share_icon_default']]
+[INFO ][16-Nov-2021 16:37:20 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (d03e968b0c28e0ccc7bb2fd8e96bf354)] -> xpath: //div[@id='rnDialog1']//input[@class='select2-search__field']]
+[INFO ][16-Nov-2021 16:37:21 pm] Selenium_Wrapper.enterText:(311) - Entering Text :Aaron Brown in WebElement :[[ChromeDriver: chrome on WINDOWS (d03e968b0c28e0ccc7bb2fd8e96bf354)] -> xpath: //div[@id='rnDialog1']//input[@class='select2-search__field']]
+[INFO ][16-Nov-2021 16:37:29 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (d03e968b0c28e0ccc7bb2fd8e96bf354)] -> xpath: //ul[@class='select2-results__options']//li[text()='Aaron Brown']]
+[INFO ][16-Nov-2021 16:37:35 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (d03e968b0c28e0ccc7bb2fd8e96bf354)] -> xpath: //button[@class='yui3-button yui3-button-close']]
+[INFO ][16-Nov-2021 16:37:48 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (d03e968b0c28e0ccc7bb2fd8e96bf354)] -> xpath: //div[@id='formsResources_panel']//div[@id='formsResources_headingOne']]

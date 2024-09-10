@@ -1,0 +1,10 @@
+[INFO ][03-Sep-2022 20:51:52 PM] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][03-Sep-2022 20:51:55 PM] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--upgrade.custhelp.com/AgentWeb/
+[INFO ][03-Sep-2022 20:51:59 PM] Selenium_Wrapper.enterText:(311) - Entering Text :RNT_pramod in WebElement :[[ChromeDriver: chrome on WINDOWS (5135db1d023d4ee027795bdec841087f)] -> id: username]
+[INFO ][03-Sep-2022 20:52:00 PM] Selenium_Wrapper.enterText:(311) - Entering Text :Welcome123 in WebElement :[[ChromeDriver: chrome on WINDOWS (5135db1d023d4ee027795bdec841087f)] -> id: password]
+[INFO ][03-Sep-2022 20:52:19 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (5135db1d023d4ee027795bdec841087f)] -> id: loginbutton]
+[ERROR][03-Sep-2022 20:52:32 PM] ContactView.testNavigateToContacts:(34) - Navigate To Contact Test is un-successfull
+[ERROR][03-Sep-2022 20:52:33 PM] ContactView.testContactView:(55) - Contact View Test is un-successfull
+[INFO ][03-Sep-2022 20:52:41 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (5135db1d023d4ee027795bdec841087f)] -> xpath: //body//oj-avatar[@initials='[[userMenuLabel]]']]
+[INFO ][03-Sep-2022 20:52:48 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (5135db1d023d4ee027795bdec841087f)] -> xpath: //a//span[text()='Sign Out']]
+[ERROR][03-Sep-2022 20:52:55 PM] ContactView.testSignout:(72) - Logout/SignOut un-successfull

@@ -1,0 +1,16 @@
+[INFO ][03-Sep-2022 20:53:13 PM] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][03-Sep-2022 20:53:16 PM] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--upgrade.custhelp.com/AgentWeb/
+[INFO ][03-Sep-2022 20:53:21 PM] Selenium_Wrapper.enterText:(311) - Entering Text :RNT_pramod in WebElement :[[ChromeDriver: chrome on WINDOWS (ad47a64f47213a6fc5481bd9859c6b42)] -> id: username]
+[INFO ][03-Sep-2022 20:53:22 PM] Selenium_Wrapper.enterText:(311) - Entering Text :Welcome123 in WebElement :[[ChromeDriver: chrome on WINDOWS (ad47a64f47213a6fc5481bd9859c6b42)] -> id: password]
+[INFO ][03-Sep-2022 20:53:51 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (ad47a64f47213a6fc5481bd9859c6b42)] -> id: loginbutton]
+[INFO ][03-Sep-2022 20:54:03 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (ad47a64f47213a6fc5481bd9859c6b42)] -> id: navigationSetBtn]
+[INFO ][03-Sep-2022 20:54:08 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (ad47a64f47213a6fc5481bd9859c6b42)] -> xpath: (//div[text()='Contacts']//a)]
+[INFO ][03-Sep-2022 20:54:13 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (ad47a64f47213a6fc5481bd9859c6b42)] -> xpath: (//span[text()='Contacts'])[2]]
+[INFO ][03-Sep-2022 20:54:21 PM] Selenium_Wrapper.enterText:(311) - Entering Text :pramodk in WebElement :[[ChromeDriver: chrome on WINDOWS (ad47a64f47213a6fc5481bd9859c6b42)] -> xpath: (//label[text()='Login']//following::input)[1]]
+[INFO ][03-Sep-2022 20:54:26 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (ad47a64f47213a6fc5481bd9859c6b42)] -> xpath: //span[text()='Search']]
+[INFO ][03-Sep-2022 20:54:41 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (ad47a64f47213a6fc5481bd9859c6b42)] -> xpath: //span[text()='Summary']]
+[INFO ][03-Sep-2022 20:54:52 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (ad47a64f47213a6fc5481bd9859c6b42)] -> xpath: (//div[@class='primary-tab-header']//ul//li)[2]//span//a//i]
+[INFO ][03-Sep-2022 20:55:00 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (ad47a64f47213a6fc5481bd9859c6b42)] -> xpath: //a[@class='closeButton']]
+[INFO ][03-Sep-2022 20:55:08 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (ad47a64f47213a6fc5481bd9859c6b42)] -> xpath: //body//oj-avatar[@initials='[[userMenuLabel]]']]
+[INFO ][03-Sep-2022 20:55:15 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (ad47a64f47213a6fc5481bd9859c6b42)] -> xpath: //a//span[text()='Sign Out']]
+[INFO ][03-Sep-2022 20:55:20 PM] Selenium_Wrapper.closeCurrentBrowser:(651) - Closing the current Browser

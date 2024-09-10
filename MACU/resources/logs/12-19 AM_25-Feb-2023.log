@@ -1,0 +1,15 @@
+[INFO ][25-Feb-2023 00:20:00 AM] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][25-Feb-2023 00:20:07 AM] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--upgrade.custhelp.com/
+[INFO ][25-Feb-2023 00:20:11 AM] Selenium_Wrapper.enterText:(311) - Entering Text :automation_testing in WebElement :[[ChromeDriver: chrome on WINDOWS (12a243655509a335c8f4110d26ec15fd)] -> id: rn_LoginForm_2_Username]
+[INFO ][25-Feb-2023 00:20:13 AM] Selenium_Wrapper.enterText:(311) - Entering Text :Soft@123 in WebElement :[[ChromeDriver: chrome on WINDOWS (12a243655509a335c8f4110d26ec15fd)] -> id: rn_LoginForm_2_Password]
+[INFO ][25-Feb-2023 00:20:20 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (12a243655509a335c8f4110d26ec15fd)] -> id: rn_LoginForm_2_Submit]
+[INFO ][25-Feb-2023 00:20:30 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (12a243655509a335c8f4110d26ec15fd)] -> xpath: //input[@type='search']]
+[INFO ][25-Feb-2023 00:20:31 AM] Selenium_Wrapper.enterText:(311) - Entering Text :Business Auto Loan in WebElement :[[ChromeDriver: chrome on WINDOWS (12a243655509a335c8f4110d26ec15fd)] -> xpath: //input[@type='search']]
+[INFO ][25-Feb-2023 00:20:46 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (12a243655509a335c8f4110d26ec15fd)] -> xpath: //ul[@aria-label='Suggested Search']//li[normalize-space()= 'Business Auto Loan' ]]
+[INFO ][25-Feb-2023 00:20:53 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (12a243655509a335c8f4110d26ec15fd)] -> xpath: //div[@class='rn_SearchResultContent']//a[text()='Business Auto Loan']]
+[INFO ][25-Feb-2023 00:21:13 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (12a243655509a335c8f4110d26ec15fd)] -> xpath: //div[@class='main_image_div']//div[@class='thumbs_up_down'][2]]
+[INFO ][25-Feb-2023 00:21:24 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (12a243655509a335c8f4110d26ec15fd)] -> id: rn_AnswerRating_3_22_FeedbackMessage]
+[INFO ][25-Feb-2023 00:21:25 AM] Selenium_Wrapper.enterText:(311) - Entering Text :Flexible Work - ThumbDown Comments in WebElement :[[ChromeDriver: chrome on WINDOWS (12a243655509a335c8f4110d26ec15fd)] -> id: rn_AnswerRating_3_22_FeedbackMessage]
+[ERROR][25-Feb-2023 00:21:30 AM] ThumbsDownFeedBack.testFeedbackPage:(71) - Request Updates, Comments, Thumbs Up & Down Test is un-successfull
+[ERROR][25-Feb-2023 00:21:40 AM] ThumbsDownFeedBack.testMyFeedbackStatus:(106) - My Feedback Article Status in CP Test is un-successfull
+[INFO ][25-Feb-2023 00:21:41 AM] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.

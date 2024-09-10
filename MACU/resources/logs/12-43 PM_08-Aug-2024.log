@@ -1,0 +1,38 @@
+[INFO ][08-Aug-2024 12:43:47 PM] Selenium_Wrapper.openBrowser:(54) - Opening chrome browser.
+[INFO ][08-Aug-2024 12:43:53 PM] Selenium_Wrapper.enterURL:(88) - Entering url :https://macu1--tst1.custhelp.com/AgentWeb/
+[INFO ][08-Aug-2024 12:43:57 PM] Selenium_Wrapper.enterText:(317) - Entering Text :automation_testing in WebElement :[[ChromeDriver: chrome on WINDOWS (f16f4599dcbd291ad42381a89b1cd1df)] -> id: username]
+[INFO ][08-Aug-2024 12:43:58 PM] Selenium_Wrapper.enterText:(317) - Entering Text :Welcome123 in WebElement :[[ChromeDriver: chrome on WINDOWS (f16f4599dcbd291ad42381a89b1cd1df)] -> id: password]
+[INFO ][08-Aug-2024 12:44:27 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (f16f4599dcbd291ad42381a89b1cd1df)] -> id: loginbutton]
+[INFO ][08-Aug-2024 12:45:08 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (f16f4599dcbd291ad42381a89b1cd1df)] -> xpath: //oj-button[@id='navigationSetBtn']]
+[INFO ][08-Aug-2024 12:45:14 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (f16f4599dcbd291ad42381a89b1cd1df)] -> xpath: //div[text()='Analytics']]
+[INFO ][08-Aug-2024 12:45:17 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (f16f4599dcbd291ad42381a89b1cd1df)] -> xpath: //span[text()='Reports Explorer']]
+[INFO ][08-Aug-2024 12:45:23 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (f16f4599dcbd291ad42381a89b1cd1df)] -> xpath: //div[text()='Public Reports']]
+[INFO ][08-Aug-2024 12:45:25 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (f16f4599dcbd291ad42381a89b1cd1df)] -> xpath: //div[text()='MACU CUSTOM REPORTS']]
+[INFO ][08-Aug-2024 12:45:27 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (f16f4599dcbd291ad42381a89b1cd1df)] -> xpath: //div[text()='SoftClouds']]
+[INFO ][08-Aug-2024 12:45:30 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (f16f4599dcbd291ad42381a89b1cd1df)] -> xpath: //div[text()='OKCS']]
+[INFO ][08-Aug-2024 12:45:38 PM] Selenium_Wrapper.doubleClick:(286) - Double clicking on :[[ChromeDriver: chrome on WINDOWS (f16f4599dcbd291ad42381a89b1cd1df)] -> xpath: //div[@class='explorer-right-panel']//div[@class='explorer-data-grid']//span[text()='Feedback Admin Report']]
+[INFO ][08-Aug-2024 12:45:49 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (f16f4599dcbd291ad42381a89b1cd1df)] -> xpath: //div[@class='container wsx-flex']//div[@class='analyticsTopSection']//div[@class='select-box-root select-box-display-text-active']]
+[INFO ][08-Aug-2024 12:46:07 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (f16f4599dcbd291ad42381a89b1cd1df)] -> xpath: (//span[text()='Search'])[2]]
+[INFO ][08-Aug-2024 12:46:16 PM] Selenium_Wrapper.doubleClick:(286) - Double clicking on :[[ChromeDriver: chrome on WINDOWS (f16f4599dcbd291ad42381a89b1cd1df)] -> xpath: //div[@class='container wsx-flex']//div[contains(@column-id,'2')][1]]
+[ERROR][08-Aug-2024 12:46:21 PM] Selenium_Wrapper.highlightWebElement:(423) - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='textbox analyticsInlineEdit']/oj-input-text[@automationid='Incident.Subject']//input"}
+  (Session info: chrome=127.0.6533.90)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SC-CAF-CND84305', ip: '192.168.1.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 127.0.6533.90, chrome: {chromedriverVersion: 127.0.6533.72 (9755e24ca85a..., userDataDir: C:\Users\SWAMYK~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60009}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f16f4599dcbd291ad42381a89b1cd1df
+*** Element info: {Using=xpath, value=//div[@class='textbox analyticsInlineEdit']/oj-input-text[@automationid='Incident.Subject']//input}
+[INFO ][08-Aug-2024 12:46:23 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (f16f4599dcbd291ad42381a89b1cd1df)] -> xpath: //span[text()='Messages']]
+[INFO ][08-Aug-2024 12:46:25 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (f16f4599dcbd291ad42381a89b1cd1df)] -> xpath: //div[contains(@class,'cke_wysiwyg_div ')]]
+[INFO ][08-Aug-2024 12:46:27 PM] Selenium_Wrapper.enterText:(317) - Entering Text :It is working as per Expected in WebElement :[[ChromeDriver: chrome on WINDOWS (f16f4599dcbd291ad42381a89b1cd1df)] -> xpath: //div[contains(@class,'cke_wysiwyg_div ')]]
+[INFO ][08-Aug-2024 12:46:29 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (f16f4599dcbd291ad42381a89b1cd1df)] -> xpath: //div[@class='ws-toolbar-button-image bui-icon save-icon fa-lg']]
+[INFO ][08-Aug-2024 12:46:32 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (f16f4599dcbd291ad42381a89b1cd1df)] -> xpath: //span[text()='Summary']]
+[INFO ][08-Aug-2024 12:46:39 PM] Selenium_Wrapper.clickUsingActions:(255) - Clicking on :[[ChromeDriver: chrome on WINDOWS (f16f4599dcbd291ad42381a89b1cd1df)] -> xpath: //div[contains(@id,'Incident_Status')][@class='display-text']]
+[INFO ][08-Aug-2024 12:46:43 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (f16f4599dcbd291ad42381a89b1cd1df)] -> xpath: (//div[@title='Solved'])[1]]
+[INFO ][08-Aug-2024 12:46:46 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (f16f4599dcbd291ad42381a89b1cd1df)] -> xpath: //div[@class='ws-toolbar-button-image bui-icon save-icon fa-lg']]
+[INFO ][08-Aug-2024 12:46:50 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (f16f4599dcbd291ad42381a89b1cd1df)] -> xpath: (//a[@class='closeButton'])[3]]
+[INFO ][08-Aug-2024 12:46:54 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (f16f4599dcbd291ad42381a89b1cd1df)] -> xpath: (//a[@class='closeButton'])[2]]
+[INFO ][08-Aug-2024 12:46:57 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (f16f4599dcbd291ad42381a89b1cd1df)] -> xpath: (//a[@class='closeButton'])[1]]
+[INFO ][08-Aug-2024 12:47:00 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (f16f4599dcbd291ad42381a89b1cd1df)] -> xpath: //body//oj-avatar[@initials='[[userMenuLabel]]']]
+[INFO ][08-Aug-2024 12:47:04 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (f16f4599dcbd291ad42381a89b1cd1df)] -> xpath: //a//span[text()='Sign Out']]

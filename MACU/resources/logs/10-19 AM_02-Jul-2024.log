@@ -1,0 +1,14 @@
+[INFO ][02-Jul-2024 10:19:47 AM] Selenium_Wrapper.openBrowser:(54) - Opening chrome browser.
+[INFO ][02-Jul-2024 10:19:53 AM] Selenium_Wrapper.enterURL:(88) - Entering url :https://macu1--tst1.custhelp.com/AgentWeb/
+[INFO ][02-Jul-2024 10:19:57 AM] Selenium_Wrapper.enterText:(317) - Entering Text :automation_testing in WebElement :[[ChromeDriver: chrome on WINDOWS (b1f4dea753c8efea0389cb18d63760ce)] -> id: username]
+[INFO ][02-Jul-2024 10:19:58 AM] Selenium_Wrapper.enterText:(317) - Entering Text :Welcome123 in WebElement :[[ChromeDriver: chrome on WINDOWS (b1f4dea753c8efea0389cb18d63760ce)] -> id: password]
+[INFO ][02-Jul-2024 10:20:06 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (b1f4dea753c8efea0389cb18d63760ce)] -> id: loginbutton]
+[INFO ][02-Jul-2024 10:20:24 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (b1f4dea753c8efea0389cb18d63760ce)] -> id: navigationSetBtn]
+[INFO ][02-Jul-2024 10:20:26 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (b1f4dea753c8efea0389cb18d63760ce)] -> xpath: //div[text()='Contacts']]
+[INFO ][02-Jul-2024 10:20:28 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (b1f4dea753c8efea0389cb18d63760ce)] -> xpath: (//span[text()='Contacts'])[2]]
+[INFO ][02-Jul-2024 10:20:35 AM] Selenium_Wrapper.enterText:(317) - Entering Text :V1002 in WebElement :[[ChromeDriver: chrome on WINDOWS (b1f4dea753c8efea0389cb18d63760ce)] -> xpath: (//label[text()='Login']//following::input)[1]]
+[INFO ][02-Jul-2024 10:20:37 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (b1f4dea753c8efea0389cb18d63760ce)] -> xpath: //span[text()='Search']]
+[ERROR][02-Jul-2024 10:20:38 AM] ContactView.testContactView:(62) - Contact View Test is un-successfull
+[INFO ][02-Jul-2024 10:20:42 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (b1f4dea753c8efea0389cb18d63760ce)] -> xpath: //body//oj-avatar[@initials='[[userMenuLabel]]']]
+[INFO ][02-Jul-2024 10:20:45 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (b1f4dea753c8efea0389cb18d63760ce)] -> xpath: //a//span[text()='Sign Out']]
+[INFO ][02-Jul-2024 10:20:46 AM] Selenium_Wrapper.closeCurrentBrowser:(657) - Closing the current Browser

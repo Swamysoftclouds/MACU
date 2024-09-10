@@ -1,0 +1,23 @@
+[INFO ][04-Jan-2024 13:52:49 PM] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][04-Jan-2024 13:52:54 PM] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--tst1.custhelp.com/app/home
+[INFO ][04-Jan-2024 13:52:59 PM] Selenium_Wrapper.enterText:(311) - Entering Text :swamyk in WebElement :[[ChromeDriver: chrome on WINDOWS (9d23a8989e2663dc76b8950c0c3e2d64)] -> id: rn_LoginForm_2_Username]
+[INFO ][04-Jan-2024 13:53:00 PM] Selenium_Wrapper.enterText:(311) - Entering Text :Soft@123 in WebElement :[[ChromeDriver: chrome on WINDOWS (9d23a8989e2663dc76b8950c0c3e2d64)] -> id: rn_LoginForm_2_Password]
+[INFO ][04-Jan-2024 13:53:07 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (9d23a8989e2663dc76b8950c0c3e2d64)] -> id: rn_LoginForm_2_Submit]
+[INFO ][04-Jan-2024 13:53:18 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (9d23a8989e2663dc76b8950c0c3e2d64)] -> xpath: //div[@class='dropdown']]
+[INFO ][04-Jan-2024 13:53:33 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (9d23a8989e2663dc76b8950c0c3e2d64)] -> xpath: //a[text()='My Activity']]
+[INFO ][04-Jan-2024 13:53:40 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (9d23a8989e2663dc76b8950c0c3e2d64)] -> xpath: //input[@type='search']]
+[INFO ][04-Jan-2024 13:53:42 PM] Selenium_Wrapper.enterText:(311) - Entering Text :Business Auto Loan - ALPS 1.0 in WebElement :[[ChromeDriver: chrome on WINDOWS (9d23a8989e2663dc76b8950c0c3e2d64)] -> xpath: //input[@type='search']]
+[INFO ][04-Jan-2024 13:53:55 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (9d23a8989e2663dc76b8950c0c3e2d64)] -> xpath: //ul[@aria-label='Suggested Search']/li[normalize-space()='Business Auto Loan - ALPS 1.0']]
+[INFO ][04-Jan-2024 13:54:06 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (9d23a8989e2663dc76b8950c0c3e2d64)] -> class name: knowledge]
+[INFO ][04-Jan-2024 13:54:13 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (9d23a8989e2663dc76b8950c0c3e2d64)] -> xpath: //div[@class='dropdown']]
+[INFO ][04-Jan-2024 13:54:22 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (9d23a8989e2663dc76b8950c0c3e2d64)] -> xpath: //a[text()='My Activity']]
+[INFO ][04-Jan-2024 13:54:32 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (9d23a8989e2663dc76b8950c0c3e2d64)] -> xpath: //a[text()='browse all PAGES']]
+[INFO ][04-Jan-2024 13:54:49 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (9d23a8989e2663dc76b8950c0c3e2d64)] -> xpath: //div[@class='dropdown']]
+[ERROR][04-Jan-2024 13:56:37 PM] Selenium_Wrapper.getWebElement:(124) - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of [[ChromeDriver: chrome on WINDOWS (9d23a8989e2663dc76b8950c0c3e2d64)] -> xpath: //a[text()='My Activity']] (tried for 100 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'CAF-QA-SWAMYK', ip: '172.26.9.192', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.199, chrome: {chromedriverVersion: 119.0.6045.105 (38c72552c5e..., userDataDir: C:\Users\swamyk\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60936}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 9d23a8989e2663dc76b8950c0c3e2d64
+[ERROR][04-Jan-2024 13:56:37 PM] MyActivity.testSearchPage:(60) - My Activity Page Test is un-successfull
+[INFO ][04-Jan-2024 13:56:40 PM] Selenium_Wrapper.closeCurrentBrowser:(651) - Closing the current Browser

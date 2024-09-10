@@ -1,0 +1,10 @@
+[INFO ][02-Jul-2024 10:18:19 AM] Selenium_Wrapper.openBrowser:(54) - Opening chrome browser.
+[INFO ][02-Jul-2024 10:18:25 AM] Selenium_Wrapper.enterURL:(88) - Entering url :https://macu1--tst1.custhelp.com/AgentWeb/
+[INFO ][02-Jul-2024 10:18:29 AM] Selenium_Wrapper.enterText:(317) - Entering Text :automation_testing in WebElement :[[ChromeDriver: chrome on WINDOWS (aa760feca31126bedef213ca9ab2ec2e)] -> id: username]
+[INFO ][02-Jul-2024 10:18:30 AM] Selenium_Wrapper.enterText:(317) - Entering Text :Welcome123 in WebElement :[[ChromeDriver: chrome on WINDOWS (aa760feca31126bedef213ca9ab2ec2e)] -> id: password]
+[INFO ][02-Jul-2024 10:18:39 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (aa760feca31126bedef213ca9ab2ec2e)] -> id: loginbutton]
+[ERROR][02-Jul-2024 10:18:51 AM] ContactView.testNavigateToContacts:(39) - Navigate To Contact Test is un-successfull
+[ERROR][02-Jul-2024 10:18:53 AM] ContactView.testContactView:(62) - Contact View Test is un-successfull
+[INFO ][02-Jul-2024 10:18:56 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (aa760feca31126bedef213ca9ab2ec2e)] -> xpath: //body//oj-avatar[@initials='[[userMenuLabel]]']]
+[INFO ][02-Jul-2024 10:18:59 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (aa760feca31126bedef213ca9ab2ec2e)] -> xpath: //a//span[text()='Sign Out']]
+[INFO ][02-Jul-2024 10:19:00 AM] Selenium_Wrapper.closeCurrentBrowser:(657) - Closing the current Browser

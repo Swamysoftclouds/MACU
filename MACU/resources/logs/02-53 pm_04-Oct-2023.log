@@ -1,0 +1,21 @@
+[INFO ][04-Oct-2023 14:53:10 pm] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][04-Oct-2023 14:53:15 pm] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--tst1.custhelp.com/app/home
+[INFO ][04-Oct-2023 14:53:19 pm] Selenium_Wrapper.enterText:(311) - Entering Text :swamyk in WebElement :[[ChromeDriver: chrome on WINDOWS (8c329e0edde0cb51d590035430fc7809)] -> id: rn_LoginForm_2_Username]
+[INFO ][04-Oct-2023 14:53:21 pm] Selenium_Wrapper.enterText:(311) - Entering Text :Soft@123 in WebElement :[[ChromeDriver: chrome on WINDOWS (8c329e0edde0cb51d590035430fc7809)] -> id: rn_LoginForm_2_Password]
+[INFO ][04-Oct-2023 14:53:28 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (8c329e0edde0cb51d590035430fc7809)] -> id: rn_LoginForm_2_Submit]
+[INFO ][04-Oct-2023 14:53:51 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (8c329e0edde0cb51d590035430fc7809)] -> xpath: //p[@class='search_text']//a[text()='browse all PAGES']]
+[ERROR][04-Oct-2023 14:54:17 pm] HomePage.testSearchPage:(47) - Home Page - Heres What You Need To Know Test is un-successfull
+[ERROR][04-Oct-2023 14:54:32 pm] Selenium_Wrapper.highlightWebElement:(417) - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//h2[normalize-space()='TRENDING FOR']"}
+  (Session info: chrome=117.0.5938.150)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'CAF-QA-SWAMYK', ip: '192.168.0.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 117.0.5938.150, chrome: {chromedriverVersion: 117.0.5938.92 (67649b10b92b..., userDataDir: C:\Users\swamyk\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61058}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 8c329e0edde0cb51d590035430fc7809
+*** Element info: {Using=xpath, value=//h2[normalize-space()='TRENDING FOR']}
+[INFO ][04-Oct-2023 14:54:43 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (8c329e0edde0cb51d590035430fc7809)] -> xpath: //div[@id='rn_RequestUpdate_9_RecommendContent']//button]
+[INFO ][04-Oct-2023 14:54:44 pm] Selenium_Wrapper.enterText:(311) - Entering Text :Test Improve, comments, updates in WebElement :[[ChromeDriver: chrome on WINDOWS (8c329e0edde0cb51d590035430fc7809)] -> xpath: //textarea[@id='rn_RequestUpdate_9_Description']]
+[INFO ][04-Oct-2023 14:54:49 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (8c329e0edde0cb51d590035430fc7809)] -> xpath: //span[@class='yui3-widget-buttons']//button[@class='yui3-button yui3-button-close']]
+[INFO ][04-Oct-2023 14:55:09 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (8c329e0edde0cb51d590035430fc7809)] -> xpath: //h2[@class='footer_heading']/a[text()='Browse all pages']]
+[ERROR][04-Oct-2023 14:55:38 pm] HomePage.testFooterLinks:(139) - Footer Links Test is un-successfull

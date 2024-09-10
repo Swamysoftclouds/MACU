@@ -1,0 +1,22 @@
+[INFO ][09-Nov-2021 13:17:15 pm] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][09-Nov-2021 13:17:19 pm] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--tst.custhelp.com/AgentWeb/
+[INFO ][09-Nov-2021 13:17:24 pm] Selenium_Wrapper.enterText:(311) - Entering Text :RNT_pramod in WebElement :[[ChromeDriver: chrome on WINDOWS (aa762227bff1ae6dd7096b63f8c287b7)] -> id: username]
+[INFO ][09-Nov-2021 13:17:25 pm] Selenium_Wrapper.enterText:(311) - Entering Text :Welcome123 in WebElement :[[ChromeDriver: chrome on WINDOWS (aa762227bff1ae6dd7096b63f8c287b7)] -> id: password]
+[INFO ][09-Nov-2021 13:17:53 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (aa762227bff1ae6dd7096b63f8c287b7)] -> id: loginbutton]
+[INFO ][09-Nov-2021 13:18:05 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (aa762227bff1ae6dd7096b63f8c287b7)] -> id: navigationSetBtn]
+[INFO ][09-Nov-2021 13:18:12 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (aa762227bff1ae6dd7096b63f8c287b7)] -> xpath: //div[@id='displayNavigationSet']//div[@automationid='Analytics']]
+[INFO ][09-Nov-2021 13:18:23 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (aa762227bff1ae6dd7096b63f8c287b7)] -> xpath: //div[@automationid='Analytics_Reports Explorer']//span[text()='Reports Explorer']]
+[INFO ][09-Nov-2021 13:18:37 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (aa762227bff1ae6dd7096b63f8c287b7)] -> xpath: //div[@aria-label='Public Reports'][text()='Public Reports']]
+[INFO ][09-Nov-2021 13:18:43 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (aa762227bff1ae6dd7096b63f8c287b7)] -> xpath: //div[@aria-label='MACU CUSTOM REPORTS'][text()='MACU CUSTOM REPORTS']]
+[INFO ][09-Nov-2021 13:18:48 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (aa762227bff1ae6dd7096b63f8c287b7)] -> xpath: //div[@aria-label='SoftClouds'][text()='SoftClouds']]
+[INFO ][09-Nov-2021 13:19:01 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (aa762227bff1ae6dd7096b63f8c287b7)] -> xpath: //div[contains(@id,'ExplorerFolderAnalyticsFolder103223')]//div[@aria-label='OKCS'][text()='OKCS']]
+[INFO ][09-Nov-2021 13:19:09 pm] Selenium_Wrapper.doubleClick:(280) - Double clicking on :[[ChromeDriver: chrome on WINDOWS (aa762227bff1ae6dd7096b63f8c287b7)] -> xpath: //div[@class='explorer-right-panel']//div[@class='explorer-data-grid']//span[text()='Feedback Admin Report']]
+[INFO ][09-Nov-2021 13:19:26 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (aa762227bff1ae6dd7096b63f8c287b7)] -> xpath: //div[@class='container wsx-flex']//div[@class='analyticsTopSection']//div[@class='select-box-root select-box-display-text-active']]
+[INFO ][09-Nov-2021 13:19:31 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (aa762227bff1ae6dd7096b63f8c287b7)] -> xpath: //input[@aria-label='From']]
+[INFO ][09-Nov-2021 13:19:32 pm] Selenium_Wrapper.clearTextBox:(295) - Cleared TextBox Field: [[ChromeDriver: chrome on WINDOWS (aa762227bff1ae6dd7096b63f8c287b7)] -> xpath: //input[@aria-label='From']]
+[INFO ][09-Nov-2021 13:19:33 pm] Selenium_Wrapper.enterText:(311) - Entering Text :09/10/2021 in WebElement :[[ChromeDriver: chrome on WINDOWS (aa762227bff1ae6dd7096b63f8c287b7)] -> xpath: //input[@aria-label='From']]
+[INFO ][09-Nov-2021 13:19:38 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (aa762227bff1ae6dd7096b63f8c287b7)] -> xpath: //div[contains(@class,'filterRegionMargin')]//span[@class='oj-button-text'][text()='Search']]
+[INFO ][09-Nov-2021 13:19:47 pm] Selenium_Wrapper.doubleClick:(280) - Double clicking on :[[ChromeDriver: chrome on WINDOWS (aa762227bff1ae6dd7096b63f8c287b7)] -> xpath: //div[@class='container wsx-flex']//div[contains(@column-id,'2')][1]]
+[INFO ][09-Nov-2021 13:20:03 pm] Selenium_Wrapper.clickUsingActions:(249) - Clicking on :[[ChromeDriver: chrome on WINDOWS (aa762227bff1ae6dd7096b63f8c287b7)] -> xpath: //div[contains(@id,'Incident_Status')][@class='display-text']]
+[INFO ][09-Nov-2021 13:20:17 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (aa762227bff1ae6dd7096b63f8c287b7)] -> xpath: //button[@class='ws-toolbar-button Save']]
+[INFO ][09-Nov-2021 13:20:20 pm] Selenium_Wrapper.closeCurrentBrowser:(650) - Closing the current Browser

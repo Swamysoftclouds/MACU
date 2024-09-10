@@ -1,0 +1,29 @@
+[ERROR][05-Jun-2024 10:50:35 AM] Selenium_Wrapper.openBrowser:(79) - org.openqa.selenium.SessionNotCreatedException: session not created: This version of ChromeDriver only supports Chrome version 123
+Current browser version is 125.0.6422.142 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SC-CAF-CND84305', ip: '192.168.1.100', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.2'
+Driver info: driver.version: ChromeDriver
+remote stacktrace: 	GetHandleVerifier [0x00007FF779CB7062+63090]
+	(No symbol) [0x00007FF779C22CB2]
+	(No symbol) [0x00007FF779ABEC65]
+	(No symbol) [0x00007FF779AF54C2]
+	(No symbol) [0x00007FF779AF48CF]
+	(No symbol) [0x00007FF779AEE8C5]
+	(No symbol) [0x00007FF779AEB2F4]
+	(No symbol) [0x00007FF779B30BFB]
+	(No symbol) [0x00007FF779B30830]
+	(No symbol) [0x00007FF779B26D83]
+	(No symbol) [0x00007FF779AF83A8]
+	(No symbol) [0x00007FF779AF9441]
+	GetHandleVerifier [0x00007FF77A0B25CD+4238301]
+	GetHandleVerifier [0x00007FF77A0EF72D+4488509]
+	GetHandleVerifier [0x00007FF77A0E7A0F+4456479]
+	GetHandleVerifier [0x00007FF779D905A6+953270]
+	(No symbol) [0x00007FF779C2E57F]
+	(No symbol) [0x00007FF779C29254]
+	(No symbol) [0x00007FF779C2938B]
+	(No symbol) [0x00007FF779C19BC4]
+	BaseThreadInitThunk [0x00007FFDB6467344+20]
+	RtlUserThreadStart [0x00007FFDB69026B1+33]
+
+[ERROR][05-Jun-2024 10:50:35 AM] FeedbackAdmin.testSignIn:(18) - Login/SignIn un-successfull

@@ -1,0 +1,20 @@
+[INFO ][04-Sep-2022 19:22:07 PM] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][04-Sep-2022 19:22:12 PM] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--upgrade.custhelp.com/
+[INFO ][04-Sep-2022 19:22:16 PM] Selenium_Wrapper.enterText:(311) - Entering Text :pramodk in WebElement :[[ChromeDriver: chrome on WINDOWS (63f0f1ecb0876fe2fca51b568c30f057)] -> id: rn_LoginForm_2_Username]
+[INFO ][04-Sep-2022 19:22:18 PM] Selenium_Wrapper.enterText:(311) - Entering Text :Soft@123 in WebElement :[[ChromeDriver: chrome on WINDOWS (63f0f1ecb0876fe2fca51b568c30f057)] -> id: rn_LoginForm_2_Password]
+[INFO ][04-Sep-2022 19:22:25 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (63f0f1ecb0876fe2fca51b568c30f057)] -> id: rn_LoginForm_2_Submit]
+[INFO ][04-Sep-2022 19:22:44 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (63f0f1ecb0876fe2fca51b568c30f057)] -> xpath: //input[@type='search']]
+[INFO ][04-Sep-2022 19:22:46 PM] Selenium_Wrapper.enterText:(311) - Entering Text :Auto Loan in WebElement :[[ChromeDriver: chrome on WINDOWS (63f0f1ecb0876fe2fca51b568c30f057)] -> xpath: //input[@type='search']]
+[INFO ][04-Sep-2022 19:23:03 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (63f0f1ecb0876fe2fca51b568c30f057)] -> xpath: //ul[@aria-label='Suggested Search']//li[normalize-space()= 'Auto Loan' ]]
+[INFO ][04-Sep-2022 19:23:10 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (63f0f1ecb0876fe2fca51b568c30f057)] -> xpath: //div[@class='rn_SearchResultContent']//a[text()='Auto Loan']]
+[INFO ][04-Sep-2022 19:23:31 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (63f0f1ecb0876fe2fca51b568c30f057)] -> xpath: //button[@class='rn_RecommendContentButton p-0']]
+[ERROR][04-Sep-2022 19:23:32 PM] FeedbackAdmin.testFeedbackPage:(79) - Request Updates, Comments, Thumbs Up & Down Test is un-successfull
+[DEBUG][04-Sep-2022 19:32:11 PM] Selenium_Wrapper.click:(210) - Handled ElementClickInterceptedException and Clicked on :[[ChromeDriver: chrome on WINDOWS (63f0f1ecb0876fe2fca51b568c30f057)] -> xpath: //div[@class='dropdown']]
+[ERROR][04-Sep-2022 19:32:26 PM] FeedbackAdmin.testMyFeedbackStatus:(114) - My Feedback Article Status in CP Test is un-successfull
+[INFO ][04-Sep-2022 19:32:28 PM] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][04-Sep-2022 19:32:32 PM] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--upgrade.custhelp.com/AgentWeb/
+[INFO ][04-Sep-2022 19:32:37 PM] Selenium_Wrapper.enterText:(311) - Entering Text :RNT_pramod in WebElement :[[ChromeDriver: chrome on WINDOWS (13a811ee0e5c975828ab64ffc36a699c)] -> id: username]
+[INFO ][04-Sep-2022 19:32:38 PM] Selenium_Wrapper.enterText:(311) - Entering Text :Welcome123 in WebElement :[[ChromeDriver: chrome on WINDOWS (13a811ee0e5c975828ab64ffc36a699c)] -> id: password]
+[INFO ][04-Sep-2022 19:33:16 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (13a811ee0e5c975828ab64ffc36a699c)] -> id: loginbutton]
+[INFO ][04-Sep-2022 19:33:35 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (13a811ee0e5c975828ab64ffc36a699c)] -> id: navigationSetBtn]
+[ERROR][04-Sep-2022 19:33:50 PM] FeedbackAdmin.testNavigateToFeedBackAdminReportFlow:(137) - Navigate To Article un-successfull

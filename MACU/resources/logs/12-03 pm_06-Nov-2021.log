@@ -1,0 +1,24 @@
+[INFO ][06-Nov-2021 12:03:42 pm] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][06-Nov-2021 12:03:50 pm] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--tst.custhelp.com/app/home
+[INFO ][06-Nov-2021 12:03:54 pm] Selenium_Wrapper.enterText:(311) - Entering Text :pramodk in WebElement :[[ChromeDriver: chrome on WINDOWS (19e34d8ea7d196345690232eb4b9fd55)] -> id: rn_LoginForm_2_Username]
+[INFO ][06-Nov-2021 12:03:55 pm] Selenium_Wrapper.enterText:(311) - Entering Text :Soft@123 in WebElement :[[ChromeDriver: chrome on WINDOWS (19e34d8ea7d196345690232eb4b9fd55)] -> id: rn_LoginForm_2_Password]
+[INFO ][06-Nov-2021 12:03:59 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (19e34d8ea7d196345690232eb4b9fd55)] -> id: rn_LoginForm_2_Submit]
+[INFO ][06-Nov-2021 12:04:08 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (19e34d8ea7d196345690232eb4b9fd55)] -> xpath: //input[@type='search']]
+[INFO ][06-Nov-2021 12:04:09 pm] Selenium_Wrapper.enterText:(311) - Entering Text :Flexible Work in WebElement :[[ChromeDriver: chrome on WINDOWS (19e34d8ea7d196345690232eb4b9fd55)] -> xpath: //input[@type='search']]
+[INFO ][06-Nov-2021 12:04:18 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (19e34d8ea7d196345690232eb4b9fd55)] -> xpath: //ul[@aria-label='Suggested Search']//li[normalize-space()='Flexible Work']]
+[INFO ][06-Nov-2021 12:04:21 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (19e34d8ea7d196345690232eb4b9fd55)] -> xpath: //div[@class='rn_SearchResultContent']//a[text()='Flexible Work']]
+[INFO ][06-Nov-2021 12:04:34 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (19e34d8ea7d196345690232eb4b9fd55)] -> xpath: //div[@class='main_image_div']//div[@class='thumbs_up_down'][2]]
+[INFO ][06-Nov-2021 12:04:41 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (19e34d8ea7d196345690232eb4b9fd55)] -> id: rn_AnswerRating_3_22_FeedbackMessage]
+[INFO ][06-Nov-2021 12:04:43 pm] Selenium_Wrapper.enterText:(311) - Entering Text :Flexible Work - ThumbDown Comments in WebElement :[[ChromeDriver: chrome on WINDOWS (19e34d8ea7d196345690232eb4b9fd55)] -> id: rn_AnswerRating_3_22_FeedbackMessage]
+[INFO ][06-Nov-2021 12:04:44 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (19e34d8ea7d196345690232eb4b9fd55)] -> xpath: //button[text()='SUBMIT']]
+[INFO ][06-Nov-2021 12:04:45 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (19e34d8ea7d196345690232eb4b9fd55)] -> xpath: //button[@class='yui3-button yui3-button-close']]
+[INFO ][06-Nov-2021 12:04:48 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (19e34d8ea7d196345690232eb4b9fd55)] -> xpath: //div[@class='dropdown']]
+[INFO ][06-Nov-2021 12:04:54 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (19e34d8ea7d196345690232eb4b9fd55)] -> xpath: //a[text()='My Feedback']]
+[INFO ][06-Nov-2021 12:05:13 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (19e34d8ea7d196345690232eb4b9fd55)] -> xpath: ((//table//tbody)[2]//a)[1]]
+[INFO ][06-Nov-2021 12:05:29 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (19e34d8ea7d196345690232eb4b9fd55)] -> class name: knowledge]
+[INFO ][06-Nov-2021 12:05:31 pm] Selenium_Wrapper.closeCurrentBrowser:(650) - Closing the current Browser
+[INFO ][06-Nov-2021 12:05:32 pm] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][06-Nov-2021 12:05:42 pm] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--tst.custhelp.com/AgentWeb/
+[INFO ][06-Nov-2021 12:05:46 pm] Selenium_Wrapper.enterText:(311) - Entering Text :RNT_pramod in WebElement :[[ChromeDriver: chrome on WINDOWS (36604c1e9f9e592e5fbb65f89136b41e)] -> id: username]
+[INFO ][06-Nov-2021 12:05:48 pm] Selenium_Wrapper.enterText:(311) - Entering Text :Welcome123 in WebElement :[[ChromeDriver: chrome on WINDOWS (36604c1e9f9e592e5fbb65f89136b41e)] -> id: password]
+[INFO ][06-Nov-2021 12:06:17 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (36604c1e9f9e592e5fbb65f89136b41e)] -> id: loginbutton]

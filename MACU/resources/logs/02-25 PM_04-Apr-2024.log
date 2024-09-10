@@ -1,0 +1,34 @@
+[INFO ][04-Apr-2024 14:25:40 PM] Selenium_Wrapper.openBrowser:(54) - Opening chrome browser.
+[INFO ][04-Apr-2024 14:25:44 PM] Selenium_Wrapper.enterURL:(88) - Entering url :https://macu1--tst1.custhelp.com/AgentWeb/
+[INFO ][04-Apr-2024 14:25:48 PM] Selenium_Wrapper.enterText:(317) - Entering Text :automation_testing in WebElement :[[ChromeDriver: chrome on WINDOWS (22cc9751c80ffd67fb91763ddab0ee09)] -> id: username]
+[INFO ][04-Apr-2024 14:25:50 PM] Selenium_Wrapper.enterText:(317) - Entering Text :Welcome123 in WebElement :[[ChromeDriver: chrome on WINDOWS (22cc9751c80ffd67fb91763ddab0ee09)] -> id: password]
+[INFO ][04-Apr-2024 14:26:18 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (22cc9751c80ffd67fb91763ddab0ee09)] -> id: loginbutton]
+[INFO ][04-Apr-2024 14:26:25 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (22cc9751c80ffd67fb91763ddab0ee09)] -> id: navigationSetBtn]
+[INFO ][04-Apr-2024 14:26:30 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (22cc9751c80ffd67fb91763ddab0ee09)] -> xpath: //div[@automationid='Configuration']]
+[INFO ][04-Apr-2024 14:26:33 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (22cc9751c80ffd67fb91763ddab0ee09)] -> xpath: //div[text()='Service']]
+[INFO ][04-Apr-2024 14:26:35 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (22cc9751c80ffd67fb91763ddab0ee09)] -> xpath: //div[text()='Knowledge Advanced']]
+[INFO ][04-Apr-2024 14:26:37 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (22cc9751c80ffd67fb91763ddab0ee09)] -> xpath: //span[text()='Authoring']]
+[INFO ][04-Apr-2024 14:26:48 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (22cc9751c80ffd67fb91763ddab0ee09)] -> xpath: //div[@id='rntab']//ul//li[@testidentifier='MainNavBar_Content']//a]
+[INFO ][04-Apr-2024 14:26:54 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (22cc9751c80ffd67fb91763ddab0ee09)] -> xpath: //div[text()='Process']//following-sibling::a[@testidentifier='ContentNavBar_List_Process']]
+[INFO ][04-Apr-2024 14:26:58 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (22cc9751c80ffd67fb91763ddab0ee09)] -> xpath: //select[@testidentifier='ContentSearchResults_DocumentClassPulldown']]
+[INFO ][04-Apr-2024 14:27:02 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (22cc9751c80ffd67fb91763ddab0ee09)] -> xpath: //select[@testidentifier='ContentSearchResults_DocumentClassPulldown']//option[text()='All Documents']]
+[INFO ][04-Apr-2024 14:27:08 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (22cc9751c80ffd67fb91763ddab0ee09)] -> xpath: (//a[text()='TestingArticle'])[1]]
+[INFO ][04-Apr-2024 14:27:17 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (22cc9751c80ffd67fb91763ddab0ee09)] -> xpath: //a[text()='Edit Document']]
+[INFO ][04-Apr-2024 14:27:28 PM] Selenium_Wrapper.enterText:(317) - Entering Text :TestingArticle - Edited in WebElement :[[ChromeDriver: chrome on WINDOWS (22cc9751c80ffd67fb91763ddab0ee09)] -> xpath: //input[@testidentifier='Content_ContentType_Add_SUMMARY']]
+[INFO ][04-Apr-2024 14:27:33 PM] Selenium_Wrapper.enterText:(317) - Entering Text :Some Important Updates in WebElement :[[ChromeDriver: chrome on WINDOWS (22cc9751c80ffd67fb91763ddab0ee09)] -> xpath: //textarea[@class='editfields']]
+[INFO ][04-Apr-2024 14:27:36 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (22cc9751c80ffd67fb91763ddab0ee09)] -> xpath: //a[text()='Save and Continue Editing']]
+[INFO ][04-Apr-2024 14:27:42 PM] Selenium_Wrapper.enterText:(317) - Entering Text :Criticals - Edited in WebElement :[[ChromeDriver: chrome on WINDOWS (22cc9751c80ffd67fb91763ddab0ee09)] -> xpath: //input[@testidentifier='Content_ContentType_Add_KEYWORD']]
+[INFO ][04-Apr-2024 14:27:48 PM] Selenium_Wrapper.enterText:(317) - Entering Text :Some Important Updates in WebElement :[[ChromeDriver: chrome on WINDOWS (22cc9751c80ffd67fb91763ddab0ee09)] -> xpath: //textarea[@class='editfields']]
+[INFO ][04-Apr-2024 14:27:50 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (22cc9751c80ffd67fb91763ddab0ee09)] -> xpath: //a[text()='Save Document']]
+[INFO ][04-Apr-2024 14:27:58 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (22cc9751c80ffd67fb91763ddab0ee09)] -> xpath: //a[text()='Bypass Workflow/Publish']]
+[INFO ][04-Apr-2024 14:28:05 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (22cc9751c80ffd67fb91763ddab0ee09)] -> xpath: (//a[text()='Done'])[1]]
+[INFO ][04-Apr-2024 14:28:13 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (22cc9751c80ffd67fb91763ddab0ee09)] -> xpath: //a[@class='closeButton']]
+[INFO ][04-Apr-2024 14:28:18 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (22cc9751c80ffd67fb91763ddab0ee09)] -> xpath: //body//oj-avatar[@initials='[[userMenuLabel]]']]
+[INFO ][04-Apr-2024 14:28:23 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (22cc9751c80ffd67fb91763ddab0ee09)] -> xpath: //a//span[text()='Sign Out']]
+[INFO ][04-Apr-2024 14:28:28 PM] Selenium_Wrapper.closeCurrentBrowser:(657) - Closing the current Browser
+[INFO ][04-Apr-2024 14:28:35 PM] Selenium_Wrapper.openBrowser:(54) - Opening chrome browser.
+[INFO ][04-Apr-2024 14:28:43 PM] Selenium_Wrapper.enterURL:(88) - Entering url :https://macu1--tst1.custhelp.com/app/home
+[INFO ][04-Apr-2024 14:28:47 PM] Selenium_Wrapper.enterText:(317) - Entering Text :swamyk in WebElement :[[ChromeDriver: chrome on WINDOWS (311cdd6f70912cf2efab345b772322e5)] -> id: rn_LoginForm_2_Username]
+[INFO ][04-Apr-2024 14:28:48 PM] Selenium_Wrapper.enterText:(317) - Entering Text :Soft@123 in WebElement :[[ChromeDriver: chrome on WINDOWS (311cdd6f70912cf2efab345b772322e5)] -> id: rn_LoginForm_2_Password]
+[INFO ][04-Apr-2024 14:28:53 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (311cdd6f70912cf2efab345b772322e5)] -> id: rn_LoginForm_2_Submit]
+[INFO ][04-Apr-2024 14:29:18 PM] Selenium_Wrapper.closeCurrentBrowser:(657) - Closing the current Browser

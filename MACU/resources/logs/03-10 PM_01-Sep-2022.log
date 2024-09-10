@@ -1,0 +1,5 @@
+[INFO ][01-Sep-2022 15:10:27 PM] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][01-Sep-2022 15:10:34 PM] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--upgrade.custhelp.com/
+[INFO ][01-Sep-2022 15:10:38 PM] Selenium_Wrapper.enterText:(311) - Entering Text :pramodk in WebElement :[[ChromeDriver: chrome on WINDOWS (09f830d32147439f601f04e972d66aed)] -> id: rn_LoginForm_2_Username]
+[INFO ][01-Sep-2022 15:10:39 PM] Selenium_Wrapper.enterText:(311) - Entering Text :Soft@123 in WebElement :[[ChromeDriver: chrome on WINDOWS (09f830d32147439f601f04e972d66aed)] -> id: rn_LoginForm_2_Password]
+[INFO ][01-Sep-2022 15:10:46 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (09f830d32147439f601f04e972d66aed)] -> id: rn_LoginForm_2_Submit]

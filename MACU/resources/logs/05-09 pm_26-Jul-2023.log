@@ -1,0 +1,30 @@
+[ERROR][26-Jul-2023 17:09:46 pm] Selenium_Wrapper.openBrowser:(73) - org.openqa.selenium.SessionNotCreatedException: session not created: This version of ChromeDriver only supports Chrome version 113
+Current browser version is 115.0.5790.110 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'CAF-QA-SWAMYK', ip: '192.168.0.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: driver.version: ChromeDriver
+remote stacktrace: Backtrace:
+	GetHandleVerifier [0x01148893+48451]
+	(No symbol) [0x010DB8A1]
+	(No symbol) [0x00FE5058]
+	(No symbol) [0x01005D9C]
+	(No symbol) [0x01001AA3]
+	(No symbol) [0x01000019]
+	(No symbol) [0x01030798]
+	(No symbol) [0x0103047C]
+	(No symbol) [0x0102A0B6]
+	(No symbol) [0x01007E08]
+	(No symbol) [0x01008F2D]
+	GetHandleVerifier [0x013A8E3A+2540266]
+	GetHandleVerifier [0x013E8959+2801161]
+	GetHandleVerifier [0x013E295C+2776588]
+	GetHandleVerifier [0x011D2280+612144]
+	(No symbol) [0x010E4F6C]
+	(No symbol) [0x010E11D8]
+	(No symbol) [0x010E12BB]
+	(No symbol) [0x010D4857]
+	BaseThreadInitThunk [0x759100C9+25]
+	RtlGetAppContainerNamedObjectPath [0x77917B1E+286]
+	RtlGetAppContainerNamedObjectPath [0x77917AEE+238]
+
+[ERROR][26-Jul-2023 17:09:46 pm] ActionsDashboardReport.testSignIn:(22) - Login/SignIn un-successfull

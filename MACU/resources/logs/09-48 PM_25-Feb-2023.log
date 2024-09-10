@@ -1,0 +1,14 @@
+[INFO ][25-Feb-2023 21:48:55 PM] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][25-Feb-2023 21:49:05 PM] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--upgrade.custhelp.com/
+[INFO ][25-Feb-2023 21:49:09 PM] Selenium_Wrapper.enterText:(311) - Entering Text :automation_testing in WebElement :[[ChromeDriver: chrome on WINDOWS (11cd537230413200f7ab294cc1fde745)] -> id: rn_LoginForm_2_Username]
+[INFO ][25-Feb-2023 21:49:10 PM] Selenium_Wrapper.enterText:(311) - Entering Text :Soft@123 in WebElement :[[ChromeDriver: chrome on WINDOWS (11cd537230413200f7ab294cc1fde745)] -> id: rn_LoginForm_2_Password]
+[INFO ][25-Feb-2023 21:49:17 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (11cd537230413200f7ab294cc1fde745)] -> id: rn_LoginForm_2_Submit]
+[INFO ][25-Feb-2023 21:49:29 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (11cd537230413200f7ab294cc1fde745)] -> xpath: //div[@class='dropdown']]
+[INFO ][25-Feb-2023 21:49:45 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (11cd537230413200f7ab294cc1fde745)] -> xpath: //a[text()='My Activity']]
+[INFO ][25-Feb-2023 21:49:53 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (11cd537230413200f7ab294cc1fde745)] -> xpath: //input[@type='search']]
+[INFO ][25-Feb-2023 21:49:54 PM] Selenium_Wrapper.enterText:(311) - Entering Text :Business Auto Loan in WebElement :[[ChromeDriver: chrome on WINDOWS (11cd537230413200f7ab294cc1fde745)] -> xpath: //input[@type='search']]
+[INFO ][25-Feb-2023 21:50:09 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (11cd537230413200f7ab294cc1fde745)] -> xpath: //ul[@aria-label='Suggested Search']/li[normalize-space()='Business Auto Loan']]
+[INFO ][25-Feb-2023 21:50:16 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (11cd537230413200f7ab294cc1fde745)] -> xpath: //div[@class='dropdown']]
+[INFO ][25-Feb-2023 21:50:25 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (11cd537230413200f7ab294cc1fde745)] -> xpath: //a[text()='My Activity']]
+[INFO ][25-Feb-2023 21:50:34 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (11cd537230413200f7ab294cc1fde745)] -> xpath: //a[text()='browse all PAGES']]
+[ERROR][25-Feb-2023 21:55:28 PM] MyActivity.testSearchPage:(55) - My Activity Page Test is un-successfull

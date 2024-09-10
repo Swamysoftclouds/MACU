@@ -1,0 +1,22 @@
+[INFO ][02-Jul-2024 11:52:46 AM] Selenium_Wrapper.openBrowser:(54) - Opening chrome browser.
+[INFO ][02-Jul-2024 11:52:52 AM] Selenium_Wrapper.enterURL:(88) - Entering url :https://macu1--tst1.custhelp.com/AgentWeb/
+[INFO ][02-Jul-2024 11:52:58 AM] Selenium_Wrapper.enterText:(317) - Entering Text :automation_testing in WebElement :[[ChromeDriver: chrome on WINDOWS (5451314da87b60d47056c5c3f87ec728)] -> id: username]
+[INFO ][02-Jul-2024 11:53:02 AM] Selenium_Wrapper.enterText:(317) - Entering Text :Welcome123 in WebElement :[[ChromeDriver: chrome on WINDOWS (5451314da87b60d47056c5c3f87ec728)] -> id: password]
+[INFO ][02-Jul-2024 11:53:33 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (5451314da87b60d47056c5c3f87ec728)] -> id: loginbutton]
+[ERROR][02-Jul-2024 11:54:05 AM] CallOuts.testExistingAccount:(95) - Login/SignIn un-successfull
+[INFO ][02-Jul-2024 11:54:12 AM] Selenium_Wrapper.openBrowser:(54) - Opening chrome browser.
+[INFO ][02-Jul-2024 11:54:20 AM] Selenium_Wrapper.enterURL:(88) - Entering url :https://macu1--tst1.custhelp.com/app/home
+[INFO ][02-Jul-2024 11:54:25 AM] Selenium_Wrapper.enterText:(317) - Entering Text :swamyk in WebElement :[[ChromeDriver: chrome on WINDOWS (73bb0e02b8fbaaee0d2584d7b4718432)] -> id: rn_LoginForm_2_Username]
+[INFO ][02-Jul-2024 11:54:26 AM] Selenium_Wrapper.enterText:(317) - Entering Text :Soft@123 in WebElement :[[ChromeDriver: chrome on WINDOWS (73bb0e02b8fbaaee0d2584d7b4718432)] -> id: rn_LoginForm_2_Password]
+[INFO ][02-Jul-2024 11:54:30 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (73bb0e02b8fbaaee0d2584d7b4718432)] -> id: rn_LoginForm_2_Submit]
+[ERROR][02-Jul-2024 11:54:50 AM] Selenium_Wrapper.scrollToWebElement:(493) - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='rn_SchemaAttribute']"}
+  (Session info: chrome=126.0.6478.127)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SC-CAF-CND84305', ip: '192.168.1.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.127, chrome: {chromedriverVersion: 125.0.6422.141 (4b1e8393712..., userDataDir: C:\Users\SWAMYK~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52028}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 73bb0e02b8fbaaee0d2584d7b4718432
+*** Element info: {Using=xpath, value=//div[@class='rn_SchemaAttribute']}
+[ERROR][02-Jul-2024 11:54:50 AM] CallOuts.testCPCallouts:(120) - Login/SignIn un-successfull
+[INFO ][02-Jul-2024 11:54:53 AM] Selenium_Wrapper.closeCurrentBrowser:(657) - Closing the current Browser

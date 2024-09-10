@@ -1,0 +1,48 @@
+[INFO ][05-Sep-2024 12:57:23 PM] Selenium_Wrapper.openBrowser:(54) - Opening chrome browser.
+[INFO ][05-Sep-2024 12:57:34 PM] Selenium_Wrapper.enterURL:(88) - Entering url :https://macu1--tst1.custhelp.com/app/home
+[INFO ][05-Sep-2024 12:57:38 PM] Selenium_Wrapper.enterText:(317) - Entering Text :swamyk in WebElement :[[ChromeDriver: chrome on WINDOWS (71e36862c6c783477273bbc406915b4b)] -> id: rn_LoginForm_2_Username]
+[INFO ][05-Sep-2024 12:57:39 PM] Selenium_Wrapper.enterText:(317) - Entering Text :Soft@123 in WebElement :[[ChromeDriver: chrome on WINDOWS (71e36862c6c783477273bbc406915b4b)] -> id: rn_LoginForm_2_Password]
+[INFO ][05-Sep-2024 12:57:43 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (71e36862c6c783477273bbc406915b4b)] -> id: rn_LoginForm_2_Submit]
+[INFO ][05-Sep-2024 12:57:58 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (71e36862c6c783477273bbc406915b4b)] -> xpath: //input[@type='search']]
+[INFO ][05-Sep-2024 12:57:59 PM] Selenium_Wrapper.enterText:(317) - Entering Text :Business Use Auto Loan in WebElement :[[ChromeDriver: chrome on WINDOWS (71e36862c6c783477273bbc406915b4b)] -> xpath: //input[@type='search']]
+[INFO ][05-Sep-2024 12:58:01 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (71e36862c6c783477273bbc406915b4b)] -> xpath: //input[@type='search']]
+[INFO ][05-Sep-2024 12:58:19 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (71e36862c6c783477273bbc406915b4b)] -> xpath: (//div[@class='yui3-aclist-content']//li//li)[1]]
+[INFO ][05-Sep-2024 12:58:27 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (71e36862c6c783477273bbc406915b4b)] -> xpath: (//div[@class='rn_SearchResultContent']//a)[1]]
+[INFO ][05-Sep-2024 12:58:48 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (71e36862c6c783477273bbc406915b4b)] -> xpath: //button[@class='rn_RecommendContentButton p-0']]
+[INFO ][05-Sep-2024 12:58:49 PM] Selenium_Wrapper.enterText:(317) - Entering Text :Test Improve, comments, updates in WebElement :[[ChromeDriver: chrome on WINDOWS (71e36862c6c783477273bbc406915b4b)] -> id: rn_RequestUpdate_25_Description]
+[INFO ][05-Sep-2024 12:58:51 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (71e36862c6c783477273bbc406915b4b)] -> xpath: //button[text()='Submit']]
+[INFO ][05-Sep-2024 12:59:01 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (71e36862c6c783477273bbc406915b4b)] -> xpath: //div[@id='rnDialog2']//button[@type='button']]
+[INFO ][05-Sep-2024 12:59:14 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (71e36862c6c783477273bbc406915b4b)] -> class name: knowledge]
+[INFO ][05-Sep-2024 12:59:18 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (71e36862c6c783477273bbc406915b4b)] -> xpath: //div[@class='dropdown']]
+[INFO ][05-Sep-2024 12:59:23 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (71e36862c6c783477273bbc406915b4b)] -> xpath: //a[text()='My Feedback']]
+[INFO ][05-Sep-2024 12:59:25 PM] Selenium_Wrapper.enterText:(317) - Entering Text :Business Use Auto Loan in WebElement :[[ChromeDriver: chrome on WINDOWS (71e36862c6c783477273bbc406915b4b)] -> xpath: //input[@placeholder='Search Your Feedback Report']]
+[INFO ][05-Sep-2024 12:59:36 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (71e36862c6c783477273bbc406915b4b)] -> xpath: //div[@class='rn_SearchInput1 mt-3']//span[@class='btn-srch-icon']//i[@class='fa fa-search']]
+[INFO ][05-Sep-2024 13:00:02 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (71e36862c6c783477273bbc406915b4b)] -> xpath: (//tbody[@class='yui3-datatable-data']//a)[1]]
+[INFO ][05-Sep-2024 13:00:35 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (71e36862c6c783477273bbc406915b4b)] -> class name: knowledge]
+[INFO ][05-Sep-2024 13:00:40 PM] Selenium_Wrapper.closeCurrentBrowser:(657) - Closing the current Browser
+[INFO ][05-Sep-2024 13:00:42 PM] Selenium_Wrapper.openBrowser:(54) - Opening chrome browser.
+[INFO ][05-Sep-2024 13:00:56 PM] Selenium_Wrapper.enterURL:(88) - Entering url :https://macu1--tst1.custhelp.com/AgentWeb/
+[INFO ][05-Sep-2024 13:01:00 PM] Selenium_Wrapper.enterText:(317) - Entering Text :automation_testing in WebElement :[[ChromeDriver: chrome on WINDOWS (b64b209d2a54572c62823fc4fb5b90ef)] -> id: username]
+[INFO ][05-Sep-2024 13:01:01 PM] Selenium_Wrapper.enterText:(317) - Entering Text :Welcome123 in WebElement :[[ChromeDriver: chrome on WINDOWS (b64b209d2a54572c62823fc4fb5b90ef)] -> id: password]
+[INFO ][05-Sep-2024 13:01:29 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (b64b209d2a54572c62823fc4fb5b90ef)] -> id: loginbutton]
+[ERROR][05-Sep-2024 13:02:06 PM] FeedbackAdmin.testNavigateToFeedBackAdminReportFlow:(136) - Navigate To Article un-successfull
+[ERROR][05-Sep-2024 13:02:09 PM] Selenium_Wrapper.highlightWebElement:(423) - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='explorer-right-panel']//div[@class='explorer-data-grid']//span[text()='Feedback Admin Report']"}
+  (Session info: chrome=128.0.6613.115)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SC-CAF-CND84305', ip: '192.168.1.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 128.0.6613.115, chrome: {chromedriverVersion: 127.0.6533.72 (9755e24ca85a..., userDataDir: C:\Users\SWAMYK~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49688}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b64b209d2a54572c62823fc4fb5b90ef
+*** Element info: {Using=xpath, value=//div[@class='explorer-right-panel']//div[@class='explorer-data-grid']//span[text()='Feedback Admin Report']}
+[ERROR][05-Sep-2024 13:02:09 PM] Selenium_Wrapper.doubleClick:(279) - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='explorer-right-panel']//div[@class='explorer-data-grid']//span[text()='Feedback Admin Report']"}
+  (Session info: chrome=128.0.6613.115)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SC-CAF-CND84305', ip: '192.168.1.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 128.0.6613.115, chrome: {chromedriverVersion: 127.0.6533.72 (9755e24ca85a..., userDataDir: C:\Users\SWAMYK~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49688}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b64b209d2a54572c62823fc4fb5b90ef
+*** Element info: {Using=xpath, value=//div[@class='explorer-right-panel']//div[@class='explorer-data-grid']//span[text()='Feedback Admin Report']}
+[ERROR][05-Sep-2024 13:02:09 PM] FeedbackAdmin.testSelectingandGivingAsnwerstoReportFlow:(186) - Selecting and Giving Asnwers to Report- un-successfull
+[ERROR][05-Sep-2024 13:02:21 PM] FeedbackAdmin.testSignout:(205) - Logout/SignOut un-successfull

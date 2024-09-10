@@ -1,0 +1,11 @@
+[INFO ][24-Feb-2023 10:39:07 AM] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][24-Feb-2023 10:39:11 AM] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--upgrade.custhelp.com/
+[INFO ][24-Feb-2023 10:39:15 AM] Selenium_Wrapper.enterText:(311) - Entering Text :automation_testing in WebElement :[[ChromeDriver: chrome on WINDOWS (8366bc0ba6e5b012b30afae931e956a6)] -> id: rn_LoginForm_2_Username]
+[INFO ][24-Feb-2023 10:39:16 AM] Selenium_Wrapper.enterText:(311) - Entering Text :Soft@123 in WebElement :[[ChromeDriver: chrome on WINDOWS (8366bc0ba6e5b012b30afae931e956a6)] -> id: rn_LoginForm_2_Password]
+[INFO ][24-Feb-2023 10:39:24 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (8366bc0ba6e5b012b30afae931e956a6)] -> id: rn_LoginForm_2_Submit]
+[INFO ][24-Feb-2023 10:39:34 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (8366bc0ba6e5b012b30afae931e956a6)] -> xpath: //input[@type='search']]
+[INFO ][24-Feb-2023 10:39:35 AM] Selenium_Wrapper.enterText:(311) - Entering Text :Flexible Work in WebElement :[[ChromeDriver: chrome on WINDOWS (8366bc0ba6e5b012b30afae931e956a6)] -> xpath: //input[@type='search']]
+[INFO ][24-Feb-2023 10:39:52 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (8366bc0ba6e5b012b30afae931e956a6)] -> xpath: //ul[@aria-label='Suggested Search']//li[normalize-space()= 'Flexible Work' ]]
+[INFO ][24-Feb-2023 10:39:59 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (8366bc0ba6e5b012b30afae931e956a6)] -> xpath: //div[@class='rn_SearchResultContent']//a[text()='Flexible Work']]
+[INFO ][24-Feb-2023 10:40:24 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (8366bc0ba6e5b012b30afae931e956a6)] -> xpath: //button[@class='rn_RecommendContentButton p-0']]
+[ERROR][24-Feb-2023 10:40:25 AM] FeedbackAdmin.testFeedbackPage:(81) - Request Updates, Comments, Thumbs Up & Down Test is un-successfull

@@ -1,0 +1,29 @@
+[INFO ][08-Aug-2024 11:32:21 AM] Selenium_Wrapper.openBrowser:(54) - Opening chrome browser.
+[INFO ][08-Aug-2024 11:32:29 AM] Selenium_Wrapper.enterURL:(88) - Entering url :https://macu1--tst1.custhelp.com/app/home
+[INFO ][08-Aug-2024 11:32:33 AM] Selenium_Wrapper.enterText:(317) - Entering Text :swamyk in WebElement :[[ChromeDriver: chrome on WINDOWS (689c8bde98bfe45771327edb3689083a)] -> id: rn_LoginForm_2_Username]
+[INFO ][08-Aug-2024 11:32:34 AM] Selenium_Wrapper.enterText:(317) - Entering Text :Soft@123 in WebElement :[[ChromeDriver: chrome on WINDOWS (689c8bde98bfe45771327edb3689083a)] -> id: rn_LoginForm_2_Password]
+[INFO ][08-Aug-2024 11:32:39 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (689c8bde98bfe45771327edb3689083a)] -> id: rn_LoginForm_2_Submit]
+[INFO ][08-Aug-2024 11:32:57 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (689c8bde98bfe45771327edb3689083a)] -> xpath: //a[text()='browse all PAGES']]
+[INFO ][08-Aug-2024 11:33:09 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (689c8bde98bfe45771327edb3689083a)] -> xpath: (//div[@id='category']//following-sibling::ul//a)[1]]
+[INFO ][08-Aug-2024 11:33:28 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (689c8bde98bfe45771327edb3689083a)] -> xpath: //a[text()='Business Accounts']]
+[INFO ][08-Aug-2024 11:33:33 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (689c8bde98bfe45771327edb3689083a)] -> xpath: (//div[@id='category']//following-sibling::ul//a)[1]]
+[INFO ][08-Aug-2024 11:33:46 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (689c8bde98bfe45771327edb3689083a)] -> xpath: //a[text()='Employee Experience']]
+[INFO ][08-Aug-2024 11:34:00 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (689c8bde98bfe45771327edb3689083a)] -> xpath: //a[text()='Personal Accounts']]
+[INFO ][08-Aug-2024 11:34:05 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (689c8bde98bfe45771327edb3689083a)] -> xpath: (//div[@id='category']//following-sibling::ul//a)[1]]
+[INFO ][08-Aug-2024 11:34:18 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (689c8bde98bfe45771327edb3689083a)] -> xpath: //a[text()='Services']]
+[ERROR][08-Aug-2024 11:34:34 AM] Selenium_Wrapper.waitTillVisible:(270) - org.openqa.selenium.StaleElementReferenceException: stale element reference: stale element not found in the current frame
+  (Session info: chrome=127.0.6533.90)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SC-CAF-CND84305', ip: '192.168.1.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 127.0.6533.90, chrome: {chromedriverVersion: 127.0.6533.72 (9755e24ca85a..., userDataDir: C:\Users\SWAMYK~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56090}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 689c8bde98bfe45771327edb3689083a
+[ERROR][08-Aug-2024 11:34:35 AM] BrowseAllPages.testFilterByProductAndFilterByCategory:(213) - Filter By Product And Filter By Category testing Test is un-successfull
+[INFO ][08-Aug-2024 11:34:53 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (689c8bde98bfe45771327edb3689083a)] -> xpath: //a[text()='VIEW A-Z INDEX']]
+[INFO ][08-Aug-2024 11:35:15 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (689c8bde98bfe45771327edb3689083a)] -> xpath: //div[@id='rn_A_ZIndex_2']//ul[@class='indexing_list']//li//a[text()='D']]
+[INFO ][08-Aug-2024 11:35:29 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (689c8bde98bfe45771327edb3689083a)] -> xpath: //div[@id='rn_A_ZIndex_2']//ul[@class='indexing_list']//li//a[text()='J']]
+[INFO ][08-Aug-2024 11:35:44 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (689c8bde98bfe45771327edb3689083a)] -> xpath: //div[@id='rn_A_ZIndex_2']//ul[@class='indexing_list']//li//a[text()='P']]
+[INFO ][08-Aug-2024 11:35:58 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (689c8bde98bfe45771327edb3689083a)] -> xpath: //div[@id='rn_A_ZIndex_2']//ul[@class='indexing_list']//li//a[text()='V']]
+[INFO ][08-Aug-2024 11:36:12 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (689c8bde98bfe45771327edb3689083a)] -> xpath: //div[@id='rn_A_ZIndex_2']//ul[@class='indexing_list']//li//a[text()='0-9']]
+[INFO ][08-Aug-2024 11:36:34 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (689c8bde98bfe45771327edb3689083a)] -> xpath: (//div[@class='rn_A_ZIndex']//div[@class='index-content']//a)[1]]

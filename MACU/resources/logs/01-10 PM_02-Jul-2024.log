@@ -1,0 +1,12 @@
+[INFO ][02-Jul-2024 13:10:51 PM] Selenium_Wrapper.openBrowser:(54) - Opening chrome browser.
+[INFO ][02-Jul-2024 13:10:57 PM] Selenium_Wrapper.enterURL:(88) - Entering url :https://macu1--tst1.custhelp.com/app/home
+[INFO ][02-Jul-2024 13:11:01 PM] Selenium_Wrapper.enterText:(317) - Entering Text :swamyk in WebElement :[[ChromeDriver: chrome on WINDOWS (3da0c4729cf43c9cbb4602b03d26b66e)] -> id: rn_LoginForm_2_Username]
+[INFO ][02-Jul-2024 13:11:03 PM] Selenium_Wrapper.enterText:(317) - Entering Text :Soft@123 in WebElement :[[ChromeDriver: chrome on WINDOWS (3da0c4729cf43c9cbb4602b03d26b66e)] -> id: rn_LoginForm_2_Password]
+[INFO ][02-Jul-2024 13:11:07 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (3da0c4729cf43c9cbb4602b03d26b66e)] -> id: rn_LoginForm_2_Submit]
+[INFO ][02-Jul-2024 13:11:13 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (3da0c4729cf43c9cbb4602b03d26b66e)] -> xpath: //input[@type='search']]
+[INFO ][02-Jul-2024 13:11:14 PM] Selenium_Wrapper.enterText:(317) - Entering Text :Badge Protocol in WebElement :[[ChromeDriver: chrome on WINDOWS (3da0c4729cf43c9cbb4602b03d26b66e)] -> xpath: //input[@type='search']]
+[INFO ][02-Jul-2024 13:11:16 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (3da0c4729cf43c9cbb4602b03d26b66e)] -> xpath: //input[@type='search']]
+[INFO ][02-Jul-2024 13:11:34 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (3da0c4729cf43c9cbb4602b03d26b66e)] -> xpath: (//div[@class='yui3-aclist-content']//li//li)[1]]
+[ERROR][02-Jul-2024 13:11:38 PM] FeedbackAdmin.testSearchanArticleSection:(41) - Jump to section Test is un-successfull
+[INFO ][02-Jul-2024 13:11:54 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (3da0c4729cf43c9cbb4602b03d26b66e)] -> xpath: //button[@class='rn_RecommendContentButton p-0']]
+[ERROR][02-Jul-2024 13:11:55 PM] FeedbackAdmin.testFeedbackPage:(76) - Request Updates, Comments, Thumbs Up & Down Test is un-successfull

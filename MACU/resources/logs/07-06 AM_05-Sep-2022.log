@@ -1,0 +1,14 @@
+[INFO ][05-Sep-2022 07:06:47 AM] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][05-Sep-2022 07:06:51 AM] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--upgrade.custhelp.com/AgentWeb/
+[INFO ][05-Sep-2022 07:06:55 AM] Selenium_Wrapper.enterText:(311) - Entering Text :RNT_pramod in WebElement :[[ChromeDriver: chrome on WINDOWS (ff2b6da1a37168578d06c918f9eb0720)] -> id: username]
+[INFO ][05-Sep-2022 07:06:56 AM] Selenium_Wrapper.enterText:(311) - Entering Text :Welcome123 in WebElement :[[ChromeDriver: chrome on WINDOWS (ff2b6da1a37168578d06c918f9eb0720)] -> id: password]
+[INFO ][05-Sep-2022 07:07:12 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (ff2b6da1a37168578d06c918f9eb0720)] -> id: loginbutton]
+[ERROR][05-Sep-2022 07:07:23 AM] CreateNewArticleFlow.testNavigateToArticleFlow:(40) - Navigate To Article un-successfull
+[ERROR][05-Sep-2022 07:07:23 AM] CreateNewArticleFlow.testCreateArticleFlow:(295) - Create Article  un-successfull
+[ERROR][05-Sep-2022 07:07:29 AM] CreateNewArticleFlow.testPublishArticleFlow:(345) - Publish Article un-successfull
+[INFO ][05-Sep-2022 07:07:30 AM] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][05-Sep-2022 07:07:35 AM] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--upgrade.custhelp.com/
+[INFO ][05-Sep-2022 07:07:39 AM] Selenium_Wrapper.enterText:(311) - Entering Text :pramodk in WebElement :[[ChromeDriver: chrome on WINDOWS (22dcd8788425b7166af9783a6bff03e6)] -> id: rn_LoginForm_2_Username]
+[INFO ][05-Sep-2022 07:07:40 AM] Selenium_Wrapper.enterText:(311) - Entering Text :Soft@123 in WebElement :[[ChromeDriver: chrome on WINDOWS (22dcd8788425b7166af9783a6bff03e6)] -> id: rn_LoginForm_2_Password]
+[INFO ][05-Sep-2022 07:07:48 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (22dcd8788425b7166af9783a6bff03e6)] -> id: rn_LoginForm_2_Submit]
+[INFO ][05-Sep-2022 07:08:14 AM] Selenium_Wrapper.closeCurrentBrowser:(651) - Closing the current Browser

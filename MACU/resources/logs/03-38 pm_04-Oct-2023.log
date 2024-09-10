@@ -1,0 +1,28 @@
+[INFO ][04-Oct-2023 15:38:16 pm] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][04-Oct-2023 15:38:23 pm] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--tst1.custhelp.com/app/home
+[INFO ][04-Oct-2023 15:38:27 pm] Selenium_Wrapper.enterText:(311) - Entering Text :swamyk in WebElement :[[ChromeDriver: chrome on WINDOWS (d9aca2bac318d9cc1e6b441cdc06b742)] -> id: rn_LoginForm_2_Username]
+[INFO ][04-Oct-2023 15:38:29 pm] Selenium_Wrapper.enterText:(311) - Entering Text :Soft@123 in WebElement :[[ChromeDriver: chrome on WINDOWS (d9aca2bac318d9cc1e6b441cdc06b742)] -> id: rn_LoginForm_2_Password]
+[INFO ][04-Oct-2023 15:38:36 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (d9aca2bac318d9cc1e6b441cdc06b742)] -> id: rn_LoginForm_2_Submit]
+[INFO ][04-Oct-2023 15:38:47 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (d9aca2bac318d9cc1e6b441cdc06b742)] -> xpath: //div[@class='dropdown']]
+[INFO ][04-Oct-2023 15:38:56 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (d9aca2bac318d9cc1e6b441cdc06b742)] -> xpath: //a[text()='My Feedback']]
+[INFO ][04-Oct-2023 15:38:58 pm] Selenium_Wrapper.enterText:(311) - Entering Text :Business Auto Loan - ALPS 1.0 in WebElement :[[ChromeDriver: chrome on WINDOWS (d9aca2bac318d9cc1e6b441cdc06b742)] -> xpath: //input[@placeholder='Search Your Feedback Report']]
+[INFO ][04-Oct-2023 15:39:11 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (d9aca2bac318d9cc1e6b441cdc06b742)] -> xpath: //div[@class='rn_SearchInput1 mt-3']//span[@class='btn-srch-icon']//i[@class='fa fa-search']]
+[ERROR][04-Oct-2023 15:39:19 pm] Selenium_Wrapper.highlightWebElement:(417) - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//tr[@data-yui3-record='model_11']//td[@headers='Grid_6_c1']/a"}
+  (Session info: chrome=117.0.5938.150)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'CAF-QA-SWAMYK', ip: '192.168.0.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 117.0.5938.150, chrome: {chromedriverVersion: 117.0.5938.92 (67649b10b92b..., userDataDir: C:\Users\swamyk\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63686}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d9aca2bac318d9cc1e6b441cdc06b742
+*** Element info: {Using=xpath, value=//tr[@data-yui3-record='model_11']//td[@headers='Grid_6_c1']/a}
+[ERROR][04-Oct-2023 15:39:22 pm] Selenium_Wrapper.highlightWebElement:(417) - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//td[normalize-space()='UNRESOLVED']"}
+  (Session info: chrome=117.0.5938.150)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'CAF-QA-SWAMYK', ip: '192.168.0.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 117.0.5938.150, chrome: {chromedriverVersion: 117.0.5938.92 (67649b10b92b..., userDataDir: C:\Users\swamyk\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63686}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d9aca2bac318d9cc1e6b441cdc06b742
+*** Element info: {Using=xpath, value=//td[normalize-space()='UNRESOLVED']}
+[ERROR][04-Oct-2023 15:39:27 pm] MyFeedback.testMyFeedbackStatus:(159) - My Feedback Article Status in CP Test is un-successfull

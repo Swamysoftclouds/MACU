@@ -1,0 +1,31 @@
+[INFO ][24-Feb-2023 08:12:15 AM] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][24-Feb-2023 08:12:18 AM] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--upgrade.custhelp.com/
+[ERROR][24-Feb-2023 08:12:22 AM] MACU_Wrapper.signIntoCP:(23) - Error in the signin process
+[ERROR][24-Feb-2023 08:12:29 AM] AnswerVotingFeedbackReport.testSearchanArticle:(40) - Search an Article in CP is un-successfull
+[ERROR][24-Feb-2023 08:12:32 AM] Selenium_Wrapper.highlightWebElement:(417) - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='main_image_div']//div[@class='thumbs_up_down'][2]"}
+  (Session info: chrome=110.0.5481.177)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'QA-SWAMYK', ip: '192.168.0.4', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 110.0.5481.177, chrome: {chromedriverVersion: 110.0.5481.77 (65ed616c6e8e..., userDataDir: C:\Users\SWAMYK~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:58107}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: bcd47ffa45eefac5f09713e3a7b5a7af
+*** Element info: {Using=xpath, value=//div[@class='main_image_div']//div[@class='thumbs_up_down'][2]}
+[ERROR][24-Feb-2023 08:12:38 AM] AnswerVotingFeedbackReport.testFeedbackPage:(62) - Thumbs Up & Down Test is un-successfull
+[ERROR][24-Feb-2023 08:12:45 AM] AnswerVotingFeedbackReport.testMyFeedbackStatus:(97) - My Feedback Article Status in CP Test is un-successfull
+[INFO ][24-Feb-2023 08:12:46 AM] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][24-Feb-2023 08:12:54 AM] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--upgrade.custhelp.com/AgentWeb/
+[INFO ][24-Feb-2023 08:12:58 AM] Selenium_Wrapper.enterText:(311) - Entering Text :automation_testing in WebElement :[[ChromeDriver: chrome on WINDOWS (0ca9c0c89c054894dc6f4401cf0f3232)] -> id: username]
+[INFO ][24-Feb-2023 08:13:00 AM] Selenium_Wrapper.enterText:(311) - Entering Text :Welcome123 in WebElement :[[ChromeDriver: chrome on WINDOWS (0ca9c0c89c054894dc6f4401cf0f3232)] -> id: password]
+[INFO ][24-Feb-2023 08:13:19 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (0ca9c0c89c054894dc6f4401cf0f3232)] -> id: loginbutton]
+[INFO ][24-Feb-2023 08:13:40 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (0ca9c0c89c054894dc6f4401cf0f3232)] -> id: navigationSetBtn]
+[INFO ][24-Feb-2023 08:13:47 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (0ca9c0c89c054894dc6f4401cf0f3232)] -> xpath: (//div[text()='Analytics']//a)]
+[INFO ][24-Feb-2023 08:13:52 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (0ca9c0c89c054894dc6f4401cf0f3232)] -> xpath: //span[text()='Reports Explorer']]
+[INFO ][24-Feb-2023 08:13:57 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (0ca9c0c89c054894dc6f4401cf0f3232)] -> xpath: //div[text()='Public Reports']]
+[INFO ][24-Feb-2023 08:14:03 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (0ca9c0c89c054894dc6f4401cf0f3232)] -> xpath: //div[text()='MACU CUSTOM REPORTS']]
+[INFO ][24-Feb-2023 08:14:08 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (0ca9c0c89c054894dc6f4401cf0f3232)] -> xpath: //div[text()='SoftClouds']]
+[INFO ][24-Feb-2023 08:14:13 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (0ca9c0c89c054894dc6f4401cf0f3232)] -> xpath: //div[text()='OKCS']]
+[ERROR][24-Feb-2023 08:14:24 AM] AnswerVotingFeedbackReport.testSelectingandGivingAnswerstoReportFlow:(238) - Selecting and Giving Asnwers to Report  un-successfull
+[INFO ][24-Feb-2023 08:14:33 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (0ca9c0c89c054894dc6f4401cf0f3232)] -> xpath: //body//oj-avatar[@initials='[[userMenuLabel]]']]
+[INFO ][24-Feb-2023 08:14:40 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (0ca9c0c89c054894dc6f4401cf0f3232)] -> xpath: //a//span[text()='Sign Out']]
+[INFO ][24-Feb-2023 08:14:45 AM] Selenium_Wrapper.closeCurrentBrowser:(651) - Closing the current Browser

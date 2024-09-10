@@ -1,0 +1,17 @@
+[INFO ][05-Jan-2024 09:35:51 AM] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][05-Jan-2024 09:35:53 AM] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--tst1.custhelp.com/app/home
+[ERROR][05-Jan-2024 09:35:57 AM] MACU_Wrapper.signIntoCP:(23) - Error in the signin process
+[ERROR][05-Jan-2024 09:36:04 AM] AnswerVotingFeedbackReport.testSearchanArticle:(34) - Search an Article in CP is un-successfull
+[ERROR][05-Jan-2024 09:36:04 AM] Selenium_Wrapper.scrollToWebElement:(487) - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='rn_SearchInput']//input[@type='search']"}
+  (Session info: chrome=120.0.6099.199)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'CAF-QA-SWAMYK', ip: '192.168.0.4', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.199, chrome: {chromedriverVersion: 119.0.6045.105 (38c72552c5e..., userDataDir: C:\Users\swamyk\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64960}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e1153573bb47b58d6334f40990435197
+*** Element info: {Using=xpath, value=//div[@class='rn_SearchInput']//input[@type='search']}
+[ERROR][05-Jan-2024 09:36:04 AM] AnswerVotingFeedbackReport.testFeedbackPage:(57) - Thumbs Up & Down Test is un-successfull
+[ERROR][05-Jan-2024 09:36:11 AM] AnswerVotingFeedbackReport.testMyFeedbackStatus:(92) - My Feedback Article Status in CP Test is un-successfull
+[INFO ][05-Jan-2024 09:36:12 AM] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[ERROR][05-Jan-2024 09:36:21 AM] MACU_Wrapper.signIntoBUI:(37) - Error in the loginin process

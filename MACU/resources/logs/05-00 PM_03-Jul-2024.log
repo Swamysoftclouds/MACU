@@ -1,0 +1,14 @@
+[INFO ][03-Jul-2024 17:00:09 PM] Selenium_Wrapper.openBrowser:(54) - Opening chrome browser.
+[INFO ][03-Jul-2024 17:00:19 PM] Selenium_Wrapper.enterURL:(88) - Entering url :https://macu1--tst1.custhelp.com/app/home
+[INFO ][03-Jul-2024 17:00:23 PM] Selenium_Wrapper.enterText:(317) - Entering Text :swamyk in WebElement :[[ChromeDriver: chrome on WINDOWS (ec60640c38f010d150c1d8ae77fa7194)] -> id: rn_LoginForm_2_Username]
+[INFO ][03-Jul-2024 17:00:24 PM] Selenium_Wrapper.enterText:(317) - Entering Text :Soft@123 in WebElement :[[ChromeDriver: chrome on WINDOWS (ec60640c38f010d150c1d8ae77fa7194)] -> id: rn_LoginForm_2_Password]
+[INFO ][03-Jul-2024 17:00:29 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (ec60640c38f010d150c1d8ae77fa7194)] -> id: rn_LoginForm_2_Submit]
+[INFO ][03-Jul-2024 17:00:45 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (ec60640c38f010d150c1d8ae77fa7194)] -> xpath: //input[@type='search']]
+[INFO ][03-Jul-2024 17:00:47 PM] Selenium_Wrapper.enterText:(317) - Entering Text :Business Use Auto Loan in WebElement :[[ChromeDriver: chrome on WINDOWS (ec60640c38f010d150c1d8ae77fa7194)] -> xpath: //input[@type='search']]
+[INFO ][03-Jul-2024 17:00:58 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (ec60640c38f010d150c1d8ae77fa7194)] -> xpath: (//div[@class='yui3-aclist-content']//li//li)[1]]
+[INFO ][03-Jul-2024 17:01:03 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (ec60640c38f010d150c1d8ae77fa7194)] -> xpath: (//div[@class='rn_SearchResultContent']//a)[1]]
+[INFO ][03-Jul-2024 17:01:11 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (ec60640c38f010d150c1d8ae77fa7194)] -> xpath: //div[@class='main_image_div']//div[@class='thumbs_up_down'][2]]
+[INFO ][03-Jul-2024 17:01:21 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (ec60640c38f010d150c1d8ae77fa7194)] -> xpath: //textarea[@class='rn_DocumentTextArea']]
+[INFO ][03-Jul-2024 17:01:25 PM] Selenium_Wrapper.enterText:(317) - Entering Text :Flexible Work - ThumbDown Comments in WebElement :[[ChromeDriver: chrome on WINDOWS (ec60640c38f010d150c1d8ae77fa7194)] -> xpath: //textarea[@class='rn_DocumentTextArea']]
+[ERROR][03-Jul-2024 17:01:27 PM] ThumbsDownFeedBack.testFeedbackPage:(72) - Request Updates, Comments, Thumbs Up & Down Test is un-successfull
+[INFO ][03-Jul-2024 17:01:31 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (ec60640c38f010d150c1d8ae77fa7194)] -> xpath: //div[@class='dropdown']]

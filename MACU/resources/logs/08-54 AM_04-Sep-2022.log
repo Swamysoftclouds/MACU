@@ -1,0 +1,24 @@
+[INFO ][04-Sep-2022 08:54:12 AM] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][04-Sep-2022 08:54:15 AM] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--upgrade.custhelp.com/AgentWeb/
+[INFO ][04-Sep-2022 08:54:20 AM] Selenium_Wrapper.enterText:(311) - Entering Text :RNT_pramod in WebElement :[[ChromeDriver: chrome on WINDOWS (71cc2115627d1adbb0fe7787a2196341)] -> id: username]
+[INFO ][04-Sep-2022 08:54:21 AM] Selenium_Wrapper.enterText:(311) - Entering Text :Welcome123 in WebElement :[[ChromeDriver: chrome on WINDOWS (71cc2115627d1adbb0fe7787a2196341)] -> id: password]
+[INFO ][04-Sep-2022 08:54:53 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (71cc2115627d1adbb0fe7787a2196341)] -> id: loginbutton]
+[INFO ][04-Sep-2022 08:55:13 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (71cc2115627d1adbb0fe7787a2196341)] -> id: navigationSetBtn]
+[INFO ][04-Sep-2022 08:55:18 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (71cc2115627d1adbb0fe7787a2196341)] -> xpath: (//div[text()='Analytics']//a)]
+[INFO ][04-Sep-2022 08:55:23 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (71cc2115627d1adbb0fe7787a2196341)] -> xpath: //span[text()='Reports Explorer']]
+[INFO ][04-Sep-2022 08:55:29 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (71cc2115627d1adbb0fe7787a2196341)] -> xpath: //div[text()='Public Reports']]
+[INFO ][04-Sep-2022 08:55:34 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (71cc2115627d1adbb0fe7787a2196341)] -> xpath: //div[text()='MACU CUSTOM REPORTS']]
+[INFO ][04-Sep-2022 08:55:39 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (71cc2115627d1adbb0fe7787a2196341)] -> xpath: //div[text()='SoftClouds']]
+[INFO ][04-Sep-2022 08:55:45 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (71cc2115627d1adbb0fe7787a2196341)] -> xpath: //div[text()='OKCS']]
+[INFO ][04-Sep-2022 08:55:57 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (71cc2115627d1adbb0fe7787a2196341)] -> xpath: (//span[text()='Search'])[3]]
+[INFO ][04-Sep-2022 08:56:03 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (71cc2115627d1adbb0fe7787a2196341)] -> xpath: (//span[contains(@title,'Thumbsup Count')]//a)[2]]
+[INFO ][04-Sep-2022 08:56:13 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (71cc2115627d1adbb0fe7787a2196341)] -> xpath: (//div[@class='breadcrumbContainer']//ul//li//a)[1]]
+[INFO ][04-Sep-2022 08:56:24 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (71cc2115627d1adbb0fe7787a2196341)] -> xpath: (//div[@class='primary-tab-header']//ul//li)[2]//span//a//i]
+[ERROR][04-Sep-2022 08:56:34 AM] ThumbsUpAndThumbsDownFeedback.testSelectingandVerifyingFlow:(143) - Selecting and Verifying Test is un-successfull
+[ERROR][04-Sep-2022 08:58:24 AM] Selenium_Wrapper.getWebElement:(124) - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of [[ChromeDriver: chrome on WINDOWS (71cc2115627d1adbb0fe7787a2196341)] -> xpath: //body//span[@id='initialsText']] (tried for 100 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'QA-SWAMYK', ip: '192.168.0.4', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.102, chrome: {chromedriverVersion: 105.0.5195.52 (412c95e51883..., userDataDir: C:\Users\SWAMYK~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:50546}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 71cc2115627d1adbb0fe7787a2196341
+[ERROR][04-Sep-2022 08:58:24 AM] ThumbsUpAndThumbsDownFeedback.testSignout:(160) - Logout/SignOut un-successfull

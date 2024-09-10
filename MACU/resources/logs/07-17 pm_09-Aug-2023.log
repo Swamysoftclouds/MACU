@@ -1,0 +1,22 @@
+[INFO ][09-Aug-2023 19:17:56 pm] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][09-Aug-2023 19:18:01 pm] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--tst1.custhelp.com/app/home
+[INFO ][09-Aug-2023 19:18:05 pm] Selenium_Wrapper.enterText:(311) - Entering Text :swamyk in WebElement :[[ChromeDriver: chrome on WINDOWS (b6c3fa05d790105a523083bde719dccb)] -> id: rn_LoginForm_2_Username]
+[INFO ][09-Aug-2023 19:18:06 pm] Selenium_Wrapper.enterText:(311) - Entering Text :Soft@123 in WebElement :[[ChromeDriver: chrome on WINDOWS (b6c3fa05d790105a523083bde719dccb)] -> id: rn_LoginForm_2_Password]
+[INFO ][09-Aug-2023 19:18:14 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (b6c3fa05d790105a523083bde719dccb)] -> id: rn_LoginForm_2_Submit]
+[INFO ][09-Aug-2023 19:18:35 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (b6c3fa05d790105a523083bde719dccb)] -> xpath: //a[text()='browse all PAGES']]
+[INFO ][09-Aug-2023 19:19:02 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (b6c3fa05d790105a523083bde719dccb)] -> xpath: //a[text()='Business Accounts']]
+[INFO ][09-Aug-2023 19:19:17 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (b6c3fa05d790105a523083bde719dccb)] -> xpath: //a[text()='Employee Experience']]
+[INFO ][09-Aug-2023 19:19:33 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (b6c3fa05d790105a523083bde719dccb)] -> xpath: //a[text()='Personal Accounts']]
+[INFO ][09-Aug-2023 19:19:49 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (b6c3fa05d790105a523083bde719dccb)] -> xpath: //a[text()='Services']]
+[INFO ][09-Aug-2023 19:20:05 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (b6c3fa05d790105a523083bde719dccb)] -> xpath: //a[text()='Technology']]
+[INFO ][09-Aug-2023 19:20:29 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (b6c3fa05d790105a523083bde719dccb)] -> xpath: //a[text()='VIEW A-Z INDEX']]
+[INFO ][09-Aug-2023 19:20:50 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (b6c3fa05d790105a523083bde719dccb)] -> xpath: //div[@id='rn_A_ZIndex_2']//ul[@class='indexing_list']//li//a[text()='D']]
+[INFO ][09-Aug-2023 19:21:04 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (b6c3fa05d790105a523083bde719dccb)] -> xpath: //div[@id='rn_A_ZIndex_2']//ul[@class='indexing_list']//li//a[text()='J']]
+[INFO ][09-Aug-2023 19:21:17 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (b6c3fa05d790105a523083bde719dccb)] -> xpath: //div[@id='rn_A_ZIndex_2']//ul[@class='indexing_list']//li//a[text()='P']]
+[INFO ][09-Aug-2023 19:21:30 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (b6c3fa05d790105a523083bde719dccb)] -> xpath: //div[@id='rn_A_ZIndex_2']//ul[@class='indexing_list']//li//a[text()='V']]
+[INFO ][09-Aug-2023 19:21:44 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (b6c3fa05d790105a523083bde719dccb)] -> xpath: //div[@id='rn_A_ZIndex_2']//ul[@class='indexing_list']//li//a[text()='0-9']]
+[INFO ][09-Aug-2023 19:22:08 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (b6c3fa05d790105a523083bde719dccb)] -> xpath: (//div[@class='rn_A_ZIndex']//div[@class='index-content']//a)[1]]
+[INFO ][09-Aug-2023 19:22:35 pm] Selenium_Wrapper.enterText:(311) - Entering Text :100% First Time Home Buyer Loan in WebElement :[[ChromeDriver: chrome on WINDOWS (b6c3fa05d790105a523083bde719dccb)] -> xpath: //input[@type='search']]
+[INFO ][09-Aug-2023 19:23:23 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (b6c3fa05d790105a523083bde719dccb)] -> xpath: //div[@id='rn_PageTitle']//a[text()='BROWSE ALL PAGES']]
+[INFO ][09-Aug-2023 19:23:41 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (b6c3fa05d790105a523083bde719dccb)] -> xpath: //a[text()='Knowledge Center']]
+[INFO ][09-Aug-2023 19:23:44 pm] Selenium_Wrapper.closeCurrentBrowser:(651) - Closing the current Browser

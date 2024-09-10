@@ -1,0 +1,28 @@
+[ERROR][27-Mar-2024 08:20:42 AM] Selenium_Wrapper.openBrowser:(79) - org.openqa.selenium.SessionNotCreatedException: session not created: This version of ChromeDriver only supports Chrome version 121
+Current browser version is 123.0.6312.59 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'CAF-QA-SWAMYK', ip: '192.168.0.4', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.2'
+Driver info: driver.version: ChromeDriver
+remote stacktrace: 	GetHandleVerifier [0x00007FF7CE855E42+3538674]
+	(No symbol) [0x00007FF7CE474C02]
+	(No symbol) [0x00007FF7CE325AEB]
+	(No symbol) [0x00007FF7CE35C512]
+	(No symbol) [0x00007FF7CE35B872]
+	(No symbol) [0x00007FF7CE355106]
+	(No symbol) [0x00007FF7CE3521C8]
+	(No symbol) [0x00007FF7CE3994B9]
+	(No symbol) [0x00007FF7CE38EE53]
+	(No symbol) [0x00007FF7CE35F514]
+	(No symbol) [0x00007FF7CE360631]
+	GetHandleVerifier [0x00007FF7CE886CAD+3738973]
+	GetHandleVerifier [0x00007FF7CE8DC506+4089270]
+	GetHandleVerifier [0x00007FF7CE8D4823+4057299]
+	GetHandleVerifier [0x00007FF7CE5A5C49+720121]
+	(No symbol) [0x00007FF7CE48126F]
+	(No symbol) [0x00007FF7CE47C304]
+	(No symbol) [0x00007FF7CE47C432]
+	(No symbol) [0x00007FF7CE46BD04]
+	BaseThreadInitThunk [0x00007FFC27E07344+20]
+	RtlUserThreadStart [0x00007FFC299C26B1+33]
+
+[ERROR][27-Mar-2024 08:20:42 AM] ActionsDashboardReport.testSignIn:(22) - Login/SignIn un-successfull

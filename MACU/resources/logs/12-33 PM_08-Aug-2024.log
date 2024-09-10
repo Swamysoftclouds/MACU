@@ -1,0 +1,48 @@
+[INFO ][08-Aug-2024 12:33:20 PM] Selenium_Wrapper.openBrowser:(54) - Opening chrome browser.
+[INFO ][08-Aug-2024 12:33:26 PM] Selenium_Wrapper.enterURL:(88) - Entering url :https://macu1--tst1.custhelp.com/app/home
+[INFO ][08-Aug-2024 12:33:31 PM] Selenium_Wrapper.enterText:(317) - Entering Text :swamyk in WebElement :[[ChromeDriver: chrome on WINDOWS (32ebf360b57d338fcf1e58a63ff38c63)] -> id: rn_LoginForm_2_Username]
+[INFO ][08-Aug-2024 12:33:32 PM] Selenium_Wrapper.enterText:(317) - Entering Text :Soft@123 in WebElement :[[ChromeDriver: chrome on WINDOWS (32ebf360b57d338fcf1e58a63ff38c63)] -> id: rn_LoginForm_2_Password]
+[INFO ][08-Aug-2024 12:33:36 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (32ebf360b57d338fcf1e58a63ff38c63)] -> id: rn_LoginForm_2_Submit]
+[INFO ][08-Aug-2024 12:33:44 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (32ebf360b57d338fcf1e58a63ff38c63)] -> xpath: //input[@type='search']]
+[INFO ][08-Aug-2024 12:33:46 PM] Selenium_Wrapper.enterText:(317) - Entering Text :Business Use Auto Loan in WebElement :[[ChromeDriver: chrome on WINDOWS (32ebf360b57d338fcf1e58a63ff38c63)] -> xpath: //input[@type='search']]
+[INFO ][08-Aug-2024 12:33:48 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (32ebf360b57d338fcf1e58a63ff38c63)] -> xpath: //input[@type='search']]
+[ERROR][08-Aug-2024 12:35:31 PM] Selenium_Wrapper.getWebElement:(130) - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of [[ChromeDriver: chrome on WINDOWS (32ebf360b57d338fcf1e58a63ff38c63)] -> xpath: (//div[@class='yui3-aclist-content']//li//li)[1]] (tried for 100 second(s) with 500 milliseconds interval)
+[ERROR][08-Aug-2024 12:35:31 PM] Selenium_Wrapper.highlightWebElement:(423) - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of [[ChromeDriver: chrome on WINDOWS (32ebf360b57d338fcf1e58a63ff38c63)] -> xpath: (//div[@class='yui3-aclist-content']//li//li)[1]] (tried for 100 second(s) with 500 milliseconds interval)
+[ERROR][08-Aug-2024 12:35:35 PM] FeedbackAdmin.testSearchanArticleSection:(41) - Jump to section Test is un-successfull
+[ERROR][08-Aug-2024 12:35:38 PM] Selenium_Wrapper.scrollToWebElement:(493) - org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=127.0.6533.90)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SC-CAF-CND84305', ip: '192.168.1.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 127.0.6533.90, chrome: {chromedriverVersion: 127.0.6533.72 (9755e24ca85a..., userDataDir: C:\Users\SWAMYK~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59147}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 32ebf360b57d338fcf1e58a63ff38c63
+*** Element info: {Using=xpath, value=//button[@class='rn_RecommendContentButton p-0']}
+[ERROR][08-Aug-2024 12:35:38 PM] FeedbackAdmin.testFeedbackPage:(76) - Request Updates, Comments, Thumbs Up & Down Test is un-successfull
+[ERROR][08-Aug-2024 12:35:42 PM] FeedbackAdmin.testMyFeedbackStatus:(112) - My Feedback Article Status in CP Test is un-successfull
+[INFO ][08-Aug-2024 12:35:44 PM] Selenium_Wrapper.openBrowser:(54) - Opening chrome browser.
+[INFO ][08-Aug-2024 12:35:55 PM] Selenium_Wrapper.enterURL:(88) - Entering url :https://macu1--tst1.custhelp.com/AgentWeb/
+[INFO ][08-Aug-2024 12:35:59 PM] Selenium_Wrapper.enterText:(317) - Entering Text :automation_testing in WebElement :[[ChromeDriver: chrome on WINDOWS (92b127ccf06c1e9f7e5a96328abdc9ab)] -> id: username]
+[INFO ][08-Aug-2024 12:36:00 PM] Selenium_Wrapper.enterText:(317) - Entering Text :Welcome123 in WebElement :[[ChromeDriver: chrome on WINDOWS (92b127ccf06c1e9f7e5a96328abdc9ab)] -> id: password]
+[INFO ][08-Aug-2024 12:36:18 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (92b127ccf06c1e9f7e5a96328abdc9ab)] -> id: loginbutton]
+[ERROR][08-Aug-2024 12:36:55 PM] FeedbackAdmin.testNavigateToFeedBackAdminReportFlow:(136) - Navigate To Article un-successfull
+[ERROR][08-Aug-2024 12:36:58 PM] Selenium_Wrapper.highlightWebElement:(423) - org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=127.0.6533.90)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SC-CAF-CND84305', ip: '192.168.1.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 127.0.6533.90, chrome: {chromedriverVersion: 127.0.6533.72 (9755e24ca85a..., userDataDir: C:\Users\SWAMYK~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59509}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 92b127ccf06c1e9f7e5a96328abdc9ab
+*** Element info: {Using=xpath, value=//div[@class='explorer-right-panel']//div[@class='explorer-data-grid']//span[text()='Feedback Admin Report']}
+[ERROR][08-Aug-2024 12:36:58 PM] Selenium_Wrapper.doubleClick:(279) - org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=127.0.6533.90)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SC-CAF-CND84305', ip: '192.168.1.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 127.0.6533.90, chrome: {chromedriverVersion: 127.0.6533.72 (9755e24ca85a..., userDataDir: C:\Users\SWAMYK~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59509}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 92b127ccf06c1e9f7e5a96328abdc9ab
+*** Element info: {Using=xpath, value=//div[@class='explorer-right-panel']//div[@class='explorer-data-grid']//span[text()='Feedback Admin Report']}
+[ERROR][08-Aug-2024 12:36:58 PM] FeedbackAdmin.testSelectingandGivingAsnwerstoReportFlow:(186) - Selecting and Giving Asnwers to Report- un-successfull
+[ERROR][08-Aug-2024 12:37:10 PM] FeedbackAdmin.testSignout:(205) - Logout/SignOut un-successfull

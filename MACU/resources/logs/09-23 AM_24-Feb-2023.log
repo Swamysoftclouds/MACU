@@ -1,0 +1,16 @@
+[INFO ][24-Feb-2023 09:23:33 AM] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][24-Feb-2023 09:23:38 AM] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--upgrade.custhelp.com/AgentWeb/
+[INFO ][24-Feb-2023 09:23:42 AM] Selenium_Wrapper.enterText:(311) - Entering Text :automation_testing in WebElement :[[ChromeDriver: chrome on WINDOWS (7199db0a4b3201df037b3d5f4d5386e3)] -> id: username]
+[INFO ][24-Feb-2023 09:23:43 AM] Selenium_Wrapper.enterText:(311) - Entering Text :Welcome123 in WebElement :[[ChromeDriver: chrome on WINDOWS (7199db0a4b3201df037b3d5f4d5386e3)] -> id: password]
+[INFO ][24-Feb-2023 09:24:28 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (7199db0a4b3201df037b3d5f4d5386e3)] -> id: loginbutton]
+[INFO ][24-Feb-2023 09:24:40 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (7199db0a4b3201df037b3d5f4d5386e3)] -> id: navigationSetBtn]
+[INFO ][24-Feb-2023 09:24:45 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (7199db0a4b3201df037b3d5f4d5386e3)] -> xpath: //div[@automationid='Analytics']]
+[INFO ][24-Feb-2023 09:24:58 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (7199db0a4b3201df037b3d5f4d5386e3)] -> xpath: //div[@automationid='Analytics_Reports Explorer']//span[text()='Reports Explorer']]
+[INFO ][24-Feb-2023 09:25:13 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (7199db0a4b3201df037b3d5f4d5386e3)] -> xpath: //div[@aria-label='Public Reports'][text()='Public Reports']]
+[INFO ][24-Feb-2023 09:25:19 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (7199db0a4b3201df037b3d5f4d5386e3)] -> xpath: //div[@aria-label='MACU CUSTOM REPORTS'][text()='MACU CUSTOM REPORTS']]
+[INFO ][24-Feb-2023 09:25:24 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (7199db0a4b3201df037b3d5f4d5386e3)] -> xpath: //div[@aria-label='SoftClouds'][text()='SoftClouds']]
+[INFO ][24-Feb-2023 09:25:29 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (7199db0a4b3201df037b3d5f4d5386e3)] -> xpath: //div[@aria-label='OKCS'][text()='OKCS'][contains(@id,'ExplorerFolderLabelAnalyticsFolder103223')]]
+[ERROR][24-Feb-2023 09:25:38 AM] ActionsDashboardReport.testVisitorActionsDashboard:(128) - Select Actions Report in BUI Test is un-successfull
+[INFO ][24-Feb-2023 09:25:46 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (7199db0a4b3201df037b3d5f4d5386e3)] -> xpath: //body//oj-avatar[@initials='[[userMenuLabel]]']]
+[INFO ][24-Feb-2023 09:25:53 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (7199db0a4b3201df037b3d5f4d5386e3)] -> xpath: //a//span[text()='Sign Out']]
+[INFO ][24-Feb-2023 09:25:59 AM] Selenium_Wrapper.closeCurrentBrowser:(651) - Closing the current Browser

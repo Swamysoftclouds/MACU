@@ -1,0 +1,29 @@
+[ERROR][05-Feb-2024 14:39:20 PM] Selenium_Wrapper.openBrowser:(73) - org.openqa.selenium.SessionNotCreatedException: session not created: This version of ChromeDriver only supports Chrome version 119
+Current browser version is 121.0.6167.140 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'CAF-QA-SWAMYK', ip: '192.168.0.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: driver.version: ChromeDriver
+remote stacktrace: 	GetHandleVerifier [0x00007FF6BDBC82B2+55298]
+	(No symbol) [0x00007FF6BDB35E02]
+	(No symbol) [0x00007FF6BD9F05AB]
+	(No symbol) [0x00007FF6BDA23E72]
+	(No symbol) [0x00007FF6BDA232FE]
+	(No symbol) [0x00007FF6BDA1EC6C]
+	(No symbol) [0x00007FF6BDA1B30E]
+	(No symbol) [0x00007FF6BDA5A198]
+	(No symbol) [0x00007FF6BDA59CB0]
+	(No symbol) [0x00007FF6BDA51E83]
+	(No symbol) [0x00007FF6BDA2670A]
+	(No symbol) [0x00007FF6BDA27964]
+	GetHandleVerifier [0x00007FF6BDF40AAB+3694587]
+	GetHandleVerifier [0x00007FF6BDF9728E+4048862]
+	GetHandleVerifier [0x00007FF6BDF8F173+4015811]
+	GetHandleVerifier [0x00007FF6BDC647D6+695590]
+	(No symbol) [0x00007FF6BDB40CE8]
+	(No symbol) [0x00007FF6BDB3CF34]
+	(No symbol) [0x00007FF6BDB3D062]
+	(No symbol) [0x00007FF6BDB2D3A3]
+	BaseThreadInitThunk [0x00007FFF1B7C7344+20]
+	RtlUserThreadStart [0x00007FFF1BAA26B1+33]
+
+[ERROR][05-Feb-2024 14:39:20 PM] ThumbsUpAndThumbsDownFeedback.testSignIn:(21) - Login/SignIn un-successfull

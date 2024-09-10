@@ -1,0 +1,6 @@
+[INFO ][05-Jun-2024 10:53:24 AM] Selenium_Wrapper.openBrowser:(54) - Opening chrome browser.
+[INFO ][05-Jun-2024 10:53:42 AM] Selenium_Wrapper.enterURL:(88) - Entering url :https://macu1--tst1.custhelp.com/app/home
+[INFO ][05-Jun-2024 10:53:46 AM] Selenium_Wrapper.enterText:(317) - Entering Text :swamyk in WebElement :[[ChromeDriver: chrome on WINDOWS (06afef4e025106e032b0f6b896406cb1)] -> id: rn_LoginForm_2_Username]
+[INFO ][05-Jun-2024 10:53:48 AM] Selenium_Wrapper.enterText:(317) - Entering Text :Soft@123 in WebElement :[[ChromeDriver: chrome on WINDOWS (06afef4e025106e032b0f6b896406cb1)] -> id: rn_LoginForm_2_Password]
+[INFO ][05-Jun-2024 10:53:52 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (06afef4e025106e032b0f6b896406cb1)] -> id: rn_LoginForm_2_Submit]
+[ERROR][05-Jun-2024 10:57:36 AM] FeedbackAdmin.testSearchanArticleSection:(40) - Jump to section Test is un-successfull

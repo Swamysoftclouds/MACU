@@ -1,0 +1,28 @@
+[INFO ][03-Jul-2024 16:28:45 PM] Selenium_Wrapper.openBrowser:(54) - Opening chrome browser.
+[INFO ][03-Jul-2024 16:28:53 PM] Selenium_Wrapper.enterURL:(88) - Entering url :https://macu1--tst1.custhelp.com/app/home
+[INFO ][03-Jul-2024 16:28:58 PM] Selenium_Wrapper.enterText:(317) - Entering Text :swamyk in WebElement :[[ChromeDriver: chrome on WINDOWS (7ac0bf01525259817ed4d6b8b60231db)] -> id: rn_LoginForm_2_Username]
+[INFO ][03-Jul-2024 16:28:59 PM] Selenium_Wrapper.enterText:(317) - Entering Text :Soft@123 in WebElement :[[ChromeDriver: chrome on WINDOWS (7ac0bf01525259817ed4d6b8b60231db)] -> id: rn_LoginForm_2_Password]
+[INFO ][03-Jul-2024 16:29:04 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (7ac0bf01525259817ed4d6b8b60231db)] -> id: rn_LoginForm_2_Submit]
+[ERROR][03-Jul-2024 16:29:08 PM] ThumbsDownFeedBack.testJumpToSection:(41) - Jump to section Test is un-successfull
+[ERROR][03-Jul-2024 16:29:12 PM] ThumbsDownFeedBack.testFeedbackPage:(70) - Request Updates, Comments, Thumbs Up & Down Test is un-successfull
+[INFO ][03-Jul-2024 16:29:17 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (7ac0bf01525259817ed4d6b8b60231db)] -> xpath: //div[@class='dropdown']]
+[INFO ][03-Jul-2024 16:29:26 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (7ac0bf01525259817ed4d6b8b60231db)] -> xpath: //a[text()='My Feedback']]
+[ERROR][03-Jul-2024 16:29:34 PM] Selenium_Wrapper.highlightWebElement:(423) - org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=126.0.6478.127)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SC-CAF-CND84305', ip: '192.168.1.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.127, chrome: {chromedriverVersion: 125.0.6422.141 (4b1e8393712..., userDataDir: C:\Users\SWAMYK~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57120}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 7ac0bf01525259817ed4d6b8b60231db
+*** Element info: {Using=xpath, value=((//table//tbody)[2]//a)[1]}
+[ERROR][03-Jul-2024 16:29:37 PM] Selenium_Wrapper.highlightWebElement:(423) - org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=126.0.6478.127)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SC-CAF-CND84305', ip: '192.168.1.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.127, chrome: {chromedriverVersion: 125.0.6422.141 (4b1e8393712..., userDataDir: C:\Users\SWAMYK~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57120}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 7ac0bf01525259817ed4d6b8b60231db
+*** Element info: {Using=xpath, value=//td[normalize-space()='UNRESOLVED']}
+[ERROR][03-Jul-2024 16:29:37 PM] ThumbsDownFeedBack.testMyFeedbackStatus:(105) - My Feedback Article Status in CP Test is un-successfull

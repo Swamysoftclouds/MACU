@@ -1,0 +1,4 @@
+[INFO ][04-Dec-2023 11:03:17 AM] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][04-Dec-2023 11:03:19 AM] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--tst1.custhelp.com/app/home
+[ERROR][04-Dec-2023 11:03:23 AM] MACU_Wrapper.signIntoCP:(23) - Error in the signin process
+[ERROR][04-Dec-2023 11:03:32 AM] ArticlePage.testSearchPage:(37) - Search and Select Article Test case is un-successfull

@@ -1,0 +1,3 @@
+[INFO ][27-Jul-2023 12:21:14 pm] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][27-Jul-2023 12:21:16 pm] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--tst1.custhelp.com/app/home
+[ERROR][27-Jul-2023 12:21:20 pm] MACU_Wrapper.signIntoCP:(23) - Error in the signin process

@@ -1,0 +1,28 @@
+[INFO ][06-Nov-2021 12:27:10 pm] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][06-Nov-2021 12:27:19 pm] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--tst.custhelp.com/app/home
+[INFO ][06-Nov-2021 12:27:23 pm] Selenium_Wrapper.enterText:(311) - Entering Text :pramodk in WebElement :[[ChromeDriver: chrome on WINDOWS (cc59d8e7a09f8ea6e5c69e434e66acfd)] -> id: rn_LoginForm_2_Username]
+[INFO ][06-Nov-2021 12:27:24 pm] Selenium_Wrapper.enterText:(311) - Entering Text :Soft@123 in WebElement :[[ChromeDriver: chrome on WINDOWS (cc59d8e7a09f8ea6e5c69e434e66acfd)] -> id: rn_LoginForm_2_Password]
+[INFO ][06-Nov-2021 12:27:27 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (cc59d8e7a09f8ea6e5c69e434e66acfd)] -> id: rn_LoginForm_2_Submit]
+[INFO ][06-Nov-2021 12:27:35 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (cc59d8e7a09f8ea6e5c69e434e66acfd)] -> xpath: //input[@type='search']]
+[INFO ][06-Nov-2021 12:27:36 pm] Selenium_Wrapper.enterText:(311) - Entering Text :Flexible Work in WebElement :[[ChromeDriver: chrome on WINDOWS (cc59d8e7a09f8ea6e5c69e434e66acfd)] -> xpath: //input[@type='search']]
+[INFO ][06-Nov-2021 12:27:45 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (cc59d8e7a09f8ea6e5c69e434e66acfd)] -> xpath: //ul[@aria-label='Suggested Search']//li[normalize-space()='Flexible Work']]
+[INFO ][06-Nov-2021 12:27:48 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (cc59d8e7a09f8ea6e5c69e434e66acfd)] -> xpath: //div[@class='rn_SearchResultContent']//a[text()='Flexible Work']]
+[INFO ][06-Nov-2021 12:28:01 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (cc59d8e7a09f8ea6e5c69e434e66acfd)] -> xpath: //div[@class='main_image_div']//div[@class='thumbs_up_down'][2]]
+[INFO ][06-Nov-2021 12:28:08 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (cc59d8e7a09f8ea6e5c69e434e66acfd)] -> id: rn_AnswerRating_3_22_FeedbackMessage]
+[INFO ][06-Nov-2021 12:28:09 pm] Selenium_Wrapper.enterText:(311) - Entering Text :Flexible Work - ThumbDown Comments in WebElement :[[ChromeDriver: chrome on WINDOWS (cc59d8e7a09f8ea6e5c69e434e66acfd)] -> id: rn_AnswerRating_3_22_FeedbackMessage]
+[INFO ][06-Nov-2021 12:28:10 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (cc59d8e7a09f8ea6e5c69e434e66acfd)] -> xpath: //button[text()='SUBMIT']]
+[INFO ][06-Nov-2021 12:28:12 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (cc59d8e7a09f8ea6e5c69e434e66acfd)] -> xpath: //button[@class='yui3-button yui3-button-close']]
+[INFO ][06-Nov-2021 12:28:15 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (cc59d8e7a09f8ea6e5c69e434e66acfd)] -> xpath: //div[@class='dropdown']]
+[INFO ][06-Nov-2021 12:28:20 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (cc59d8e7a09f8ea6e5c69e434e66acfd)] -> xpath: //a[text()='My Feedback']]
+[INFO ][06-Nov-2021 12:28:38 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (cc59d8e7a09f8ea6e5c69e434e66acfd)] -> xpath: ((//table//tbody)[2]//a)[1]]
+[INFO ][06-Nov-2021 12:28:54 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (cc59d8e7a09f8ea6e5c69e434e66acfd)] -> class name: knowledge]
+[INFO ][06-Nov-2021 12:28:58 pm] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][06-Nov-2021 12:29:08 pm] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--tst.custhelp.com/AgentWeb/
+[INFO ][06-Nov-2021 12:29:12 pm] Selenium_Wrapper.enterText:(311) - Entering Text :RNT_pramod in WebElement :[[ChromeDriver: chrome on WINDOWS (7639f489ea0a58793b70c492b49fb917)] -> id: username]
+[INFO ][06-Nov-2021 12:29:13 pm] Selenium_Wrapper.enterText:(311) - Entering Text :Welcome123 in WebElement :[[ChromeDriver: chrome on WINDOWS (7639f489ea0a58793b70c492b49fb917)] -> id: password]
+[INFO ][06-Nov-2021 12:29:42 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (7639f489ea0a58793b70c492b49fb917)] -> id: loginbutton]
+[INFO ][06-Nov-2021 12:29:47 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (7639f489ea0a58793b70c492b49fb917)] -> xpath: (//span[@class='oj-button-icon oj-start navigator-icon oj-button-icon oj-start'])[1]]
+[INFO ][06-Nov-2021 12:29:50 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (7639f489ea0a58793b70c492b49fb917)] -> xpath: (//div[text()='Analytics']//a)]
+[INFO ][06-Nov-2021 12:29:52 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (7639f489ea0a58793b70c492b49fb917)] -> xpath: //span[text()='Reports Explorer']]
+[ERROR][06-Nov-2021 12:29:53 pm] AnswerVotingFeedbackReport.testNavigateToAnwserVotingFeedBackReportlow:(122) - Navigate To Anwser Voting FeedBackReport testing un-successfull
+[ERROR][06-Nov-2021 12:29:53 pm] AnswerVotingFeedbackReport.testSelectingandGivingAnswerstoReportFlow:(214) - Selecting and Giving Asnwers to Report  un-successfull

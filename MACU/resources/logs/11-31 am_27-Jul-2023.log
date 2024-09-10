@@ -1,0 +1,25 @@
+[INFO ][27-Jul-2023 11:31:20 am] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][27-Jul-2023 11:31:23 am] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--tst1.custhelp.com/AgentWeb/
+[INFO ][27-Jul-2023 11:31:28 am] Selenium_Wrapper.enterText:(311) - Entering Text :automation_testing in WebElement :[[ChromeDriver: chrome on WINDOWS (fba97b2524e1ae098adf99e51e3840af)] -> id: username]
+[INFO ][27-Jul-2023 11:31:29 am] Selenium_Wrapper.enterText:(311) - Entering Text :Welcome123 in WebElement :[[ChromeDriver: chrome on WINDOWS (fba97b2524e1ae098adf99e51e3840af)] -> id: password]
+[INFO ][27-Jul-2023 11:31:52 am] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (fba97b2524e1ae098adf99e51e3840af)] -> id: loginbutton]
+[INFO ][27-Jul-2023 11:32:04 am] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (fba97b2524e1ae098adf99e51e3840af)] -> id: navigationSetBtn]
+[INFO ][27-Jul-2023 11:32:09 am] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (fba97b2524e1ae098adf99e51e3840af)] -> xpath: //div[@automationid='Analytics']]
+[INFO ][27-Jul-2023 11:32:22 am] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (fba97b2524e1ae098adf99e51e3840af)] -> xpath: //div[@automationid='Analytics_Reports Explorer']//span[text()='Reports Explorer']]
+[INFO ][27-Jul-2023 11:32:37 am] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (fba97b2524e1ae098adf99e51e3840af)] -> xpath: //div[@aria-label='Public Reports'][text()='Public Reports']]
+[INFO ][27-Jul-2023 11:32:42 am] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (fba97b2524e1ae098adf99e51e3840af)] -> xpath: //div[@aria-label='MACU CUSTOM REPORTS'][text()='MACU CUSTOM REPORTS']]
+[INFO ][27-Jul-2023 11:32:47 am] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (fba97b2524e1ae098adf99e51e3840af)] -> xpath: //div[@aria-label='SoftClouds'][text()='SoftClouds']]
+[INFO ][27-Jul-2023 11:32:52 am] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (fba97b2524e1ae098adf99e51e3840af)] -> xpath: //div[@aria-label='OKCS'][text()='OKCS'][contains(@id,'ExplorerFolderLabelAnalyticsFolder103223')]]
+[ERROR][27-Jul-2023 11:33:03 am] Selenium_Wrapper.highlightWebElement:(417) - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[contains(@title,'Full Name')]"}
+  (Session info: chrome=115.0.5790.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'CAF-QA-SWAMYK', ip: '192.168.0.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 115.0.5790.110, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: C:\Users\swamyk\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:56302}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: fba97b2524e1ae098adf99e51e3840af
+*** Element info: {Using=xpath, value=//span[contains(@title,'Full Name')]}
+[ERROR][27-Jul-2023 11:33:13 am] ActionsDashboardReport.testVisitorActionsDashboard:(134) - Select Actions Report in BUI Test is un-successfull
+[INFO ][27-Jul-2023 11:33:21 am] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (fba97b2524e1ae098adf99e51e3840af)] -> xpath: //body//oj-avatar[@initials='[[userMenuLabel]]']]
+[INFO ][27-Jul-2023 11:33:29 am] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (fba97b2524e1ae098adf99e51e3840af)] -> xpath: //a//span[text()='Sign Out']]
+[INFO ][27-Jul-2023 11:33:34 am] Selenium_Wrapper.closeCurrentBrowser:(651) - Closing the current Browser

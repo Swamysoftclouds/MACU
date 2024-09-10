@@ -1,0 +1,12 @@
+[INFO ][03-Aug-2023 19:55:13 pm] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][03-Aug-2023 19:55:19 pm] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--tst1.custhelp.com/app/home
+[INFO ][03-Aug-2023 19:55:23 pm] Selenium_Wrapper.enterText:(311) - Entering Text :swamyk in WebElement :[[ChromeDriver: chrome on WINDOWS (69b71b176ea2f1212943d5cd503c746d)] -> id: rn_LoginForm_2_Username]
+[INFO ][03-Aug-2023 19:55:24 pm] Selenium_Wrapper.enterText:(311) - Entering Text :Soft@123 in WebElement :[[ChromeDriver: chrome on WINDOWS (69b71b176ea2f1212943d5cd503c746d)] -> id: rn_LoginForm_2_Password]
+[INFO ][03-Aug-2023 19:55:31 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (69b71b176ea2f1212943d5cd503c746d)] -> id: rn_LoginForm_2_Submit]
+[INFO ][03-Aug-2023 19:55:40 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (69b71b176ea2f1212943d5cd503c746d)] -> xpath: //input[@type='search']]
+[INFO ][03-Aug-2023 19:55:42 pm] Selenium_Wrapper.enterText:(311) - Entering Text :Business Auto Loan in WebElement :[[ChromeDriver: chrome on WINDOWS (69b71b176ea2f1212943d5cd503c746d)] -> xpath: //input[@type='search']]
+[ERROR][03-Aug-2023 19:55:52 pm] ArticlePage.testSearchPage:(37) - Search and Select Article Test case is un-successfull
+[ERROR][03-Aug-2023 19:55:56 pm] ArticlePage.testBookmarkArticle:(94) - Bookmark Article Test case is un-successfull
+[ERROR][03-Aug-2023 19:56:04 pm] ArticlePage.testShareEmail:(133) - Share Email Test case is un-successfull
+[INFO ][03-Aug-2023 19:56:14 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (69b71b176ea2f1212943d5cd503c746d)] -> xpath: //input[@type='search']]
+[INFO ][03-Aug-2023 19:56:15 pm] Selenium_Wrapper.enterText:(311) - Entering Text :COVID-19 Critical Updates in WebElement :[[ChromeDriver: chrome on WINDOWS (69b71b176ea2f1212943d5cd503c746d)] -> xpath: //input[@type='search']]

@@ -1,0 +1,39 @@
+[INFO ][27-Jul-2023 10:57:07 am] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][27-Jul-2023 10:57:10 am] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--tst1.custhelp.com/AgentWeb/
+[INFO ][27-Jul-2023 10:57:14 am] Selenium_Wrapper.enterText:(311) - Entering Text :automation_testing in WebElement :[[ChromeDriver: chrome on WINDOWS (31803492fb5d9afa0636e67a48cb9b15)] -> id: username]
+[INFO ][27-Jul-2023 10:57:16 am] Selenium_Wrapper.enterText:(311) - Entering Text :Welcome123 in WebElement :[[ChromeDriver: chrome on WINDOWS (31803492fb5d9afa0636e67a48cb9b15)] -> id: password]
+[INFO ][27-Jul-2023 10:57:42 am] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (31803492fb5d9afa0636e67a48cb9b15)] -> id: loginbutton]
+[INFO ][27-Jul-2023 10:57:54 am] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (31803492fb5d9afa0636e67a48cb9b15)] -> id: navigationSetBtn]
+[INFO ][27-Jul-2023 10:57:59 am] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (31803492fb5d9afa0636e67a48cb9b15)] -> xpath: //div[@automationid='Analytics']]
+[ERROR][27-Jul-2023 10:59:45 am] Selenium_Wrapper.getWebElement:(124) - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of [[ChromeDriver: chrome on WINDOWS (31803492fb5d9afa0636e67a48cb9b15)] -> xpath: //div[@automationid='Analytics_Reports Explorer']//span[text()='Reports Explorer']] (tried for 100 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'CAF-QA-SWAMYK', ip: '192.168.0.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 115.0.5790.110, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: C:\Users\swamyk\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:54197}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 31803492fb5d9afa0636e67a48cb9b15
+[ERROR][27-Jul-2023 10:59:45 am] Selenium_Wrapper.highlightWebElement:(417) - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of [[ChromeDriver: chrome on WINDOWS (31803492fb5d9afa0636e67a48cb9b15)] -> xpath: //div[@automationid='Analytics_Reports Explorer']//span[text()='Reports Explorer']] (tried for 100 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'CAF-QA-SWAMYK', ip: '192.168.0.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 115.0.5790.110, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: C:\Users\swamyk\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:54197}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 31803492fb5d9afa0636e67a48cb9b15
+[ERROR][27-Jul-2023 11:01:30 am] Selenium_Wrapper.getWebElement:(124) - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of [[ChromeDriver: chrome on WINDOWS (31803492fb5d9afa0636e67a48cb9b15)] -> xpath: //div[@automationid='Analytics_Reports Explorer']//span[text()='Reports Explorer']] (tried for 100 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'CAF-QA-SWAMYK', ip: '192.168.0.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 115.0.5790.110, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: C:\Users\swamyk\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:54197}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 31803492fb5d9afa0636e67a48cb9b15
+[ERROR][27-Jul-2023 11:01:30 am] ActionsDashboardReport.testOKCSReports:(45) - Selecting OKCS Reports in BUI Test is un-successfull
+[ERROR][27-Jul-2023 11:02:35 am] Selenium_Wrapper.highlightWebElement:(417) - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[contains(@title,'Full Name')]"}
+  (Session info: chrome=115.0.5790.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'CAF-QA-SWAMYK', ip: '192.168.0.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 115.0.5790.110, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: C:\Users\swamyk\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:54197}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 31803492fb5d9afa0636e67a48cb9b15
+*** Element info: {Using=xpath, value=//span[contains(@title,'Full Name')]}
+[ERROR][27-Jul-2023 11:02:45 am] ActionsDashboardReport.testVisitorActionsDashboard:(132) - Select Actions Report in BUI Test is un-successfull
+[INFO ][27-Jul-2023 11:02:54 am] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (31803492fb5d9afa0636e67a48cb9b15)] -> xpath: //body//oj-avatar[@initials='[[userMenuLabel]]']]
+[INFO ][27-Jul-2023 11:03:01 am] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (31803492fb5d9afa0636e67a48cb9b15)] -> xpath: //a//span[text()='Sign Out']]
+[INFO ][27-Jul-2023 11:03:06 am] Selenium_Wrapper.closeCurrentBrowser:(651) - Closing the current Browser

@@ -1,0 +1,13 @@
+[INFO ][05-Sep-2022 15:30:54 PM] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][05-Sep-2022 15:30:57 PM] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--upgrade.custhelp.com/AgentWeb/
+[INFO ][05-Sep-2022 15:31:02 PM] Selenium_Wrapper.enterText:(311) - Entering Text :RNT_pramod in WebElement :[[ChromeDriver: chrome on WINDOWS (3ccf06a804c029206b686fdbf08155a2)] -> id: username]
+[INFO ][05-Sep-2022 15:31:03 PM] Selenium_Wrapper.enterText:(311) - Entering Text :Welcome123 in WebElement :[[ChromeDriver: chrome on WINDOWS (3ccf06a804c029206b686fdbf08155a2)] -> id: password]
+[INFO ][05-Sep-2022 15:31:30 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (3ccf06a804c029206b686fdbf08155a2)] -> id: loginbutton]
+[INFO ][05-Sep-2022 15:31:46 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (3ccf06a804c029206b686fdbf08155a2)] -> xpath: //oj-button[@id='navigationSetBtn']]
+[INFO ][05-Sep-2022 15:31:51 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (3ccf06a804c029206b686fdbf08155a2)] -> xpath: (//div[text()='Analytics']//a)]
+[INFO ][05-Sep-2022 15:31:57 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (3ccf06a804c029206b686fdbf08155a2)] -> xpath: //span[text()='Reports Explorer']]
+[INFO ][05-Sep-2022 15:32:02 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (3ccf06a804c029206b686fdbf08155a2)] -> xpath: //div[text()='Public Reports']]
+[INFO ][05-Sep-2022 15:32:08 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (3ccf06a804c029206b686fdbf08155a2)] -> xpath: //div[text()='MACU CUSTOM REPORTS']]
+[INFO ][05-Sep-2022 15:32:13 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (3ccf06a804c029206b686fdbf08155a2)] -> xpath: //div[text()='SoftClouds']]
+[INFO ][05-Sep-2022 15:32:18 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (3ccf06a804c029206b686fdbf08155a2)] -> xpath: //div[text()='OKCS']]
+[INFO ][05-Sep-2022 15:32:36 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (3ccf06a804c029206b686fdbf08155a2)] -> xpath: (//span[text()='Search'])[3]]

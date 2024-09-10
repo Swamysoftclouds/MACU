@@ -1,0 +1,45 @@
+[INFO ][01-Sep-2022 14:01:53 PM] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][01-Sep-2022 14:02:01 PM] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--upgrade.custhelp.com/
+[INFO ][01-Sep-2022 14:02:05 PM] Selenium_Wrapper.enterText:(311) - Entering Text :pramodk in WebElement :[[ChromeDriver: chrome on WINDOWS (0b8cf0e6986fc510fe31b36567f09a4e)] -> id: rn_LoginForm_2_Username]
+[INFO ][01-Sep-2022 14:02:06 PM] Selenium_Wrapper.enterText:(311) - Entering Text :Soft@123 in WebElement :[[ChromeDriver: chrome on WINDOWS (0b8cf0e6986fc510fe31b36567f09a4e)] -> id: rn_LoginForm_2_Password]
+[INFO ][01-Sep-2022 14:02:14 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (0b8cf0e6986fc510fe31b36567f09a4e)] -> id: rn_LoginForm_2_Submit]
+[INFO ][01-Sep-2022 14:02:28 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (0b8cf0e6986fc510fe31b36567f09a4e)] -> xpath: //input[@type='search']]
+[INFO ][01-Sep-2022 14:02:30 PM] Selenium_Wrapper.enterText:(311) - Entering Text :Auto Loan in WebElement :[[ChromeDriver: chrome on WINDOWS (0b8cf0e6986fc510fe31b36567f09a4e)] -> xpath: //input[@type='search']]
+[INFO ][01-Sep-2022 14:02:45 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (0b8cf0e6986fc510fe31b36567f09a4e)] -> xpath: //ul[@aria-label='Suggested Search']//li[normalize-space()='Auto Loan']]
+[INFO ][01-Sep-2022 14:02:52 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (0b8cf0e6986fc510fe31b36567f09a4e)] -> xpath: //div[@class='rn_SearchResultContent']//a[text()='Auto Loan']]
+[ERROR][01-Sep-2022 14:02:59 PM] Selenium_Wrapper.highlightWebElement:(417) - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='rn_SchemaAttributeValue']//h5[text()='JUMP TO']"}
+  (Session info: chrome=105.0.5195.54)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'QA-SWAMYK', ip: '192.168.0.4', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.54, chrome: {chromedriverVersion: 105.0.5195.52 (412c95e51883..., userDataDir: C:\Users\SWAMYK~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:56692}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 0b8cf0e6986fc510fe31b36567f09a4e
+*** Element info: {Using=xpath, value=//div[@class='rn_SchemaAttributeValue']//h5[text()='JUMP TO']}
+[INFO ][01-Sep-2022 14:03:10 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (0b8cf0e6986fc510fe31b36567f09a4e)] -> xpath: (//div[@class='rn_SchemaAttributeValue']//a)[1]]
+[INFO ][01-Sep-2022 14:03:38 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (0b8cf0e6986fc510fe31b36567f09a4e)] -> id: relatedPages_headingOne]
+[INFO ][01-Sep-2022 14:03:44 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (0b8cf0e6986fc510fe31b36567f09a4e)] -> id: relatedPages_headingOne]
+[INFO ][01-Sep-2022 14:03:55 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (0b8cf0e6986fc510fe31b36567f09a4e)] -> id: rn_SearchHome_18_SearchInput]
+[INFO ][01-Sep-2022 14:03:56 PM] Selenium_Wrapper.enterText:(311) - Entering Text :Auto Loan in WebElement :[[ChromeDriver: chrome on WINDOWS (0b8cf0e6986fc510fe31b36567f09a4e)] -> id: rn_SearchHome_18_SearchInput]
+[INFO ][01-Sep-2022 14:04:08 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (0b8cf0e6986fc510fe31b36567f09a4e)] -> xpath: //ul[@aria-label='Suggested Search']//li[@class='rn_SuggestionItem'][normalize-space()='Auto Loan']]
+[INFO ][01-Sep-2022 14:04:16 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (0b8cf0e6986fc510fe31b36567f09a4e)] -> xpath: //div[@class='rn_SearchResultContent']//a[text()='Auto Loan']]
+[INFO ][01-Sep-2022 14:04:34 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (0b8cf0e6986fc510fe31b36567f09a4e)] -> xpath: //button[@class='rn_RecommendContentButton p-0']]
+[INFO ][01-Sep-2022 14:04:35 PM] Selenium_Wrapper.enterText:(311) - Entering Text :Test Improve, comments, updates in WebElement :[[ChromeDriver: chrome on WINDOWS (0b8cf0e6986fc510fe31b36567f09a4e)] -> id: rn_RequestUpdate_26_Description]
+[INFO ][01-Sep-2022 14:04:40 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (0b8cf0e6986fc510fe31b36567f09a4e)] -> xpath: //button[text()='Submit']]
+[INFO ][01-Sep-2022 14:04:53 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (0b8cf0e6986fc510fe31b36567f09a4e)] -> xpath: //div[@id='rnDialog2']//button[@type='button']]
+[INFO ][01-Sep-2022 14:05:14 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (0b8cf0e6986fc510fe31b36567f09a4e)] -> class name: knowledge]
+[INFO ][01-Sep-2022 14:05:21 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (0b8cf0e6986fc510fe31b36567f09a4e)] -> xpath: //div[@class='dropdown']]
+[INFO ][01-Sep-2022 14:05:30 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (0b8cf0e6986fc510fe31b36567f09a4e)] -> xpath: //a[text()='My Feedback']]
+[INFO ][01-Sep-2022 14:05:32 PM] Selenium_Wrapper.enterText:(311) - Entering Text :Auto Loan in WebElement :[[ChromeDriver: chrome on WINDOWS (0b8cf0e6986fc510fe31b36567f09a4e)] -> xpath: //input[@placeholder='Search Your Feedback Report']]
+[INFO ][01-Sep-2022 14:05:43 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (0b8cf0e6986fc510fe31b36567f09a4e)] -> xpath: //div[@class='rn_SearchInput1 mt-3']//span[@class='btn-srch-icon']//i[@class='fa fa-search']]
+[ERROR][01-Sep-2022 14:05:51 PM] Selenium_Wrapper.highlightWebElement:(417) - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//tr[@data-yui3-record='model_11']//td[@headers='Grid_6_c1']/a"}
+  (Session info: chrome=105.0.5195.54)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'QA-SWAMYK', ip: '192.168.0.4', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.54, chrome: {chromedriverVersion: 105.0.5195.52 (412c95e51883..., userDataDir: C:\Users\SWAMYK~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:56692}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 0b8cf0e6986fc510fe31b36567f09a4e
+*** Element info: {Using=xpath, value=//tr[@data-yui3-record='model_11']//td[@headers='Grid_6_c1']/a}
+[ERROR][01-Sep-2022 14:06:02 PM] MyFeedback.testMyFeedbackStatus:(137) - My Feedback Article Status in CP Test is un-successfull
+[INFO ][01-Sep-2022 14:06:05 PM] Selenium_Wrapper.closeCurrentBrowser:(651) - Closing the current Browser

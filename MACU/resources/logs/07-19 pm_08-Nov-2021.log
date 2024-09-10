@@ -1,0 +1,23 @@
+[INFO ][08-Nov-2021 19:19:51 pm] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][08-Nov-2021 19:19:56 pm] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--tst.custhelp.com/AgentWeb/
+[INFO ][08-Nov-2021 19:20:00 pm] Selenium_Wrapper.enterText:(311) - Entering Text :RNT_pramod in WebElement :[[ChromeDriver: chrome on WINDOWS (259cf885da8071ad3c3c5e4f1dbbcf53)] -> id: username]
+[INFO ][08-Nov-2021 19:20:02 pm] Selenium_Wrapper.enterText:(311) - Entering Text :Welcome123 in WebElement :[[ChromeDriver: chrome on WINDOWS (259cf885da8071ad3c3c5e4f1dbbcf53)] -> id: password]
+[INFO ][08-Nov-2021 19:20:32 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (259cf885da8071ad3c3c5e4f1dbbcf53)] -> id: loginbutton]
+[INFO ][08-Nov-2021 19:20:44 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (259cf885da8071ad3c3c5e4f1dbbcf53)] -> id: navigationSetBtn]
+[INFO ][08-Nov-2021 19:20:52 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (259cf885da8071ad3c3c5e4f1dbbcf53)] -> xpath: //div[@automationid='Configuration']]
+[INFO ][08-Nov-2021 19:20:57 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (259cf885da8071ad3c3c5e4f1dbbcf53)] -> xpath: //div[@automationid='Configuration_Service']]
+[INFO ][08-Nov-2021 19:21:02 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (259cf885da8071ad3c3c5e4f1dbbcf53)] -> xpath: //div[@automationid='Configuration_Service_Knowledge Advanced']]
+[INFO ][08-Nov-2021 19:21:08 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (259cf885da8071ad3c3c5e4f1dbbcf53)] -> xpath: //div[@automationid='Configuration_Service_Knowledge Advanced_Authoring']//span[text()='Authoring']]
+[INFO ][08-Nov-2021 19:21:20 pm] Selenium_Wrapper.clickUsingActions:(249) - Clicking on :[[ChromeDriver: chrome on WINDOWS (259cf885da8071ad3c3c5e4f1dbbcf53)] -> xpath: //div[@class='bodyDivRN']//li[@testidentifier='MainNavBar_Content']//a]
+[INFO ][08-Nov-2021 19:21:33 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (259cf885da8071ad3c3c5e4f1dbbcf53)] -> xpath: //a[@testidentifier='ContentNavBar_Add_Technology'][normalize-space()='Add']]
+[INFO ][08-Nov-2021 19:21:42 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (259cf885da8071ad3c3c5e4f1dbbcf53)] -> xpath: //input[@testidentifier='Content_ContentType_Add_SUMMARY']]
+[INFO ][08-Nov-2021 19:21:43 pm] Selenium_Wrapper.enterText:(311) - Entering Text :Test Technology through Automation 3 in WebElement :[[ChromeDriver: chrome on WINDOWS (259cf885da8071ad3c3c5e4f1dbbcf53)] -> xpath: //input[@testidentifier='Content_ContentType_Add_SUMMARY']]
+[INFO ][08-Nov-2021 19:21:48 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (259cf885da8071ad3c3c5e4f1dbbcf53)] -> xpath: //input[@testidentifier='Content_ContentType_Add_KEYWORD']]
+[INFO ][08-Nov-2021 19:21:49 pm] Selenium_Wrapper.enterText:(311) - Entering Text :Automation Technology Test 3 in WebElement :[[ChromeDriver: chrome on WINDOWS (259cf885da8071ad3c3c5e4f1dbbcf53)] -> xpath: //input[@testidentifier='Content_ContentType_Add_KEYWORD']]
+[INFO ][08-Nov-2021 19:21:59 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (259cf885da8071ad3c3c5e4f1dbbcf53)] -> xpath: (//span[text()='Source'])[6]]
+[INFO ][08-Nov-2021 19:22:04 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (259cf885da8071ad3c3c5e4f1dbbcf53)] -> xpath: //textarea[contains(@title,'Rich Text Editor')]]
+[ERROR][08-Nov-2021 19:22:04 pm] CallOuts.testExistingAccount:(96) - Login/SignIn un-successfull
+[INFO ][08-Nov-2021 19:22:09 pm] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[ERROR][08-Nov-2021 19:22:27 pm] MACU_Wrapper.signIntoCP:(23) - Error in the signin process
+[ERROR][08-Nov-2021 19:22:43 pm] CallOuts.testCPCallouts:(119) - Login/SignIn un-successfull
+[ERROR][08-Nov-2021 19:22:50 pm] CallOuts.testCloseCallOuts:(130) - Logout/SignOut un-successfull

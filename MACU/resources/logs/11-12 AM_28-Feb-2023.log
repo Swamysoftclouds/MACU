@@ -1,0 +1,21 @@
+[INFO ][28-Feb-2023 11:12:19 AM] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][28-Feb-2023 11:12:24 AM] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--upgrade.custhelp.com/
+[INFO ][28-Feb-2023 11:12:28 AM] Selenium_Wrapper.enterText:(311) - Entering Text :automation_testing in WebElement :[[ChromeDriver: chrome on WINDOWS (1a87cbc608a64be82162b4cc6f3f71c9)] -> id: rn_LoginForm_2_Username]
+[INFO ][28-Feb-2023 11:12:30 AM] Selenium_Wrapper.enterText:(311) - Entering Text :Soft@123 in WebElement :[[ChromeDriver: chrome on WINDOWS (1a87cbc608a64be82162b4cc6f3f71c9)] -> id: rn_LoginForm_2_Password]
+[INFO ][28-Feb-2023 11:12:37 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (1a87cbc608a64be82162b4cc6f3f71c9)] -> id: rn_LoginForm_2_Submit]
+[INFO ][28-Feb-2023 11:12:48 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (1a87cbc608a64be82162b4cc6f3f71c9)] -> xpath: //div[@class='dropdown']]
+[INFO ][28-Feb-2023 11:13:03 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (1a87cbc608a64be82162b4cc6f3f71c9)] -> xpath: //a[text()='My Activity']]
+[INFO ][28-Feb-2023 11:13:11 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (1a87cbc608a64be82162b4cc6f3f71c9)] -> xpath: //input[@type='search']]
+[INFO ][28-Feb-2023 11:13:12 AM] Selenium_Wrapper.enterText:(311) - Entering Text :Business Auto Loan in WebElement :[[ChromeDriver: chrome on WINDOWS (1a87cbc608a64be82162b4cc6f3f71c9)] -> xpath: //input[@type='search']]
+[ERROR][28-Feb-2023 11:14:55 AM] Selenium_Wrapper.getWebElement:(124) - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of [[ChromeDriver: chrome on WINDOWS (1a87cbc608a64be82162b4cc6f3f71c9)] -> xpath: //ul[@aria-label='Suggested Search']/li[normalize-space()='Business Auto Loan']] (tried for 100 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'QA-SWAMYK', ip: '192.168.0.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 110.0.5481.178, chrome: {chromedriverVersion: 110.0.5481.77 (65ed616c6e8e..., userDataDir: C:\Users\SWAMYK~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:65299}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 1a87cbc608a64be82162b4cc6f3f71c9
+[ERROR][28-Feb-2023 11:14:55 AM] Selenium_Wrapper.highlightWebElement:(417) - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of [[ChromeDriver: chrome on WINDOWS (1a87cbc608a64be82162b4cc6f3f71c9)] -> xpath: //ul[@aria-label='Suggested Search']/li[normalize-space()='Business Auto Loan']] (tried for 100 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'QA-SWAMYK', ip: '192.168.0.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 110.0.5481.178, chrome: {chromedriverVersion: 110.0.5481.77 (65ed616c6e8e..., userDataDir: C:\Users\SWAMYK~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:65299}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 1a87cbc608a64be82162b4cc6f3f71c9

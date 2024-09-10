@@ -1,0 +1,24 @@
+[INFO ][08-Aug-2024 12:57:25 PM] Selenium_Wrapper.openBrowser:(54) - Opening chrome browser.
+[INFO ][08-Aug-2024 12:57:37 PM] Selenium_Wrapper.enterURL:(88) - Entering url :https://macu1--tst1.custhelp.com/app/home
+[INFO ][08-Aug-2024 12:57:41 PM] Selenium_Wrapper.enterText:(317) - Entering Text :swamyk in WebElement :[[ChromeDriver: chrome on WINDOWS (5ee41295b29e5c0c93fa463e07d75e21)] -> id: rn_LoginForm_2_Username]
+[INFO ][08-Aug-2024 12:57:42 PM] Selenium_Wrapper.enterText:(317) - Entering Text :Soft@123 in WebElement :[[ChromeDriver: chrome on WINDOWS (5ee41295b29e5c0c93fa463e07d75e21)] -> id: rn_LoginForm_2_Password]
+[INFO ][08-Aug-2024 12:57:47 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (5ee41295b29e5c0c93fa463e07d75e21)] -> id: rn_LoginForm_2_Submit]
+[INFO ][08-Aug-2024 12:57:59 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (5ee41295b29e5c0c93fa463e07d75e21)] -> xpath: //input[@type='search']]
+[INFO ][08-Aug-2024 12:58:00 PM] Selenium_Wrapper.enterText:(317) - Entering Text :Business Use Auto Loan in WebElement :[[ChromeDriver: chrome on WINDOWS (5ee41295b29e5c0c93fa463e07d75e21)] -> xpath: //input[@type='search']]
+[INFO ][08-Aug-2024 12:58:18 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (5ee41295b29e5c0c93fa463e07d75e21)] -> xpath: (//div[@class='yui3-aclist-content']//li//li)[1]]
+[ERROR][08-Aug-2024 12:58:22 PM] ThumbsDownFeedBack.testJumpToSection:(42) - Jump to section Test is un-successfull
+[ERROR][08-Aug-2024 12:58:26 PM] ThumbsDownFeedBack.testFeedbackPage:(72) - Request Updates, Comments, Thumbs Up & Down Test is un-successfull
+[INFO ][08-Aug-2024 12:58:30 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (5ee41295b29e5c0c93fa463e07d75e21)] -> xpath: //div[@class='dropdown']]
+[INFO ][08-Aug-2024 12:58:36 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (5ee41295b29e5c0c93fa463e07d75e21)] -> xpath: //a[text()='My Feedback']]
+[ERROR][08-Aug-2024 12:58:50 PM] Selenium_Wrapper.highlightWebElement:(423) - org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=127.0.6533.90)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SC-CAF-CND84305', ip: '192.168.1.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 127.0.6533.90, chrome: {chromedriverVersion: 127.0.6533.72 (9755e24ca85a..., userDataDir: C:\Users\SWAMYK~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60659}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 5ee41295b29e5c0c93fa463e07d75e21
+*** Element info: {Using=xpath, value=//td[normalize-space()='UNRESOLVED']}
+[ERROR][08-Aug-2024 12:58:50 PM] ThumbsDownFeedBack.testMyFeedbackStatus:(107) - My Feedback Article Status in CP Test is un-successfull
+[INFO ][08-Aug-2024 12:58:51 PM] Selenium_Wrapper.openBrowser:(54) - Opening chrome browser.
+[INFO ][08-Aug-2024 12:58:52 PM] Selenium_Wrapper.enterURL:(88) - Entering url :https://macu1--tst1.custhelp.com/AgentWeb/

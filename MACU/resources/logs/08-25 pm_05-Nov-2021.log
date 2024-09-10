@@ -1,0 +1,12 @@
+[INFO ][05-Nov-2021 20:25:45 pm] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][05-Nov-2021 20:25:50 pm] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--tst.custhelp.com/AgentWeb/
+[INFO ][05-Nov-2021 20:25:54 pm] Selenium_Wrapper.enterText:(311) - Entering Text :RNT_pramod in WebElement :[[ChromeDriver: chrome on WINDOWS (467bd2bbefeed63d45f032aaee1574ac)] -> id: username]
+[INFO ][05-Nov-2021 20:25:56 pm] Selenium_Wrapper.enterText:(311) - Entering Text :Welcome123 in WebElement :[[ChromeDriver: chrome on WINDOWS (467bd2bbefeed63d45f032aaee1574ac)] -> id: password]
+[INFO ][05-Nov-2021 20:26:25 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (467bd2bbefeed63d45f032aaee1574ac)] -> id: loginbutton]
+[INFO ][05-Nov-2021 20:26:33 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (467bd2bbefeed63d45f032aaee1574ac)] -> xpath: //div[@id='landingPanel-notifications']//button[@class='oj-button oj-button-half-chrome mobile-close-icon mobile-close-button closeFoldout']//label[text()='Close Action Center']]
+[INFO ][05-Nov-2021 20:26:37 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (467bd2bbefeed63d45f032aaee1574ac)] -> xpath: (//span[@class='oj-button-icon oj-start navigator-icon oj-button-icon oj-start'])[1]]
+[INFO ][05-Nov-2021 20:26:38 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (467bd2bbefeed63d45f032aaee1574ac)] -> xpath: (//div[text()='Contacts']//a)]
+[INFO ][05-Nov-2021 20:26:39 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (467bd2bbefeed63d45f032aaee1574ac)] -> xpath: //span[text()='Contacts']]
+[INFO ][05-Nov-2021 20:26:46 pm] Selenium_Wrapper.enterText:(311) - Entering Text :swamyk in WebElement :[[ChromeDriver: chrome on WINDOWS (467bd2bbefeed63d45f032aaee1574ac)] -> xpath: (//label[text()='Login']//following::input)[1]]
+[INFO ][05-Nov-2021 20:26:47 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (467bd2bbefeed63d45f032aaee1574ac)] -> xpath: //span[text()='Search']]
+[INFO ][05-Nov-2021 20:26:59 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (467bd2bbefeed63d45f032aaee1574ac)] -> xpath: //span[text()='Summary']]

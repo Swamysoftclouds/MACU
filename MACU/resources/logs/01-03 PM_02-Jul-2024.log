@@ -1,0 +1,43 @@
+[INFO ][02-Jul-2024 13:03:37 PM] Selenium_Wrapper.openBrowser:(54) - Opening chrome browser.
+[INFO ][02-Jul-2024 13:03:46 PM] Selenium_Wrapper.enterURL:(88) - Entering url :https://macu1--tst1.custhelp.com/app/home
+[INFO ][02-Jul-2024 13:03:51 PM] Selenium_Wrapper.enterText:(317) - Entering Text :swamyk in WebElement :[[ChromeDriver: chrome on WINDOWS (ca0ef2c91bfa580408f52ec4546ba31e)] -> id: rn_LoginForm_2_Username]
+[INFO ][02-Jul-2024 13:03:52 PM] Selenium_Wrapper.enterText:(317) - Entering Text :Soft@123 in WebElement :[[ChromeDriver: chrome on WINDOWS (ca0ef2c91bfa580408f52ec4546ba31e)] -> id: rn_LoginForm_2_Password]
+[INFO ][02-Jul-2024 13:03:56 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (ca0ef2c91bfa580408f52ec4546ba31e)] -> id: rn_LoginForm_2_Submit]
+[INFO ][02-Jul-2024 13:04:03 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (ca0ef2c91bfa580408f52ec4546ba31e)] -> xpath: //input[@type='search']]
+[INFO ][02-Jul-2024 13:04:04 PM] Selenium_Wrapper.enterText:(317) - Entering Text :Badge Protocol in WebElement :[[ChromeDriver: chrome on WINDOWS (ca0ef2c91bfa580408f52ec4546ba31e)] -> xpath: //input[@type='search']]
+[INFO ][02-Jul-2024 13:04:06 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (ca0ef2c91bfa580408f52ec4546ba31e)] -> xpath: //input[@type='search']]
+[INFO ][02-Jul-2024 13:04:19 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (ca0ef2c91bfa580408f52ec4546ba31e)] -> xpath: (//div[@class='yui3-aclist-content']//li//li)[1]]
+[INFO ][02-Jul-2024 13:04:24 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (ca0ef2c91bfa580408f52ec4546ba31e)] -> xpath: (//div[@class='rn_SearchResultContent']//a)[1]]
+[INFO ][02-Jul-2024 13:04:44 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (ca0ef2c91bfa580408f52ec4546ba31e)] -> xpath: //button[@class='rn_RecommendContentButton p-0']]
+[ERROR][02-Jul-2024 13:04:45 PM] FeedbackAdmin.testFeedbackPage:(76) - Request Updates, Comments, Thumbs Up & Down Test is un-successfull
+[DEBUG][02-Jul-2024 13:08:30 PM] Selenium_Wrapper.click:(216) - Handled ElementClickInterceptedException and Clicked on :[[ChromeDriver: chrome on WINDOWS (ca0ef2c91bfa580408f52ec4546ba31e)] -> xpath: //div[@class='dropdown']]
+[ERROR][02-Jul-2024 13:10:12 PM] Selenium_Wrapper.getWebElement:(130) - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of [[ChromeDriver: chrome on WINDOWS (ca0ef2c91bfa580408f52ec4546ba31e)] -> xpath: //a[text()='My Feedback']] (tried for 100 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SC-CAF-CND84305', ip: '192.168.1.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.127, chrome: {chromedriverVersion: 125.0.6422.141 (4b1e8393712..., userDataDir: C:\Users\SWAMYK~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58437}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: ca0ef2c91bfa580408f52ec4546ba31e
+[ERROR][02-Jul-2024 13:10:12 PM] FeedbackAdmin.testMyFeedbackStatus:(112) - My Feedback Article Status in CP Test is un-successfull
+[INFO ][02-Jul-2024 13:10:17 PM] Selenium_Wrapper.openBrowser:(54) - Opening chrome browser.
+[ERROR][02-Jul-2024 13:10:26 PM] MACU_Wrapper.signIntoBUI:(37) - Error in the loginin process
+[ERROR][02-Jul-2024 13:11:03 PM] FeedbackAdmin.testNavigateToFeedBackAdminReportFlow:(136) - Navigate To Article un-successfull
+[ERROR][02-Jul-2024 13:11:06 PM] Selenium_Wrapper.highlightWebElement:(423) - org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=126.0.6478.127)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SC-CAF-CND84305', ip: '192.168.1.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.127, chrome: {chromedriverVersion: 125.0.6422.141 (4b1e8393712..., userDataDir: C:\Users\SWAMYK~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59179}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c7f783a6d37d573755211c287614a81f
+*** Element info: {Using=xpath, value=//div[@class='explorer-right-panel']//div[@class='explorer-data-grid']//span[text()='Feedback Admin Report']}
+[ERROR][02-Jul-2024 13:11:06 PM] Selenium_Wrapper.doubleClick:(279) - org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=126.0.6478.127)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SC-CAF-CND84305', ip: '192.168.1.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.127, chrome: {chromedriverVersion: 125.0.6422.141 (4b1e8393712..., userDataDir: C:\Users\SWAMYK~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59179}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c7f783a6d37d573755211c287614a81f
+*** Element info: {Using=xpath, value=//div[@class='explorer-right-panel']//div[@class='explorer-data-grid']//span[text()='Feedback Admin Report']}
+[ERROR][02-Jul-2024 13:11:06 PM] FeedbackAdmin.testSelectingandGivingAsnwerstoReportFlow:(186) - Selecting and Giving Asnwers to Report- un-successfull
+[ERROR][02-Jul-2024 13:11:18 PM] FeedbackAdmin.testSignout:(205) - Logout/SignOut un-successfull

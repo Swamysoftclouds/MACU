@@ -1,0 +1,9 @@
+[INFO ][04-Sep-2022 12:43:13 PM] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][04-Sep-2022 12:43:23 PM] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--upgrade.custhelp.com/
+[INFO ][04-Sep-2022 12:43:27 PM] Selenium_Wrapper.enterText:(311) - Entering Text :pramodk in WebElement :[[ChromeDriver: chrome on WINDOWS (9aa664b7db33eba4392e2807b8cce134)] -> id: rn_LoginForm_2_Username]
+[INFO ][04-Sep-2022 12:43:28 PM] Selenium_Wrapper.enterText:(311) - Entering Text :Soft@123 in WebElement :[[ChromeDriver: chrome on WINDOWS (9aa664b7db33eba4392e2807b8cce134)] -> id: rn_LoginForm_2_Password]
+[INFO ][04-Sep-2022 12:43:35 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (9aa664b7db33eba4392e2807b8cce134)] -> id: rn_LoginForm_2_Submit]
+[INFO ][04-Sep-2022 12:43:47 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (9aa664b7db33eba4392e2807b8cce134)] -> xpath: //input[@type='search']]
+[INFO ][04-Sep-2022 12:43:49 PM] Selenium_Wrapper.enterText:(311) - Entering Text :Auto Loan in WebElement :[[ChromeDriver: chrome on WINDOWS (9aa664b7db33eba4392e2807b8cce134)] -> xpath: //input[@type='search']]
+[INFO ][04-Sep-2022 12:44:10 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (9aa664b7db33eba4392e2807b8cce134)] -> xpath: //ul[@aria-label='Suggested Search']//li[normalize-space()= 'Auto Loan' ]]
+[ERROR][04-Sep-2022 12:44:17 PM] FeedbackAdmin.testSearchanArticleSection:(45) - Jump to section Test is un-successfull

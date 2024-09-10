@@ -1,0 +1,8 @@
+[INFO ][02-Jul-2024 14:27:31 PM] Selenium_Wrapper.openBrowser:(54) - Opening chrome browser.
+[INFO ][02-Jul-2024 14:27:42 PM] Selenium_Wrapper.enterURL:(88) - Entering url :https://macu1--tst1.custhelp.com/AgentWeb/
+[INFO ][02-Jul-2024 14:27:46 PM] Selenium_Wrapper.enterText:(317) - Entering Text :automation_testing in WebElement :[[ChromeDriver: chrome on WINDOWS (b24ed53e1f5d9188d6a2c95deba0fa1d)] -> id: username]
+[INFO ][02-Jul-2024 14:27:47 PM] Selenium_Wrapper.enterText:(317) - Entering Text :Welcome123 in WebElement :[[ChromeDriver: chrome on WINDOWS (b24ed53e1f5d9188d6a2c95deba0fa1d)] -> id: password]
+[INFO ][02-Jul-2024 14:28:16 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (b24ed53e1f5d9188d6a2c95deba0fa1d)] -> id: loginbutton]
+[ERROR][02-Jul-2024 14:28:48 PM] SmileyFacesFeedBackReport.testNavigateToAnwserVotingSmileyFacesReportFlow:(43) - Navigate To Article un-successfull
+[ERROR][02-Jul-2024 14:28:52 PM] SmileyFacesFeedBackReport.testSelectingandVerifyingFlow:(165) - Selecting and Verifying  un-successfull
+[ERROR][02-Jul-2024 14:28:55 PM] SmileyFacesFeedBackReport.testSignout:(181) - Logout/SignOut un-successfull

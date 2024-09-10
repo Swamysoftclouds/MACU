@@ -1,0 +1,27 @@
+[INFO ][11-Jun-2023 21:35:09 pm] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][11-Jun-2023 21:35:14 pm] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--tst1.custhelp.com/app/home
+[INFO ][11-Jun-2023 21:35:18 pm] Selenium_Wrapper.enterText:(311) - Entering Text :swamyk in WebElement :[[ChromeDriver: chrome on WINDOWS (9ae0514f4f8b9c1011916de8343a18c7)] -> id: rn_LoginForm_2_Username]
+[INFO ][11-Jun-2023 21:35:20 pm] Selenium_Wrapper.enterText:(311) - Entering Text :Soft@123 in WebElement :[[ChromeDriver: chrome on WINDOWS (9ae0514f4f8b9c1011916de8343a18c7)] -> id: rn_LoginForm_2_Password]
+[INFO ][11-Jun-2023 21:35:27 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (9ae0514f4f8b9c1011916de8343a18c7)] -> id: rn_LoginForm_2_Submit]
+[INFO ][11-Jun-2023 21:35:35 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (9ae0514f4f8b9c1011916de8343a18c7)] -> xpath: //input[@type='search']]
+[INFO ][11-Jun-2023 21:35:36 pm] Selenium_Wrapper.enterText:(311) - Entering Text :Business Auto Loan in WebElement :[[ChromeDriver: chrome on WINDOWS (9ae0514f4f8b9c1011916de8343a18c7)] -> xpath: //input[@type='search']]
+[ERROR][11-Jun-2023 21:35:39 pm] Selenium_Wrapper.highlightWebElement:(417) - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"(//div[@class='yui3-aclist-content']//li//li)[1]"}
+  (Session info: chrome=114.0.5735.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'CAF-QA-SWAMYK', ip: '192.168.0.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.110, chrome: {chromedriverVersion: 113.0.5672.63 (0e1a4471d5ae..., userDataDir: C:\Users\swamyk\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:65161}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 9ae0514f4f8b9c1011916de8343a18c7
+*** Element info: {Using=xpath, value=(//div[@class='yui3-aclist-content']//li//li)[1]}
+[INFO ][11-Jun-2023 21:35:50 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (9ae0514f4f8b9c1011916de8343a18c7)] -> xpath: (//div[@class='yui3-aclist-content']//li//li)[1]]
+[INFO ][11-Jun-2023 21:35:57 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (9ae0514f4f8b9c1011916de8343a18c7)] -> xpath: (//div[@class='rn_SearchResultContent']//a)[1]]
+[INFO ][11-Jun-2023 21:36:15 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (9ae0514f4f8b9c1011916de8343a18c7)] -> xpath: //div[@class='main_image_div']//div[@class='thumbs_up_down'][2]]
+[ERROR][11-Jun-2023 21:38:06 pm] Selenium_Wrapper.getWebElement:(124) - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of [[ChromeDriver: chrome on WINDOWS (9ae0514f4f8b9c1011916de8343a18c7)] -> xpath: //textarea[@class='rn_DocumentTextArea']] (tried for 100 second(s) with 500 milliseconds interval)
+[ERROR][11-Jun-2023 21:38:06 pm] AnswerVotingFeedbackReport2.testFeedbackPage:(62) - Thumbs Up & Down Test is un-successfull
+[ERROR][11-Jun-2023 21:38:13 pm] AnswerVotingFeedbackReport2.testMyFeedbackStatus:(97) - My Feedback Article Status in CP Test is un-successfull
+[INFO ][11-Jun-2023 21:38:14 pm] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][11-Jun-2023 21:38:23 pm] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--tst1.custhelp.com/AgentWeb/
+[INFO ][11-Jun-2023 21:38:27 pm] Selenium_Wrapper.enterText:(311) - Entering Text :automation_testing in WebElement :[[ChromeDriver: chrome on WINDOWS (6e07f94026e959e4801228cade470c15)] -> id: username]
+[INFO ][11-Jun-2023 21:38:28 pm] Selenium_Wrapper.enterText:(311) - Entering Text :Welcome123 in WebElement :[[ChromeDriver: chrome on WINDOWS (6e07f94026e959e4801228cade470c15)] -> id: password]
+[INFO ][11-Jun-2023 21:38:42 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (6e07f94026e959e4801228cade470c15)] -> id: loginbutton]

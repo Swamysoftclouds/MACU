@@ -1,0 +1,9 @@
+[INFO ][02-Jul-2024 13:01:51 PM] Selenium_Wrapper.openBrowser:(54) - Opening chrome browser.
+[INFO ][02-Jul-2024 13:01:59 PM] Selenium_Wrapper.enterURL:(88) - Entering url :https://macu1--tst1.custhelp.com/app/home
+[INFO ][02-Jul-2024 13:02:04 PM] Selenium_Wrapper.enterText:(317) - Entering Text :swamyk in WebElement :[[ChromeDriver: chrome on WINDOWS (aecc449302f5d61411518ab85435c581)] -> id: rn_LoginForm_2_Username]
+[INFO ][02-Jul-2024 13:02:05 PM] Selenium_Wrapper.enterText:(317) - Entering Text :Soft@123 in WebElement :[[ChromeDriver: chrome on WINDOWS (aecc449302f5d61411518ab85435c581)] -> id: rn_LoginForm_2_Password]
+[INFO ][02-Jul-2024 13:02:09 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (aecc449302f5d61411518ab85435c581)] -> id: rn_LoginForm_2_Submit]
+[INFO ][02-Jul-2024 13:02:15 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (aecc449302f5d61411518ab85435c581)] -> xpath: //input[@type='search']]
+[INFO ][02-Jul-2024 13:02:16 PM] Selenium_Wrapper.enterText:(317) - Entering Text :Badge Protocol in WebElement :[[ChromeDriver: chrome on WINDOWS (aecc449302f5d61411518ab85435c581)] -> xpath: //input[@type='search']]
+[INFO ][02-Jul-2024 13:02:34 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (aecc449302f5d61411518ab85435c581)] -> xpath: (//div[@class='yui3-aclist-content']//li//li)[1]]
+[ERROR][02-Jul-2024 13:02:38 PM] FeedbackAdmin.testSearchanArticleSection:(40) - Jump to section Test is un-successfull

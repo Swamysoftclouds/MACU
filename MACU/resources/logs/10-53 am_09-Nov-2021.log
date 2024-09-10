@@ -1,0 +1,8 @@
+[INFO ][09-Nov-2021 10:53:26 am] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][09-Nov-2021 10:53:34 am] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--tst.custhelp.com/AgentWeb/
+[INFO ][09-Nov-2021 10:53:38 am] Selenium_Wrapper.enterText:(311) - Entering Text :RNT_pramod in WebElement :[[ChromeDriver: chrome on WINDOWS (0440f39f9acc4dc7c2910c474931887e)] -> id: username]
+[INFO ][09-Nov-2021 10:53:39 am] Selenium_Wrapper.enterText:(311) - Entering Text :Welcome123 in WebElement :[[ChromeDriver: chrome on WINDOWS (0440f39f9acc4dc7c2910c474931887e)] -> id: password]
+[INFO ][09-Nov-2021 10:56:18 am] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (0440f39f9acc4dc7c2910c474931887e)] -> id: loginbutton]
+[ERROR][09-Nov-2021 10:56:33 am] ActionsDashboardReport.testOKCSReports:(45) - Selecting OKCS Reports in BUI Test is un-successfull
+[ERROR][09-Nov-2021 10:56:33 am] ActionsDashboardReport.testVisitorActionsDashboard:(78) - Select Actions Report in BUI Test is un-successfull
+[INFO ][09-Nov-2021 10:56:36 am] Selenium_Wrapper.closeCurrentBrowser:(650) - Closing the current Browser

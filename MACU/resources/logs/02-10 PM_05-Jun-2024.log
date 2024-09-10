@@ -1,0 +1,21 @@
+[INFO ][05-Jun-2024 14:10:28 PM] Selenium_Wrapper.openBrowser:(54) - Opening chrome browser.
+[INFO ][05-Jun-2024 14:10:32 PM] Selenium_Wrapper.enterURL:(88) - Entering url :https://macu1--tst1.custhelp.com/AgentWeb/
+[INFO ][05-Jun-2024 14:10:36 PM] Selenium_Wrapper.enterText:(317) - Entering Text :automation_testing in WebElement :[[ChromeDriver: chrome on WINDOWS (255dd7e578ea0864043a41adef3b95ae)] -> id: username]
+[INFO ][05-Jun-2024 14:10:38 PM] Selenium_Wrapper.enterText:(317) - Entering Text :Welcome123 in WebElement :[[ChromeDriver: chrome on WINDOWS (255dd7e578ea0864043a41adef3b95ae)] -> id: password]
+[INFO ][05-Jun-2024 14:10:51 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (255dd7e578ea0864043a41adef3b95ae)] -> id: loginbutton]
+[INFO ][05-Jun-2024 14:11:03 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (255dd7e578ea0864043a41adef3b95ae)] -> xpath: //oj-button[@id='navigationSetBtn']]
+[INFO ][05-Jun-2024 14:11:05 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (255dd7e578ea0864043a41adef3b95ae)] -> xpath: //div[text()='Analytics']]
+[INFO ][05-Jun-2024 14:11:07 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (255dd7e578ea0864043a41adef3b95ae)] -> xpath: //span[text()='Reports Explorer']]
+[INFO ][05-Jun-2024 14:11:09 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (255dd7e578ea0864043a41adef3b95ae)] -> xpath: //div[text()='Public Reports']]
+[INFO ][05-Jun-2024 14:11:12 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (255dd7e578ea0864043a41adef3b95ae)] -> xpath: //div[text()='MACU CUSTOM REPORTS']]
+[INFO ][05-Jun-2024 14:11:14 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (255dd7e578ea0864043a41adef3b95ae)] -> xpath: //div[text()='SoftClouds']]
+[INFO ][05-Jun-2024 14:11:16 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (255dd7e578ea0864043a41adef3b95ae)] -> xpath: //div[text()='OKCS']]
+[ERROR][05-Jun-2024 14:11:28 PM] SmileyFacesFeedBackReport.testSelectingandVerifyingFlow:(140) - Selecting and Verifying  un-successfull
+[INFO ][05-Jun-2024 14:11:31 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (255dd7e578ea0864043a41adef3b95ae)] -> xpath: //body//oj-avatar[@initials='[[userMenuLabel]]']]
+[ERROR][05-Jun-2024 14:13:14 PM] Selenium_Wrapper.getWebElement:(130) - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of [[ChromeDriver: chrome on WINDOWS (255dd7e578ea0864043a41adef3b95ae)] -> xpath: //a//span[text()='Sign Out']] (tried for 100 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SC-CAF-CND84305', ip: '192.168.85.14', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 125.0.6422.142, chrome: {chromedriverVersion: 125.0.6422.141 (4b1e8393712..., userDataDir: C:\Users\SWAMYK~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51804}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 255dd7e578ea0864043a41adef3b95ae
+[ERROR][05-Jun-2024 14:13:14 PM] SmileyFacesFeedBackReport.testSignout:(156) - Logout/SignOut un-successfull

@@ -1,0 +1,23 @@
+[INFO ][04-Oct-2023 15:49:47 pm] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][04-Oct-2023 15:49:54 pm] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--tst1.custhelp.com/app/home
+[INFO ][04-Oct-2023 15:49:59 pm] Selenium_Wrapper.enterText:(311) - Entering Text :swamyk in WebElement :[[ChromeDriver: chrome on WINDOWS (e8fd99800b02f217beadf4b0888d5958)] -> id: rn_LoginForm_2_Username]
+[INFO ][04-Oct-2023 15:50:00 pm] Selenium_Wrapper.enterText:(311) - Entering Text :Soft@123 in WebElement :[[ChromeDriver: chrome on WINDOWS (e8fd99800b02f217beadf4b0888d5958)] -> id: rn_LoginForm_2_Password]
+[INFO ][04-Oct-2023 15:50:07 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (e8fd99800b02f217beadf4b0888d5958)] -> id: rn_LoginForm_2_Submit]
+[INFO ][04-Oct-2023 15:50:16 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (e8fd99800b02f217beadf4b0888d5958)] -> xpath: //div[@class='dropdown']]
+[ERROR][04-Oct-2023 15:50:21 pm] Selenium_Wrapper.highlightWebElement:(417) - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//label[text()='My Top Bookmarks']"}
+  (Session info: chrome=117.0.5938.150)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'CAF-QA-SWAMYK', ip: '192.168.0.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 117.0.5938.150, chrome: {chromedriverVersion: 117.0.5938.92 (67649b10b92b..., userDataDir: C:\Users\swamyk\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64306}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e8fd99800b02f217beadf4b0888d5958
+*** Element info: {Using=xpath, value=//label[text()='My Top Bookmarks']}
+[INFO ][04-Oct-2023 15:50:38 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (e8fd99800b02f217beadf4b0888d5958)] -> xpath: (//div[@class='dropdown-content']//a)[1]]
+[ERROR][04-Oct-2023 15:50:46 pm] QuickNavigation.testAssertBookmarkArticle:(59) - Assert Article from My Top Bookmarks Test is un-successfull
+[INFO ][04-Oct-2023 15:50:56 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (e8fd99800b02f217beadf4b0888d5958)] -> xpath: //input[@type='search']]
+[INFO ][04-Oct-2023 15:50:57 pm] Selenium_Wrapper.enterText:(311) - Entering Text :Business Auto Loan - ALPS 1.0 in WebElement :[[ChromeDriver: chrome on WINDOWS (e8fd99800b02f217beadf4b0888d5958)] -> xpath: //input[@type='search']]
+[ERROR][04-Oct-2023 15:51:24 pm] QuickNavigation.testBookmarkArticle:(79) - Bookmark Article Test is un-successfull
+[ERROR][04-Oct-2023 15:51:24 pm] QuickNavigation.testVerifyBookmarkArticle:(146) - Verify Bookmark Article and Highlight in List Test is un-successfull
+[INFO ][04-Oct-2023 15:51:37 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (e8fd99800b02f217beadf4b0888d5958)] -> class name: knowledge]
+[INFO ][04-Oct-2023 15:51:45 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (e8fd99800b02f217beadf4b0888d5958)] -> xpath: //div[@class='dropdown']]

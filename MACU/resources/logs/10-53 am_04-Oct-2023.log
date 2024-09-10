@@ -1,0 +1,13 @@
+[INFO ][04-Oct-2023 10:53:58 am] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][04-Oct-2023 10:54:01 am] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--tst1.custhelp.com/AgentWeb/
+[INFO ][04-Oct-2023 10:54:05 am] Selenium_Wrapper.enterText:(311) - Entering Text :automation_testing in WebElement :[[ChromeDriver: chrome on WINDOWS (ac945c3788ec163f4a23dfb8f3638232)] -> id: username]
+[INFO ][04-Oct-2023 10:54:07 am] Selenium_Wrapper.enterText:(311) - Entering Text :Welcome123 in WebElement :[[ChromeDriver: chrome on WINDOWS (ac945c3788ec163f4a23dfb8f3638232)] -> id: password]
+[INFO ][04-Oct-2023 10:54:35 am] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (ac945c3788ec163f4a23dfb8f3638232)] -> id: loginbutton]
+[INFO ][04-Oct-2023 10:54:55 am] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (ac945c3788ec163f4a23dfb8f3638232)] -> xpath: //oj-button[@id='navigationSetBtn']]
+[INFO ][04-Oct-2023 10:55:00 am] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (ac945c3788ec163f4a23dfb8f3638232)] -> xpath: (//div[text()='Analytics']//a)]
+[INFO ][04-Oct-2023 10:55:05 am] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (ac945c3788ec163f4a23dfb8f3638232)] -> xpath: //span[text()='Reports Explorer']]
+[INFO ][04-Oct-2023 10:55:10 am] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (ac945c3788ec163f4a23dfb8f3638232)] -> xpath: //div[text()='Public Reports']]
+[INFO ][04-Oct-2023 10:55:16 am] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (ac945c3788ec163f4a23dfb8f3638232)] -> xpath: //div[text()='MACU CUSTOM REPORTS']]
+[INFO ][04-Oct-2023 10:55:21 am] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (ac945c3788ec163f4a23dfb8f3638232)] -> xpath: //div[text()='SoftClouds']]
+[INFO ][04-Oct-2023 10:55:26 am] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (ac945c3788ec163f4a23dfb8f3638232)] -> xpath: //div[text()='OKCS']]
+[ERROR][04-Oct-2023 10:55:38 am] ThumbsUpAndThumbsDownFeedback.testSelectingandVerifyingFlow:(167) - Selecting and Verifying Test is un-successfull

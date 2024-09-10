@@ -1,0 +1,11 @@
+[INFO ][11-Jun-2023 21:43:42 pm] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][11-Jun-2023 21:43:47 pm] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--tst1.custhelp.com/app/home
+[INFO ][11-Jun-2023 21:43:51 pm] Selenium_Wrapper.enterText:(311) - Entering Text :swamyk in WebElement :[[ChromeDriver: chrome on WINDOWS (074ce81113e4e9df6ab4a7e103f45609)] -> id: rn_LoginForm_2_Username]
+[INFO ][11-Jun-2023 21:43:52 pm] Selenium_Wrapper.enterText:(311) - Entering Text :Soft@123 in WebElement :[[ChromeDriver: chrome on WINDOWS (074ce81113e4e9df6ab4a7e103f45609)] -> id: rn_LoginForm_2_Password]
+[INFO ][11-Jun-2023 21:43:59 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (074ce81113e4e9df6ab4a7e103f45609)] -> id: rn_LoginForm_2_Submit]
+[INFO ][11-Jun-2023 21:44:16 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (074ce81113e4e9df6ab4a7e103f45609)] -> class name: knowledge]
+[INFO ][11-Jun-2023 21:44:23 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (074ce81113e4e9df6ab4a7e103f45609)] -> xpath: //div[@class='dropdown']]
+[INFO ][11-Jun-2023 21:44:33 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (074ce81113e4e9df6ab4a7e103f45609)] -> xpath: //div[@class='dropdown-content']//a[normalize-space()='My Notifications']]
+[INFO ][11-Jun-2023 21:44:42 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (074ce81113e4e9df6ab4a7e103f45609)] -> xpath: //a[text()='browse all PAGES']]
+[ERROR][11-Jun-2023 21:45:10 pm] QuickNavigation.testPreferencesNotificationPage:(192) - Preferences My Notification Test is un-successfull
+[INFO ][11-Jun-2023 21:45:13 pm] Selenium_Wrapper.closeCurrentBrowser:(651) - Closing the current Browser

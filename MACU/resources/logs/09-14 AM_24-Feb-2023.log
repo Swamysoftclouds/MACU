@@ -1,0 +1,9 @@
+[INFO ][24-Feb-2023 09:14:17 AM] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][24-Feb-2023 09:14:20 AM] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--upgrade.custhelp.com/AgentWeb/
+[INFO ][24-Feb-2023 09:14:24 AM] Selenium_Wrapper.enterText:(311) - Entering Text :automation_testing in WebElement :[[ChromeDriver: chrome on WINDOWS (98d7d176d1a174f612939bbb39ef0335)] -> id: username]
+[INFO ][24-Feb-2023 09:14:25 AM] Selenium_Wrapper.enterText:(311) - Entering Text :Welcome123 in WebElement :[[ChromeDriver: chrome on WINDOWS (98d7d176d1a174f612939bbb39ef0335)] -> id: password]
+[INFO ][24-Feb-2023 09:14:42 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (98d7d176d1a174f612939bbb39ef0335)] -> id: loginbutton]
+[ERROR][24-Feb-2023 09:14:54 AM] ActionsDashboardReport.testOKCSReports:(45) - Selecting OKCS Reports in BUI Test is un-successfull
+[ERROR][24-Feb-2023 09:15:19 AM] ActionsDashboardReport.testVisitorActionsDashboard:(125) - Select Actions Report in BUI Test is un-successfull
+[INFO ][24-Feb-2023 09:15:28 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (98d7d176d1a174f612939bbb39ef0335)] -> xpath: //body//oj-avatar[@initials='[[userMenuLabel]]']]
+[ERROR][24-Feb-2023 09:15:35 AM] ActionsDashboardReport.testSignout:(141) - Logout/SignOut un-successfull

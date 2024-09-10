@@ -1,0 +1,40 @@
+[INFO ][17-Nov-2021 18:02:43 pm] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][17-Nov-2021 18:02:49 pm] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--tst.custhelp.com/app/home
+[INFO ][17-Nov-2021 18:02:53 pm] Selenium_Wrapper.enterText:(311) - Entering Text :pramodk in WebElement :[[ChromeDriver: chrome on WINDOWS (a896c2dc7b1c2f1bedb2564e74a0dbb3)] -> id: rn_LoginForm_2_Username]
+[INFO ][17-Nov-2021 18:02:55 pm] Selenium_Wrapper.enterText:(311) - Entering Text :Soft@123 in WebElement :[[ChromeDriver: chrome on WINDOWS (a896c2dc7b1c2f1bedb2564e74a0dbb3)] -> id: rn_LoginForm_2_Password]
+[INFO ][17-Nov-2021 18:03:02 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (a896c2dc7b1c2f1bedb2564e74a0dbb3)] -> id: rn_LoginForm_2_Submit]
+[INFO ][17-Nov-2021 18:03:11 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (a896c2dc7b1c2f1bedb2564e74a0dbb3)] -> xpath: //input[@type='search']]
+[INFO ][17-Nov-2021 18:03:12 pm] Selenium_Wrapper.enterText:(311) - Entering Text :Auto Loan in WebElement :[[ChromeDriver: chrome on WINDOWS (a896c2dc7b1c2f1bedb2564e74a0dbb3)] -> xpath: //input[@type='search']]
+[INFO ][17-Nov-2021 18:03:26 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (a896c2dc7b1c2f1bedb2564e74a0dbb3)] -> xpath: //ul[@aria-label='Suggested Search']//li[normalize-space()= 'Auto Loan' ]]
+[INFO ][17-Nov-2021 18:03:34 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (a896c2dc7b1c2f1bedb2564e74a0dbb3)] -> xpath: //div[@class='rn_SearchResultContent']//a[text()='Auto Loan']]
+[INFO ][17-Nov-2021 18:03:51 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (a896c2dc7b1c2f1bedb2564e74a0dbb3)] -> xpath: //div[@class='dropdown']]
+[ERROR][17-Nov-2021 18:05:36 pm] Selenium_Wrapper.getWebElement:(124) - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of [[ChromeDriver: chrome on WINDOWS (a896c2dc7b1c2f1bedb2564e74a0dbb3)] -> xpath: //a[text()='My Bookmarks']] (tried for 100 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-N43657M', ip: '192.168.29.58', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 95.0.4638.69, chrome: {chromedriverVersion: 95.0.4638.17 (a9d0719444d4b..., userDataDir: C:\Users\Pramod\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:55811}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: a896c2dc7b1c2f1bedb2564e74a0dbb3
+[ERROR][17-Nov-2021 18:05:36 pm] ArticlePage.testBookmarkArticle:(89) - Bookmark Article Test case is un-successfull
+[INFO ][17-Nov-2021 18:05:45 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (a896c2dc7b1c2f1bedb2564e74a0dbb3)] -> xpath: //div[contains(@class,'EmailAnswerLink')]//img[@class='share_icon_default']]
+[INFO ][17-Nov-2021 18:05:50 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (a896c2dc7b1c2f1bedb2564e74a0dbb3)] -> xpath: //div[@id='rnDialog1']//input[@class='select2-search__field']]
+[INFO ][17-Nov-2021 18:05:51 pm] Selenium_Wrapper.enterText:(311) - Entering Text :Aaron Brown in WebElement :[[ChromeDriver: chrome on WINDOWS (a896c2dc7b1c2f1bedb2564e74a0dbb3)] -> xpath: //div[@id='rnDialog1']//input[@class='select2-search__field']]
+[INFO ][17-Nov-2021 18:05:59 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (a896c2dc7b1c2f1bedb2564e74a0dbb3)] -> xpath: //ul[@class='select2-results__options']//li[text()='Aaron Brown']]
+[INFO ][17-Nov-2021 18:06:05 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (a896c2dc7b1c2f1bedb2564e74a0dbb3)] -> xpath: //button[@class='yui3-button yui3-button-close']]
+[INFO ][17-Nov-2021 18:06:17 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (a896c2dc7b1c2f1bedb2564e74a0dbb3)] -> xpath: //div[@id='formsResources_panel']//div[@id='formsResources_headingOne']]
+[INFO ][17-Nov-2021 18:06:26 pm] Selenium_Wrapper.clickUsingActions:(249) - Clicking on :[[ChromeDriver: chrome on WINDOWS (a896c2dc7b1c2f1bedb2564e74a0dbb3)] -> xpath: (//ul[@class='formsResources']//ul//li/a)[2]]
+[INFO ][17-Nov-2021 18:06:26 pm] Selenium_Wrapper.clickUsingActions:(249) - Clicking on :[[ChromeDriver: chrome on WINDOWS (a896c2dc7b1c2f1bedb2564e74a0dbb3)] -> xpath: (//ul[@class='formsResources']//ul//li/a)[2]]
+[INFO ][17-Nov-2021 18:06:47 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (a896c2dc7b1c2f1bedb2564e74a0dbb3)] -> xpath: //li[@class='breadcrumb-item']//a]
+[INFO ][17-Nov-2021 18:06:59 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (a896c2dc7b1c2f1bedb2564e74a0dbb3)] -> class name: knowledge]
+[INFO ][17-Nov-2021 18:07:06 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (a896c2dc7b1c2f1bedb2564e74a0dbb3)] -> xpath: //input[@type='search']]
+[INFO ][17-Nov-2021 18:07:07 pm] Selenium_Wrapper.enterText:(311) - Entering Text :COVID-19 Critical Updates in WebElement :[[ChromeDriver: chrome on WINDOWS (a896c2dc7b1c2f1bedb2564e74a0dbb3)] -> xpath: //input[@type='search']]
+[INFO ][17-Nov-2021 18:07:21 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (a896c2dc7b1c2f1bedb2564e74a0dbb3)] -> xpath: //ul[@aria-label='Suggested Search']//li[normalize-space()='COVID-19 Critical Updates']]
+[INFO ][17-Nov-2021 18:07:29 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (a896c2dc7b1c2f1bedb2564e74a0dbb3)] -> xpath: //div[@class='rn_SearchResultContent']//a[text()='COVID-19 Critical Updates']]
+[ERROR][17-Nov-2021 18:07:41 pm] Selenium_Wrapper.highlightWebElement:(417) - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//a[@class='add_bookmarkButton']//img[@class='bookmark_icon_blank']"}
+  (Session info: chrome=95.0.4638.69)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-N43657M', ip: '192.168.29.58', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 95.0.4638.69, chrome: {chromedriverVersion: 95.0.4638.17 (a9d0719444d4b..., userDataDir: C:\Users\Pramod\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:55811}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: a896c2dc7b1c2f1bedb2564e74a0dbb3
+*** Element info: {Using=xpath, value=//a[@class='add_bookmarkButton']//img[@class='bookmark_icon_blank']}

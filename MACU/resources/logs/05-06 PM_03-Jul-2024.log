@@ -1,0 +1,20 @@
+[INFO ][03-Jul-2024 17:06:08 PM] Selenium_Wrapper.openBrowser:(54) - Opening chrome browser.
+[INFO ][03-Jul-2024 17:06:11 PM] Selenium_Wrapper.enterURL:(88) - Entering url :https://macu1--tst1.custhelp.com/app/home
+[ERROR][03-Jul-2024 17:06:15 PM] MACU_Wrapper.signIntoCP:(23) - Error in the signin process
+[ERROR][03-Jul-2024 17:06:19 PM] ThumbsDownFeedBack.testJumpToSection:(42) - Jump to section Test is un-successfull
+[ERROR][03-Jul-2024 17:06:24 PM] ThumbsDownFeedBack.testFeedbackPage:(72) - Request Updates, Comments, Thumbs Up & Down Test is un-successfull
+[INFO ][03-Jul-2024 17:06:26 PM] Selenium_Wrapper.openBrowser:(54) - Opening chrome browser.
+[ERROR][03-Jul-2024 17:06:28 PM] ThumbsDownFeedBack.testMyFeedbackStatus:(107) - My Feedback Article Status in CP Test is un-successfull
+[INFO ][03-Jul-2024 17:06:29 PM] Selenium_Wrapper.openBrowser:(54) - Opening chrome browser.
+[INFO ][03-Jul-2024 17:06:31 PM] Selenium_Wrapper.enterURL:(88) - Entering url :https://macu1--tst1.custhelp.com/app/home
+[INFO ][03-Jul-2024 17:06:32 PM] Selenium_Wrapper.enterURL:(88) - Entering url :https://macu1--tst1.custhelp.com/AgentWeb/
+[INFO ][03-Jul-2024 17:06:35 PM] Selenium_Wrapper.enterText:(317) - Entering Text :swamyk in WebElement :[[ChromeDriver: chrome on WINDOWS (8a542891f554008125e1753cd6b8f04f)] -> id: rn_LoginForm_2_Username]
+[INFO ][03-Jul-2024 17:06:37 PM] Selenium_Wrapper.enterText:(317) - Entering Text :Soft@123 in WebElement :[[ChromeDriver: chrome on WINDOWS (8a542891f554008125e1753cd6b8f04f)] -> id: rn_LoginForm_2_Password]
+[INFO ][03-Jul-2024 17:06:37 PM] Selenium_Wrapper.enterText:(317) - Entering Text :automation_testing in WebElement :[[ChromeDriver: chrome on WINDOWS (81bc262e54c1d778dcc6a505d845e8a6)] -> id: username]
+[INFO ][03-Jul-2024 17:06:38 PM] Selenium_Wrapper.enterText:(317) - Entering Text :Welcome123 in WebElement :[[ChromeDriver: chrome on WINDOWS (81bc262e54c1d778dcc6a505d845e8a6)] -> id: password]
+[INFO ][03-Jul-2024 17:06:41 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (8a542891f554008125e1753cd6b8f04f)] -> id: rn_LoginForm_2_Submit]
+[ERROR][03-Jul-2024 17:06:42 PM] MACU_Wrapper.signIntoBUI:(37) - Error in the loginin process
+[ERROR][03-Jul-2024 17:06:45 PM] ThumbsDownFeedBack.testJumpToSection:(42) - Jump to section Test is un-successfull
+[ERROR][03-Jul-2024 17:06:49 PM] ThumbsDownFeedBack.testFeedbackPage:(72) - Request Updates, Comments, Thumbs Up & Down Test is un-successfull
+[ERROR][03-Jul-2024 17:06:53 PM] ThumbsDownFeedBack.testMyFeedbackStatus:(107) - My Feedback Article Status in CP Test is un-successfull
+[INFO ][03-Jul-2024 17:06:55 PM] Selenium_Wrapper.openBrowser:(54) - Opening chrome browser.

@@ -1,0 +1,40 @@
+[INFO ][07-Nov-2021 22:05:16 pm] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][07-Nov-2021 22:05:24 pm] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--tst.custhelp.com/app/home
+[INFO ][07-Nov-2021 22:05:28 pm] Selenium_Wrapper.enterText:(311) - Entering Text :pramodk in WebElement :[[ChromeDriver: chrome on WINDOWS (d6a8bcb261a2e873356ea34c860b230f)] -> id: rn_LoginForm_2_Username]
+[INFO ][07-Nov-2021 22:05:29 pm] Selenium_Wrapper.enterText:(311) - Entering Text :Soft@123 in WebElement :[[ChromeDriver: chrome on WINDOWS (d6a8bcb261a2e873356ea34c860b230f)] -> id: rn_LoginForm_2_Password]
+[INFO ][07-Nov-2021 22:05:36 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (d6a8bcb261a2e873356ea34c860b230f)] -> id: rn_LoginForm_2_Submit]
+[INFO ][07-Nov-2021 22:05:45 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (d6a8bcb261a2e873356ea34c860b230f)] -> xpath: //input[@type='search']]
+[INFO ][07-Nov-2021 22:05:46 pm] Selenium_Wrapper.enterText:(311) - Entering Text :Flexible Work in WebElement :[[ChromeDriver: chrome on WINDOWS (d6a8bcb261a2e873356ea34c860b230f)] -> xpath: //input[@type='search']]
+[ERROR][07-Nov-2021 22:05:47 pm] Selenium_Wrapper.highlightWebElement:(417) - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//ul[@aria-label='Suggested Search']//li[normalize-space()='Flexible Work']"}
+  (Session info: chrome=95.0.4638.54)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-N43657M', ip: '192.168.29.58', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 95.0.4638.54, chrome: {chromedriverVersion: 95.0.4638.17 (a9d0719444d4b..., userDataDir: C:\Users\Pramod\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:53824}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: d6a8bcb261a2e873356ea34c860b230f
+*** Element info: {Using=xpath, value=//ul[@aria-label='Suggested Search']//li[normalize-space()='Flexible Work']}
+[INFO ][07-Nov-2021 22:05:56 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (d6a8bcb261a2e873356ea34c860b230f)] -> xpath: //ul[@aria-label='Suggested Search']//li[normalize-space()='Flexible Work']]
+[ERROR][07-Nov-2021 22:06:03 pm] ThumbsDownFeedBack.testJumpToSection:(47) - Jump to section Test is un-successfull
+[ERROR][07-Nov-2021 22:06:04 pm] Selenium_Wrapper.highlightWebElement:(417) - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='main_image_div']//div[@class='thumbs_up_down'][2]"}
+  (Session info: chrome=95.0.4638.54)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-N43657M', ip: '192.168.29.58', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 95.0.4638.54, chrome: {chromedriverVersion: 95.0.4638.17 (a9d0719444d4b..., userDataDir: C:\Users\Pramod\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:53824}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: d6a8bcb261a2e873356ea34c860b230f
+*** Element info: {Using=xpath, value=//div[@class='main_image_div']//div[@class='thumbs_up_down'][2]}
+[ERROR][07-Nov-2021 22:06:10 pm] ThumbsDownFeedBack.testFeedbackPage:(71) - Request Updates, Comments, Thumbs Up & Down Test is un-successfull
+[INFO ][07-Nov-2021 22:06:20 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (d6a8bcb261a2e873356ea34c860b230f)] -> xpath: //div[@class='dropdown']]
+[INFO ][07-Nov-2021 22:06:31 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (d6a8bcb261a2e873356ea34c860b230f)] -> xpath: //a[text()='My Feedback']]
+[INFO ][07-Nov-2021 22:06:54 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (d6a8bcb261a2e873356ea34c860b230f)] -> xpath: ((//table//tbody)[2]//a)[1]]
+[ERROR][07-Nov-2021 22:07:01 pm] Selenium_Wrapper.highlightWebElement:(417) - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//li//div[normalize-space()='Unresolved']"}
+  (Session info: chrome=95.0.4638.54)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-N43657M', ip: '192.168.29.58', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 95.0.4638.54, chrome: {chromedriverVersion: 95.0.4638.17 (a9d0719444d4b..., userDataDir: C:\Users\Pramod\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:53824}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: d6a8bcb261a2e873356ea34c860b230f
+*** Element info: {Using=xpath, value=//li//div[normalize-space()='Unresolved']}

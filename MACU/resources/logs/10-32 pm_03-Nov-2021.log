@@ -1,0 +1,25 @@
+[INFO ][03-Nov-2021 22:32:48 pm] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][03-Nov-2021 22:32:57 pm] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--tst.custhelp.com/app/home
+[INFO ][03-Nov-2021 22:33:01 pm] Selenium_Wrapper.enterText:(311) - Entering Text :pramodk in WebElement :[[ChromeDriver: chrome on WINDOWS (963989a92e756d3a79f7f8399bdd009b)] -> id: rn_LoginForm_2_Username]
+[INFO ][03-Nov-2021 22:33:02 pm] Selenium_Wrapper.enterText:(311) - Entering Text :Soft@123 in WebElement :[[ChromeDriver: chrome on WINDOWS (963989a92e756d3a79f7f8399bdd009b)] -> id: rn_LoginForm_2_Password]
+[INFO ][03-Nov-2021 22:33:05 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (963989a92e756d3a79f7f8399bdd009b)] -> id: rn_LoginForm_2_Submit]
+[INFO ][03-Nov-2021 22:33:26 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (963989a92e756d3a79f7f8399bdd009b)] -> xpath: //p[@class='search_text']//a[text()='browse all PAGES']]
+[INFO ][03-Nov-2021 22:33:30 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (963989a92e756d3a79f7f8399bdd009b)] -> class name: knowledge]
+[INFO ][03-Nov-2021 22:34:07 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (963989a92e756d3a79f7f8399bdd009b)] -> xpath: //div[@id='rn_RequestUpdate_9_RecommendContent']//button]
+[INFO ][03-Nov-2021 22:34:08 pm] Selenium_Wrapper.enterText:(311) - Entering Text :Test Improve, comments, updates in WebElement :[[ChromeDriver: chrome on WINDOWS (963989a92e756d3a79f7f8399bdd009b)] -> xpath: //textarea[@id='rn_RequestUpdate_9_Description']]
+[INFO ][03-Nov-2021 22:34:09 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (963989a92e756d3a79f7f8399bdd009b)] -> xpath: //span[@class='yui3-widget-buttons']//button[@class='yui3-button yui3-button-close']]
+[ERROR][03-Nov-2021 22:34:11 pm] Selenium_Wrapper.highlightWebElement:(417) - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":".emoji\ d\-flex"}
+  (Session info: chrome=95.0.4638.54)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-N43657M', ip: '192.168.29.58', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 95.0.4638.54, chrome: {chromedriverVersion: 95.0.4638.17 (a9d0719444d4b..., userDataDir: C:\Users\Pramod\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:63049}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 963989a92e756d3a79f7f8399bdd009b
+*** Element info: {Using=class name, value=emoji d-flex}
+[INFO ][03-Nov-2021 22:34:12 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (963989a92e756d3a79f7f8399bdd009b)] -> xpath: //div[@class='emoji d-flex']//a[@class='smile']]
+[INFO ][03-Nov-2021 22:34:22 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (963989a92e756d3a79f7f8399bdd009b)] -> xpath: //h2[@class='footer_heading']/a[text()='Browse all pages']]
+[INFO ][03-Nov-2021 22:34:25 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (963989a92e756d3a79f7f8399bdd009b)] -> class name: knowledge]
+[INFO ][03-Nov-2021 22:34:35 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (963989a92e756d3a79f7f8399bdd009b)] -> xpath: //p[@class='search_text text-left ml-0']/a[text()='GO TO A-Z INDEX']]
+[ERROR][03-Nov-2021 22:34:47 pm] HomePage.testFooterLinks:(125) - Footer Links Test is un-successfull
+[INFO ][03-Nov-2021 22:34:50 pm] Selenium_Wrapper.closeCurrentBrowser:(650) - Closing the current Browser

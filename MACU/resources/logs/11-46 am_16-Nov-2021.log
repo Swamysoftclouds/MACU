@@ -1,0 +1,38 @@
+[INFO ][16-Nov-2021 11:46:30 am] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][16-Nov-2021 11:46:36 am] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--tst.custhelp.com/app/home
+[INFO ][16-Nov-2021 11:46:40 am] Selenium_Wrapper.enterText:(311) - Entering Text :pramodk in WebElement :[[ChromeDriver: chrome on WINDOWS (3c4feb9b88d4ebd49a1a6cfd64aaaf65)] -> id: rn_LoginForm_2_Username]
+[INFO ][16-Nov-2021 11:46:42 am] Selenium_Wrapper.enterText:(311) - Entering Text :Soft@123 in WebElement :[[ChromeDriver: chrome on WINDOWS (3c4feb9b88d4ebd49a1a6cfd64aaaf65)] -> id: rn_LoginForm_2_Password]
+[INFO ][16-Nov-2021 11:46:49 am] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (3c4feb9b88d4ebd49a1a6cfd64aaaf65)] -> id: rn_LoginForm_2_Submit]
+[INFO ][16-Nov-2021 11:46:58 am] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (3c4feb9b88d4ebd49a1a6cfd64aaaf65)] -> xpath: //input[@type='search']]
+[INFO ][16-Nov-2021 11:46:59 am] Selenium_Wrapper.enterText:(311) - Entering Text :Auto Loan in WebElement :[[ChromeDriver: chrome on WINDOWS (3c4feb9b88d4ebd49a1a6cfd64aaaf65)] -> xpath: //input[@type='search']]
+[INFO ][16-Nov-2021 11:47:13 am] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (3c4feb9b88d4ebd49a1a6cfd64aaaf65)] -> xpath: //ul[@aria-label='Suggested Search']//li[normalize-space()= 'Auto Loan' ]]
+[INFO ][16-Nov-2021 11:47:21 am] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (3c4feb9b88d4ebd49a1a6cfd64aaaf65)] -> xpath: //div[@class='rn_SearchResultContent']//a[text()='Auto Loan']]
+[INFO ][16-Nov-2021 11:47:38 am] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (3c4feb9b88d4ebd49a1a6cfd64aaaf65)] -> xpath: //div[contains(@class,'EmailAnswerLink')]//img[@class='share_icon_default']]
+[INFO ][16-Nov-2021 11:47:43 am] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (3c4feb9b88d4ebd49a1a6cfd64aaaf65)] -> xpath: //div[@id='rnDialog1']//input[@class='select2-search__field']]
+[INFO ][16-Nov-2021 11:47:44 am] Selenium_Wrapper.enterText:(311) - Entering Text :Aaron Brown in WebElement :[[ChromeDriver: chrome on WINDOWS (3c4feb9b88d4ebd49a1a6cfd64aaaf65)] -> xpath: //div[@id='rnDialog1']//input[@class='select2-search__field']]
+[INFO ][16-Nov-2021 11:47:52 am] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (3c4feb9b88d4ebd49a1a6cfd64aaaf65)] -> xpath: //ul[@class='select2-results__options']//li[text()='Aaron Brown']]
+[INFO ][16-Nov-2021 11:47:57 am] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (3c4feb9b88d4ebd49a1a6cfd64aaaf65)] -> xpath: //button[@class='yui3-button yui3-button-close']]
+[INFO ][16-Nov-2021 11:48:04 am] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (3c4feb9b88d4ebd49a1a6cfd64aaaf65)] -> class name: knowledge]
+[INFO ][16-Nov-2021 11:48:11 am] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (3c4feb9b88d4ebd49a1a6cfd64aaaf65)] -> xpath: //input[@type='search']]
+[INFO ][16-Nov-2021 11:48:13 am] Selenium_Wrapper.enterText:(311) - Entering Text :COVID-19 Critical Updates in WebElement :[[ChromeDriver: chrome on WINDOWS (3c4feb9b88d4ebd49a1a6cfd64aaaf65)] -> xpath: //input[@type='search']]
+[INFO ][16-Nov-2021 11:48:27 am] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (3c4feb9b88d4ebd49a1a6cfd64aaaf65)] -> xpath: //ul[@aria-label='Suggested Search']//li[normalize-space()='COVID-19 Critical Updates']]
+[INFO ][16-Nov-2021 11:48:34 am] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (3c4feb9b88d4ebd49a1a6cfd64aaaf65)] -> xpath: //div[@class='rn_SearchResultContent']//a[text()='COVID-19 Critical Updates']]
+[ERROR][16-Nov-2021 11:48:47 am] Selenium_Wrapper.highlightWebElement:(417) - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//a[@class='add_bookmarkButton']//img[@class='bookmark_icon_blank']"}
+  (Session info: chrome=95.0.4638.69)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-N43657M', ip: '192.168.29.58', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 95.0.4638.69, chrome: {chromedriverVersion: 95.0.4638.17 (a9d0719444d4b..., userDataDir: C:\Users\Pramod\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:54194}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 3c4feb9b88d4ebd49a1a6cfd64aaaf65
+*** Element info: {Using=xpath, value=//a[@class='add_bookmarkButton']//img[@class='bookmark_icon_blank']}
+[INFO ][16-Nov-2021 11:49:34 am] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (3c4feb9b88d4ebd49a1a6cfd64aaaf65)] -> xpath: //div[@class='quick-guide']//a[text()='Employee Resources']]
+[INFO ][16-Nov-2021 11:49:45 am] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (3c4feb9b88d4ebd49a1a6cfd64aaaf65)] -> xpath: //div[@class='quick-guide']//a[text()='Remote Work']]
+[INFO ][16-Nov-2021 11:50:04 am] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (3c4feb9b88d4ebd49a1a6cfd64aaaf65)] -> xpath: //button[@class='rn_RecommendContentButton p-0']]
+[INFO ][16-Nov-2021 11:50:05 am] Selenium_Wrapper.enterText:(311) - Entering Text :Test Improve, comments, updates in WebElement :[[ChromeDriver: chrome on WINDOWS (3c4feb9b88d4ebd49a1a6cfd64aaaf65)] -> id: rn_RequestUpdate_25_Description]
+[INFO ][16-Nov-2021 11:50:10 am] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (3c4feb9b88d4ebd49a1a6cfd64aaaf65)] -> xpath: //button[@class='yui3-button yui3-button-close']]
+[INFO ][16-Nov-2021 11:50:22 am] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (3c4feb9b88d4ebd49a1a6cfd64aaaf65)] -> id: relatedPages_headingOne]
+[INFO ][16-Nov-2021 11:50:29 am] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (3c4feb9b88d4ebd49a1a6cfd64aaaf65)] -> id: relatedPages_headingOne]
+[INFO ][16-Nov-2021 11:50:35 am] Selenium_Wrapper.enterText:(311) - Entering Text :Auto Loan in WebElement :[[ChromeDriver: chrome on WINDOWS (3c4feb9b88d4ebd49a1a6cfd64aaaf65)] -> id: rn_SearchHome_18_SearchInput]
+[INFO ][16-Nov-2021 11:50:47 am] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (3c4feb9b88d4ebd49a1a6cfd64aaaf65)] -> xpath: //ul[@aria-label='Suggested Search']//li[@class='rn_SuggestionItem'][normalize-space()='Auto Loan']]
+[INFO ][16-Nov-2021 11:51:01 am] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (3c4feb9b88d4ebd49a1a6cfd64aaaf65)] -> class name: knowledge]

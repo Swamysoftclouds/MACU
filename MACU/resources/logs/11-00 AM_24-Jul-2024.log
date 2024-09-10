@@ -1,0 +1,29 @@
+[ERROR][24-Jul-2024 11:00:05 AM] Selenium_Wrapper.openBrowser:(79) - org.openqa.selenium.SessionNotCreatedException: session not created: This version of ChromeDriver only supports Chrome version 125
+Current browser version is 127.0.6533.73 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SC-CAF-CND84305', ip: '192.168.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.2'
+Driver info: driver.version: ChromeDriver
+remote stacktrace: 	GetHandleVerifier [0x00007FF75CAB1F52+60322]
+	(No symbol) [0x00007FF75CA2CEC9]
+	(No symbol) [0x00007FF75C8E7EBA]
+	(No symbol) [0x00007FF75C926202]
+	(No symbol) [0x00007FF75C9253D8]
+	(No symbol) [0x00007FF75C91EFD7]
+	(No symbol) [0x00007FF75C91AF74]
+	(No symbol) [0x00007FF75C967934]
+	(No symbol) [0x00007FF75C966F90]
+	(No symbol) [0x00007FF75C95BFC3]
+	(No symbol) [0x00007FF75C929617]
+	(No symbol) [0x00007FF75C92A211]
+	GetHandleVerifier [0x00007FF75CDC94AD+3301629]
+	GetHandleVerifier [0x00007FF75CE136D3+3605283]
+	GetHandleVerifier [0x00007FF75CE09450+3563680]
+	GetHandleVerifier [0x00007FF75CB64326+790390]
+	(No symbol) [0x00007FF75CA3750F]
+	(No symbol) [0x00007FF75CA33404]
+	(No symbol) [0x00007FF75CA33592]
+	(No symbol) [0x00007FF75CA22F9F]
+	BaseThreadInitThunk [0x00007FFB9B967374+20]
+	RtlUserThreadStart [0x00007FFB9BCBCC91+33]
+
+[ERROR][24-Jul-2024 11:00:05 AM] ContactView.testSignIn:(25) - Login/SignIn un-successfull

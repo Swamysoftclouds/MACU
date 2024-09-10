@@ -1,0 +1,19 @@
+[INFO ][04-Oct-2023 10:39:00 am] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][04-Oct-2023 10:39:03 am] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--tst1.custhelp.com/AgentWeb/
+[INFO ][04-Oct-2023 10:39:07 am] Selenium_Wrapper.enterText:(311) - Entering Text :automation_testing in WebElement :[[ChromeDriver: chrome on WINDOWS (a2c3a63402a3dc11bae0d3ab9decbd0e)] -> id: username]
+[INFO ][04-Oct-2023 10:39:08 am] Selenium_Wrapper.enterText:(311) - Entering Text :Welcome123 in WebElement :[[ChromeDriver: chrome on WINDOWS (a2c3a63402a3dc11bae0d3ab9decbd0e)] -> id: password]
+[INFO ][04-Oct-2023 10:39:34 am] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (a2c3a63402a3dc11bae0d3ab9decbd0e)] -> id: loginbutton]
+[INFO ][04-Oct-2023 10:39:53 am] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (a2c3a63402a3dc11bae0d3ab9decbd0e)] -> id: navigationSetBtn]
+[INFO ][04-Oct-2023 10:39:59 am] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (a2c3a63402a3dc11bae0d3ab9decbd0e)] -> xpath: (//div[text()='Contacts']//a)]
+[INFO ][04-Oct-2023 10:40:04 am] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (a2c3a63402a3dc11bae0d3ab9decbd0e)] -> xpath: (//span[text()='Contacts'])[2]]
+[INFO ][04-Oct-2023 10:40:11 am] Selenium_Wrapper.enterText:(311) - Entering Text :swamyk in WebElement :[[ChromeDriver: chrome on WINDOWS (a2c3a63402a3dc11bae0d3ab9decbd0e)] -> xpath: (//label[text()='Login']//following::input)[1]]
+[INFO ][04-Oct-2023 10:40:16 am] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (a2c3a63402a3dc11bae0d3ab9decbd0e)] -> xpath: //span[text()='Search']]
+[ERROR][04-Oct-2023 10:40:21 am] ContactView.testContactView:(55) - Contact View Test is un-successfull
+[INFO ][04-Oct-2023 10:40:29 am] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (a2c3a63402a3dc11bae0d3ab9decbd0e)] -> xpath: //body//oj-avatar[@initials='[[userMenuLabel]]']]
+[ERROR][04-Oct-2023 10:42:16 am] Selenium_Wrapper.getWebElement:(124) - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of [[ChromeDriver: chrome on WINDOWS (a2c3a63402a3dc11bae0d3ab9decbd0e)] -> xpath: //a//span[text()='Sign Out']] (tried for 100 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'CAF-QA-SWAMYK', ip: '192.168.0.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 117.0.5938.150, chrome: {chromedriverVersion: 117.0.5938.92 (67649b10b92b..., userDataDir: C:\Users\swamyk\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52676}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a2c3a63402a3dc11bae0d3ab9decbd0e
+[ERROR][04-Oct-2023 10:42:16 am] ContactView.testSignout:(72) - Logout/SignOut un-successfull

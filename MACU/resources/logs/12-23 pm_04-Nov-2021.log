@@ -1,0 +1,20 @@
+[INFO ][04-Nov-2021 12:23:13 pm] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][04-Nov-2021 12:23:22 pm] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--tst.custhelp.com/app/home
+[INFO ][04-Nov-2021 12:23:27 pm] Selenium_Wrapper.enterText:(311) - Entering Text :pramodk in WebElement :[[ChromeDriver: chrome on WINDOWS (4afc1f279064d8ca310291a8f362b615)] -> id: rn_LoginForm_2_Username]
+[INFO ][04-Nov-2021 12:23:28 pm] Selenium_Wrapper.enterText:(311) - Entering Text :Soft@123 in WebElement :[[ChromeDriver: chrome on WINDOWS (4afc1f279064d8ca310291a8f362b615)] -> id: rn_LoginForm_2_Password]
+[INFO ][04-Nov-2021 12:23:31 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (4afc1f279064d8ca310291a8f362b615)] -> id: rn_LoginForm_2_Submit]
+[INFO ][04-Nov-2021 12:23:41 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (4afc1f279064d8ca310291a8f362b615)] -> class name: dropdown]
+[INFO ][04-Nov-2021 12:23:53 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (4afc1f279064d8ca310291a8f362b615)] -> xpath: //a[text()='My Activity']]
+[INFO ][04-Nov-2021 12:23:56 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (4afc1f279064d8ca310291a8f362b615)] -> xpath: //input[@type='search']]
+[INFO ][04-Nov-2021 12:23:58 pm] Selenium_Wrapper.enterText:(311) - Entering Text :Flexible Work in WebElement :[[ChromeDriver: chrome on WINDOWS (4afc1f279064d8ca310291a8f362b615)] -> xpath: //input[@type='search']]
+[INFO ][04-Nov-2021 12:24:07 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (4afc1f279064d8ca310291a8f362b615)] -> xpath: //ul[@aria-label='Suggested Search']/li[normalize-space()='Flexible Work']]
+[INFO ][04-Nov-2021 12:24:10 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (4afc1f279064d8ca310291a8f362b615)] -> class name: dropdown]
+[INFO ][04-Nov-2021 12:24:16 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (4afc1f279064d8ca310291a8f362b615)] -> xpath: //a[text()='My Activity']]
+[INFO ][04-Nov-2021 12:24:21 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (4afc1f279064d8ca310291a8f362b615)] -> xpath: //a[text()='browse all PAGES']]
+[INFO ][04-Nov-2021 12:24:25 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (4afc1f279064d8ca310291a8f362b615)] -> class name: dropdown]
+[INFO ][04-Nov-2021 12:24:30 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (4afc1f279064d8ca310291a8f362b615)] -> xpath: //a[text()='My Activity']]
+[INFO ][04-Nov-2021 12:24:38 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (4afc1f279064d8ca310291a8f362b615)] -> xpath: //button[@class='rn_RecommendContentButton p-0']]
+[INFO ][04-Nov-2021 12:24:39 pm] Selenium_Wrapper.enterText:(311) - Entering Text :Test Improve, comments, updates in WebElement :[[ChromeDriver: chrome on WINDOWS (4afc1f279064d8ca310291a8f362b615)] -> id: rn_RequestUpdate_9_Description]
+[INFO ][04-Nov-2021 12:24:40 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (4afc1f279064d8ca310291a8f362b615)] -> xpath: //button[@class='yui3-button yui3-button-close']]
+[INFO ][04-Nov-2021 12:24:43 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (4afc1f279064d8ca310291a8f362b615)] -> class name: knowledge]
+[INFO ][04-Nov-2021 12:24:46 pm] Selenium_Wrapper.closeCurrentBrowser:(650) - Closing the current Browser

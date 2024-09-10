@@ -1,0 +1,6 @@
+[INFO ][04-Oct-2023 15:19:56 pm] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][04-Oct-2023 15:20:06 pm] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--tst1.custhelp.com/app/home
+[INFO ][04-Oct-2023 15:20:10 pm] Selenium_Wrapper.enterText:(311) - Entering Text :swamyk in WebElement :[[ChromeDriver: chrome on WINDOWS (116267f7e8f166c43a4b862949a7f181)] -> id: rn_LoginForm_2_Username]
+[INFO ][04-Oct-2023 15:20:12 pm] Selenium_Wrapper.enterText:(311) - Entering Text :Soft@123 in WebElement :[[ChromeDriver: chrome on WINDOWS (116267f7e8f166c43a4b862949a7f181)] -> id: rn_LoginForm_2_Password]
+[INFO ][04-Oct-2023 15:20:19 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (116267f7e8f166c43a4b862949a7f181)] -> id: rn_LoginForm_2_Submit]
+[INFO ][04-Oct-2023 15:20:40 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (116267f7e8f166c43a4b862949a7f181)] -> xpath: //p[@class='search_text']//a[text()='browse all PAGES']]

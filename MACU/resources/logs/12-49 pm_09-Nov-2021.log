@@ -1,0 +1,11 @@
+[INFO ][09-Nov-2021 12:49:44 pm] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][09-Nov-2021 12:49:51 pm] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--tst.custhelp.com/app/home
+[INFO ][09-Nov-2021 12:49:55 pm] Selenium_Wrapper.enterText:(311) - Entering Text :pramodk in WebElement :[[ChromeDriver: chrome on WINDOWS (bc76fe96d6d586d37efb59208b0d2913)] -> id: rn_LoginForm_2_Username]
+[INFO ][09-Nov-2021 12:49:56 pm] Selenium_Wrapper.enterText:(311) - Entering Text :Soft@123 in WebElement :[[ChromeDriver: chrome on WINDOWS (bc76fe96d6d586d37efb59208b0d2913)] -> id: rn_LoginForm_2_Password]
+[INFO ][09-Nov-2021 12:50:03 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (bc76fe96d6d586d37efb59208b0d2913)] -> id: rn_LoginForm_2_Submit]
+[INFO ][09-Nov-2021 12:50:13 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (bc76fe96d6d586d37efb59208b0d2913)] -> xpath: //input[@type='search']]
+[INFO ][09-Nov-2021 12:50:14 pm] Selenium_Wrapper.enterText:(311) - Entering Text :Flexible Work in WebElement :[[ChromeDriver: chrome on WINDOWS (bc76fe96d6d586d37efb59208b0d2913)] -> xpath: //input[@type='search']]
+[INFO ][09-Nov-2021 12:50:29 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (bc76fe96d6d586d37efb59208b0d2913)] -> xpath: //ul[@aria-label='Suggested Search']//li[normalize-space()='Flexible Work']]
+[ERROR][09-Nov-2021 12:50:36 pm] FeedbackAdmin.testSearchanArticleSection:(43) - Jump to section Test is un-successfull
+[INFO ][09-Nov-2021 12:50:50 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (bc76fe96d6d586d37efb59208b0d2913)] -> xpath: //button[@class='rn_RecommendContentButton p-0']]
+[ERROR][09-Nov-2021 12:50:55 pm] FeedbackAdmin.testFeedbackPage:(69) - Request Updates, Comments, Thumbs Up & Down Test is un-successfull

@@ -1,0 +1,15 @@
+[INFO ][17-Nov-2021 17:57:36 pm] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][17-Nov-2021 17:57:42 pm] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--tst.custhelp.com/app/home
+[INFO ][17-Nov-2021 17:57:47 pm] Selenium_Wrapper.enterText:(311) - Entering Text :pramodk in WebElement :[[ChromeDriver: chrome on WINDOWS (f70fcde018489f7997948b194abf8395)] -> id: rn_LoginForm_2_Username]
+[INFO ][17-Nov-2021 17:57:48 pm] Selenium_Wrapper.enterText:(311) - Entering Text :Soft@123 in WebElement :[[ChromeDriver: chrome on WINDOWS (f70fcde018489f7997948b194abf8395)] -> id: rn_LoginForm_2_Password]
+[INFO ][17-Nov-2021 17:57:55 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (f70fcde018489f7997948b194abf8395)] -> id: rn_LoginForm_2_Submit]
+[INFO ][17-Nov-2021 17:58:04 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (f70fcde018489f7997948b194abf8395)] -> xpath: //input[@type='search']]
+[INFO ][17-Nov-2021 17:58:06 pm] Selenium_Wrapper.enterText:(311) - Entering Text :Auto Loan in WebElement :[[ChromeDriver: chrome on WINDOWS (f70fcde018489f7997948b194abf8395)] -> xpath: //input[@type='search']]
+[INFO ][17-Nov-2021 17:58:20 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (f70fcde018489f7997948b194abf8395)] -> xpath: //ul[@aria-label='Suggested Search']//li[normalize-space()= 'Auto Loan' ]]
+[INFO ][17-Nov-2021 17:58:27 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (f70fcde018489f7997948b194abf8395)] -> xpath: //div[@class='rn_SearchResultContent']//a[text()='Auto Loan']]
+[ERROR][17-Nov-2021 17:58:38 pm] ArticlePage.testBookmarkArticle:(89) - Bookmark Article Test case is un-successfull
+[INFO ][17-Nov-2021 17:58:46 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (f70fcde018489f7997948b194abf8395)] -> xpath: //div[contains(@class,'EmailAnswerLink')]//img[@class='share_icon_default']]
+[INFO ][17-Nov-2021 17:58:52 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (f70fcde018489f7997948b194abf8395)] -> xpath: //div[@id='rnDialog1']//input[@class='select2-search__field']]
+[INFO ][17-Nov-2021 17:58:53 pm] Selenium_Wrapper.enterText:(311) - Entering Text :Aaron Brown in WebElement :[[ChromeDriver: chrome on WINDOWS (f70fcde018489f7997948b194abf8395)] -> xpath: //div[@id='rnDialog1']//input[@class='select2-search__field']]
+[INFO ][17-Nov-2021 17:59:01 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (f70fcde018489f7997948b194abf8395)] -> xpath: //ul[@class='select2-results__options']//li[text()='Aaron Brown']]
+[INFO ][17-Nov-2021 17:59:06 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (f70fcde018489f7997948b194abf8395)] -> xpath: //button[@class='yui3-button yui3-button-close']]

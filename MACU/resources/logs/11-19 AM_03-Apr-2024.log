@@ -1,0 +1,47 @@
+[INFO ][03-Apr-2024 11:19:15 AM] Selenium_Wrapper.openBrowser:(54) - Opening chrome browser.
+[INFO ][03-Apr-2024 11:19:22 AM] Selenium_Wrapper.enterURL:(88) - Entering url :https://macu1--tst1.custhelp.com/app/home
+[INFO ][03-Apr-2024 11:19:27 AM] Selenium_Wrapper.enterText:(317) - Entering Text :swamyk in WebElement :[[ChromeDriver: chrome on WINDOWS (9f5d999839f1b7ccb59782d80ca6e121)] -> id: rn_LoginForm_2_Username]
+[INFO ][03-Apr-2024 11:19:28 AM] Selenium_Wrapper.enterText:(317) - Entering Text :Soft@123 in WebElement :[[ChromeDriver: chrome on WINDOWS (9f5d999839f1b7ccb59782d80ca6e121)] -> id: rn_LoginForm_2_Password]
+[INFO ][03-Apr-2024 11:19:33 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (9f5d999839f1b7ccb59782d80ca6e121)] -> id: rn_LoginForm_2_Submit]
+[ERROR][03-Apr-2024 11:19:39 AM] ArticlePage.testSearchPage:(37) - Search and Select Article Test case is un-successfull
+[ERROR][03-Apr-2024 11:19:45 AM] ArticlePage.testBookmarkArticle:(94) - Bookmark Article Test case is un-successfull
+[ERROR][03-Apr-2024 11:19:50 AM] ArticlePage.testShareEmail:(133) - Share Email Test case is un-successfull
+[ERROR][03-Apr-2024 11:19:57 AM] ArticlePage.testSearchArticle:(154) - Search Existing Article Test case is un-successfull
+[ERROR][03-Apr-2024 11:20:05 AM] Selenium_Wrapper.highlightWebElement:(423) - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//a[@class='add_bookmarkButton']//img[@class='bookmark_icon_blank']"}
+  (Session info: chrome=123.0.6312.86)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SC-CAF-IN-CND84', ip: '172.26.9.210', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 123.0.6312.86, chrome: {chromedriverVersion: 123.0.6312.58 (6b4b19e9dfbb..., userDataDir: C:\Users\SWAMYK~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53529}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 9f5d999839f1b7ccb59782d80ca6e121
+*** Element info: {Using=xpath, value=//a[@class='add_bookmarkButton']//img[@class='bookmark_icon_blank']}
+[ERROR][03-Apr-2024 11:20:08 AM] Selenium_Wrapper.highlightWebElement:(423) - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//a[@class='print_anchor tooltip  prt']//img[@class='img-fluid printimg']"}
+  (Session info: chrome=123.0.6312.86)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SC-CAF-IN-CND84', ip: '172.26.9.210', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 123.0.6312.86, chrome: {chromedriverVersion: 123.0.6312.58 (6b4b19e9dfbb..., userDataDir: C:\Users\SWAMYK~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53529}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 9f5d999839f1b7ccb59782d80ca6e121
+*** Element info: {Using=xpath, value=//a[@class='print_anchor tooltip  prt']//img[@class='img-fluid printimg']}
+[ERROR][03-Apr-2024 11:20:11 AM] Selenium_Wrapper.highlightWebElement:(423) - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//a[@class='share_icon_wrapper tooltip  prt']//img[@class='share_icon_default']"}
+  (Session info: chrome=123.0.6312.86)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SC-CAF-IN-CND84', ip: '172.26.9.210', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 123.0.6312.86, chrome: {chromedriverVersion: 123.0.6312.58 (6b4b19e9dfbb..., userDataDir: C:\Users\SWAMYK~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53529}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 9f5d999839f1b7ccb59782d80ca6e121
+*** Element info: {Using=xpath, value=//a[@class='share_icon_wrapper tooltip  prt']//img[@class='share_icon_default']}
+[ERROR][03-Apr-2024 11:20:11 AM] Selenium_Wrapper.scrollToWebElement:(493) - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//a[@class='print_anchor tooltip  prt']//img[@class='img-fluid printimg']"}
+  (Session info: chrome=123.0.6312.86)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SC-CAF-IN-CND84', ip: '172.26.9.210', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 123.0.6312.86, chrome: {chromedriverVersion: 123.0.6312.58 (6b4b19e9dfbb..., userDataDir: C:\Users\SWAMYK~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53529}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 9f5d999839f1b7ccb59782d80ca6e121
+*** Element info: {Using=xpath, value=//a[@class='print_anchor tooltip  prt']//img[@class='img-fluid printimg']}
+[ERROR][03-Apr-2024 11:20:11 AM] ArticlePage.testRequests:(203) - testRequests Test case is un-successfull
+[INFO ][03-Apr-2024 11:20:14 AM] Selenium_Wrapper.closeCurrentBrowser:(657) - Closing the current Browser

@@ -1,0 +1,61 @@
+[INFO ][04-Oct-2023 20:11:47 pm] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][04-Oct-2023 20:11:55 pm] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--tst1.custhelp.com/app/home
+[INFO ][04-Oct-2023 20:12:00 pm] Selenium_Wrapper.enterText:(311) - Entering Text :swamyk in WebElement :[[ChromeDriver: chrome on WINDOWS (1b608fdafbc52cc8221b35b2377d89b4)] -> id: rn_LoginForm_2_Username]
+[INFO ][04-Oct-2023 20:12:01 pm] Selenium_Wrapper.enterText:(311) - Entering Text :Soft@123 in WebElement :[[ChromeDriver: chrome on WINDOWS (1b608fdafbc52cc8221b35b2377d89b4)] -> id: rn_LoginForm_2_Password]
+[INFO ][04-Oct-2023 20:12:08 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (1b608fdafbc52cc8221b35b2377d89b4)] -> id: rn_LoginForm_2_Submit]
+[INFO ][04-Oct-2023 20:12:17 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (1b608fdafbc52cc8221b35b2377d89b4)] -> xpath: //input[@type='search']]
+[INFO ][04-Oct-2023 20:12:18 pm] Selenium_Wrapper.enterText:(311) - Entering Text :Business Auto Loan - ALPS 1.0 in WebElement :[[ChromeDriver: chrome on WINDOWS (1b608fdafbc52cc8221b35b2377d89b4)] -> xpath: //input[@type='search']]
+[INFO ][04-Oct-2023 20:12:36 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (1b608fdafbc52cc8221b35b2377d89b4)] -> xpath: (//div[@class='yui3-aclist-content']//li//li)[1]]
+[INFO ][04-Oct-2023 20:12:43 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (1b608fdafbc52cc8221b35b2377d89b4)] -> xpath: (//div[@class='rn_SearchResultContent']//a)[1]]
+[INFO ][04-Oct-2023 20:13:07 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (1b608fdafbc52cc8221b35b2377d89b4)] -> xpath: //button[@class='rn_RecommendContentButton p-0']]
+[INFO ][04-Oct-2023 20:13:08 pm] Selenium_Wrapper.enterText:(311) - Entering Text :Test Improve, comments, updates in WebElement :[[ChromeDriver: chrome on WINDOWS (1b608fdafbc52cc8221b35b2377d89b4)] -> id: rn_RequestUpdate_25_Description]
+[INFO ][04-Oct-2023 20:13:14 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (1b608fdafbc52cc8221b35b2377d89b4)] -> xpath: //button[text()='Submit']]
+[INFO ][04-Oct-2023 20:13:27 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (1b608fdafbc52cc8221b35b2377d89b4)] -> xpath: //div[@id='rnDialog2']//button[@type='button']]
+[INFO ][04-Oct-2023 20:13:41 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (1b608fdafbc52cc8221b35b2377d89b4)] -> class name: knowledge]
+[INFO ][04-Oct-2023 20:13:48 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (1b608fdafbc52cc8221b35b2377d89b4)] -> xpath: //div[@class='dropdown']]
+[INFO ][04-Oct-2023 20:13:58 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (1b608fdafbc52cc8221b35b2377d89b4)] -> xpath: //a[text()='My Feedback']]
+[INFO ][04-Oct-2023 20:13:59 pm] Selenium_Wrapper.enterText:(311) - Entering Text :Business Auto Loan - ALPS 1.0 in WebElement :[[ChromeDriver: chrome on WINDOWS (1b608fdafbc52cc8221b35b2377d89b4)] -> xpath: //input[@placeholder='Search Your Feedback Report']]
+[INFO ][04-Oct-2023 20:14:13 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (1b608fdafbc52cc8221b35b2377d89b4)] -> xpath: //div[@class='rn_SearchInput1 mt-3']//span[@class='btn-srch-icon']//i[@class='fa fa-search']]
+[ERROR][04-Oct-2023 20:14:21 pm] Selenium_Wrapper.highlightWebElement:(417) - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"(//tbody[@class='yui3-datatable-data']//a)[1]"}
+  (Session info: chrome=117.0.5938.150)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'CAF-QA-SWAMYK', ip: '192.168.0.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 117.0.5938.150, chrome: {chromedriverVersion: 117.0.5938.92 (67649b10b92b..., userDataDir: C:\Users\swamyk\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53270}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 1b608fdafbc52cc8221b35b2377d89b4
+*** Element info: {Using=xpath, value=(//tbody[@class='yui3-datatable-data']//a)[1]}
+[INFO ][04-Oct-2023 20:14:39 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (1b608fdafbc52cc8221b35b2377d89b4)] -> xpath: (//tbody[@class='yui3-datatable-data']//a)[1]]
+[INFO ][04-Oct-2023 20:15:14 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (1b608fdafbc52cc8221b35b2377d89b4)] -> class name: knowledge]
+[INFO ][04-Oct-2023 20:15:19 pm] Selenium_Wrapper.closeCurrentBrowser:(651) - Closing the current Browser
+[INFO ][04-Oct-2023 20:15:20 pm] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][04-Oct-2023 20:15:28 pm] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--tst1.custhelp.com/AgentWeb/
+[INFO ][04-Oct-2023 20:15:33 pm] Selenium_Wrapper.enterText:(311) - Entering Text :automation_testing in WebElement :[[ChromeDriver: chrome on WINDOWS (c3ab3736c543b31c4e853ca722ea7e7a)] -> id: username]
+[INFO ][04-Oct-2023 20:15:34 pm] Selenium_Wrapper.enterText:(311) - Entering Text :Welcome123 in WebElement :[[ChromeDriver: chrome on WINDOWS (c3ab3736c543b31c4e853ca722ea7e7a)] -> id: password]
+[INFO ][04-Oct-2023 20:16:03 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (c3ab3736c543b31c4e853ca722ea7e7a)] -> id: loginbutton]
+[INFO ][04-Oct-2023 20:16:23 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (c3ab3736c543b31c4e853ca722ea7e7a)] -> id: navigationSetBtn]
+[INFO ][04-Oct-2023 20:16:28 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (c3ab3736c543b31c4e853ca722ea7e7a)] -> xpath: (//div[text()='Analytics']//a)]
+[INFO ][04-Oct-2023 20:16:33 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (c3ab3736c543b31c4e853ca722ea7e7a)] -> xpath: //span[text()='Reports Explorer']]
+[INFO ][04-Oct-2023 20:16:39 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (c3ab3736c543b31c4e853ca722ea7e7a)] -> xpath: //div[text()='Public Reports']]
+[INFO ][04-Oct-2023 20:16:44 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (c3ab3736c543b31c4e853ca722ea7e7a)] -> xpath: //div[text()='MACU CUSTOM REPORTS']]
+[INFO ][04-Oct-2023 20:16:50 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (c3ab3736c543b31c4e853ca722ea7e7a)] -> xpath: //div[text()='SoftClouds']]
+[INFO ][04-Oct-2023 20:16:55 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (c3ab3736c543b31c4e853ca722ea7e7a)] -> xpath: //div[text()='OKCS']]
+[INFO ][04-Oct-2023 20:17:07 pm] Selenium_Wrapper.doubleClick:(280) - Double clicking on :[[ChromeDriver: chrome on WINDOWS (c3ab3736c543b31c4e853ca722ea7e7a)] -> xpath: //div[@class='explorer-right-panel']//div[@class='explorer-data-grid']//span[text()='Feedback Admin Report']]
+[INFO ][04-Oct-2023 20:17:24 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (c3ab3736c543b31c4e853ca722ea7e7a)] -> xpath: //div[@class='container wsx-flex']//div[@class='analyticsTopSection']//div[@class='select-box-root select-box-display-text-active']]
+[INFO ][04-Oct-2023 20:17:29 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (c3ab3736c543b31c4e853ca722ea7e7a)] -> xpath: (//span[text()='Search'])[2]]
+[INFO ][04-Oct-2023 20:17:39 pm] Selenium_Wrapper.doubleClick:(280) - Double clicking on :[[ChromeDriver: chrome on WINDOWS (c3ab3736c543b31c4e853ca722ea7e7a)] -> xpath: //div[@class='container wsx-flex']//div[contains(@column-id,'2')][1]]
+[INFO ][04-Oct-2023 20:17:53 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (c3ab3736c543b31c4e853ca722ea7e7a)] -> xpath: //span[text()='Messages']]
+[INFO ][04-Oct-2023 20:17:58 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (c3ab3736c543b31c4e853ca722ea7e7a)] -> xpath: //div[contains(@class,'cke_wysiwyg_div ')]]
+[INFO ][04-Oct-2023 20:18:00 pm] Selenium_Wrapper.enterText:(311) - Entering Text :It is working as per Expected in WebElement :[[ChromeDriver: chrome on WINDOWS (c3ab3736c543b31c4e853ca722ea7e7a)] -> xpath: //div[contains(@class,'cke_wysiwyg_div ')]]
+[INFO ][04-Oct-2023 20:18:05 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (c3ab3736c543b31c4e853ca722ea7e7a)] -> xpath: //div[@class='ws-toolbar-button-image bui-icon save-icon fa-lg']]
+[INFO ][04-Oct-2023 20:18:10 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (c3ab3736c543b31c4e853ca722ea7e7a)] -> xpath: //span[text()='Summary']]
+[INFO ][04-Oct-2023 20:18:18 pm] Selenium_Wrapper.clickUsingActions:(249) - Clicking on :[[ChromeDriver: chrome on WINDOWS (c3ab3736c543b31c4e853ca722ea7e7a)] -> xpath: //div[contains(@id,'Incident_Status')][@class='display-text']]
+[INFO ][04-Oct-2023 20:18:25 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (c3ab3736c543b31c4e853ca722ea7e7a)] -> xpath: (//div[@title='Solved'])[1]]
+[INFO ][04-Oct-2023 20:18:32 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (c3ab3736c543b31c4e853ca722ea7e7a)] -> xpath: //div[@class='ws-toolbar-button-image bui-icon save-icon fa-lg']]
+[INFO ][04-Oct-2023 20:18:42 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (c3ab3736c543b31c4e853ca722ea7e7a)] -> xpath: (//a[@class='closeButton'])[3]]
+[INFO ][04-Oct-2023 20:18:49 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (c3ab3736c543b31c4e853ca722ea7e7a)] -> xpath: (//a[@class='closeButton'])[2]]
+[INFO ][04-Oct-2023 20:18:56 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (c3ab3736c543b31c4e853ca722ea7e7a)] -> xpath: (//a[@class='closeButton'])[1]]
+[INFO ][04-Oct-2023 20:19:12 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (c3ab3736c543b31c4e853ca722ea7e7a)] -> xpath: //body//oj-avatar[@initials='[[userMenuLabel]]']]
+[INFO ][04-Oct-2023 20:19:19 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (c3ab3736c543b31c4e853ca722ea7e7a)] -> xpath: //a//span[text()='Sign Out']]
+[INFO ][04-Oct-2023 20:19:31 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (c3ab3736c543b31c4e853ca722ea7e7a)] -> xpath: //a[text()='Click here']]
+[INFO ][04-Oct-2023 20:19:34 pm] Selenium_Wrapper.closeCurrentBrowser:(651) - Closing the current Browser

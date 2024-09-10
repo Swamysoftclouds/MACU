@@ -1,0 +1,18 @@
+[INFO ][05-Jun-2024 11:59:06 AM] Selenium_Wrapper.openBrowser:(54) - Opening chrome browser.
+[INFO ][05-Jun-2024 12:00:58 PM] Selenium_Wrapper.enterURL:(88) - Entering url :https://macu1--tst1.custhelp.com/app/home
+[INFO ][05-Jun-2024 12:01:03 PM] Selenium_Wrapper.enterText:(317) - Entering Text :swamyk in WebElement :[[ChromeDriver: chrome on WINDOWS (2fef98ebaddbd268a620f0e48c69dba2)] -> id: rn_LoginForm_2_Username]
+[INFO ][05-Jun-2024 12:01:04 PM] Selenium_Wrapper.enterText:(317) - Entering Text :Soft@123 in WebElement :[[ChromeDriver: chrome on WINDOWS (2fef98ebaddbd268a620f0e48c69dba2)] -> id: rn_LoginForm_2_Password]
+[INFO ][05-Jun-2024 12:01:08 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (2fef98ebaddbd268a620f0e48c69dba2)] -> id: rn_LoginForm_2_Submit]
+[INFO ][05-Jun-2024 12:02:28 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (2fef98ebaddbd268a620f0e48c69dba2)] -> xpath: //a[text()='browse all PAGES']]
+[INFO ][05-Jun-2024 12:03:12 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (2fef98ebaddbd268a620f0e48c69dba2)] -> xpath: //a[text()='VIEW A-Z INDEX']]
+[INFO ][05-Jun-2024 12:03:53 PM] Selenium_Wrapper.enterText:(317) - Entering Text :100% First Time Home Buyer Loan in WebElement :[[ChromeDriver: chrome on WINDOWS (2fef98ebaddbd268a620f0e48c69dba2)] -> xpath: //input[@type='search']]
+[ERROR][05-Jun-2024 12:04:38 PM] Selenium_Wrapper.highlightWebElement:(423) - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id='rn_PageTitle']//a[text()='BROWSE ALL PAGES']"}
+  (Session info: chrome=125.0.6422.142)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SC-CAF-CND84305', ip: '192.168.1.100', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 125.0.6422.142, chrome: {chromedriverVersion: 125.0.6422.141 (4b1e8393712..., userDataDir: C:\Users\SWAMYK~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57625}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 2fef98ebaddbd268a620f0e48c69dba2
+*** Element info: {Using=xpath, value=//div[@id='rn_PageTitle']//a[text()='BROWSE ALL PAGES']}
+[INFO ][05-Jun-2024 12:04:46 PM] Selenium_Wrapper.closeCurrentBrowser:(657) - Closing the current Browser

@@ -1,0 +1,13 @@
+[INFO ][04-Sep-2022 20:33:04 PM] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][04-Sep-2022 20:33:12 PM] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--upgrade.custhelp.com/
+[INFO ][04-Sep-2022 20:33:16 PM] Selenium_Wrapper.enterText:(311) - Entering Text :pramodk in WebElement :[[ChromeDriver: chrome on WINDOWS (32b26fe43853596d882e12d7a94faa1a)] -> id: rn_LoginForm_2_Username]
+[INFO ][04-Sep-2022 20:33:17 PM] Selenium_Wrapper.enterText:(311) - Entering Text :Soft@123 in WebElement :[[ChromeDriver: chrome on WINDOWS (32b26fe43853596d882e12d7a94faa1a)] -> id: rn_LoginForm_2_Password]
+[INFO ][04-Sep-2022 20:33:24 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (32b26fe43853596d882e12d7a94faa1a)] -> id: rn_LoginForm_2_Submit]
+[INFO ][04-Sep-2022 20:33:37 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (32b26fe43853596d882e12d7a94faa1a)] -> xpath: //input[@type='search']]
+[INFO ][04-Sep-2022 20:33:38 PM] Selenium_Wrapper.enterText:(311) - Entering Text :Auto Loan in WebElement :[[ChromeDriver: chrome on WINDOWS (32b26fe43853596d882e12d7a94faa1a)] -> xpath: //input[@type='search']]
+[INFO ][04-Sep-2022 20:33:56 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (32b26fe43853596d882e12d7a94faa1a)] -> xpath: //ul[@aria-label='Suggested Search']//li[normalize-space()= 'Auto Loan' ]]
+[INFO ][04-Sep-2022 20:34:03 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (32b26fe43853596d882e12d7a94faa1a)] -> xpath: //div[@class='rn_SearchResultContent']//a[text()='Auto Loan']]
+[ERROR][04-Sep-2022 20:34:27 PM] FeedbackAdmin.testFeedbackPage:(81) - Request Updates, Comments, Thumbs Up & Down Test is un-successfull
+[INFO ][04-Sep-2022 20:34:35 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (32b26fe43853596d882e12d7a94faa1a)] -> xpath: //div[@class='dropdown']]
+[INFO ][04-Sep-2022 20:34:44 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (32b26fe43853596d882e12d7a94faa1a)] -> xpath: //a[text()='My Feedback']]
+[INFO ][04-Sep-2022 20:34:46 PM] Selenium_Wrapper.enterText:(311) - Entering Text :Auto Loan in WebElement :[[ChromeDriver: chrome on WINDOWS (32b26fe43853596d882e12d7a94faa1a)] -> xpath: //input[@placeholder='Search Your Feedback Report']]

@@ -1,0 +1,31 @@
+[INFO ][04-Sep-2022 12:24:26 PM] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][04-Sep-2022 12:24:29 PM] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--upgrade.custhelp.com/AgentWeb/
+[INFO ][04-Sep-2022 12:24:33 PM] Selenium_Wrapper.enterText:(311) - Entering Text :RNT_pramod in WebElement :[[ChromeDriver: chrome on WINDOWS (99d4c06fe4e3607752d838d11901dfda)] -> id: username]
+[INFO ][04-Sep-2022 12:24:35 PM] Selenium_Wrapper.enterText:(311) - Entering Text :Welcome123 in WebElement :[[ChromeDriver: chrome on WINDOWS (99d4c06fe4e3607752d838d11901dfda)] -> id: password]
+[INFO ][04-Sep-2022 12:25:10 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (99d4c06fe4e3607752d838d11901dfda)] -> id: loginbutton]
+[INFO ][04-Sep-2022 12:25:23 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (99d4c06fe4e3607752d838d11901dfda)] -> xpath: //oj-button[@id='navigationSetBtn']]
+[INFO ][04-Sep-2022 12:25:30 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (99d4c06fe4e3607752d838d11901dfda)] -> xpath: //div[@id='displayNavigationSet']//div[@automationid='Analytics']]
+[INFO ][04-Sep-2022 12:25:42 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (99d4c06fe4e3607752d838d11901dfda)] -> xpath: //div[@automationid='Analytics_Reports Explorer']//span[text()='Reports Explorer']]
+[INFO ][04-Sep-2022 12:25:56 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (99d4c06fe4e3607752d838d11901dfda)] -> xpath: //div[@aria-label='Public Reports'][text()='Public Reports']]
+[INFO ][04-Sep-2022 12:26:01 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (99d4c06fe4e3607752d838d11901dfda)] -> xpath: //div[@aria-label='MACU CUSTOM REPORTS'][text()='MACU CUSTOM REPORTS']]
+[INFO ][04-Sep-2022 12:26:07 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (99d4c06fe4e3607752d838d11901dfda)] -> xpath: //div[@aria-label='SoftClouds'][text()='SoftClouds']]
+[INFO ][04-Sep-2022 12:26:20 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (99d4c06fe4e3607752d838d11901dfda)] -> xpath: //div[contains(@id,'ExplorerFolderAnalyticsFolder103223')]//div[@aria-label='OKCS'][text()='OKCS']]
+[INFO ][04-Sep-2022 12:26:28 PM] Selenium_Wrapper.doubleClick:(280) - Double clicking on :[[ChromeDriver: chrome on WINDOWS (99d4c06fe4e3607752d838d11901dfda)] -> xpath: //div[@class='explorer-right-panel']//div[@class='explorer-data-grid']//span[text()='Feedback Admin Report']]
+[INFO ][04-Sep-2022 12:26:45 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (99d4c06fe4e3607752d838d11901dfda)] -> xpath: //div[@class='container wsx-flex']//div[@class='analyticsTopSection']//div[@class='select-box-root select-box-display-text-active']]
+[INFO ][04-Sep-2022 12:26:50 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (99d4c06fe4e3607752d838d11901dfda)] -> xpath: //input[@aria-label='From']]
+[INFO ][04-Sep-2022 12:26:51 PM] Selenium_Wrapper.clearTextBox:(295) - Cleared TextBox Field: [[ChromeDriver: chrome on WINDOWS (99d4c06fe4e3607752d838d11901dfda)] -> xpath: //input[@aria-label='From']]
+[INFO ][04-Sep-2022 12:26:52 PM] Selenium_Wrapper.enterText:(311) - Entering Text :09/10/2021 in WebElement :[[ChromeDriver: chrome on WINDOWS (99d4c06fe4e3607752d838d11901dfda)] -> xpath: //input[@aria-label='From']]
+[INFO ][04-Sep-2022 12:26:57 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (99d4c06fe4e3607752d838d11901dfda)] -> xpath: //div[contains(@class,'filterRegionMargin')]//span[@class='oj-button-text'][text()='Search']]
+[INFO ][04-Sep-2022 12:27:07 PM] Selenium_Wrapper.doubleClick:(280) - Double clicking on :[[ChromeDriver: chrome on WINDOWS (99d4c06fe4e3607752d838d11901dfda)] -> xpath: //div[@class='container wsx-flex']//div[contains(@column-id,'2')][1]]
+[INFO ][04-Sep-2022 12:27:23 PM] Selenium_Wrapper.clickUsingActions:(249) - Clicking on :[[ChromeDriver: chrome on WINDOWS (99d4c06fe4e3607752d838d11901dfda)] -> xpath: //div[contains(@id,'Incident_Status')][@class='display-text']]
+[ERROR][04-Sep-2022 12:27:23 PM] Selenium_Wrapper.moveToThenClick:(442) - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id='all-div-Incident_Status_Id390']//div[@title='Solved']"}
+  (Session info: chrome=105.0.5195.102)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'QA-SWAMYK', ip: '192.168.0.4', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.102, chrome: {chromedriverVersion: 105.0.5195.52 (412c95e51883..., userDataDir: C:\Users\SWAMYK~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:55695}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 99d4c06fe4e3607752d838d11901dfda
+*** Element info: {Using=xpath, value=//div[@id='all-div-Incident_Status_Id390']//div[@title='Solved']}
+[ERROR][04-Sep-2022 12:27:23 PM] FeedbackReport.testFeedbackStatus:(81) - Feedback Status in BUI Test is un-successfull
+[INFO ][04-Sep-2022 12:27:26 PM] Selenium_Wrapper.closeCurrentBrowser:(651) - Closing the current Browser

@@ -1,0 +1,16 @@
+[INFO ][07-Nov-2021 16:38:31 pm] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][07-Nov-2021 16:38:36 pm] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--tst.custhelp.com/AgentWeb/
+[INFO ][07-Nov-2021 16:38:41 pm] Selenium_Wrapper.enterText:(311) - Entering Text :RNT_pramod in WebElement :[[ChromeDriver: chrome on WINDOWS (b0787abb9d191c37d2bffe8673595b79)] -> id: username]
+[INFO ][07-Nov-2021 16:38:42 pm] Selenium_Wrapper.enterText:(311) - Entering Text :Welcome123 in WebElement :[[ChromeDriver: chrome on WINDOWS (b0787abb9d191c37d2bffe8673595b79)] -> id: password]
+[INFO ][07-Nov-2021 16:39:17 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (b0787abb9d191c37d2bffe8673595b79)] -> id: loginbutton]
+[INFO ][07-Nov-2021 16:39:29 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (b0787abb9d191c37d2bffe8673595b79)] -> xpath: //div[@id='landingPanel-notifications']//button[@class='oj-button oj-button-half-chrome mobile-close-icon mobile-close-button closeFoldout']//label[text()='Close Action Center']]
+[INFO ][07-Nov-2021 16:39:36 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (b0787abb9d191c37d2bffe8673595b79)] -> xpath: (//span[@class='oj-button-icon oj-start navigator-icon oj-button-icon oj-start'])[1]]
+[INFO ][07-Nov-2021 16:39:42 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (b0787abb9d191c37d2bffe8673595b79)] -> xpath: (//div[text()='Contacts']//a)]
+[INFO ][07-Nov-2021 16:39:47 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (b0787abb9d191c37d2bffe8673595b79)] -> xpath: //span[text()='Contacts']]
+[INFO ][07-Nov-2021 16:39:54 pm] Selenium_Wrapper.enterText:(311) - Entering Text :swamyk in WebElement :[[ChromeDriver: chrome on WINDOWS (b0787abb9d191c37d2bffe8673595b79)] -> xpath: (//label[text()='Login']//following::input)[1]]
+[INFO ][07-Nov-2021 16:40:00 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (b0787abb9d191c37d2bffe8673595b79)] -> xpath: //span[text()='Search']]
+[INFO ][07-Nov-2021 16:40:15 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (b0787abb9d191c37d2bffe8673595b79)] -> xpath: //span[text()='Summary']]
+[INFO ][07-Nov-2021 16:40:25 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (b0787abb9d191c37d2bffe8673595b79)] -> xpath: //body//span[@id='initialsText']]
+[INFO ][07-Nov-2021 16:40:32 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (b0787abb9d191c37d2bffe8673595b79)] -> xpath: //a//span[text()='Sign Out']]
+[INFO ][07-Nov-2021 16:40:45 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (b0787abb9d191c37d2bffe8673595b79)] -> xpath: //a[text()='Click here']]
+[INFO ][07-Nov-2021 16:40:48 pm] Selenium_Wrapper.closeCurrentBrowser:(650) - Closing the current Browser

@@ -1,0 +1,10 @@
+[INFO ][04-Sep-2022 12:16:58 PM] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][04-Sep-2022 12:17:02 PM] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--upgrade.custhelp.com/AgentWeb/
+[INFO ][04-Sep-2022 12:17:06 PM] Selenium_Wrapper.enterText:(311) - Entering Text :RNT_pramod in WebElement :[[ChromeDriver: chrome on WINDOWS (329473787b7567b5e5f56215b1fe2b28)] -> id: username]
+[INFO ][04-Sep-2022 12:17:08 PM] Selenium_Wrapper.enterText:(311) - Entering Text :Welcome123 in WebElement :[[ChromeDriver: chrome on WINDOWS (329473787b7567b5e5f56215b1fe2b28)] -> id: password]
+[INFO ][04-Sep-2022 12:17:43 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (329473787b7567b5e5f56215b1fe2b28)] -> id: loginbutton]
+[ERROR][04-Sep-2022 12:17:51 PM] SmileyFacesFeedBackReport.testNavigateToAnwserVotingSmileyFacesReportFlow:(42) - Navigate To Article un-successfull
+[ERROR][04-Sep-2022 12:18:01 PM] SmileyFacesFeedBackReport.testSelectingandVerifyingFlow:(138) - Selecting and Verifying  un-successfull
+[INFO ][04-Sep-2022 12:18:12 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (329473787b7567b5e5f56215b1fe2b28)] -> xpath: //body//oj-avatar[@initials='[[userMenuLabel]]']]
+[INFO ][04-Sep-2022 12:18:23 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (329473787b7567b5e5f56215b1fe2b28)] -> xpath: //a//span[text()='Sign Out']]
+[INFO ][04-Sep-2022 12:18:28 PM] Selenium_Wrapper.closeCurrentBrowser:(651) - Closing the current Browser

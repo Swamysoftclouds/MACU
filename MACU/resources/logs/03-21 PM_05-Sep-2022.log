@@ -1,0 +1,12 @@
+[INFO ][05-Sep-2022 15:21:20 PM] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][05-Sep-2022 15:21:24 PM] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--upgrade.custhelp.com/AgentWeb/
+[INFO ][05-Sep-2022 15:21:28 PM] Selenium_Wrapper.enterText:(311) - Entering Text :RNT_pramod in WebElement :[[ChromeDriver: chrome on WINDOWS (2728f290e3ca42d2b672feb066cd52ab)] -> id: username]
+[INFO ][05-Sep-2022 15:21:29 PM] Selenium_Wrapper.enterText:(311) - Entering Text :Welcome123 in WebElement :[[ChromeDriver: chrome on WINDOWS (2728f290e3ca42d2b672feb066cd52ab)] -> id: password]
+[INFO ][05-Sep-2022 15:21:55 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (2728f290e3ca42d2b672feb066cd52ab)] -> id: loginbutton]
+[INFO ][05-Sep-2022 15:22:10 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (2728f290e3ca42d2b672feb066cd52ab)] -> xpath: //oj-button[@id='navigationSetBtn']]
+[INFO ][05-Sep-2022 15:22:15 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (2728f290e3ca42d2b672feb066cd52ab)] -> xpath: (//div[text()='Analytics']//a)]
+[INFO ][05-Sep-2022 15:22:20 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (2728f290e3ca42d2b672feb066cd52ab)] -> xpath: //span[text()='Reports Explorer']]
+[INFO ][05-Sep-2022 15:22:26 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (2728f290e3ca42d2b672feb066cd52ab)] -> xpath: //div[text()='Public Reports']]
+[INFO ][05-Sep-2022 15:22:31 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (2728f290e3ca42d2b672feb066cd52ab)] -> xpath: //div[text()='MACU CUSTOM REPORTS']]
+[INFO ][05-Sep-2022 15:22:37 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (2728f290e3ca42d2b672feb066cd52ab)] -> xpath: //div[text()='SoftClouds']]
+[INFO ][05-Sep-2022 15:22:42 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (2728f290e3ca42d2b672feb066cd52ab)] -> xpath: //div[text()='OKCS']]

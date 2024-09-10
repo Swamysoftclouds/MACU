@@ -1,0 +1,13 @@
+[INFO ][29-May-2023 15:58:21 PM] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][29-May-2023 15:58:25 PM] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--tst1.custhelp.com/AgentWeb/
+[INFO ][29-May-2023 15:58:29 PM] Selenium_Wrapper.enterText:(311) - Entering Text :automation_testing in WebElement :[[ChromeDriver: chrome on WINDOWS (58e605fdc00113b0c4067c33ac131a46)] -> id: username]
+[INFO ][29-May-2023 15:58:30 PM] Selenium_Wrapper.enterText:(311) - Entering Text :Welcome123 in WebElement :[[ChromeDriver: chrome on WINDOWS (58e605fdc00113b0c4067c33ac131a46)] -> id: password]
+[INFO ][29-May-2023 15:59:06 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (58e605fdc00113b0c4067c33ac131a46)] -> id: loginbutton]
+[ERROR][29-May-2023 15:59:17 PM] CreateNewArticleFlow.testNavigateToArticleFlow:(40) - Navigate To Article un-successfull
+[ERROR][29-May-2023 15:59:17 PM] CreateNewArticleFlow.testCreateArticleFlow:(305) - Create Article  un-successfull
+[ERROR][29-May-2023 15:59:23 PM] CreateNewArticleFlow.testPublishArticleFlow:(358) - Publish Article un-successfull
+[INFO ][29-May-2023 15:59:25 PM] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][29-May-2023 15:59:33 PM] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--tst1.custhelp.com/app/home
+[INFO ][29-May-2023 15:59:37 PM] Selenium_Wrapper.enterText:(311) - Entering Text :swamyk in WebElement :[[ChromeDriver: chrome on WINDOWS (41cb1fe0395563f9363fa0f7640d20da)] -> id: rn_LoginForm_2_Username]
+[INFO ][29-May-2023 15:59:39 PM] Selenium_Wrapper.enterText:(311) - Entering Text :Soft@123 in WebElement :[[ChromeDriver: chrome on WINDOWS (41cb1fe0395563f9363fa0f7640d20da)] -> id: rn_LoginForm_2_Password]
+[INFO ][29-May-2023 15:59:46 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (41cb1fe0395563f9363fa0f7640d20da)] -> id: rn_LoginForm_2_Submit]

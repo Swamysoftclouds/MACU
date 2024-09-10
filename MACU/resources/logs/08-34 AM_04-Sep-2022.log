@@ -1,0 +1,13 @@
+[INFO ][04-Sep-2022 08:34:18 AM] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][04-Sep-2022 08:34:21 AM] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--upgrade.custhelp.com/AgentWeb/
+[INFO ][04-Sep-2022 08:34:25 AM] Selenium_Wrapper.enterText:(311) - Entering Text :RNT_pramod in WebElement :[[ChromeDriver: chrome on WINDOWS (1daffaba6fedcd3729740644ddc58713)] -> id: username]
+[INFO ][04-Sep-2022 08:34:27 AM] Selenium_Wrapper.enterText:(311) - Entering Text :Welcome123 in WebElement :[[ChromeDriver: chrome on WINDOWS (1daffaba6fedcd3729740644ddc58713)] -> id: password]
+[INFO ][04-Sep-2022 08:34:56 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (1daffaba6fedcd3729740644ddc58713)] -> id: loginbutton]
+[INFO ][04-Sep-2022 08:35:06 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (1daffaba6fedcd3729740644ddc58713)] -> id: navigationSetBtn]
+[INFO ][04-Sep-2022 08:35:11 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (1daffaba6fedcd3729740644ddc58713)] -> xpath: (//div[text()='Analytics']//a)]
+[INFO ][04-Sep-2022 08:35:17 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (1daffaba6fedcd3729740644ddc58713)] -> xpath: //span[text()='Reports Explorer']]
+[INFO ][04-Sep-2022 08:35:22 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (1daffaba6fedcd3729740644ddc58713)] -> xpath: //div[text()='Public Reports']]
+[INFO ][04-Sep-2022 08:35:27 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (1daffaba6fedcd3729740644ddc58713)] -> xpath: //div[text()='MACU CUSTOM REPORTS']]
+[INFO ][04-Sep-2022 08:35:32 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (1daffaba6fedcd3729740644ddc58713)] -> xpath: //div[text()='SoftClouds']]
+[INFO ][04-Sep-2022 08:35:38 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (1daffaba6fedcd3729740644ddc58713)] -> xpath: //div[text()='OKCS']]
+[INFO ][04-Sep-2022 08:35:55 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (1daffaba6fedcd3729740644ddc58713)] -> xpath: (//div[@class='primary-tab-header']//ul//li)[2]//span//a//i]

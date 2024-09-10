@@ -1,0 +1,37 @@
+[INFO ][28-Feb-2023 08:52:11 AM] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][28-Feb-2023 08:52:21 AM] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--upgrade.custhelp.com/
+[INFO ][28-Feb-2023 08:52:26 AM] Selenium_Wrapper.enterText:(311) - Entering Text :automation_testing in WebElement :[[ChromeDriver: chrome on WINDOWS (e29541d2691072097ae3348359e74806)] -> id: rn_LoginForm_2_Username]
+[INFO ][28-Feb-2023 08:52:27 AM] Selenium_Wrapper.enterText:(311) - Entering Text :Soft@123 in WebElement :[[ChromeDriver: chrome on WINDOWS (e29541d2691072097ae3348359e74806)] -> id: rn_LoginForm_2_Password]
+[INFO ][28-Feb-2023 08:52:34 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (e29541d2691072097ae3348359e74806)] -> id: rn_LoginForm_2_Submit]
+[INFO ][28-Feb-2023 08:52:50 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (e29541d2691072097ae3348359e74806)] -> xpath: //div[@class='dropdown']]
+[ERROR][28-Feb-2023 08:52:59 AM] Selenium_Wrapper.highlightWebElement:(417) - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='rn_HoverBookmark']//a[contains(text(),'COVID-19 Critical Updates')]"}
+  (Session info: chrome=110.0.5481.178)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'QA-SWAMYK', ip: '192.168.1.101', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 110.0.5481.178, chrome: {chromedriverVersion: 110.0.5481.77 (65ed616c6e8e..., userDataDir: C:\Users\SWAMYK~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:65469}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e29541d2691072097ae3348359e74806
+*** Element info: {Using=xpath, value=//div[@class='rn_HoverBookmark']//a[contains(text(),'COVID-19 Critical Updates')]}
+[ERROR][28-Feb-2023 08:53:04 AM] QuickNavigation.testAssertBookmarkArticle:(49) - Assert Article from My Top Bookmarks Test is un-successfull
+[INFO ][28-Feb-2023 08:53:16 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (e29541d2691072097ae3348359e74806)] -> class name: knowledge]
+[INFO ][28-Feb-2023 08:53:25 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (e29541d2691072097ae3348359e74806)] -> xpath: //input[@type='search']]
+[INFO ][28-Feb-2023 08:53:26 AM] Selenium_Wrapper.enterText:(311) - Entering Text :Business Auto Loan in WebElement :[[ChromeDriver: chrome on WINDOWS (e29541d2691072097ae3348359e74806)] -> xpath: //input[@type='search']]
+[INFO ][28-Feb-2023 08:53:43 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (e29541d2691072097ae3348359e74806)] -> xpath: //ul[@aria-label='Suggested Search']//li[normalize-space()='Business Auto Loan']]
+[INFO ][28-Feb-2023 08:53:50 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (e29541d2691072097ae3348359e74806)] -> xpath: //div[@class='rn_SearchResultContent']//a[text()='Business Auto Loan']]
+[INFO ][28-Feb-2023 08:54:08 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (e29541d2691072097ae3348359e74806)] -> xpath: //a[@class='add_bookmarkButton']//img[@class='bookmark_icon_blank']]
+[INFO ][28-Feb-2023 08:54:16 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (e29541d2691072097ae3348359e74806)] -> class name: knowledge]
+[INFO ][28-Feb-2023 08:54:30 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (e29541d2691072097ae3348359e74806)] -> xpath: //div[@class='dropdown']]
+[INFO ][28-Feb-2023 08:54:40 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (e29541d2691072097ae3348359e74806)] -> xpath: //a[text()='SEE MORE']]
+[INFO ][28-Feb-2023 08:54:53 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (e29541d2691072097ae3348359e74806)] -> class name: knowledge]
+[INFO ][28-Feb-2023 08:55:01 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (e29541d2691072097ae3348359e74806)] -> xpath: //div[@class='dropdown']]
+[INFO ][28-Feb-2023 08:55:18 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (e29541d2691072097ae3348359e74806)] -> xpath: //div[@class='dropdown-content']//a[normalize-space()='My Bookmarks']]
+[INFO ][28-Feb-2023 08:55:34 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (e29541d2691072097ae3348359e74806)] -> xpath: //select[@class='BookmarkFilter']]
+[INFO ][28-Feb-2023 08:55:45 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (e29541d2691072097ae3348359e74806)] -> xpath: //select[@class='BookmarkFilter']//option[text()='Alphabetical A-Z']]
+[INFO ][28-Feb-2023 08:55:56 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (e29541d2691072097ae3348359e74806)] -> class name: knowledge]
+[INFO ][28-Feb-2023 08:56:04 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (e29541d2691072097ae3348359e74806)] -> xpath: //div[@class='dropdown']]
+[INFO ][28-Feb-2023 08:56:15 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (e29541d2691072097ae3348359e74806)] -> xpath: //div[@class='dropdown-content']//a[normalize-space()='My Notifications']]
+[INFO ][28-Feb-2023 08:56:26 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (e29541d2691072097ae3348359e74806)] -> xpath: //a[text()='browse all PAGES']]
+[INFO ][28-Feb-2023 08:56:46 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (e29541d2691072097ae3348359e74806)] -> xpath: //a[text()='VIEW A-Z INDEX']]
+[INFO ][28-Feb-2023 08:57:01 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (e29541d2691072097ae3348359e74806)] -> class name: knowledge]
+[INFO ][28-Feb-2023 08:57:04 AM] Selenium_Wrapper.closeCurrentBrowser:(651) - Closing the current Browser

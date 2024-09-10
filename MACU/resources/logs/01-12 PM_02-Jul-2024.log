@@ -1,0 +1,19 @@
+[INFO ][02-Jul-2024 13:12:21 PM] Selenium_Wrapper.openBrowser:(54) - Opening chrome browser.
+[INFO ][02-Jul-2024 13:12:33 PM] Selenium_Wrapper.enterURL:(88) - Entering url :https://macu1--tst1.custhelp.com/app/home
+[INFO ][02-Jul-2024 13:12:37 PM] Selenium_Wrapper.enterText:(317) - Entering Text :swamyk in WebElement :[[ChromeDriver: chrome on WINDOWS (57571176d573c94a6db4c2eb4bae7368)] -> id: rn_LoginForm_2_Username]
+[INFO ][02-Jul-2024 13:12:39 PM] Selenium_Wrapper.enterText:(317) - Entering Text :Soft@123 in WebElement :[[ChromeDriver: chrome on WINDOWS (57571176d573c94a6db4c2eb4bae7368)] -> id: rn_LoginForm_2_Password]
+[INFO ][02-Jul-2024 13:12:43 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (57571176d573c94a6db4c2eb4bae7368)] -> id: rn_LoginForm_2_Submit]
+[INFO ][02-Jul-2024 13:12:49 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (57571176d573c94a6db4c2eb4bae7368)] -> xpath: //input[@type='search']]
+[INFO ][02-Jul-2024 13:12:50 PM] Selenium_Wrapper.enterText:(317) - Entering Text :Badge Protocol in WebElement :[[ChromeDriver: chrome on WINDOWS (57571176d573c94a6db4c2eb4bae7368)] -> xpath: //input[@type='search']]
+[INFO ][02-Jul-2024 13:12:52 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (57571176d573c94a6db4c2eb4bae7368)] -> xpath: //input[@type='search']]
+[INFO ][02-Jul-2024 13:13:10 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (57571176d573c94a6db4c2eb4bae7368)] -> xpath: (//div[@class='yui3-aclist-content']//li//li)[1]]
+[ERROR][02-Jul-2024 13:13:14 PM] FeedbackAdmin.testSearchanArticleSection:(41) - Jump to section Test is un-successfull
+[ERROR][02-Jul-2024 13:13:25 PM] Selenium_Wrapper.highlightWebElement:(423) - org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=126.0.6478.127)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SC-CAF-CND84305', ip: '192.168.1.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.127, chrome: {chromedriverVersion: 125.0.6422.141 (4b1e8393712..., userDataDir: C:\Users\SWAMYK~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59525}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 57571176d573c94a6db4c2eb4bae7368
+*** Element info: {Using=xpath, value=//button[@class='rn_RecommendContentButton p-0']}

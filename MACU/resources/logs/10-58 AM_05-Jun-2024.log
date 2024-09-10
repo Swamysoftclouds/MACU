@@ -1,0 +1,23 @@
+[INFO ][05-Jun-2024 10:58:06 AM] Selenium_Wrapper.openBrowser:(54) - Opening chrome browser.
+[INFO ][05-Jun-2024 10:58:38 AM] Selenium_Wrapper.enterURL:(88) - Entering url :https://macu1--tst1.custhelp.com/app/home
+[INFO ][05-Jun-2024 10:58:42 AM] Selenium_Wrapper.enterText:(317) - Entering Text :swamyk in WebElement :[[ChromeDriver: chrome on WINDOWS (c31002c2bc8ac0bfe9c6f2e1366ff4cd)] -> id: rn_LoginForm_2_Username]
+[INFO ][05-Jun-2024 10:58:44 AM] Selenium_Wrapper.enterText:(317) - Entering Text :Soft@123 in WebElement :[[ChromeDriver: chrome on WINDOWS (c31002c2bc8ac0bfe9c6f2e1366ff4cd)] -> id: rn_LoginForm_2_Password]
+[INFO ][05-Jun-2024 10:58:48 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (c31002c2bc8ac0bfe9c6f2e1366ff4cd)] -> id: rn_LoginForm_2_Submit]
+[INFO ][05-Jun-2024 10:59:11 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (c31002c2bc8ac0bfe9c6f2e1366ff4cd)] -> xpath: //input[@type='search']]
+[INFO ][05-Jun-2024 10:59:12 AM] Selenium_Wrapper.enterText:(317) - Entering Text :Business Use Auto Loan in WebElement :[[ChromeDriver: chrome on WINDOWS (c31002c2bc8ac0bfe9c6f2e1366ff4cd)] -> xpath: //input[@type='search']]
+[INFO ][05-Jun-2024 10:59:33 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (c31002c2bc8ac0bfe9c6f2e1366ff4cd)] -> xpath: (//ul[text()='Suggested Search']//li//li)[1]]
+[INFO ][05-Jun-2024 10:59:37 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (c31002c2bc8ac0bfe9c6f2e1366ff4cd)] -> xpath: //div[@class='rn_SearchResultContent']//tbody//tr//div//span[@class='rn_Element1']//a]
+[INFO ][05-Jun-2024 10:59:54 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (c31002c2bc8ac0bfe9c6f2e1366ff4cd)] -> xpath: //a[contains(@class,'bookmarkedFilled')]//img[@class='bookmark_icon_red']]
+[INFO ][05-Jun-2024 11:00:13 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (c31002c2bc8ac0bfe9c6f2e1366ff4cd)] -> xpath: //a[@class='add_bookmarkButton']//img[@class='bookmark_icon_blank']]
+[INFO ][05-Jun-2024 11:00:17 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (c31002c2bc8ac0bfe9c6f2e1366ff4cd)] -> xpath: //div[@class='dropdown']]
+[INFO ][05-Jun-2024 11:00:26 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (c31002c2bc8ac0bfe9c6f2e1366ff4cd)] -> xpath: //div[@class='data Custom-data']//a[text()='My Bookmarks']]
+[INFO ][05-Jun-2024 11:00:45 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (c31002c2bc8ac0bfe9c6f2e1366ff4cd)] -> xpath: //a[contains(text(),'Business Use Auto Loan')]//parent::div[@class='rn_Notification_Info']//following-sibling::div[@class='rn_Notification_Actions']//button[@class='rn_Notification_Delete']//img[@class='bookmark_del_ico']]
+[INFO ][05-Jun-2024 11:01:12 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (c31002c2bc8ac0bfe9c6f2e1366ff4cd)] -> class name: knowledge]
+[INFO ][05-Jun-2024 11:01:16 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (c31002c2bc8ac0bfe9c6f2e1366ff4cd)] -> xpath: //input[@type='search']]
+[INFO ][05-Jun-2024 11:01:17 AM] Selenium_Wrapper.enterText:(317) - Entering Text :Business Use Auto Loan in WebElement :[[ChromeDriver: chrome on WINDOWS (c31002c2bc8ac0bfe9c6f2e1366ff4cd)] -> xpath: //input[@type='search']]
+[ERROR][05-Jun-2024 11:01:19 AM] ArticlePage.testBookmarkArticle:(94) - Bookmark Article Test case is un-successfull
+[ERROR][05-Jun-2024 11:01:24 AM] ArticlePage.testShareEmail:(133) - Share Email Test case is un-successfull
+[INFO ][05-Jun-2024 11:01:32 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (c31002c2bc8ac0bfe9c6f2e1366ff4cd)] -> xpath: //input[@type='search']]
+[INFO ][05-Jun-2024 11:01:33 AM] Selenium_Wrapper.enterText:(317) - Entering Text :Business Use Auto Loan in WebElement :[[ChromeDriver: chrome on WINDOWS (c31002c2bc8ac0bfe9c6f2e1366ff4cd)] -> xpath: //input[@type='search']]
+[INFO ][05-Jun-2024 11:01:55 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (c31002c2bc8ac0bfe9c6f2e1366ff4cd)] -> xpath: (//ul[text()='Suggested Search']//li//li)[1]]
+[INFO ][05-Jun-2024 11:02:02 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (c31002c2bc8ac0bfe9c6f2e1366ff4cd)] -> xpath: //div[@class='rn_SearchResultContent']//tbody//tr//div//span[@class='rn_Element1']//a]

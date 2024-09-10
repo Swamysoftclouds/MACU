@@ -1,0 +1,10 @@
+[INFO ][02-Jul-2024 13:48:05 PM] Selenium_Wrapper.openBrowser:(54) - Opening chrome browser.
+[INFO ][02-Jul-2024 13:48:10 PM] Selenium_Wrapper.enterURL:(88) - Entering url :https://macu1--tst1.custhelp.com/AgentWeb/
+[INFO ][02-Jul-2024 13:48:15 PM] Selenium_Wrapper.enterText:(317) - Entering Text :automation_testing in WebElement :[[ChromeDriver: chrome on WINDOWS (39e04f5223dc93bd41c080c356301dca)] -> id: username]
+[INFO ][02-Jul-2024 13:48:16 PM] Selenium_Wrapper.enterText:(317) - Entering Text :Welcome123 in WebElement :[[ChromeDriver: chrome on WINDOWS (39e04f5223dc93bd41c080c356301dca)] -> id: password]
+[INFO ][02-Jul-2024 13:48:28 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (39e04f5223dc93bd41c080c356301dca)] -> id: loginbutton]
+[ERROR][02-Jul-2024 13:48:40 PM] SmileyFacesFeedBackReport.testNavigateToAnwserVotingSmileyFacesReportFlow:(42) - Navigate To Article un-successfull
+[ERROR][02-Jul-2024 13:48:44 PM] SmileyFacesFeedBackReport.testSelectingandVerifyingFlow:(161) - Selecting and Verifying  un-successfull
+[INFO ][02-Jul-2024 13:48:47 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (39e04f5223dc93bd41c080c356301dca)] -> xpath: //body//oj-avatar[@initials='[[userMenuLabel]]']]
+[INFO ][02-Jul-2024 13:48:51 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (39e04f5223dc93bd41c080c356301dca)] -> xpath: //a//span[text()='Sign Out']]
+[ERROR][02-Jul-2024 13:48:53 PM] SmileyFacesFeedBackReport.testSignout:(177) - Logout/SignOut un-successfull

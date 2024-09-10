@@ -1,0 +1,17 @@
+[INFO ][02-Jul-2024 14:40:15 PM] Selenium_Wrapper.openBrowser:(54) - Opening chrome browser.
+[INFO ][02-Jul-2024 14:40:24 PM] Selenium_Wrapper.enterURL:(88) - Entering url :https://macu1--tst1.custhelp.com/app/home
+[INFO ][02-Jul-2024 14:40:28 PM] Selenium_Wrapper.enterText:(317) - Entering Text :swamyk in WebElement :[[ChromeDriver: chrome on WINDOWS (14f648657e44f6fc2296dac6f82a47e6)] -> id: rn_LoginForm_2_Username]
+[INFO ][02-Jul-2024 14:40:30 PM] Selenium_Wrapper.enterText:(317) - Entering Text :Soft@123 in WebElement :[[ChromeDriver: chrome on WINDOWS (14f648657e44f6fc2296dac6f82a47e6)] -> id: rn_LoginForm_2_Password]
+[INFO ][02-Jul-2024 14:40:34 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (14f648657e44f6fc2296dac6f82a47e6)] -> id: rn_LoginForm_2_Submit]
+[INFO ][02-Jul-2024 14:40:46 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (14f648657e44f6fc2296dac6f82a47e6)] -> xpath: //input[@type='search']]
+[INFO ][02-Jul-2024 14:40:47 PM] Selenium_Wrapper.enterText:(317) - Entering Text :Badge Protocol in WebElement :[[ChromeDriver: chrome on WINDOWS (14f648657e44f6fc2296dac6f82a47e6)] -> xpath: //input[@type='search']]
+[ERROR][02-Jul-2024 14:42:35 PM] Selenium_Wrapper.getWebElement:(130) - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of [[ChromeDriver: chrome on WINDOWS (14f648657e44f6fc2296dac6f82a47e6)] -> xpath: (//div[@class='yui3-aclist-content']//li//li)[1]] (tried for 100 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SC-CAF-CND84305', ip: '192.168.30.14', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.127, chrome: {chromedriverVersion: 125.0.6422.141 (4b1e8393712..., userDataDir: C:\Users\SWAMYK~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50316}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 14f648657e44f6fc2296dac6f82a47e6
+[ERROR][02-Jul-2024 14:42:35 PM] ThumbsDownFeedBack.testJumpToSection:(39) - Jump to section Test is un-successfull
+[ERROR][02-Jul-2024 14:42:39 PM] ThumbsDownFeedBack.testFeedbackPage:(63) - Request Updates, Comments, Thumbs Up & Down Test is un-successfull
+[INFO ][02-Jul-2024 14:42:43 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (14f648657e44f6fc2296dac6f82a47e6)] -> xpath: //div[@class='dropdown']]
+[INFO ][02-Jul-2024 14:42:56 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (14f648657e44f6fc2296dac6f82a47e6)] -> xpath: //a[text()='My Feedback']]

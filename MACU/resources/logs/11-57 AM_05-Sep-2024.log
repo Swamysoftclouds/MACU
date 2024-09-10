@@ -1,0 +1,16 @@
+[INFO ][05-Sep-2024 11:57:02 AM] Selenium_Wrapper.openBrowser:(54) - Opening chrome browser.
+[INFO ][05-Sep-2024 11:57:08 AM] Selenium_Wrapper.enterURL:(88) - Entering url :https://macu1--tst1.custhelp.com/AgentWeb/
+[INFO ][05-Sep-2024 11:57:13 AM] Selenium_Wrapper.enterText:(317) - Entering Text :automation_testing in WebElement :[[ChromeDriver: chrome on WINDOWS (a54e1724de6606cb8143de5e4f7895c2)] -> id: username]
+[INFO ][05-Sep-2024 11:57:14 AM] Selenium_Wrapper.enterText:(317) - Entering Text :Welcome123 in WebElement :[[ChromeDriver: chrome on WINDOWS (a54e1724de6606cb8143de5e4f7895c2)] -> id: password]
+[INFO ][05-Sep-2024 11:57:31 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (a54e1724de6606cb8143de5e4f7895c2)] -> id: loginbutton]
+[INFO ][05-Sep-2024 11:58:37 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (a54e1724de6606cb8143de5e4f7895c2)] -> id: navigationSetBtn]
+[INFO ][05-Sep-2024 11:58:39 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (a54e1724de6606cb8143de5e4f7895c2)] -> xpath: //div[@automationid='Analytics']]
+[INFO ][05-Sep-2024 11:58:49 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (a54e1724de6606cb8143de5e4f7895c2)] -> xpath: //div[@automationid='Analytics_Reports Explorer']//span[text()='Reports Explorer']]
+[INFO ][05-Sep-2024 11:59:02 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (a54e1724de6606cb8143de5e4f7895c2)] -> xpath: //div[@aria-label='Public Reports'][text()='Public Reports']]
+[INFO ][05-Sep-2024 11:59:04 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (a54e1724de6606cb8143de5e4f7895c2)] -> xpath: //div[@aria-label='MACU CUSTOM REPORTS'][text()='MACU CUSTOM REPORTS']]
+[INFO ][05-Sep-2024 11:59:06 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (a54e1724de6606cb8143de5e4f7895c2)] -> xpath: //div[@aria-label='SoftClouds'][text()='SoftClouds']]
+[ERROR][05-Sep-2024 11:59:08 AM] ActionsDashboardReport.testOKCSReports:(49) - Selecting OKCS Reports in BUI Test is un-successfull
+[ERROR][05-Sep-2024 11:59:18 AM] ActionsDashboardReport.testVisitorActionsDashboard:(101) - Select Actions Report in BUI Test is un-successfull
+[INFO ][05-Sep-2024 11:59:23 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (a54e1724de6606cb8143de5e4f7895c2)] -> xpath: //body//oj-avatar[@initials='[[userMenuLabel]]']]
+[INFO ][05-Sep-2024 11:59:27 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (a54e1724de6606cb8143de5e4f7895c2)] -> xpath: //a//span[text()='Sign Out']]
+[INFO ][05-Sep-2024 11:59:32 AM] Selenium_Wrapper.closeCurrentBrowser:(657) - Closing the current Browser

@@ -1,0 +1,45 @@
+[INFO ][07-May-2024 11:15:09 AM] Selenium_Wrapper.openBrowser:(54) - Opening chrome browser.
+[INFO ][07-May-2024 11:15:20 AM] Selenium_Wrapper.enterURL:(88) - Entering url :https://macu1--tst1.custhelp.com/app/home
+[INFO ][07-May-2024 11:15:24 AM] Selenium_Wrapper.enterText:(317) - Entering Text :swamyk in WebElement :[[ChromeDriver: chrome on WINDOWS (b4e9cd1e7af4a7c2bd76aa03f55cf6d1)] -> id: rn_LoginForm_2_Username]
+[INFO ][07-May-2024 11:15:26 AM] Selenium_Wrapper.enterText:(317) - Entering Text :Soft@123 in WebElement :[[ChromeDriver: chrome on WINDOWS (b4e9cd1e7af4a7c2bd76aa03f55cf6d1)] -> id: rn_LoginForm_2_Password]
+[INFO ][07-May-2024 11:15:30 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (b4e9cd1e7af4a7c2bd76aa03f55cf6d1)] -> id: rn_LoginForm_2_Submit]
+[INFO ][07-May-2024 11:15:37 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (b4e9cd1e7af4a7c2bd76aa03f55cf6d1)] -> xpath: //input[@type='search']]
+[INFO ][07-May-2024 11:15:38 AM] Selenium_Wrapper.enterText:(317) - Entering Text :Business Use Auto Loan in WebElement :[[ChromeDriver: chrome on WINDOWS (b4e9cd1e7af4a7c2bd76aa03f55cf6d1)] -> xpath: //input[@type='search']]
+[INFO ][07-May-2024 11:15:49 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (b4e9cd1e7af4a7c2bd76aa03f55cf6d1)] -> xpath: (//div[@class='yui3-aclist-content']//li//li)[1]]
+[INFO ][07-May-2024 11:15:53 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (b4e9cd1e7af4a7c2bd76aa03f55cf6d1)] -> xpath: (//div[@class='rn_SearchResultContent']//a)[1]]
+[INFO ][07-May-2024 11:16:12 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (b4e9cd1e7af4a7c2bd76aa03f55cf6d1)] -> xpath: //div[@class='main_image_div']//div[@class='thumbs_up_down'][2]]
+[INFO ][07-May-2024 11:16:21 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (b4e9cd1e7af4a7c2bd76aa03f55cf6d1)] -> xpath: //textarea[@class='rn_DocumentTextArea']]
+[INFO ][07-May-2024 11:16:22 AM] Selenium_Wrapper.enterText:(317) - Entering Text :Flexible Work - ThumbDown Comments in WebElement :[[ChromeDriver: chrome on WINDOWS (b4e9cd1e7af4a7c2bd76aa03f55cf6d1)] -> xpath: //textarea[@class='rn_DocumentTextArea']]
+[INFO ][07-May-2024 11:16:24 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (b4e9cd1e7af4a7c2bd76aa03f55cf6d1)] -> xpath: //button[text()='SUBMIT']]
+[INFO ][07-May-2024 11:16:26 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (b4e9cd1e7af4a7c2bd76aa03f55cf6d1)] -> xpath: //button[@class='yui3-button yui3-button-close']]
+[INFO ][07-May-2024 11:16:31 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (b4e9cd1e7af4a7c2bd76aa03f55cf6d1)] -> xpath: //div[@class='dropdown']]
+[INFO ][07-May-2024 11:16:36 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (b4e9cd1e7af4a7c2bd76aa03f55cf6d1)] -> xpath: //a[text()='My Feedback']]
+[INFO ][07-May-2024 11:17:00 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (b4e9cd1e7af4a7c2bd76aa03f55cf6d1)] -> xpath: ((//table//tbody)[2]//a)[1]]
+[INFO ][07-May-2024 11:17:28 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (b4e9cd1e7af4a7c2bd76aa03f55cf6d1)] -> class name: knowledge]
+[INFO ][07-May-2024 11:17:30 AM] Selenium_Wrapper.closeCurrentBrowser:(657) - Closing the current Browser
+[INFO ][07-May-2024 11:17:31 AM] Selenium_Wrapper.openBrowser:(54) - Opening chrome browser.
+[INFO ][07-May-2024 11:17:42 AM] Selenium_Wrapper.enterURL:(88) - Entering url :https://macu1--tst1.custhelp.com/AgentWeb/
+[INFO ][07-May-2024 11:17:46 AM] Selenium_Wrapper.enterText:(317) - Entering Text :automation_testing in WebElement :[[ChromeDriver: chrome on WINDOWS (80be197e3db06087742915a9bc6f5470)] -> id: username]
+[INFO ][07-May-2024 11:17:47 AM] Selenium_Wrapper.enterText:(317) - Entering Text :Welcome123 in WebElement :[[ChromeDriver: chrome on WINDOWS (80be197e3db06087742915a9bc6f5470)] -> id: password]
+[INFO ][07-May-2024 11:18:12 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (80be197e3db06087742915a9bc6f5470)] -> id: loginbutton]
+[ERROR][07-May-2024 11:18:59 AM] AnswerVotingFeedbackReport.testNavigateToAnwserVotingFeedBackReportlow:(120) - Navigate To Anwser Voting FeedBackReport testing un-successfull
+[ERROR][07-May-2024 11:19:02 AM] Selenium_Wrapper.highlightWebElement:(423) - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='explorer-right-panel']//div[@class='explorer-data-grid']//span[text()='Feedback Admin Report (old)']"}
+  (Session info: chrome=124.0.6367.119)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SC-CAF-CND84305', ip: '172.26.9.155', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 124.0.6367.119, chrome: {chromedriverVersion: 123.0.6312.58 (6b4b19e9dfbb..., userDataDir: C:\Users\SWAMYK~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58295}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 80be197e3db06087742915a9bc6f5470
+*** Element info: {Using=xpath, value=//div[@class='explorer-right-panel']//div[@class='explorer-data-grid']//span[text()='Feedback Admin Report (old)']}
+[ERROR][07-May-2024 11:19:02 AM] Selenium_Wrapper.doubleClick:(279) - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='explorer-right-panel']//div[@class='explorer-data-grid']//span[text()='Feedback Admin Report (old)']"}
+  (Session info: chrome=124.0.6367.119)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SC-CAF-CND84305', ip: '172.26.9.155', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 124.0.6367.119, chrome: {chromedriverVersion: 123.0.6312.58 (6b4b19e9dfbb..., userDataDir: C:\Users\SWAMYK~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58295}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 80be197e3db06087742915a9bc6f5470
+*** Element info: {Using=xpath, value=//div[@class='explorer-right-panel']//div[@class='explorer-data-grid']//span[text()='Feedback Admin Report (old)']}
+[ERROR][07-May-2024 11:19:02 AM] AnswerVotingFeedbackReport.testSelectingandGivingAnswerstoReportFlow:(172) - Selecting and Giving Asnwers to Report  un-successfull
+[ERROR][07-May-2024 11:19:07 AM] AnswerVotingFeedbackReport.testSignout:(187) - Logout/SignOut un-successfull

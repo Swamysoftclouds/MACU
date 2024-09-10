@@ -1,0 +1,9 @@
+[INFO ][17-Nov-2021 18:46:39 pm] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][17-Nov-2021 18:46:47 pm] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--tst.custhelp.com/app/home
+[INFO ][17-Nov-2021 18:46:51 pm] Selenium_Wrapper.enterText:(311) - Entering Text :pramodk in WebElement :[[ChromeDriver: chrome on WINDOWS (b1c627a271931d16ee34688c157ed9b0)] -> id: rn_LoginForm_2_Username]
+[INFO ][17-Nov-2021 18:46:52 pm] Selenium_Wrapper.enterText:(311) - Entering Text :Soft@123 in WebElement :[[ChromeDriver: chrome on WINDOWS (b1c627a271931d16ee34688c157ed9b0)] -> id: rn_LoginForm_2_Password]
+[INFO ][17-Nov-2021 18:46:59 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (b1c627a271931d16ee34688c157ed9b0)] -> id: rn_LoginForm_2_Submit]
+[INFO ][17-Nov-2021 18:47:08 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (b1c627a271931d16ee34688c157ed9b0)] -> xpath: //input[@type='search']]
+[INFO ][17-Nov-2021 18:47:10 pm] Selenium_Wrapper.enterText:(311) - Entering Text :Auto Loan in WebElement :[[ChromeDriver: chrome on WINDOWS (b1c627a271931d16ee34688c157ed9b0)] -> xpath: //input[@type='search']]
+[INFO ][17-Nov-2021 18:47:24 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (b1c627a271931d16ee34688c157ed9b0)] -> xpath: //ul[@aria-label='Suggested Search']//li[normalize-space()= 'Auto Loan' ]]
+[INFO ][17-Nov-2021 18:47:31 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (b1c627a271931d16ee34688c157ed9b0)] -> xpath: //div[@class='rn_SearchResultContent']//a[text()='Auto Loan']]

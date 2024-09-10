@@ -1,0 +1,25 @@
+[INFO ][04-Jan-2024 13:45:23 PM] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][04-Jan-2024 13:46:23 PM] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--tst1.custhelp.com/app/home
+[INFO ][04-Jan-2024 13:46:27 PM] Selenium_Wrapper.enterText:(311) - Entering Text :swamyk in WebElement :[[ChromeDriver: chrome on WINDOWS (fb7853f97701b83c4a9f58336f9b65cf)] -> id: rn_LoginForm_2_Username]
+[INFO ][04-Jan-2024 13:46:29 PM] Selenium_Wrapper.enterText:(311) - Entering Text :Soft@123 in WebElement :[[ChromeDriver: chrome on WINDOWS (fb7853f97701b83c4a9f58336f9b65cf)] -> id: rn_LoginForm_2_Password]
+[INFO ][04-Jan-2024 13:46:36 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (fb7853f97701b83c4a9f58336f9b65cf)] -> id: rn_LoginForm_2_Submit]
+[INFO ][04-Jan-2024 13:46:56 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (fb7853f97701b83c4a9f58336f9b65cf)] -> xpath: //p[@class='search_text']//a[text()='browse all PAGES']]
+[INFO ][04-Jan-2024 13:47:23 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (fb7853f97701b83c4a9f58336f9b65cf)] -> xpath: //a[text()='Knowledge Center']]
+[ERROR][04-Jan-2024 13:48:08 PM] Selenium_Wrapper.highlightWebElement:(417) - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//h2[normalize-space()='TRENDING FOR']"}
+  (Session info: chrome=120.0.6099.199)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'CAF-QA-SWAMYK', ip: '172.26.9.192', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.199, chrome: {chromedriverVersion: 119.0.6045.105 (38c72552c5e..., userDataDir: C:\Users\swamyk\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60830}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: fb7853f97701b83c4a9f58336f9b65cf
+*** Element info: {Using=xpath, value=//h2[normalize-space()='TRENDING FOR']}
+[INFO ][04-Jan-2024 13:48:19 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (fb7853f97701b83c4a9f58336f9b65cf)] -> xpath: //div[@id='rn_RequestUpdate_9_RecommendContent']//button]
+[INFO ][04-Jan-2024 13:48:20 PM] Selenium_Wrapper.enterText:(311) - Entering Text :Test Improve, comments, updates in WebElement :[[ChromeDriver: chrome on WINDOWS (fb7853f97701b83c4a9f58336f9b65cf)] -> xpath: //textarea[@id='rn_RequestUpdate_9_Description']]
+[INFO ][04-Jan-2024 13:48:25 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (fb7853f97701b83c4a9f58336f9b65cf)] -> xpath: //span[@class='yui3-widget-buttons']//button[@class='yui3-button yui3-button-close']]
+[INFO ][04-Jan-2024 13:48:44 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (fb7853f97701b83c4a9f58336f9b65cf)] -> xpath: //h2[@class='footer_heading']/a[text()='Browse all pages']]
+[INFO ][04-Jan-2024 13:49:18 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (fb7853f97701b83c4a9f58336f9b65cf)] -> xpath: //p[@class='search_text text-left ml-0']/a[text()='GO TO A-Z INDEX']]
+[INFO ][04-Jan-2024 13:49:43 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (fb7853f97701b83c4a9f58336f9b65cf)] -> xpath: //div[@id='rn_A_ZIndex_2']//ul[@class='indexing_list']//a[text()='K']]
+[INFO ][04-Jan-2024 13:49:55 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (fb7853f97701b83c4a9f58336f9b65cf)] -> xpath: //div[@id='rn_A_ZIndex_2']//ul[@class='indexing_list']//a[text()='P']]
+[INFO ][04-Jan-2024 13:50:08 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (fb7853f97701b83c4a9f58336f9b65cf)] -> xpath: //a[text()='Knowledge Center']]
+[INFO ][04-Jan-2024 13:50:12 PM] Selenium_Wrapper.closeCurrentBrowser:(651) - Closing the current Browser

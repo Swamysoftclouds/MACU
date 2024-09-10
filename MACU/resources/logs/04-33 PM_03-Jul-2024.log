@@ -1,0 +1,17 @@
+[INFO ][03-Jul-2024 16:33:19 PM] Selenium_Wrapper.openBrowser:(54) - Opening chrome browser.
+[INFO ][03-Jul-2024 16:33:35 PM] Selenium_Wrapper.enterURL:(88) - Entering url :https://macu1--tst1.custhelp.com/app/home
+[INFO ][03-Jul-2024 16:33:40 PM] Selenium_Wrapper.enterText:(317) - Entering Text :swamyk in WebElement :[[ChromeDriver: chrome on WINDOWS (d579dafe7bca5ee4a7cc6b2b0e1c2603)] -> id: rn_LoginForm_2_Username]
+[INFO ][03-Jul-2024 16:33:41 PM] Selenium_Wrapper.enterText:(317) - Entering Text :Soft@123 in WebElement :[[ChromeDriver: chrome on WINDOWS (d579dafe7bca5ee4a7cc6b2b0e1c2603)] -> id: rn_LoginForm_2_Password]
+[INFO ][03-Jul-2024 16:33:45 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (d579dafe7bca5ee4a7cc6b2b0e1c2603)] -> id: rn_LoginForm_2_Submit]
+[INFO ][03-Jul-2024 16:33:52 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (d579dafe7bca5ee4a7cc6b2b0e1c2603)] -> xpath: //input[@type='search']]
+[INFO ][03-Jul-2024 16:33:53 PM] Selenium_Wrapper.enterText:(317) - Entering Text :Business Use Auto Loan in WebElement :[[ChromeDriver: chrome on WINDOWS (d579dafe7bca5ee4a7cc6b2b0e1c2603)] -> xpath: //input[@type='search']]
+[INFO ][03-Jul-2024 16:34:04 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (d579dafe7bca5ee4a7cc6b2b0e1c2603)] -> xpath: (//div[@class='yui3-aclist-content']//li//li)[1]]
+[INFO ][03-Jul-2024 16:34:09 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (d579dafe7bca5ee4a7cc6b2b0e1c2603)] -> xpath: (//div[@class='rn_SearchResultContent']//a)[1]]
+[INFO ][03-Jul-2024 16:34:17 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (d579dafe7bca5ee4a7cc6b2b0e1c2603)] -> xpath: //div[@class='main_image_div']//div[@class='thumbs_up_down'][2]]
+[ERROR][03-Jul-2024 16:34:27 PM] ThumbsDownFeedBack.testFeedbackPage:(72) - Request Updates, Comments, Thumbs Up & Down Test is un-successfull
+[ERROR][03-Jul-2024 16:34:31 PM] ThumbsDownFeedBack.testMyFeedbackStatus:(107) - My Feedback Article Status in CP Test is un-successfull
+[INFO ][03-Jul-2024 16:34:32 PM] Selenium_Wrapper.openBrowser:(54) - Opening chrome browser.
+[INFO ][03-Jul-2024 16:34:36 PM] Selenium_Wrapper.enterURL:(88) - Entering url :https://macu1--tst1.custhelp.com/AgentWeb/
+[INFO ][03-Jul-2024 16:34:41 PM] Selenium_Wrapper.enterText:(317) - Entering Text :automation_testing in WebElement :[[ChromeDriver: chrome on WINDOWS (dfd39424eb9d3de3ff4c0ceb8a1e8f1e)] -> id: username]
+[INFO ][03-Jul-2024 16:34:42 PM] Selenium_Wrapper.enterText:(317) - Entering Text :Welcome123 in WebElement :[[ChromeDriver: chrome on WINDOWS (dfd39424eb9d3de3ff4c0ceb8a1e8f1e)] -> id: password]
+[INFO ][03-Jul-2024 16:35:45 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (dfd39424eb9d3de3ff4c0ceb8a1e8f1e)] -> id: loginbutton]

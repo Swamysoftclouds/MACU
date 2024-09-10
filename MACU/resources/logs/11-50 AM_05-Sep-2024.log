@@ -1,0 +1,8 @@
+[INFO ][05-Sep-2024 11:50:59 AM] Selenium_Wrapper.openBrowser:(54) - Opening chrome browser.
+[INFO ][05-Sep-2024 11:51:12 AM] Selenium_Wrapper.enterURL:(88) - Entering url :https://macu1--tst1.custhelp.com/AgentWeb/
+[INFO ][05-Sep-2024 11:51:16 AM] Selenium_Wrapper.enterText:(317) - Entering Text :automation_testing in WebElement :[[ChromeDriver: chrome on WINDOWS (d0d9919be4785cc0252345af38b15921)] -> id: username]
+[INFO ][05-Sep-2024 11:51:17 AM] Selenium_Wrapper.enterText:(317) - Entering Text :Welcome123 in WebElement :[[ChromeDriver: chrome on WINDOWS (d0d9919be4785cc0252345af38b15921)] -> id: password]
+[INFO ][05-Sep-2024 11:51:32 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (d0d9919be4785cc0252345af38b15921)] -> id: loginbutton]
+[ERROR][05-Sep-2024 11:51:48 AM] ActionsDashboardReport.testOKCSReports:(49) - Selecting OKCS Reports in BUI Test is un-successfull
+[ERROR][05-Sep-2024 11:51:57 AM] ActionsDashboardReport.testVisitorActionsDashboard:(101) - Select Actions Report in BUI Test is un-successfull
+[ERROR][05-Sep-2024 11:52:02 AM] ActionsDashboardReport.testSignout:(117) - Logout/SignOut un-successfull

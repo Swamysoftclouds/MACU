@@ -1,0 +1,16 @@
+[INFO ][03-Dec-2023 12:38:12 PM] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][03-Dec-2023 12:38:15 PM] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--tst1.custhelp.com/AgentWeb/
+[INFO ][03-Dec-2023 12:38:20 PM] Selenium_Wrapper.enterText:(311) - Entering Text :automation_testing in WebElement :[[ChromeDriver: chrome on WINDOWS (6164afb3a0c7affd462299aa6f1ac6d8)] -> id: username]
+[INFO ][03-Dec-2023 12:38:21 PM] Selenium_Wrapper.enterText:(311) - Entering Text :Welcome123 in WebElement :[[ChromeDriver: chrome on WINDOWS (6164afb3a0c7affd462299aa6f1ac6d8)] -> id: password]
+[INFO ][03-Dec-2023 12:38:56 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (6164afb3a0c7affd462299aa6f1ac6d8)] -> id: loginbutton]
+[INFO ][03-Dec-2023 12:39:11 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (6164afb3a0c7affd462299aa6f1ac6d8)] -> id: navigationSetBtn]
+[INFO ][03-Dec-2023 12:39:16 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (6164afb3a0c7affd462299aa6f1ac6d8)] -> xpath: //div[@automationid='Analytics']]
+[INFO ][03-Dec-2023 12:39:27 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (6164afb3a0c7affd462299aa6f1ac6d8)] -> xpath: //div[@automationid='Analytics_Reports Explorer']//span[text()='Reports Explorer']]
+[INFO ][03-Dec-2023 12:39:41 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (6164afb3a0c7affd462299aa6f1ac6d8)] -> xpath: //div[@aria-label='Public Reports'][text()='Public Reports']]
+[INFO ][03-Dec-2023 12:39:46 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (6164afb3a0c7affd462299aa6f1ac6d8)] -> xpath: //div[@aria-label='MACU CUSTOM REPORTS'][text()='MACU CUSTOM REPORTS']]
+[INFO ][03-Dec-2023 12:39:51 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (6164afb3a0c7affd462299aa6f1ac6d8)] -> xpath: //div[@aria-label='SoftClouds'][text()='SoftClouds']]
+[INFO ][03-Dec-2023 12:39:57 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (6164afb3a0c7affd462299aa6f1ac6d8)] -> xpath: //div[@aria-label='Scheduling'][text()='Scheduling']]
+[INFO ][03-Dec-2023 12:40:12 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (6164afb3a0c7affd462299aa6f1ac6d8)] -> xpath: (//a[@class='closeButton'])[1]]
+[INFO ][03-Dec-2023 12:40:20 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (6164afb3a0c7affd462299aa6f1ac6d8)] -> xpath: //body//oj-avatar[@initials='[[userMenuLabel]]']]
+[INFO ][03-Dec-2023 12:40:27 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (6164afb3a0c7affd462299aa6f1ac6d8)] -> xpath: //a//span[text()='Sign Out']]
+[INFO ][03-Dec-2023 12:40:32 PM] Selenium_Wrapper.closeCurrentBrowser:(651) - Closing the current Browser

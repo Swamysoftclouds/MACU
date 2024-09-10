@@ -1,0 +1,17 @@
+[INFO ][07-Nov-2021 18:42:43 pm] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][07-Nov-2021 18:42:48 pm] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--tst.custhelp.com/AgentWeb/
+[INFO ][07-Nov-2021 18:42:52 pm] Selenium_Wrapper.enterText:(311) - Entering Text :RNT_pramod in WebElement :[[ChromeDriver: chrome on WINDOWS (48b89b2defbc9be79e19999831efdd98)] -> id: username]
+[INFO ][07-Nov-2021 18:42:53 pm] Selenium_Wrapper.enterText:(311) - Entering Text :Welcome123 in WebElement :[[ChromeDriver: chrome on WINDOWS (48b89b2defbc9be79e19999831efdd98)] -> id: password]
+[INFO ][07-Nov-2021 18:43:24 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (48b89b2defbc9be79e19999831efdd98)] -> id: loginbutton]
+[ERROR][07-Nov-2021 18:43:32 pm] ThumbsUpAndThumbsDownFeedback.testThumbsUpAndThumbsDownFeedbackFlow:(42) - Navigate To ThumbsUp_And_ThumbsDown_Feedback un-successfull
+[ERROR][07-Nov-2021 18:43:32 pm] Selenium_Wrapper.scrollToWebElement:(487) - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[text()='User Specific Search']"}
+  (Session info: chrome=95.0.4638.54)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-N43657M', ip: '192.168.29.58', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 95.0.4638.54, chrome: {chromedriverVersion: 95.0.4638.17 (a9d0719444d4b..., userDataDir: C:\Users\Pramod\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:62380}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 48b89b2defbc9be79e19999831efdd98
+*** Element info: {Using=xpath, value=//span[text()='User Specific Search']}
+[ERROR][07-Nov-2021 18:43:32 pm] ThumbsUpAndThumbsDownFeedback.testSelectingandVerifyingFlow:(127) - Selecting and Verifying  un-successfull
+[ERROR][07-Nov-2021 18:43:42 pm] ThumbsUpAndThumbsDownFeedback.testSignout:(146) - Logout/SignOut un-successfull

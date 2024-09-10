@@ -1,0 +1,43 @@
+[INFO ][06-Feb-2024 12:54:50 PM] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][06-Feb-2024 12:54:56 PM] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--tst1.custhelp.com/app/home
+[INFO ][06-Feb-2024 12:55:01 PM] Selenium_Wrapper.enterText:(311) - Entering Text :swamyk in WebElement :[[ChromeDriver: chrome on WINDOWS (7b5a5c8d8567389b25f403237a94862a)] -> id: rn_LoginForm_2_Username]
+[INFO ][06-Feb-2024 12:55:02 PM] Selenium_Wrapper.enterText:(311) - Entering Text :Soft@123 in WebElement :[[ChromeDriver: chrome on WINDOWS (7b5a5c8d8567389b25f403237a94862a)] -> id: rn_LoginForm_2_Password]
+[INFO ][06-Feb-2024 12:55:09 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (7b5a5c8d8567389b25f403237a94862a)] -> id: rn_LoginForm_2_Submit]
+[INFO ][06-Feb-2024 12:55:20 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (7b5a5c8d8567389b25f403237a94862a)] -> xpath: //input[@type='search']]
+[INFO ][06-Feb-2024 12:55:22 PM] Selenium_Wrapper.enterText:(311) - Entering Text :Business Auto Loan - ALPS 1.0 in WebElement :[[ChromeDriver: chrome on WINDOWS (7b5a5c8d8567389b25f403237a94862a)] -> xpath: //input[@type='search']]
+[INFO ][06-Feb-2024 12:55:36 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (7b5a5c8d8567389b25f403237a94862a)] -> xpath: //ul[@aria-label='Suggested Search']//li[normalize-space()='Business Auto Loan - ALPS 1.0']]
+[INFO ][06-Feb-2024 12:55:44 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (7b5a5c8d8567389b25f403237a94862a)] -> xpath: //div[@class='rn_SearchResultContent']//a[text()='Business Auto Loan - ALPS 1.0']]
+[ERROR][06-Feb-2024 12:55:51 PM] Selenium_Wrapper.highlightWebElement:(417) - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='rn_SchemaAttributeValue']//h5[text()='JUMP TO']"}
+  (Session info: chrome=121.0.6167.140)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'CAF-QA-SWAMYK', ip: '192.168.0.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.140, chrome: {chromedriverVersion: 121.0.6167.85 (3f98d690ad7e..., userDataDir: C:\Users\swamyk\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62095}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 7b5a5c8d8567389b25f403237a94862a
+*** Element info: {Using=xpath, value=//div[@class='rn_SchemaAttributeValue']//h5[text()='JUMP TO']}
+[ERROR][06-Feb-2024 12:57:31 PM] Selenium_Wrapper.getWebElement:(124) - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of [[ChromeDriver: chrome on WINDOWS (7b5a5c8d8567389b25f403237a94862a)] -> xpath: (//div[@class='rn_SchemaAttributeValue']//a)[1]] (tried for 100 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'CAF-QA-SWAMYK', ip: '192.168.0.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.140, chrome: {chromedriverVersion: 121.0.6167.85 (3f98d690ad7e..., userDataDir: C:\Users\swamyk\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62095}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 7b5a5c8d8567389b25f403237a94862a
+[ERROR][06-Feb-2024 12:57:31 PM] MyFeedback.testJumpToSection:(55) - Jump to section Test is un-successfull
+[INFO ][06-Feb-2024 12:57:48 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (7b5a5c8d8567389b25f403237a94862a)] -> id: relatedPages_headingOne]
+[INFO ][06-Feb-2024 12:57:55 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (7b5a5c8d8567389b25f403237a94862a)] -> id: relatedPages_headingOne]
+[INFO ][06-Feb-2024 12:58:05 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (7b5a5c8d8567389b25f403237a94862a)] -> id: rn_SearchHome_17_SearchInput]
+[INFO ][06-Feb-2024 12:58:07 PM] Selenium_Wrapper.enterText:(311) - Entering Text :Business Auto Loan - ALPS 1.0 in WebElement :[[ChromeDriver: chrome on WINDOWS (7b5a5c8d8567389b25f403237a94862a)] -> id: rn_SearchHome_17_SearchInput]
+[INFO ][06-Feb-2024 12:58:18 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (7b5a5c8d8567389b25f403237a94862a)] -> xpath: //ul[@aria-label='Suggested Search']//li[@class='rn_SuggestionItem'][normalize-space()='Business Auto Loan - ALPS 1.0']]
+[INFO ][06-Feb-2024 12:58:26 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (7b5a5c8d8567389b25f403237a94862a)] -> xpath: //div[@class='rn_SearchResultContent']//a[text()='Business Auto Loan - ALPS 1.0']]
+[INFO ][06-Feb-2024 12:58:42 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (7b5a5c8d8567389b25f403237a94862a)] -> xpath: //button[@class='rn_RecommendContentButton p-0']]
+[INFO ][06-Feb-2024 12:58:43 PM] Selenium_Wrapper.enterText:(311) - Entering Text :Test Improve, comments, updates in WebElement :[[ChromeDriver: chrome on WINDOWS (7b5a5c8d8567389b25f403237a94862a)] -> id: rn_RequestUpdate_25_Description]
+[INFO ][06-Feb-2024 12:58:48 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (7b5a5c8d8567389b25f403237a94862a)] -> xpath: //button[text()='Submit']]
+[INFO ][06-Feb-2024 12:59:01 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (7b5a5c8d8567389b25f403237a94862a)] -> xpath: //div[@id='rnDialog2']//button[@type='button']]
+[INFO ][06-Feb-2024 12:59:16 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (7b5a5c8d8567389b25f403237a94862a)] -> class name: knowledge]
+[INFO ][06-Feb-2024 12:59:24 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (7b5a5c8d8567389b25f403237a94862a)] -> xpath: //div[@class='dropdown']]
+[INFO ][06-Feb-2024 12:59:32 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (7b5a5c8d8567389b25f403237a94862a)] -> xpath: //a[text()='My Feedback']]
+[INFO ][06-Feb-2024 12:59:34 PM] Selenium_Wrapper.enterText:(311) - Entering Text :Business Auto Loan - ALPS 1.0 in WebElement :[[ChromeDriver: chrome on WINDOWS (7b5a5c8d8567389b25f403237a94862a)] -> xpath: //input[@placeholder='Search Your Feedback Report']]
+[INFO ][06-Feb-2024 12:59:48 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (7b5a5c8d8567389b25f403237a94862a)] -> xpath: //div[@class='rn_SearchInput1 mt-3']//span[@class='btn-srch-icon']//i[@class='fa fa-search']]
+[INFO ][06-Feb-2024 13:00:15 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (7b5a5c8d8567389b25f403237a94862a)] -> xpath: //tr[@data-yui3-record='model_11']//td[@headers='Grid_6_c1']/a]
+[INFO ][06-Feb-2024 13:00:53 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (7b5a5c8d8567389b25f403237a94862a)] -> class name: knowledge]
+[INFO ][06-Feb-2024 13:00:56 PM] Selenium_Wrapper.closeCurrentBrowser:(651) - Closing the current Browser

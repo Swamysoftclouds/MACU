@@ -1,0 +1,12 @@
+[INFO ][04-Sep-2022 20:46:07 PM] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][04-Sep-2022 20:46:11 PM] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--upgrade.custhelp.com/AgentWeb/
+[INFO ][04-Sep-2022 20:46:15 PM] Selenium_Wrapper.enterText:(311) - Entering Text :RNT_pramod in WebElement :[[ChromeDriver: chrome on WINDOWS (e4f5f3c0b079959ccf5247ed6a378762)] -> id: username]
+[INFO ][04-Sep-2022 20:46:16 PM] Selenium_Wrapper.enterText:(311) - Entering Text :Welcome123 in WebElement :[[ChromeDriver: chrome on WINDOWS (e4f5f3c0b079959ccf5247ed6a378762)] -> id: password]
+[INFO ][04-Sep-2022 20:46:28 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (e4f5f3c0b079959ccf5247ed6a378762)] -> id: loginbutton]
+[INFO ][04-Sep-2022 20:46:48 PM] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][04-Sep-2022 20:46:53 PM] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--upgrade.custhelp.com/
+[INFO ][04-Sep-2022 20:46:57 PM] Selenium_Wrapper.enterText:(311) - Entering Text :pramodk in WebElement :[[ChromeDriver: chrome on WINDOWS (a59497f06410efdf8f75f25309e78c5b)] -> id: rn_LoginForm_2_Username]
+[INFO ][04-Sep-2022 20:46:58 PM] Selenium_Wrapper.enterText:(311) - Entering Text :Soft@123 in WebElement :[[ChromeDriver: chrome on WINDOWS (a59497f06410efdf8f75f25309e78c5b)] -> id: rn_LoginForm_2_Password]
+[INFO ][04-Sep-2022 20:47:05 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (a59497f06410efdf8f75f25309e78c5b)] -> id: rn_LoginForm_2_Submit]
+[INFO ][04-Sep-2022 20:47:19 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (a59497f06410efdf8f75f25309e78c5b)] -> xpath: //input[@type='search']]
+[INFO ][04-Sep-2022 20:47:20 PM] Selenium_Wrapper.enterText:(311) - Entering Text :Auto Loan in WebElement :[[ChromeDriver: chrome on WINDOWS (a59497f06410efdf8f75f25309e78c5b)] -> xpath: //input[@type='search']]

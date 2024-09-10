@@ -1,0 +1,13 @@
+[INFO ][05-Nov-2021 19:56:05 pm] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][05-Nov-2021 19:56:11 pm] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--tst.custhelp.com/AgentWeb/
+[INFO ][05-Nov-2021 19:56:16 pm] Selenium_Wrapper.enterText:(311) - Entering Text :RNT_pramod in WebElement :[[ChromeDriver: chrome on WINDOWS (23942d597afe21296a31b907febaf6b8)] -> id: username]
+[INFO ][05-Nov-2021 19:56:17 pm] Selenium_Wrapper.enterText:(311) - Entering Text :Welcome123 in WebElement :[[ChromeDriver: chrome on WINDOWS (23942d597afe21296a31b907febaf6b8)] -> id: password]
+[INFO ][05-Nov-2021 19:57:18 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (23942d597afe21296a31b907febaf6b8)] -> id: loginbutton]
+[INFO ][05-Nov-2021 19:57:27 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (23942d597afe21296a31b907febaf6b8)] -> xpath: //div[@id='landingPanel-notifications']//button[@class='oj-button oj-button-half-chrome mobile-close-icon mobile-close-button closeFoldout']//label[text()='Close Action Center']]
+[INFO ][05-Nov-2021 19:57:30 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (23942d597afe21296a31b907febaf6b8)] -> xpath: (//span[@class='oj-button-icon oj-start navigator-icon oj-button-icon oj-start'])[1]]
+[INFO ][05-Nov-2021 19:57:32 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (23942d597afe21296a31b907febaf6b8)] -> xpath: (//div[text()='Contacts']//a)]
+[ERROR][05-Nov-2021 19:57:33 pm] Contact_View.testNavigateToArticleFlow:(36) - Navigate To Article Test is un-successfull
+[ERROR][05-Nov-2021 19:57:34 pm] Contact_View.testCreateArticleFlow:(54) - Create Article Test is un-successfull
+[INFO ][05-Nov-2021 19:57:40 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (23942d597afe21296a31b907febaf6b8)] -> xpath: //body//span[@id='initialsText']]
+[INFO ][05-Nov-2021 19:57:47 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (23942d597afe21296a31b907febaf6b8)] -> xpath: //a//span[text()='Sign Out']]
+[ERROR][05-Nov-2021 19:58:05 pm] Contact_View.testSignout:(85) - Logout/SignOut un-successfull

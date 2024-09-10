@@ -1,0 +1,4 @@
+[INFO ][04-Jan-2024 13:57:43 PM] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][04-Jan-2024 13:57:50 PM] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--tst1.custhelp.com/app/home
+[INFO ][04-Jan-2024 13:57:54 PM] Selenium_Wrapper.enterText:(311) - Entering Text :swamyk in WebElement :[[ChromeDriver: chrome on WINDOWS (8a7ebf2482117720d8a8f57dca0c1b8d)] -> id: rn_LoginForm_2_Username]
+[INFO ][04-Jan-2024 13:57:55 PM] Selenium_Wrapper.enterText:(311) - Entering Text :Soft@123 in WebElement :[[ChromeDriver: chrome on WINDOWS (8a7ebf2482117720d8a8f57dca0c1b8d)] -> id: rn_LoginForm_2_Password]

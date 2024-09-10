@@ -1,0 +1,20 @@
+[INFO ][04-Sep-2022 09:18:37 AM] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][04-Sep-2022 09:18:41 AM] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--upgrade.custhelp.com/AgentWeb/
+[INFO ][04-Sep-2022 09:18:45 AM] Selenium_Wrapper.enterText:(311) - Entering Text :RNT_pramod in WebElement :[[ChromeDriver: chrome on WINDOWS (8de76f7da28504003302af401747332b)] -> id: username]
+[INFO ][04-Sep-2022 09:18:46 AM] Selenium_Wrapper.enterText:(311) - Entering Text :Welcome123 in WebElement :[[ChromeDriver: chrome on WINDOWS (8de76f7da28504003302af401747332b)] -> id: password]
+[INFO ][04-Sep-2022 09:19:06 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (8de76f7da28504003302af401747332b)] -> id: loginbutton]
+[INFO ][04-Sep-2022 09:19:26 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (8de76f7da28504003302af401747332b)] -> id: navigationSetBtn]
+[INFO ][04-Sep-2022 09:19:31 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (8de76f7da28504003302af401747332b)] -> xpath: (//div[text()='Analytics']//a)]
+[INFO ][04-Sep-2022 09:19:37 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (8de76f7da28504003302af401747332b)] -> xpath: //span[text()='Reports Explorer']]
+[INFO ][04-Sep-2022 09:19:42 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (8de76f7da28504003302af401747332b)] -> xpath: //div[text()='Public Reports']]
+[INFO ][04-Sep-2022 09:19:48 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (8de76f7da28504003302af401747332b)] -> xpath: //div[text()='MACU CUSTOM REPORTS']]
+[INFO ][04-Sep-2022 09:19:53 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (8de76f7da28504003302af401747332b)] -> xpath: //div[text()='SoftClouds']]
+[INFO ][04-Sep-2022 09:19:58 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (8de76f7da28504003302af401747332b)] -> xpath: //div[text()='OKCS']]
+[INFO ][04-Sep-2022 09:20:11 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (8de76f7da28504003302af401747332b)] -> xpath: (//span[text()='Search'])[3]]
+[INFO ][04-Sep-2022 09:20:18 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (8de76f7da28504003302af401747332b)] -> xpath: (//span[contains(@title,'Thumbsup Count')]//a)[2]]
+[INFO ][04-Sep-2022 09:20:28 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (8de76f7da28504003302af401747332b)] -> xpath: (//div[@class='breadcrumbContainer']//ul//li//a)[1]]
+[INFO ][04-Sep-2022 09:20:38 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (8de76f7da28504003302af401747332b)] -> xpath: (//div[@class='primary-tab-header']//ul//li)[2]//span//a//i]
+[INFO ][04-Sep-2022 09:20:49 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (8de76f7da28504003302af401747332b)] -> xpath: //a[@class='closeButton']]
+[INFO ][04-Sep-2022 09:20:59 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (8de76f7da28504003302af401747332b)] -> xpath: //body//oj-avatar[@initials='[[userMenuLabel]]']]
+[INFO ][04-Sep-2022 09:21:06 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (8de76f7da28504003302af401747332b)] -> xpath: //a//span[text()='Sign Out']]
+[INFO ][04-Sep-2022 09:21:11 AM] Selenium_Wrapper.closeCurrentBrowser:(651) - Closing the current Browser

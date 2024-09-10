@@ -1,0 +1,12 @@
+[INFO ][06-Feb-2024 14:17:17 PM] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][06-Feb-2024 14:17:20 PM] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--tst1.custhelp.com/AgentWeb/
+[INFO ][06-Feb-2024 14:17:25 PM] Selenium_Wrapper.enterText:(311) - Entering Text :automation_testing in WebElement :[[ChromeDriver: chrome on WINDOWS (2dcd32ab161f4d296e87bd5521e8a242)] -> id: username]
+[INFO ][06-Feb-2024 14:17:26 PM] Selenium_Wrapper.enterText:(311) - Entering Text :Welcome123 in WebElement :[[ChromeDriver: chrome on WINDOWS (2dcd32ab161f4d296e87bd5521e8a242)] -> id: password]
+[INFO ][06-Feb-2024 14:17:40 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (2dcd32ab161f4d296e87bd5521e8a242)] -> id: loginbutton]
+[ERROR][06-Feb-2024 14:17:51 PM] CreateNewArticleFlow.testNavigateToArticleFlow:(41) - Navigate To Article un-successfull
+[ERROR][06-Feb-2024 14:17:51 PM] CreateNewArticleFlow.testCreateArticleFlow:(306) - Create Article  un-successfull
+[ERROR][06-Feb-2024 14:17:57 PM] CreateNewArticleFlow.testPublishArticleFlow:(359) - Publish Article un-successfull
+[INFO ][06-Feb-2024 14:17:58 PM] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][06-Feb-2024 14:18:04 PM] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--tst1.custhelp.com/app/home
+[INFO ][06-Feb-2024 14:18:09 PM] Selenium_Wrapper.enterText:(311) - Entering Text :swamyk in WebElement :[[ChromeDriver: chrome on WINDOWS (bb07f90c5dca64aabf4be03d94482efd)] -> id: rn_LoginForm_2_Username]
+[ERROR][06-Feb-2024 14:18:10 PM] MACU_Wrapper.signIntoCP:(23) - Error in the signin process

@@ -1,0 +1,15 @@
+[INFO ][05-Sep-2022 12:13:10 PM] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][05-Sep-2022 12:13:13 PM] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--upgrade.custhelp.com/AgentWeb/
+[INFO ][05-Sep-2022 12:13:18 PM] Selenium_Wrapper.enterText:(311) - Entering Text :RNT_pramod in WebElement :[[ChromeDriver: chrome on WINDOWS (e6f4640ee68e66bde724922ab61f1123)] -> id: username]
+[INFO ][05-Sep-2022 12:13:19 PM] Selenium_Wrapper.enterText:(311) - Entering Text :Welcome123 in WebElement :[[ChromeDriver: chrome on WINDOWS (e6f4640ee68e66bde724922ab61f1123)] -> id: password]
+[INFO ][05-Sep-2022 12:13:52 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (e6f4640ee68e66bde724922ab61f1123)] -> id: loginbutton]
+[INFO ][05-Sep-2022 12:14:07 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (e6f4640ee68e66bde724922ab61f1123)] -> xpath: //oj-button[@id='navigationSetBtn']]
+[INFO ][05-Sep-2022 12:14:12 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (e6f4640ee68e66bde724922ab61f1123)] -> xpath: (//div[text()='Analytics']//a)]
+[INFO ][05-Sep-2022 12:14:17 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (e6f4640ee68e66bde724922ab61f1123)] -> xpath: //span[text()='Reports Explorer']]
+[INFO ][05-Sep-2022 12:14:23 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (e6f4640ee68e66bde724922ab61f1123)] -> xpath: //div[text()='Public Reports']]
+[INFO ][05-Sep-2022 12:14:28 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (e6f4640ee68e66bde724922ab61f1123)] -> xpath: //div[text()='MACU CUSTOM REPORTS']]
+[INFO ][05-Sep-2022 12:14:33 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (e6f4640ee68e66bde724922ab61f1123)] -> xpath: //div[text()='SoftClouds']]
+[INFO ][05-Sep-2022 12:14:39 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (e6f4640ee68e66bde724922ab61f1123)] -> xpath: //div[text()='OKCS']]
+[INFO ][05-Sep-2022 12:14:55 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (e6f4640ee68e66bde724922ab61f1123)] -> xpath: //body//oj-avatar[@initials='[[userMenuLabel]]']]
+[INFO ][05-Sep-2022 12:15:02 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (e6f4640ee68e66bde724922ab61f1123)] -> xpath: //a//span[text()='Sign Out']]
+[ERROR][05-Sep-2022 12:15:09 PM] SmileyFacesFeedBackReport.testSignout:(170) - Logout/SignOut un-successfull

@@ -1,0 +1,16 @@
+[INFO ][06-Feb-2024 14:07:43 PM] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][06-Feb-2024 14:07:46 PM] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--tst1.custhelp.com/AgentWeb/
+[INFO ][06-Feb-2024 14:07:50 PM] Selenium_Wrapper.enterText:(311) - Entering Text :automation_testing in WebElement :[[ChromeDriver: chrome on WINDOWS (c2c4f20956cfcef26c54dbda5b821f37)] -> id: username]
+[INFO ][06-Feb-2024 14:07:52 PM] Selenium_Wrapper.enterText:(311) - Entering Text :Welcome123 in WebElement :[[ChromeDriver: chrome on WINDOWS (c2c4f20956cfcef26c54dbda5b821f37)] -> id: password]
+[INFO ][06-Feb-2024 14:08:22 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (c2c4f20956cfcef26c54dbda5b821f37)] -> id: loginbutton]
+[INFO ][06-Feb-2024 14:08:33 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (c2c4f20956cfcef26c54dbda5b821f37)] -> id: navigationSetBtn]
+[ERROR][06-Feb-2024 14:08:39 PM] CreateNewArticleFlow.testNavigateToArticleFlow:(40) - Navigate To Article un-successfull
+[ERROR][06-Feb-2024 14:08:39 PM] CreateNewArticleFlow.testCreateArticleFlow:(305) - Create Article  un-successfull
+[ERROR][06-Feb-2024 14:08:45 PM] CreateNewArticleFlow.testPublishArticleFlow:(358) - Publish Article un-successfull
+[INFO ][06-Feb-2024 14:08:45 PM] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][06-Feb-2024 14:08:52 PM] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--tst1.custhelp.com/app/home
+[INFO ][06-Feb-2024 14:08:56 PM] Selenium_Wrapper.enterText:(311) - Entering Text :swamyk in WebElement :[[ChromeDriver: chrome on WINDOWS (71b06e5b4ab02cfed99d735352fe82ce)] -> id: rn_LoginForm_2_Username]
+[INFO ][06-Feb-2024 14:08:57 PM] Selenium_Wrapper.enterText:(311) - Entering Text :Soft@123 in WebElement :[[ChromeDriver: chrome on WINDOWS (71b06e5b4ab02cfed99d735352fe82ce)] -> id: rn_LoginForm_2_Password]
+[INFO ][06-Feb-2024 14:09:04 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (71b06e5b4ab02cfed99d735352fe82ce)] -> id: rn_LoginForm_2_Submit]
+[ERROR][06-Feb-2024 14:09:10 PM] CreateNewArticleFlow.testSearchanArticle:(376) - Search an Article in CP is un-successfull
+[ERROR][06-Feb-2024 14:09:13 PM] CreateNewArticleFlow.testCPClose:(387) - Logout/SignOut un-successfull

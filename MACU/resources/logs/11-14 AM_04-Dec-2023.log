@@ -1,0 +1,17 @@
+[INFO ][04-Dec-2023 11:14:28 AM] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][04-Dec-2023 11:14:32 AM] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--tst1.custhelp.com/app/home
+[INFO ][04-Dec-2023 11:14:37 AM] Selenium_Wrapper.enterText:(311) - Entering Text :swamyk in WebElement :[[ChromeDriver: chrome on WINDOWS (f111ecc576a90576857623da4a4fb307)] -> id: rn_LoginForm_2_Username]
+[INFO ][04-Dec-2023 11:14:38 AM] Selenium_Wrapper.enterText:(311) - Entering Text :Soft@123 in WebElement :[[ChromeDriver: chrome on WINDOWS (f111ecc576a90576857623da4a4fb307)] -> id: rn_LoginForm_2_Password]
+[INFO ][04-Dec-2023 11:14:45 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (f111ecc576a90576857623da4a4fb307)] -> id: rn_LoginForm_2_Submit]
+[INFO ][04-Dec-2023 11:15:10 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (f111ecc576a90576857623da4a4fb307)] -> xpath: //a[text()='browse all PAGES']]
+[INFO ][04-Dec-2023 11:15:22 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (f111ecc576a90576857623da4a4fb307)] -> xpath: (//div[@id='category']//following-sibling::ul//a)[1]]
+[INFO ][04-Dec-2023 11:15:51 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (f111ecc576a90576857623da4a4fb307)] -> xpath: //a[text()='VIEW A-Z INDEX']]
+[INFO ][04-Dec-2023 11:16:12 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (f111ecc576a90576857623da4a4fb307)] -> xpath: //div[@id='rn_A_ZIndex_2']//ul[@class='indexing_list']//li//a[text()='D']]
+[INFO ][04-Dec-2023 11:16:26 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (f111ecc576a90576857623da4a4fb307)] -> xpath: //div[@id='rn_A_ZIndex_2']//ul[@class='indexing_list']//li//a[text()='J']]
+[INFO ][04-Dec-2023 11:16:39 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (f111ecc576a90576857623da4a4fb307)] -> xpath: //div[@id='rn_A_ZIndex_2']//ul[@class='indexing_list']//li//a[text()='P']]
+[INFO ][04-Dec-2023 11:16:53 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (f111ecc576a90576857623da4a4fb307)] -> xpath: //div[@id='rn_A_ZIndex_2']//ul[@class='indexing_list']//li//a[text()='V']]
+[INFO ][04-Dec-2023 11:17:06 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (f111ecc576a90576857623da4a4fb307)] -> xpath: //div[@id='rn_A_ZIndex_2']//ul[@class='indexing_list']//li//a[text()='0-9']]
+[INFO ][04-Dec-2023 11:17:30 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (f111ecc576a90576857623da4a4fb307)] -> xpath: (//div[@class='rn_A_ZIndex']//div[@class='index-content']//a)[1]]
+[INFO ][04-Dec-2023 11:17:55 AM] Selenium_Wrapper.enterText:(311) - Entering Text :100% First Time Home Buyer Loan in WebElement :[[ChromeDriver: chrome on WINDOWS (f111ecc576a90576857623da4a4fb307)] -> xpath: //input[@type='search']]
+[INFO ][04-Dec-2023 11:18:38 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (f111ecc576a90576857623da4a4fb307)] -> xpath: //div[@id='rn_PageTitle']//a[text()='BROWSE ALL PAGES']]
+[INFO ][04-Dec-2023 11:18:47 AM] Selenium_Wrapper.closeCurrentBrowser:(651) - Closing the current Browser

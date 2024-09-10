@@ -1,0 +1,12 @@
+[INFO ][24-May-2023 16:58:59 PM] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][24-May-2023 16:59:02 PM] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--tst1.custhelp.com/AgentWeb/
+[INFO ][24-May-2023 16:59:06 PM] Selenium_Wrapper.enterText:(311) - Entering Text :automation_testing in WebElement :[[ChromeDriver: chrome on WINDOWS (a90c626b9b12524db5abafea4e73a975)] -> id: username]
+[INFO ][24-May-2023 16:59:07 PM] Selenium_Wrapper.enterText:(311) - Entering Text :Welcome123 in WebElement :[[ChromeDriver: chrome on WINDOWS (a90c626b9b12524db5abafea4e73a975)] -> id: password]
+[INFO ][24-May-2023 16:59:33 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (a90c626b9b12524db5abafea4e73a975)] -> id: loginbutton]
+[INFO ][24-May-2023 16:59:45 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (a90c626b9b12524db5abafea4e73a975)] -> id: navigationSetBtn]
+[INFO ][24-May-2023 16:59:51 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (a90c626b9b12524db5abafea4e73a975)] -> xpath: (//div[text()='Contacts']//a)]
+[INFO ][24-May-2023 16:59:56 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (a90c626b9b12524db5abafea4e73a975)] -> xpath: (//span[text()='Contacts'])[2]]
+[INFO ][24-May-2023 17:00:03 PM] Selenium_Wrapper.enterText:(311) - Entering Text :swamyk in WebElement :[[ChromeDriver: chrome on WINDOWS (a90c626b9b12524db5abafea4e73a975)] -> xpath: (//label[text()='Login']//following::input)[1]]
+[INFO ][24-May-2023 17:00:08 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (a90c626b9b12524db5abafea4e73a975)] -> xpath: //span[text()='Search']]
+[ERROR][24-May-2023 17:00:23 PM] ContactView.testContactView:(55) - Contact View Test is un-successfull
+[ERROR][24-May-2023 17:03:48 PM] ContactView.testSignout:(72) - Logout/SignOut un-successfull

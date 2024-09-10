@@ -1,0 +1,16 @@
+[INFO ][06-May-2024 10:14:26 AM] Selenium_Wrapper.openBrowser:(54) - Opening chrome browser.
+[INFO ][06-May-2024 10:14:31 AM] Selenium_Wrapper.enterURL:(88) - Entering url :https://macu1--tst1.custhelp.com/AgentWeb/
+[INFO ][06-May-2024 10:14:36 AM] Selenium_Wrapper.enterText:(317) - Entering Text :automation_testing in WebElement :[[ChromeDriver: chrome on WINDOWS (4cdc215e557c30618301995cdf7a1fdd)] -> id: username]
+[INFO ][06-May-2024 10:14:37 AM] Selenium_Wrapper.enterText:(317) - Entering Text :Welcome123 in WebElement :[[ChromeDriver: chrome on WINDOWS (4cdc215e557c30618301995cdf7a1fdd)] -> id: password]
+[INFO ][06-May-2024 10:14:46 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (4cdc215e557c30618301995cdf7a1fdd)] -> id: loginbutton]
+[INFO ][06-May-2024 10:14:59 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (4cdc215e557c30618301995cdf7a1fdd)] -> xpath: //oj-button[@id='navigationSetBtn']]
+[INFO ][06-May-2024 10:15:01 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (4cdc215e557c30618301995cdf7a1fdd)] -> xpath: //div[text()='Analytics']]
+[INFO ][06-May-2024 10:15:03 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (4cdc215e557c30618301995cdf7a1fdd)] -> xpath: //span[text()='Reports Explorer']]
+[INFO ][06-May-2024 10:15:07 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (4cdc215e557c30618301995cdf7a1fdd)] -> xpath: //div[text()='Public Reports']]
+[INFO ][06-May-2024 10:15:09 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (4cdc215e557c30618301995cdf7a1fdd)] -> xpath: //div[text()='MACU CUSTOM REPORTS']]
+[INFO ][06-May-2024 10:15:11 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (4cdc215e557c30618301995cdf7a1fdd)] -> xpath: //div[text()='SoftClouds']]
+[INFO ][06-May-2024 10:15:14 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (4cdc215e557c30618301995cdf7a1fdd)] -> xpath: //div[text()='OKCS']]
+[ERROR][06-May-2024 10:15:21 AM] SmileyFacesFeedBackReport.testSelectingandVerifyingFlow:(140) - Selecting and Verifying  un-successfull
+[INFO ][06-May-2024 10:15:25 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (4cdc215e557c30618301995cdf7a1fdd)] -> xpath: //body//oj-avatar[@initials='[[userMenuLabel]]']]
+[INFO ][06-May-2024 10:15:28 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (4cdc215e557c30618301995cdf7a1fdd)] -> xpath: //a//span[text()='Sign Out']]
+[INFO ][06-May-2024 10:15:30 AM] Selenium_Wrapper.closeCurrentBrowser:(657) - Closing the current Browser

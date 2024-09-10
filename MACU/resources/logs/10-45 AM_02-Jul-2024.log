@@ -1,0 +1,45 @@
+[INFO ][02-Jul-2024 10:45:05 AM] Selenium_Wrapper.openBrowser:(54) - Opening chrome browser.
+[INFO ][02-Jul-2024 10:45:21 AM] Selenium_Wrapper.enterURL:(88) - Entering url :https://macu1--tst1.custhelp.com/app/home
+[INFO ][02-Jul-2024 10:45:25 AM] Selenium_Wrapper.enterText:(317) - Entering Text :swamyk in WebElement :[[ChromeDriver: chrome on WINDOWS (e195cd2fb2ad126a52f9b4c6889ce99e)] -> id: rn_LoginForm_2_Username]
+[INFO ][02-Jul-2024 10:45:27 AM] Selenium_Wrapper.enterText:(317) - Entering Text :Soft@123 in WebElement :[[ChromeDriver: chrome on WINDOWS (e195cd2fb2ad126a52f9b4c6889ce99e)] -> id: rn_LoginForm_2_Password]
+[INFO ][02-Jul-2024 10:45:31 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (e195cd2fb2ad126a52f9b4c6889ce99e)] -> id: rn_LoginForm_2_Submit]
+[INFO ][02-Jul-2024 10:45:43 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (e195cd2fb2ad126a52f9b4c6889ce99e)] -> xpath: //input[@type='search']]
+[INFO ][02-Jul-2024 10:45:44 AM] Selenium_Wrapper.enterText:(317) - Entering Text :Business Use Auto Loan in WebElement :[[ChromeDriver: chrome on WINDOWS (e195cd2fb2ad126a52f9b4c6889ce99e)] -> xpath: //input[@type='search']]
+[INFO ][02-Jul-2024 10:46:06 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (e195cd2fb2ad126a52f9b4c6889ce99e)] -> xpath: (//div[@class='yui3-aclist-content']//li//li)[1]]
+[ERROR][02-Jul-2024 10:46:10 AM] AnswerVotingFeedbackReport.testSearchanArticle:(34) - Search an Article in CP is un-successfull
+[ERROR][02-Jul-2024 10:46:14 AM] Selenium_Wrapper.highlightWebElement:(423) - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='main_image_div']//div[@class='thumbs_up_down'][2]"}
+  (Session info: chrome=126.0.6478.127)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SC-CAF-CND84305', ip: '192.168.1.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.127, chrome: {chromedriverVersion: 125.0.6422.141 (4b1e8393712..., userDataDir: C:\Users\SWAMYK~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62699}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e195cd2fb2ad126a52f9b4c6889ce99e
+*** Element info: {Using=xpath, value=//div[@class='main_image_div']//div[@class='thumbs_up_down'][2]}
+[ERROR][02-Jul-2024 10:46:17 AM] AnswerVotingFeedbackReport.testFeedbackPage:(57) - Thumbs Up & Down Test is un-successfull
+[INFO ][02-Jul-2024 10:46:21 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (e195cd2fb2ad126a52f9b4c6889ce99e)] -> xpath: //div[@class='dropdown']]
+[ERROR][02-Jul-2024 10:48:03 AM] Selenium_Wrapper.getWebElement:(130) - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of [[ChromeDriver: chrome on WINDOWS (e195cd2fb2ad126a52f9b4c6889ce99e)] -> xpath: //a[text()='My Feedback']] (tried for 100 second(s) with 500 milliseconds interval)
+[ERROR][02-Jul-2024 10:48:03 AM] AnswerVotingFeedbackReport.testMyFeedbackStatus:(92) - My Feedback Article Status in CP Test is un-successfull
+[INFO ][02-Jul-2024 10:48:07 AM] Selenium_Wrapper.openBrowser:(54) - Opening chrome browser.
+[ERROR][02-Jul-2024 10:48:16 AM] MACU_Wrapper.signIntoBUI:(37) - Error in the loginin process
+[ERROR][02-Jul-2024 10:49:08 AM] AnswerVotingFeedbackReport.testNavigateToAnwserVotingFeedBackReportlow:(120) - Navigate To Anwser Voting FeedBackReport testing un-successfull
+[ERROR][02-Jul-2024 10:49:11 AM] Selenium_Wrapper.highlightWebElement:(423) - org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=126.0.6478.127)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SC-CAF-CND84305', ip: '192.168.1.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.127, chrome: {chromedriverVersion: 125.0.6422.141 (4b1e8393712..., userDataDir: C:\Users\SWAMYK~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62962}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: eafc85768ec8b6f95545b4bba81458d2
+*** Element info: {Using=xpath, value=//div[@class='explorer-right-panel']//div[@class='explorer-data-grid']//span[text()='Feedback Admin Report (old)']}
+[ERROR][02-Jul-2024 10:49:11 AM] Selenium_Wrapper.doubleClick:(279) - org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=126.0.6478.127)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SC-CAF-CND84305', ip: '192.168.1.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.127, chrome: {chromedriverVersion: 125.0.6422.141 (4b1e8393712..., userDataDir: C:\Users\SWAMYK~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62962}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: eafc85768ec8b6f95545b4bba81458d2
+*** Element info: {Using=xpath, value=//div[@class='explorer-right-panel']//div[@class='explorer-data-grid']//span[text()='Feedback Admin Report (old)']}
+[ERROR][02-Jul-2024 10:49:11 AM] AnswerVotingFeedbackReport.testSelectingandGivingAnswerstoReportFlow:(172) - Selecting and Giving Asnwers to Report  un-successfull
+[ERROR][02-Jul-2024 10:49:16 AM] AnswerVotingFeedbackReport.testSignout:(187) - Logout/SignOut un-successfull

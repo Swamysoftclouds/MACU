@@ -1,0 +1,14 @@
+[INFO ][04-Oct-2023 14:30:50 pm] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][04-Oct-2023 14:30:58 pm] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--tst1.custhelp.com/app/home
+[INFO ][04-Oct-2023 14:31:02 pm] Selenium_Wrapper.enterText:(311) - Entering Text :swamyk in WebElement :[[ChromeDriver: chrome on WINDOWS (2b07d7669f0766899dfa1273de137066)] -> id: rn_LoginForm_2_Username]
+[INFO ][04-Oct-2023 14:31:04 pm] Selenium_Wrapper.enterText:(311) - Entering Text :Soft@123 in WebElement :[[ChromeDriver: chrome on WINDOWS (2b07d7669f0766899dfa1273de137066)] -> id: rn_LoginForm_2_Password]
+[INFO ][04-Oct-2023 14:31:11 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (2b07d7669f0766899dfa1273de137066)] -> id: rn_LoginForm_2_Submit]
+[INFO ][04-Oct-2023 14:31:34 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (2b07d7669f0766899dfa1273de137066)] -> xpath: //a[text()='browse all PAGES']]
+[INFO ][04-Oct-2023 14:31:45 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (2b07d7669f0766899dfa1273de137066)] -> xpath: (//div[@id='category']//following-sibling::ul//a)[1]]
+[INFO ][04-Oct-2023 14:32:06 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (2b07d7669f0766899dfa1273de137066)] -> xpath: //a[text()='Business Accounts']]
+[ERROR][04-Oct-2023 14:32:49 pm] BrowseAllPages.testFilterByProductAndFilterByCategory:(208) - Filter By Product And Filter By Category testing Test is un-successfull
+[INFO ][04-Oct-2023 14:33:08 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (2b07d7669f0766899dfa1273de137066)] -> xpath: //a[text()='VIEW A-Z INDEX']]
+[INFO ][04-Oct-2023 14:33:29 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (2b07d7669f0766899dfa1273de137066)] -> xpath: //div[@id='rn_A_ZIndex_2']//ul[@class='indexing_list']//li//a[text()='D']]
+[INFO ][04-Oct-2023 14:33:42 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (2b07d7669f0766899dfa1273de137066)] -> xpath: //div[@id='rn_A_ZIndex_2']//ul[@class='indexing_list']//li//a[text()='J']]
+[INFO ][04-Oct-2023 14:33:55 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (2b07d7669f0766899dfa1273de137066)] -> xpath: //div[@id='rn_A_ZIndex_2']//ul[@class='indexing_list']//li//a[text()='P']]
+[INFO ][04-Oct-2023 14:34:09 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (2b07d7669f0766899dfa1273de137066)] -> xpath: //div[@id='rn_A_ZIndex_2']//ul[@class='indexing_list']//li//a[text()='V']]

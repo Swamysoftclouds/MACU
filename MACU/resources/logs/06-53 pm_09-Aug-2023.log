@@ -1,0 +1,7 @@
+[INFO ][09-Aug-2023 18:53:46 pm] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][09-Aug-2023 18:53:52 pm] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--tst1.custhelp.com/app/home
+[INFO ][09-Aug-2023 18:53:56 pm] Selenium_Wrapper.enterText:(311) - Entering Text :swamyk in WebElement :[[ChromeDriver: chrome on WINDOWS (1f574f9cf3998424181953f1e22dcefa)] -> id: rn_LoginForm_2_Username]
+[INFO ][09-Aug-2023 18:53:57 pm] Selenium_Wrapper.enterText:(311) - Entering Text :Soft@123 in WebElement :[[ChromeDriver: chrome on WINDOWS (1f574f9cf3998424181953f1e22dcefa)] -> id: rn_LoginForm_2_Password]
+[INFO ][09-Aug-2023 18:54:04 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (1f574f9cf3998424181953f1e22dcefa)] -> id: rn_LoginForm_2_Submit]
+[INFO ][09-Aug-2023 18:54:26 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (1f574f9cf3998424181953f1e22dcefa)] -> xpath: //p[@class='search_text']//a[text()='browse all PAGES']]
+[ERROR][09-Aug-2023 18:54:52 pm] HomePage.testSearchPage:(47) - Home Page - Heres What You Need To Know Test is un-successfull

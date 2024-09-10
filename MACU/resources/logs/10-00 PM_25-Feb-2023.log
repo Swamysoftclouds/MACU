@@ -1,0 +1,22 @@
+[INFO ][25-Feb-2023 22:00:42 PM] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][25-Feb-2023 22:00:52 PM] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--upgrade.custhelp.com/
+[INFO ][25-Feb-2023 22:00:56 PM] Selenium_Wrapper.enterText:(311) - Entering Text :automation_testing in WebElement :[[ChromeDriver: chrome on WINDOWS (bf0bb331a353ab75f2a949da3a7a1ca8)] -> id: rn_LoginForm_2_Username]
+[INFO ][25-Feb-2023 22:00:58 PM] Selenium_Wrapper.enterText:(311) - Entering Text :Soft@123 in WebElement :[[ChromeDriver: chrome on WINDOWS (bf0bb331a353ab75f2a949da3a7a1ca8)] -> id: rn_LoginForm_2_Password]
+[INFO ][25-Feb-2023 22:01:05 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (bf0bb331a353ab75f2a949da3a7a1ca8)] -> id: rn_LoginForm_2_Submit]
+[INFO ][25-Feb-2023 22:01:16 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (bf0bb331a353ab75f2a949da3a7a1ca8)] -> xpath: //div[@class='dropdown']]
+[INFO ][25-Feb-2023 22:01:27 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (bf0bb331a353ab75f2a949da3a7a1ca8)] -> xpath: //a[text()='My Feedback']]
+[INFO ][25-Feb-2023 22:01:32 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (bf0bb331a353ab75f2a949da3a7a1ca8)] -> xpath: //input[@placeholder='Search Your Feedback Report']]
+[INFO ][25-Feb-2023 22:01:33 PM] Selenium_Wrapper.enterText:(311) - Entering Text :Business Auto Loan in WebElement :[[ChromeDriver: chrome on WINDOWS (bf0bb331a353ab75f2a949da3a7a1ca8)] -> xpath: //input[@placeholder='Search Your Feedback Report']]
+[INFO ][25-Feb-2023 22:01:44 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (bf0bb331a353ab75f2a949da3a7a1ca8)] -> xpath: //div[@class='rn_SearchInput1 mt-3']//span[@class='btn-srch-icon']//i[@class='fa fa-search']]
+[INFO ][25-Feb-2023 22:02:11 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (bf0bb331a353ab75f2a949da3a7a1ca8)] -> xpath: //tr[@data-yui3-record='model_11']//td[@headers='Grid_6_c1']/a]
+[ERROR][25-Feb-2023 22:02:22 PM] Selenium_Wrapper.highlightWebElement:(417) - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//li//div[normalize-space()='Unresolved']"}
+  (Session info: chrome=110.0.5481.177)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'QA-SWAMYK', ip: '192.168.0.4', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 110.0.5481.177, chrome: {chromedriverVersion: 110.0.5481.77 (65ed616c6e8e..., userDataDir: C:\Users\SWAMYK~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:65383}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: bf0bb331a353ab75f2a949da3a7a1ca8
+*** Element info: {Using=xpath, value=//li//div[normalize-space()='Unresolved']}
+[ERROR][25-Feb-2023 22:02:22 PM] MyFeedback.testMyFeedbackStatus:(139) - My Feedback Article Status in CP Test is un-successfull
+[INFO ][25-Feb-2023 22:02:25 PM] Selenium_Wrapper.closeCurrentBrowser:(651) - Closing the current Browser

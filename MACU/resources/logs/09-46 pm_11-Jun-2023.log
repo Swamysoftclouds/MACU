@@ -1,0 +1,11 @@
+[INFO ][11-Jun-2023 21:46:40 pm] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][11-Jun-2023 21:46:46 pm] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--tst1.custhelp.com/app/home
+[INFO ][11-Jun-2023 21:46:50 pm] Selenium_Wrapper.enterText:(311) - Entering Text :swamyk in WebElement :[[ChromeDriver: chrome on WINDOWS (648eff7fe3844264bd137137cbf48f5d)] -> id: rn_LoginForm_2_Username]
+[INFO ][11-Jun-2023 21:46:51 pm] Selenium_Wrapper.enterText:(311) - Entering Text :Soft@123 in WebElement :[[ChromeDriver: chrome on WINDOWS (648eff7fe3844264bd137137cbf48f5d)] -> id: rn_LoginForm_2_Password]
+[INFO ][11-Jun-2023 21:46:58 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (648eff7fe3844264bd137137cbf48f5d)] -> id: rn_LoginForm_2_Submit]
+[INFO ][11-Jun-2023 21:47:14 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (648eff7fe3844264bd137137cbf48f5d)] -> class name: knowledge]
+[INFO ][11-Jun-2023 21:47:21 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (648eff7fe3844264bd137137cbf48f5d)] -> xpath: //div[@class='dropdown']]
+[INFO ][11-Jun-2023 21:47:31 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (648eff7fe3844264bd137137cbf48f5d)] -> xpath: //div[@class='dropdown-content']//a[normalize-space()='My Notifications']]
+[INFO ][11-Jun-2023 21:47:40 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (648eff7fe3844264bd137137cbf48f5d)] -> xpath: //a[text()='browse all PAGES']]
+[INFO ][11-Jun-2023 21:47:57 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (648eff7fe3844264bd137137cbf48f5d)] -> xpath: //a[text()='VIEW A-Z INDEX']]
+[INFO ][11-Jun-2023 21:48:10 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (648eff7fe3844264bd137137cbf48f5d)] -> class name: knowledge]

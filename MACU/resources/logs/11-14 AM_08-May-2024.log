@@ -1,0 +1,12 @@
+[INFO ][08-May-2024 11:14:57 AM] Selenium_Wrapper.openBrowser:(54) - Opening chrome browser.
+[INFO ][08-May-2024 11:15:01 AM] Selenium_Wrapper.enterURL:(88) - Entering url :https://macu1--tst1.custhelp.com/AgentWeb/
+[INFO ][08-May-2024 11:15:05 AM] Selenium_Wrapper.enterText:(317) - Entering Text :automation_testing in WebElement :[[ChromeDriver: chrome on WINDOWS (2f0023c5916d9d7242c09235ac7b7b6f)] -> id: username]
+[INFO ][08-May-2024 11:15:07 AM] Selenium_Wrapper.enterText:(317) - Entering Text :Welcome123 in WebElement :[[ChromeDriver: chrome on WINDOWS (2f0023c5916d9d7242c09235ac7b7b6f)] -> id: password]
+[INFO ][08-May-2024 11:15:29 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (2f0023c5916d9d7242c09235ac7b7b6f)] -> id: loginbutton]
+[INFO ][08-May-2024 11:15:45 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (2f0023c5916d9d7242c09235ac7b7b6f)] -> id: navigationSetBtn]
+[INFO ][08-May-2024 11:15:47 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (2f0023c5916d9d7242c09235ac7b7b6f)] -> xpath: //div[@automationid='Analytics']]
+[INFO ][08-May-2024 11:15:57 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (2f0023c5916d9d7242c09235ac7b7b6f)] -> xpath: //div[@automationid='Analytics_Reports Explorer']//span[text()='Reports Explorer']]
+[INFO ][08-May-2024 11:16:10 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (2f0023c5916d9d7242c09235ac7b7b6f)] -> xpath: //div[@aria-label='Public Reports'][text()='Public Reports']]
+[INFO ][08-May-2024 11:16:12 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (2f0023c5916d9d7242c09235ac7b7b6f)] -> xpath: //div[@aria-label='MACU CUSTOM REPORTS'][text()='MACU CUSTOM REPORTS']]
+[INFO ][08-May-2024 11:16:14 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (2f0023c5916d9d7242c09235ac7b7b6f)] -> xpath: //div[@aria-label='SoftClouds'][text()='SoftClouds']]
+[INFO ][08-May-2024 11:16:16 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (2f0023c5916d9d7242c09235ac7b7b6f)] -> xpath: //div[@aria-label='OKCS'][text()='OKCS'][contains(@id,'ExplorerFolderLabelAnalyticsFolder103223')]]

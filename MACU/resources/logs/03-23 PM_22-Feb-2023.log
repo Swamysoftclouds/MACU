@@ -1,0 +1,30 @@
+[ERROR][22-Feb-2023 15:23:37 PM] Selenium_Wrapper.openBrowser:(73) - org.openqa.selenium.SessionNotCreatedException: session not created: This version of ChromeDriver only supports Chrome version 105
+Current browser version is 110.0.5481.104 with binary path C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'QA-SWAMYK', ip: '192.168.1.100', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.10'
+Driver info: driver.version: ChromeDriver
+remote stacktrace: Backtrace:
+	Ordinal0 [0x0058DF13+2219795]
+	Ordinal0 [0x00522841+1779777]
+	Ordinal0 [0x0043423D+803389]
+	Ordinal0 [0x004564AC+943276]
+	Ordinal0 [0x004519F0+924144]
+	Ordinal0 [0x0044F179+913785]
+	Ordinal0 [0x004836B9+1128121]
+	Ordinal0 [0x0048331A+1127194]
+	Ordinal0 [0x0047E616+1107478]
+	Ordinal0 [0x00457F89+950153]
+	Ordinal0 [0x00458F56+954198]
+	GetHandleVerifier [0x00882CB2+3040210]
+	GetHandleVerifier [0x00872BB4+2974420]
+	GetHandleVerifier [0x00626A0A+565546]
+	GetHandleVerifier [0x00625680+560544]
+	Ordinal0 [0x00529A5C+1808988]
+	Ordinal0 [0x0052E3A8+1827752]
+	Ordinal0 [0x0052E495+1827989]
+	Ordinal0 [0x005380A4+1867940]
+	BaseThreadInitThunk [0x763100F9+25]
+	RtlGetAppContainerNamedObjectPath [0x776D7BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x776D7B8E+238]
+
+[ERROR][22-Feb-2023 15:23:37 PM] CreateNewArticleFlow.testSignIn:(20) - Login/SignIn un-successfull

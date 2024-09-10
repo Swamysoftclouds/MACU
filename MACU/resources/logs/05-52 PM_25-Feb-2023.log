@@ -1,0 +1,35 @@
+[INFO ][25-Feb-2023 17:52:58 PM] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][25-Feb-2023 17:53:07 PM] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--upgrade.custhelp.com/
+[INFO ][25-Feb-2023 17:53:11 PM] Selenium_Wrapper.enterText:(311) - Entering Text :automation_testing in WebElement :[[ChromeDriver: chrome on WINDOWS (473b23ce5a7efa3a9de5ec083916535e)] -> id: rn_LoginForm_2_Username]
+[INFO ][25-Feb-2023 17:53:12 PM] Selenium_Wrapper.enterText:(311) - Entering Text :Soft@123 in WebElement :[[ChromeDriver: chrome on WINDOWS (473b23ce5a7efa3a9de5ec083916535e)] -> id: rn_LoginForm_2_Password]
+[INFO ][25-Feb-2023 17:53:20 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (473b23ce5a7efa3a9de5ec083916535e)] -> id: rn_LoginForm_2_Submit]
+[INFO ][25-Feb-2023 17:53:28 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (473b23ce5a7efa3a9de5ec083916535e)] -> xpath: //input[@type='search']]
+[INFO ][25-Feb-2023 17:53:29 PM] Selenium_Wrapper.enterText:(311) - Entering Text :Business Auto Loan in WebElement :[[ChromeDriver: chrome on WINDOWS (473b23ce5a7efa3a9de5ec083916535e)] -> xpath: //input[@type='search']]
+[INFO ][25-Feb-2023 17:53:44 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (473b23ce5a7efa3a9de5ec083916535e)] -> xpath: //ul[@aria-label='Suggested Search']//li[normalize-space()= 'Business Auto Loan' ]]
+[INFO ][25-Feb-2023 17:53:51 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (473b23ce5a7efa3a9de5ec083916535e)] -> xpath: //div[@class='rn_SearchResultContent']//a[text()='Business Auto Loan']]
+[INFO ][25-Feb-2023 17:54:11 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (473b23ce5a7efa3a9de5ec083916535e)] -> xpath: //div[@class='main_image_div']//div[@class='thumbs_up_down'][2]]
+[INFO ][25-Feb-2023 17:54:22 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (473b23ce5a7efa3a9de5ec083916535e)] -> id: rn_AnswerRating_3_22_FeedbackMessage]
+[INFO ][25-Feb-2023 17:54:24 PM] Selenium_Wrapper.enterText:(311) - Entering Text :Flexible Work - ThumbDown Comments in WebElement :[[ChromeDriver: chrome on WINDOWS (473b23ce5a7efa3a9de5ec083916535e)] -> id: rn_AnswerRating_3_22_FeedbackMessage]
+[INFO ][25-Feb-2023 17:54:29 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (473b23ce5a7efa3a9de5ec083916535e)] -> xpath: //button[text()='SUBMIT']]
+[INFO ][25-Feb-2023 17:54:34 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (473b23ce5a7efa3a9de5ec083916535e)] -> xpath: //button[@class='yui3-button yui3-button-close']]
+[INFO ][25-Feb-2023 17:54:44 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (473b23ce5a7efa3a9de5ec083916535e)] -> xpath: //div[@class='dropdown']]
+[INFO ][25-Feb-2023 17:54:55 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (473b23ce5a7efa3a9de5ec083916535e)] -> xpath: //a[text()='My Feedback']]
+[INFO ][25-Feb-2023 17:55:22 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (473b23ce5a7efa3a9de5ec083916535e)] -> xpath: ((//table//tbody)[2]//a)[1]]
+[INFO ][25-Feb-2023 17:55:58 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (473b23ce5a7efa3a9de5ec083916535e)] -> class name: knowledge]
+[INFO ][25-Feb-2023 17:56:02 PM] Selenium_Wrapper.closeCurrentBrowser:(651) - Closing the current Browser
+[INFO ][25-Feb-2023 17:56:03 PM] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][25-Feb-2023 17:56:06 PM] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--upgrade.custhelp.com/AgentWeb/
+[INFO ][25-Feb-2023 17:56:11 PM] Selenium_Wrapper.enterText:(311) - Entering Text :automation_testing in WebElement :[[ChromeDriver: chrome on WINDOWS (da7a3593b963e85202863628391759ff)] -> id: username]
+[INFO ][25-Feb-2023 17:56:12 PM] Selenium_Wrapper.enterText:(311) - Entering Text :Welcome123 in WebElement :[[ChromeDriver: chrome on WINDOWS (da7a3593b963e85202863628391759ff)] -> id: password]
+[INFO ][25-Feb-2023 17:56:45 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (da7a3593b963e85202863628391759ff)] -> id: loginbutton]
+[INFO ][25-Feb-2023 17:57:15 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (da7a3593b963e85202863628391759ff)] -> xpath: //oj-button[@id='navigationSetBtn']]
+[INFO ][25-Feb-2023 17:57:20 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (da7a3593b963e85202863628391759ff)] -> xpath: (//div[text()='Analytics']//a)]
+[INFO ][25-Feb-2023 17:57:26 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (da7a3593b963e85202863628391759ff)] -> xpath: //span[text()='Reports Explorer']]
+[INFO ][25-Feb-2023 17:57:31 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (da7a3593b963e85202863628391759ff)] -> xpath: //div[text()='Public Reports']]
+[INFO ][25-Feb-2023 17:57:36 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (da7a3593b963e85202863628391759ff)] -> xpath: //div[text()='MACU CUSTOM REPORTS']]
+[INFO ][25-Feb-2023 17:57:42 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (da7a3593b963e85202863628391759ff)] -> xpath: //div[text()='SoftClouds']]
+[INFO ][25-Feb-2023 17:57:47 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (da7a3593b963e85202863628391759ff)] -> xpath: //div[text()='OKCS']]
+[ERROR][25-Feb-2023 17:58:00 PM] ThumbsDownFeedBack.testSelectingandGivingAnswerstoReportFlow:(286) - Selecting and Giving Answers to Report Test  is  un-successfull
+[INFO ][25-Feb-2023 17:58:11 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (da7a3593b963e85202863628391759ff)] -> xpath: //body//oj-avatar[@initials='[[userMenuLabel]]']]
+[INFO ][25-Feb-2023 17:58:18 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (da7a3593b963e85202863628391759ff)] -> xpath: //a//span[text()='Sign Out']]
+[INFO ][25-Feb-2023 17:58:23 PM] Selenium_Wrapper.closeCurrentBrowser:(651) - Closing the current Browser

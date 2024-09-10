@@ -1,0 +1,13 @@
+[INFO ][03-Apr-2024 10:56:48 AM] Selenium_Wrapper.openBrowser:(54) - Opening chrome browser.
+[INFO ][03-Apr-2024 10:56:52 AM] Selenium_Wrapper.enterURL:(88) - Entering url :https://macu1--tst1.custhelp.com/AgentWeb/
+[INFO ][03-Apr-2024 10:56:56 AM] Selenium_Wrapper.enterText:(317) - Entering Text :automation_testing in WebElement :[[ChromeDriver: chrome on WINDOWS (ea4e4e099b2cb073b11153c3f1a22a23)] -> id: username]
+[INFO ][03-Apr-2024 10:56:58 AM] Selenium_Wrapper.enterText:(317) - Entering Text :Welcome123 in WebElement :[[ChromeDriver: chrome on WINDOWS (ea4e4e099b2cb073b11153c3f1a22a23)] -> id: password]
+[INFO ][03-Apr-2024 10:57:08 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (ea4e4e099b2cb073b11153c3f1a22a23)] -> id: loginbutton]
+[INFO ][03-Apr-2024 10:57:30 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (ea4e4e099b2cb073b11153c3f1a22a23)] -> xpath: //oj-button[@id='navigationSetBtn']]
+[INFO ][03-Apr-2024 10:57:32 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (ea4e4e099b2cb073b11153c3f1a22a23)] -> xpath: //div[text()='Analytics']]
+[INFO ][03-Apr-2024 10:57:35 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (ea4e4e099b2cb073b11153c3f1a22a23)] -> xpath: //span[text()='Reports Explorer']]
+[ERROR][03-Apr-2024 10:57:37 AM] ThumbsUpAndThumbsDownFeedback.testThumbsUpAndThumbsDownFeedbackFlow:(40) - Navigate To ThumbsUp_And_ThumbsDown_Feedback Test is un-successfull
+[ERROR][03-Apr-2024 10:57:40 AM] ThumbsUpAndThumbsDownFeedback.testSelectingandVerifyingFlow:(167) - Selecting and Verifying Test is un-successfull
+[INFO ][03-Apr-2024 10:57:43 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (ea4e4e099b2cb073b11153c3f1a22a23)] -> xpath: //body//oj-avatar[@initials='[[userMenuLabel]]']]
+[INFO ][03-Apr-2024 10:57:46 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (ea4e4e099b2cb073b11153c3f1a22a23)] -> xpath: //a//span[text()='Sign Out']]
+[INFO ][03-Apr-2024 10:57:49 AM] Selenium_Wrapper.closeCurrentBrowser:(657) - Closing the current Browser

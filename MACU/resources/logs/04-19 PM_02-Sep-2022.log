@@ -1,0 +1,36 @@
+[INFO ][02-Sep-2022 16:19:25 PM] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][02-Sep-2022 16:19:32 PM] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--upgrade.custhelp.com/
+[INFO ][02-Sep-2022 16:19:36 PM] Selenium_Wrapper.enterText:(311) - Entering Text :pramodk in WebElement :[[ChromeDriver: chrome on WINDOWS (d3d003110227728a25d135c94e62c294)] -> id: rn_LoginForm_2_Username]
+[INFO ][02-Sep-2022 16:19:37 PM] Selenium_Wrapper.enterText:(311) - Entering Text :Soft@123 in WebElement :[[ChromeDriver: chrome on WINDOWS (d3d003110227728a25d135c94e62c294)] -> id: rn_LoginForm_2_Password]
+[INFO ][02-Sep-2022 16:19:45 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (d3d003110227728a25d135c94e62c294)] -> id: rn_LoginForm_2_Submit]
+[INFO ][02-Sep-2022 16:20:10 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (d3d003110227728a25d135c94e62c294)] -> xpath: //p[@class='search_text']//a[text()='browse all PAGES']]
+[INFO ][02-Sep-2022 16:20:30 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (d3d003110227728a25d135c94e62c294)] -> class name: knowledge]
+[ERROR][02-Sep-2022 16:21:13 PM] Selenium_Wrapper.highlightWebElement:(417) - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//h2[normalize-space()='TRENDING FOR']"}
+  (Session info: chrome=105.0.5195.54)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'QA-SWAMYK', ip: '192.168.0.4', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.54, chrome: {chromedriverVersion: 105.0.5195.52 (412c95e51883..., userDataDir: C:\Users\SWAMYK~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:50050}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: d3d003110227728a25d135c94e62c294
+*** Element info: {Using=xpath, value=//h2[normalize-space()='TRENDING FOR']}
+[INFO ][02-Sep-2022 16:21:24 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (d3d003110227728a25d135c94e62c294)] -> xpath: //div[@id='rn_RequestUpdate_9_RecommendContent']//button]
+[INFO ][02-Sep-2022 16:21:25 PM] Selenium_Wrapper.enterText:(311) - Entering Text :Test Improve, comments, updates in WebElement :[[ChromeDriver: chrome on WINDOWS (d3d003110227728a25d135c94e62c294)] -> xpath: //textarea[@id='rn_RequestUpdate_9_Description']]
+[INFO ][02-Sep-2022 16:21:30 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (d3d003110227728a25d135c94e62c294)] -> xpath: //span[@class='yui3-widget-buttons']//button[@class='yui3-button yui3-button-close']]
+[ERROR][02-Sep-2022 16:21:33 PM] Selenium_Wrapper.highlightWebElement:(417) - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":".emoji\ d\-flex"}
+  (Session info: chrome=105.0.5195.54)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'QA-SWAMYK', ip: '192.168.0.4', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.54, chrome: {chromedriverVersion: 105.0.5195.52 (412c95e51883..., userDataDir: C:\Users\SWAMYK~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:50050}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: d3d003110227728a25d135c94e62c294
+*** Element info: {Using=class name, value=emoji d-flex}
+[INFO ][02-Sep-2022 16:21:39 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (d3d003110227728a25d135c94e62c294)] -> xpath: //div[@class='emoji d-flex']//a[@class='smile']]
+[INFO ][02-Sep-2022 16:21:58 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (d3d003110227728a25d135c94e62c294)] -> xpath: //h2[@class='footer_heading']/a[text()='Browse all pages']]
+[INFO ][02-Sep-2022 16:22:15 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (d3d003110227728a25d135c94e62c294)] -> class name: knowledge]
+[INFO ][02-Sep-2022 16:22:35 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (d3d003110227728a25d135c94e62c294)] -> xpath: //p[@class='search_text text-left ml-0']/a[text()='GO TO A-Z INDEX']]
+[INFO ][02-Sep-2022 16:23:00 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (d3d003110227728a25d135c94e62c294)] -> xpath: //div[@id='rn_A_ZIndex_2']//ul[@class='indexing_list']//a[text()='K']]
+[INFO ][02-Sep-2022 16:23:13 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (d3d003110227728a25d135c94e62c294)] -> xpath: //div[@id='rn_A_ZIndex_2']//ul[@class='indexing_list']//a[text()='P']]
+[INFO ][02-Sep-2022 16:23:30 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (d3d003110227728a25d135c94e62c294)] -> class name: knowledge]
+[INFO ][02-Sep-2022 16:23:34 PM] Selenium_Wrapper.closeCurrentBrowser:(651) - Closing the current Browser

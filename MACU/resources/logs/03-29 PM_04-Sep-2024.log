@@ -1,0 +1,10 @@
+[INFO ][04-Sep-2024 15:30:01 PM] Selenium_Wrapper.openBrowser:(54) - Opening chrome browser.
+[INFO ][04-Sep-2024 15:30:07 PM] Selenium_Wrapper.enterURL:(88) - Entering url :https://macu1--tst1.custhelp.com/AgentWeb/
+[INFO ][04-Sep-2024 15:30:11 PM] Selenium_Wrapper.enterText:(317) - Entering Text :automation_testing in WebElement :[[ChromeDriver: chrome on WINDOWS (5ffdbcda7ef4091a98664d19e7f10c39)] -> id: username]
+[INFO ][04-Sep-2024 15:30:12 PM] Selenium_Wrapper.enterText:(317) - Entering Text :Welcome123 in WebElement :[[ChromeDriver: chrome on WINDOWS (5ffdbcda7ef4091a98664d19e7f10c39)] -> id: password]
+[INFO ][04-Sep-2024 15:30:28 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (5ffdbcda7ef4091a98664d19e7f10c39)] -> id: loginbutton]
+[ERROR][04-Sep-2024 15:30:44 PM] ActionsDashboardReport.testOKCSReports:(49) - Selecting OKCS Reports in BUI Test is un-successfull
+[ERROR][04-Sep-2024 15:30:53 PM] ActionsDashboardReport.testVisitorActionsDashboard:(101) - Select Actions Report in BUI Test is un-successfull
+[INFO ][04-Sep-2024 15:30:59 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (5ffdbcda7ef4091a98664d19e7f10c39)] -> xpath: //body//oj-avatar[@initials='[[userMenuLabel]]']]
+[INFO ][04-Sep-2024 15:31:03 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (5ffdbcda7ef4091a98664d19e7f10c39)] -> xpath: //a//span[text()='Sign Out']]
+[INFO ][04-Sep-2024 15:31:08 PM] Selenium_Wrapper.closeCurrentBrowser:(657) - Closing the current Browser

@@ -1,0 +1,23 @@
+[INFO ][05-Sep-2022 15:24:57 PM] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][05-Sep-2022 15:25:00 PM] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--upgrade.custhelp.com/AgentWeb/
+[INFO ][05-Sep-2022 15:25:04 PM] Selenium_Wrapper.enterText:(311) - Entering Text :RNT_pramod in WebElement :[[ChromeDriver: chrome on WINDOWS (53010dcc7b181633298016d1cce6e3fe)] -> id: username]
+[INFO ][05-Sep-2022 15:25:06 PM] Selenium_Wrapper.enterText:(311) - Entering Text :Welcome123 in WebElement :[[ChromeDriver: chrome on WINDOWS (53010dcc7b181633298016d1cce6e3fe)] -> id: password]
+[INFO ][05-Sep-2022 15:25:33 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (53010dcc7b181633298016d1cce6e3fe)] -> id: loginbutton]
+[INFO ][05-Sep-2022 15:25:49 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (53010dcc7b181633298016d1cce6e3fe)] -> xpath: //oj-button[@id='navigationSetBtn']]
+[INFO ][05-Sep-2022 15:25:54 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (53010dcc7b181633298016d1cce6e3fe)] -> xpath: (//div[text()='Analytics']//a)]
+[INFO ][05-Sep-2022 15:25:59 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (53010dcc7b181633298016d1cce6e3fe)] -> xpath: //span[text()='Reports Explorer']]
+[INFO ][05-Sep-2022 15:26:05 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (53010dcc7b181633298016d1cce6e3fe)] -> xpath: //div[text()='Public Reports']]
+[INFO ][05-Sep-2022 15:26:10 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (53010dcc7b181633298016d1cce6e3fe)] -> xpath: //div[text()='MACU CUSTOM REPORTS']]
+[INFO ][05-Sep-2022 15:26:15 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (53010dcc7b181633298016d1cce6e3fe)] -> xpath: //div[text()='SoftClouds']]
+[INFO ][05-Sep-2022 15:26:21 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (53010dcc7b181633298016d1cce6e3fe)] -> xpath: //div[text()='OKCS']]
+[ERROR][05-Sep-2022 15:26:27 PM] Selenium_Wrapper.scrollToWebElement:(487) - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[text()='User Specific Search']"}
+  (Session info: chrome=105.0.5195.102)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'QA-SWAMYK', ip: '192.168.0.4', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.102, chrome: {chromedriverVersion: 105.0.5195.52 (412c95e51883..., userDataDir: C:\Users\SWAMYK~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:54862}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 53010dcc7b181633298016d1cce6e3fe
+*** Element info: {Using=xpath, value=//span[text()='User Specific Search']}
+[ERROR][05-Sep-2022 15:26:27 PM] SmileyFacesFeedBackReport2.testSelectingandVerifyingFlow:(140) - Selecting and Verifying  un-successfull
+[INFO ][05-Sep-2022 15:26:37 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (53010dcc7b181633298016d1cce6e3fe)] -> xpath: //body//oj-avatar[@initials='[[userMenuLabel]]']]

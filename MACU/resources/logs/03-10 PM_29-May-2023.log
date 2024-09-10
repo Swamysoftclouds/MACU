@@ -1,0 +1,14 @@
+[INFO ][29-May-2023 15:10:49 PM] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][29-May-2023 15:10:53 PM] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--tst1.custhelp.com/AgentWeb/
+[INFO ][29-May-2023 15:10:57 PM] Selenium_Wrapper.enterText:(311) - Entering Text :automation_testing in WebElement :[[ChromeDriver: chrome on WINDOWS (dde2e630ff4d807d26916b9602d2b894)] -> id: username]
+[INFO ][29-May-2023 15:10:58 PM] Selenium_Wrapper.enterText:(311) - Entering Text :Welcome123 in WebElement :[[ChromeDriver: chrome on WINDOWS (dde2e630ff4d807d26916b9602d2b894)] -> id: password]
+[INFO ][29-May-2023 15:11:13 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (dde2e630ff4d807d26916b9602d2b894)] -> id: loginbutton]
+[ERROR][29-May-2023 15:11:24 PM] CreateNewArticleFlow.testNavigateToArticleFlow:(40) - Navigate To Article un-successfull
+[ERROR][29-May-2023 15:11:24 PM] CreateNewArticleFlow.testCreateArticleFlow:(305) - Create Article  un-successfull
+[ERROR][29-May-2023 15:11:30 PM] CreateNewArticleFlow.testPublishArticleFlow:(358) - Publish Article un-successfull
+[INFO ][29-May-2023 15:11:31 PM] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][29-May-2023 15:11:38 PM] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--tst1.custhelp.com/app/home
+[INFO ][29-May-2023 15:11:42 PM] Selenium_Wrapper.enterText:(311) - Entering Text :swamyk in WebElement :[[ChromeDriver: chrome on WINDOWS (88e05a6ca4844db3ec200eef42682a03)] -> id: rn_LoginForm_2_Username]
+[INFO ][29-May-2023 15:11:43 PM] Selenium_Wrapper.enterText:(311) - Entering Text :Soft@123 in WebElement :[[ChromeDriver: chrome on WINDOWS (88e05a6ca4844db3ec200eef42682a03)] -> id: rn_LoginForm_2_Password]
+[INFO ][29-May-2023 15:11:50 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (88e05a6ca4844db3ec200eef42682a03)] -> id: rn_LoginForm_2_Submit]
+[INFO ][29-May-2023 15:12:21 PM] Selenium_Wrapper.closeCurrentBrowser:(651) - Closing the current Browser

@@ -1,0 +1,10 @@
+[INFO ][24-May-2023 15:23:06 PM] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][24-May-2023 15:23:09 PM] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--tst1.custhelp.com/AgentWeb/
+[INFO ][24-May-2023 15:23:13 PM] Selenium_Wrapper.enterText:(311) - Entering Text :automation_testing in WebElement :[[ChromeDriver: chrome on WINDOWS (786d292f4143779316260fcac7b74d85)] -> id: username]
+[INFO ][24-May-2023 15:23:15 PM] Selenium_Wrapper.enterText:(311) - Entering Text :Welcome123 in WebElement :[[ChromeDriver: chrome on WINDOWS (786d292f4143779316260fcac7b74d85)] -> id: password]
+[INFO ][24-May-2023 15:23:34 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (786d292f4143779316260fcac7b74d85)] -> id: loginbutton]
+[ERROR][24-May-2023 15:23:48 PM] CallOuts.testExistingAccount:(94) - Login/SignIn un-successfull
+[INFO ][24-May-2023 15:23:52 PM] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][24-May-2023 15:24:00 PM] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--tst1.custhelp.com/app/home
+[INFO ][24-May-2023 15:24:05 PM] Selenium_Wrapper.enterText:(311) - Entering Text :swamyk in WebElement :[[ChromeDriver: chrome on WINDOWS (5ae15f822890226227bc5593fd93be0c)] -> id: rn_LoginForm_2_Username]
+[INFO ][24-May-2023 15:24:06 PM] Selenium_Wrapper.enterText:(311) - Entering Text :Soft@123 in WebElement :[[ChromeDriver: chrome on WINDOWS (5ae15f822890226227bc5593fd93be0c)] -> id: rn_LoginForm_2_Password]

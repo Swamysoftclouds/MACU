@@ -1,0 +1,35 @@
+[INFO ][03-Sep-2022 14:57:31 PM] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][03-Sep-2022 14:57:36 PM] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--upgrade.custhelp.com/
+[INFO ][03-Sep-2022 14:57:41 PM] Selenium_Wrapper.enterText:(311) - Entering Text :pramodk in WebElement :[[ChromeDriver: chrome on WINDOWS (fd8184fc1bd172f1df879491c83a7a4c)] -> id: rn_LoginForm_2_Username]
+[INFO ][03-Sep-2022 14:57:42 PM] Selenium_Wrapper.enterText:(311) - Entering Text :Soft@123 in WebElement :[[ChromeDriver: chrome on WINDOWS (fd8184fc1bd172f1df879491c83a7a4c)] -> id: rn_LoginForm_2_Password]
+[INFO ][03-Sep-2022 14:57:49 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (fd8184fc1bd172f1df879491c83a7a4c)] -> id: rn_LoginForm_2_Submit]
+[INFO ][03-Sep-2022 14:57:57 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (fd8184fc1bd172f1df879491c83a7a4c)] -> xpath: //input[@type='search']]
+[INFO ][03-Sep-2022 14:57:59 PM] Selenium_Wrapper.enterText:(311) - Entering Text :Auto Loan in WebElement :[[ChromeDriver: chrome on WINDOWS (fd8184fc1bd172f1df879491c83a7a4c)] -> xpath: //input[@type='search']]
+[INFO ][03-Sep-2022 14:58:14 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (fd8184fc1bd172f1df879491c83a7a4c)] -> xpath: //ul[@aria-label='Suggested Search']//li[normalize-space()= 'Auto Loan' ]]
+[INFO ][03-Sep-2022 14:58:22 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (fd8184fc1bd172f1df879491c83a7a4c)] -> xpath: //div[@class='rn_SearchResultContent']//a[text()='Auto Loan']]
+[INFO ][03-Sep-2022 14:58:38 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (fd8184fc1bd172f1df879491c83a7a4c)] -> xpath: //div[@class='main_image_div']//div[@class='thumbs_up_down'][2]]
+[INFO ][03-Sep-2022 14:58:50 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (fd8184fc1bd172f1df879491c83a7a4c)] -> id: rn_AnswerRating_3_22_FeedbackMessage]
+[INFO ][03-Sep-2022 14:58:51 PM] Selenium_Wrapper.enterText:(311) - Entering Text :Flexible Work - ThumbDown Comments in WebElement :[[ChromeDriver: chrome on WINDOWS (fd8184fc1bd172f1df879491c83a7a4c)] -> id: rn_AnswerRating_3_22_FeedbackMessage]
+[INFO ][03-Sep-2022 14:58:57 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (fd8184fc1bd172f1df879491c83a7a4c)] -> xpath: //button[text()='SUBMIT']]
+[INFO ][03-Sep-2022 14:59:02 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (fd8184fc1bd172f1df879491c83a7a4c)] -> xpath: //button[@class='yui3-button yui3-button-close']]
+[INFO ][03-Sep-2022 14:59:09 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (fd8184fc1bd172f1df879491c83a7a4c)] -> xpath: //div[@class='dropdown']]
+[INFO ][03-Sep-2022 14:59:20 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (fd8184fc1bd172f1df879491c83a7a4c)] -> xpath: //a[text()='My Feedback']]
+[INFO ][03-Sep-2022 14:59:46 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (fd8184fc1bd172f1df879491c83a7a4c)] -> xpath: ((//table//tbody)[2]//a)[1]]
+[INFO ][03-Sep-2022 15:00:21 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (fd8184fc1bd172f1df879491c83a7a4c)] -> class name: knowledge]
+[INFO ][03-Sep-2022 15:00:24 PM] Selenium_Wrapper.closeCurrentBrowser:(651) - Closing the current Browser
+[INFO ][03-Sep-2022 15:00:25 PM] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][03-Sep-2022 15:00:34 PM] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--upgrade.custhelp.com/AgentWeb/
+[INFO ][03-Sep-2022 15:00:38 PM] Selenium_Wrapper.enterText:(311) - Entering Text :RNT_pramod in WebElement :[[ChromeDriver: chrome on WINDOWS (fc02923c66b1af47a9c838c3d8c4c7cd)] -> id: username]
+[INFO ][03-Sep-2022 15:00:39 PM] Selenium_Wrapper.enterText:(311) - Entering Text :Welcome123 in WebElement :[[ChromeDriver: chrome on WINDOWS (fc02923c66b1af47a9c838c3d8c4c7cd)] -> id: password]
+[INFO ][03-Sep-2022 15:01:09 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (fc02923c66b1af47a9c838c3d8c4c7cd)] -> id: loginbutton]
+[INFO ][03-Sep-2022 15:01:29 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (fc02923c66b1af47a9c838c3d8c4c7cd)] -> id: navigationSetBtn]
+[INFO ][03-Sep-2022 15:01:36 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (fc02923c66b1af47a9c838c3d8c4c7cd)] -> xpath: (//div[text()='Analytics']//a)]
+[INFO ][03-Sep-2022 15:01:42 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (fc02923c66b1af47a9c838c3d8c4c7cd)] -> xpath: //span[text()='Reports Explorer']]
+[INFO ][03-Sep-2022 15:01:47 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (fc02923c66b1af47a9c838c3d8c4c7cd)] -> xpath: //div[text()='Public Reports']]
+[INFO ][03-Sep-2022 15:01:53 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (fc02923c66b1af47a9c838c3d8c4c7cd)] -> xpath: //div[text()='MACU CUSTOM REPORTS']]
+[INFO ][03-Sep-2022 15:01:58 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (fc02923c66b1af47a9c838c3d8c4c7cd)] -> xpath: //div[text()='SoftClouds']]
+[INFO ][03-Sep-2022 15:02:03 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (fc02923c66b1af47a9c838c3d8c4c7cd)] -> xpath: //div[text()='OKCS']]
+[INFO ][03-Sep-2022 15:02:25 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (fc02923c66b1af47a9c838c3d8c4c7cd)] -> xpath: //span[text()='Messages']]
+[INFO ][03-Sep-2022 15:02:31 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (fc02923c66b1af47a9c838c3d8c4c7cd)] -> xpath: //div[contains(@class,'cke_wysiwyg_div')]]
+[INFO ][03-Sep-2022 15:02:34 PM] Selenium_Wrapper.enterText:(311) - Entering Text :It is working as per Expected in WebElement :[[ChromeDriver: chrome on WINDOWS (fc02923c66b1af47a9c838c3d8c4c7cd)] -> xpath: //div[contains(@class,'cke_wysiwyg_div')]]
+[ERROR][03-Sep-2022 15:02:39 PM] AnswerVotingFeedbackReport.testSelectingandGivingAnswerstoReportFlow:(216) - Selecting and Giving Asnwers to Report  un-successfull

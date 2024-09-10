@@ -1,0 +1,24 @@
+[INFO ][04-Nov-2021 13:28:45 pm] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][04-Nov-2021 13:28:54 pm] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--tst.custhelp.com/app/home
+[INFO ][04-Nov-2021 13:28:58 pm] Selenium_Wrapper.enterText:(311) - Entering Text :pramodk in WebElement :[[ChromeDriver: chrome on WINDOWS (4063ac757c644dceb7497e92bd577bda)] -> id: rn_LoginForm_2_Username]
+[INFO ][04-Nov-2021 13:29:00 pm] Selenium_Wrapper.enterText:(311) - Entering Text :Soft@123 in WebElement :[[ChromeDriver: chrome on WINDOWS (4063ac757c644dceb7497e92bd577bda)] -> id: rn_LoginForm_2_Password]
+[INFO ][04-Nov-2021 13:29:03 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (4063ac757c644dceb7497e92bd577bda)] -> id: rn_LoginForm_2_Submit]
+[INFO ][04-Nov-2021 13:29:10 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (4063ac757c644dceb7497e92bd577bda)] -> class name: dropdown]
+[INFO ][04-Nov-2021 13:29:34 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (4063ac757c644dceb7497e92bd577bda)] -> xpath: //div[@class='rn_HoverBookmark']//a[contains(text(),'COVID-19 Critical Updates')]]
+[INFO ][04-Nov-2021 13:29:34 pm] QuickNavigation.testAssertBookmarkArticle:(45) - Assert Done
+[INFO ][04-Nov-2021 13:29:37 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (4063ac757c644dceb7497e92bd577bda)] -> class name: knowledge]
+[INFO ][04-Nov-2021 13:29:41 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (4063ac757c644dceb7497e92bd577bda)] -> xpath: //input[@type='search']]
+[INFO ][04-Nov-2021 13:29:42 pm] Selenium_Wrapper.enterText:(311) - Entering Text :Flexible Work in WebElement :[[ChromeDriver: chrome on WINDOWS (4063ac757c644dceb7497e92bd577bda)] -> xpath: //input[@type='search']]
+[ERROR][04-Nov-2021 13:29:43 pm] Selenium_Wrapper.highlightWebElement:(417) - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//ul[@aria-label='Suggested Search']//li[normalize-space()='Flexible Work']"}
+  (Session info: chrome=95.0.4638.54)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-N43657M', ip: '10.10.105.46', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 95.0.4638.54, chrome: {chromedriverVersion: 95.0.4638.17 (a9d0719444d4b..., userDataDir: C:\Users\Pramod\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:62676}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 4063ac757c644dceb7497e92bd577bda
+*** Element info: {Using=xpath, value=//ul[@aria-label='Suggested Search']//li[normalize-space()='Flexible Work']}
+[INFO ][04-Nov-2021 13:29:50 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (4063ac757c644dceb7497e92bd577bda)] -> xpath: //ul[@aria-label='Suggested Search']//li[normalize-space()='Flexible Work']]
+[INFO ][04-Nov-2021 13:29:53 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (4063ac757c644dceb7497e92bd577bda)] -> xpath: //div[@class='rn_SearchResultContent']//a[text()='Flexible Work']]
+[INFO ][04-Nov-2021 13:30:02 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (4063ac757c644dceb7497e92bd577bda)] -> class name: knowledge]
+[INFO ][04-Nov-2021 13:30:05 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (4063ac757c644dceb7497e92bd577bda)] -> class name: dropdown]

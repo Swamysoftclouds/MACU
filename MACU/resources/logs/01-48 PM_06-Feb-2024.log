@@ -1,0 +1,48 @@
+[INFO ][06-Feb-2024 13:48:46 PM] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][06-Feb-2024 13:48:53 PM] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--tst1.custhelp.com/app/home
+[INFO ][06-Feb-2024 13:48:57 PM] Selenium_Wrapper.enterText:(311) - Entering Text :swamyk in WebElement :[[ChromeDriver: chrome on WINDOWS (73a06395b82e8bd7ec64108b266bb7f4)] -> id: rn_LoginForm_2_Username]
+[INFO ][06-Feb-2024 13:48:59 PM] Selenium_Wrapper.enterText:(311) - Entering Text :Soft@123 in WebElement :[[ChromeDriver: chrome on WINDOWS (73a06395b82e8bd7ec64108b266bb7f4)] -> id: rn_LoginForm_2_Password]
+[INFO ][06-Feb-2024 13:49:06 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (73a06395b82e8bd7ec64108b266bb7f4)] -> id: rn_LoginForm_2_Submit]
+[INFO ][06-Feb-2024 13:49:18 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (73a06395b82e8bd7ec64108b266bb7f4)] -> xpath: //input[@type='search']]
+[INFO ][06-Feb-2024 13:49:20 PM] Selenium_Wrapper.enterText:(311) - Entering Text :Business Auto Loan - ALPS 1.0 in WebElement :[[ChromeDriver: chrome on WINDOWS (73a06395b82e8bd7ec64108b266bb7f4)] -> xpath: //input[@type='search']]
+[INFO ][06-Feb-2024 13:49:34 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (73a06395b82e8bd7ec64108b266bb7f4)] -> xpath: (//div[@class='yui3-aclist-content']//li//li)[1]]
+[INFO ][06-Feb-2024 13:49:41 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (73a06395b82e8bd7ec64108b266bb7f4)] -> xpath: (//div[@class='rn_SearchResultContent']//a)[1]]
+[INFO ][06-Feb-2024 13:50:03 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (73a06395b82e8bd7ec64108b266bb7f4)] -> xpath: //div[@class='main_image_div']//div[@class='thumbs_up_down'][2]]
+[INFO ][06-Feb-2024 13:50:14 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (73a06395b82e8bd7ec64108b266bb7f4)] -> xpath: //textarea[@class='rn_DocumentTextArea']]
+[INFO ][06-Feb-2024 13:50:16 PM] Selenium_Wrapper.enterText:(311) - Entering Text :Flexible Work - ThumbDown Comments in WebElement :[[ChromeDriver: chrome on WINDOWS (73a06395b82e8bd7ec64108b266bb7f4)] -> xpath: //textarea[@class='rn_DocumentTextArea']]
+[INFO ][06-Feb-2024 13:50:21 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (73a06395b82e8bd7ec64108b266bb7f4)] -> xpath: //button[text()='SUBMIT']]
+[INFO ][06-Feb-2024 13:50:26 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (73a06395b82e8bd7ec64108b266bb7f4)] -> xpath: //button[@class='yui3-button yui3-button-close']]
+[INFO ][06-Feb-2024 13:50:33 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (73a06395b82e8bd7ec64108b266bb7f4)] -> xpath: //div[@class='dropdown']]
+[INFO ][06-Feb-2024 13:50:42 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (73a06395b82e8bd7ec64108b266bb7f4)] -> xpath: //a[text()='My Feedback']]
+[INFO ][06-Feb-2024 13:51:07 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (73a06395b82e8bd7ec64108b266bb7f4)] -> xpath: ((//table//tbody)[2]//a)[1]]
+[INFO ][06-Feb-2024 13:51:41 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (73a06395b82e8bd7ec64108b266bb7f4)] -> class name: knowledge]
+[INFO ][06-Feb-2024 13:51:43 PM] Selenium_Wrapper.closeCurrentBrowser:(651) - Closing the current Browser
+[INFO ][06-Feb-2024 13:51:43 PM] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][06-Feb-2024 13:51:52 PM] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--tst1.custhelp.com/AgentWeb/
+[INFO ][06-Feb-2024 13:51:56 PM] Selenium_Wrapper.enterText:(311) - Entering Text :automation_testing in WebElement :[[ChromeDriver: chrome on WINDOWS (e04c749fc939b9acbcec48b6ea07811b)] -> id: username]
+[INFO ][06-Feb-2024 13:51:57 PM] Selenium_Wrapper.enterText:(311) - Entering Text :Welcome123 in WebElement :[[ChromeDriver: chrome on WINDOWS (e04c749fc939b9acbcec48b6ea07811b)] -> id: password]
+[INFO ][06-Feb-2024 13:52:11 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (e04c749fc939b9acbcec48b6ea07811b)] -> id: loginbutton]
+[INFO ][06-Feb-2024 13:53:01 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (e04c749fc939b9acbcec48b6ea07811b)] -> id: navigationSetBtn]
+[ERROR][06-Feb-2024 13:53:08 PM] AnswerVotingFeedbackReport.testNavigateToAnwserVotingFeedBackReportlow:(120) - Navigate To Anwser Voting FeedBackReport testing un-successfull
+[ERROR][06-Feb-2024 13:53:11 PM] Selenium_Wrapper.highlightWebElement:(417) - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='explorer-right-panel']//div[@class='explorer-data-grid']//span[text()='Feedback Admin Report (old)']"}
+  (Session info: chrome=121.0.6167.140)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'CAF-QA-SWAMYK', ip: '192.168.0.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.140, chrome: {chromedriverVersion: 121.0.6167.85 (3f98d690ad7e..., userDataDir: C:\Users\swamyk\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49868}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e04c749fc939b9acbcec48b6ea07811b
+*** Element info: {Using=xpath, value=//div[@class='explorer-right-panel']//div[@class='explorer-data-grid']//span[text()='Feedback Admin Report (old)']}
+[ERROR][06-Feb-2024 13:53:11 PM] Selenium_Wrapper.doubleClick:(273) - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='explorer-right-panel']//div[@class='explorer-data-grid']//span[text()='Feedback Admin Report (old)']"}
+  (Session info: chrome=121.0.6167.140)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'CAF-QA-SWAMYK', ip: '192.168.0.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.140, chrome: {chromedriverVersion: 121.0.6167.85 (3f98d690ad7e..., userDataDir: C:\Users\swamyk\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49868}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e04c749fc939b9acbcec48b6ea07811b
+*** Element info: {Using=xpath, value=//div[@class='explorer-right-panel']//div[@class='explorer-data-grid']//span[text()='Feedback Admin Report (old)']}
+[ERROR][06-Feb-2024 13:53:11 PM] AnswerVotingFeedbackReport.testSelectingandGivingAnswerstoReportFlow:(172) - Selecting and Giving Asnwers to Report  un-successfull
+[INFO ][06-Feb-2024 13:53:20 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (e04c749fc939b9acbcec48b6ea07811b)] -> xpath: //body//oj-avatar[@initials='[[userMenuLabel]]']]
+[INFO ][06-Feb-2024 13:53:27 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (e04c749fc939b9acbcec48b6ea07811b)] -> xpath: //a//span[text()='Sign Out']]
+[INFO ][06-Feb-2024 13:53:32 PM] Selenium_Wrapper.closeCurrentBrowser:(651) - Closing the current Browser

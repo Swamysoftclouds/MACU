@@ -1,0 +1,16 @@
+[INFO ][08-Aug-2024 11:29:29 AM] Selenium_Wrapper.openBrowser:(54) - Opening chrome browser.
+[INFO ][08-Aug-2024 11:29:35 AM] Selenium_Wrapper.enterURL:(88) - Entering url :https://macu1--tst1.custhelp.com/app/home
+[INFO ][08-Aug-2024 11:29:40 AM] Selenium_Wrapper.enterText:(317) - Entering Text :swamyk in WebElement :[[ChromeDriver: chrome on WINDOWS (971c06a0155a9bf8cc2c51a1cfb6a6df)] -> id: rn_LoginForm_2_Username]
+[INFO ][08-Aug-2024 11:29:41 AM] Selenium_Wrapper.enterText:(317) - Entering Text :Soft@123 in WebElement :[[ChromeDriver: chrome on WINDOWS (971c06a0155a9bf8cc2c51a1cfb6a6df)] -> id: rn_LoginForm_2_Password]
+[INFO ][08-Aug-2024 11:29:46 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (971c06a0155a9bf8cc2c51a1cfb6a6df)] -> id: rn_LoginForm_2_Submit]
+[INFO ][08-Aug-2024 11:30:03 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (971c06a0155a9bf8cc2c51a1cfb6a6df)] -> xpath: //a[text()='browse all PAGES']]
+[INFO ][08-Aug-2024 11:30:15 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (971c06a0155a9bf8cc2c51a1cfb6a6df)] -> xpath: (//div[@id='category']//following-sibling::ul//a)[1]]
+[INFO ][08-Aug-2024 11:30:33 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (971c06a0155a9bf8cc2c51a1cfb6a6df)] -> xpath: //a[text()='Business Accounts']]
+[INFO ][08-Aug-2024 11:30:38 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (971c06a0155a9bf8cc2c51a1cfb6a6df)] -> xpath: (//div[@id='category']//following-sibling::ul//a)[1]]
+[INFO ][08-Aug-2024 11:30:52 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (971c06a0155a9bf8cc2c51a1cfb6a6df)] -> xpath: //a[text()='Employee Experience']]
+[INFO ][08-Aug-2024 11:31:05 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (971c06a0155a9bf8cc2c51a1cfb6a6df)] -> xpath: //a[text()='Personal Accounts']]
+[INFO ][08-Aug-2024 11:31:10 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (971c06a0155a9bf8cc2c51a1cfb6a6df)] -> xpath: (//div[@id='category']//following-sibling::ul//a)[1]]
+[INFO ][08-Aug-2024 11:31:24 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (971c06a0155a9bf8cc2c51a1cfb6a6df)] -> xpath: //a[text()='Services']]
+[ERROR][08-Aug-2024 11:31:33 AM] BrowseAllPages.testFilterByProductAndFilterByCategory:(212) - Filter By Product And Filter By Category testing Test is un-successfull
+[INFO ][08-Aug-2024 11:31:49 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (971c06a0155a9bf8cc2c51a1cfb6a6df)] -> xpath: //a[text()='VIEW A-Z INDEX']]
+[INFO ][08-Aug-2024 11:32:11 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (971c06a0155a9bf8cc2c51a1cfb6a6df)] -> xpath: //div[@id='rn_A_ZIndex_2']//ul[@class='indexing_list']//li//a[text()='D']]

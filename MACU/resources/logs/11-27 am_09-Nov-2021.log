@@ -1,0 +1,23 @@
+[INFO ][09-Nov-2021 11:27:04 am] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][09-Nov-2021 11:27:27 am] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][09-Nov-2021 11:27:32 am] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--tst.custhelp.com/AgentWeb/
+[INFO ][09-Nov-2021 11:27:36 am] Selenium_Wrapper.enterText:(311) - Entering Text :RNT_pramod in WebElement :[[ChromeDriver: chrome on WINDOWS (5a344cda2d909a27372a78b70747822d)] -> id: username]
+[INFO ][09-Nov-2021 11:27:38 am] Selenium_Wrapper.enterText:(311) - Entering Text :Welcome123 in WebElement :[[ChromeDriver: chrome on WINDOWS (5a344cda2d909a27372a78b70747822d)] -> id: password]
+[INFO ][09-Nov-2021 11:28:09 am] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (5a344cda2d909a27372a78b70747822d)] -> id: loginbutton]
+[INFO ][09-Nov-2021 11:28:24 am] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (5a344cda2d909a27372a78b70747822d)] -> id: navigationSetBtn]
+[INFO ][09-Nov-2021 11:28:29 am] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (5a344cda2d909a27372a78b70747822d)] -> xpath: //div[@automationid='Analytics']]
+[INFO ][09-Nov-2021 11:28:38 am] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (5a344cda2d909a27372a78b70747822d)] -> xpath: //div[@automationid='Analytics_Reports Explorer']//span[text()='Reports Explorer']]
+[ERROR][09-Nov-2021 11:28:42 am] Selenium_Wrapper.highlightWebElement:(417) - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@aria-label='Public Reports'][text()='Public Reports']"}
+  (Session info: chrome=95.0.4638.54)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-N43657M', ip: '192.168.29.58', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 95.0.4638.54, chrome: {chromedriverVersion: 95.0.4638.17 (a9d0719444d4b..., userDataDir: C:\Users\Pramod\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:54870}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 5a344cda2d909a27372a78b70747822d
+*** Element info: {Using=xpath, value=//div[@aria-label='Public Reports'][text()='Public Reports']}
+[INFO ][09-Nov-2021 11:28:48 am] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (5a344cda2d909a27372a78b70747822d)] -> xpath: //div[@aria-label='Public Reports'][text()='Public Reports']]
+[INFO ][09-Nov-2021 11:28:53 am] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (5a344cda2d909a27372a78b70747822d)] -> xpath: //div[@aria-label='MACU CUSTOM REPORTS'][text()='MACU CUSTOM REPORTS']]
+[INFO ][09-Nov-2021 11:28:58 am] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (5a344cda2d909a27372a78b70747822d)] -> xpath: //div[@aria-label='SoftClouds'][text()='SoftClouds']]
+[ERROR][09-Nov-2021 11:29:04 am] ActionsDashboardReport.testOKCSReports:(45) - Selecting OKCS Reports in BUI Test is un-successfull
+[ERROR][09-Nov-2021 11:29:04 am] ActionsDashboardReport.testVisitorActionsDashboard:(78) - Select Actions Report in BUI Test is un-successfull

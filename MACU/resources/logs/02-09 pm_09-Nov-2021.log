@@ -1,0 +1,22 @@
+[INFO ][09-Nov-2021 14:10:01 pm] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][09-Nov-2021 14:10:06 pm] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--tst.custhelp.com/AgentWeb/
+[INFO ][09-Nov-2021 14:10:10 pm] Selenium_Wrapper.enterText:(311) - Entering Text :RNT_pramod in WebElement :[[ChromeDriver: chrome on WINDOWS (a248449ddc89553563f7a843e6915ecd)] -> id: username]
+[INFO ][09-Nov-2021 14:10:11 pm] Selenium_Wrapper.enterText:(311) - Entering Text :Welcome123 in WebElement :[[ChromeDriver: chrome on WINDOWS (a248449ddc89553563f7a843e6915ecd)] -> id: password]
+[INFO ][09-Nov-2021 14:10:44 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (a248449ddc89553563f7a843e6915ecd)] -> id: loginbutton]
+[INFO ][09-Nov-2021 14:10:49 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (a248449ddc89553563f7a843e6915ecd)] -> xpath: //div[@id='landingPanel-notifications']//button[@class='oj-button oj-button-half-chrome mobile-close-icon mobile-close-button closeFoldout']//label[text()='Close Action Center']]
+[INFO ][09-Nov-2021 14:10:54 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (a248449ddc89553563f7a843e6915ecd)] -> xpath: (//span[@class='oj-button-icon oj-start navigator-icon oj-button-icon oj-start'])[1]]
+[INFO ][09-Nov-2021 14:11:00 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (a248449ddc89553563f7a843e6915ecd)] -> xpath: (//div[text()='Configuration']//a)]
+[INFO ][09-Nov-2021 14:11:05 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (a248449ddc89553563f7a843e6915ecd)] -> xpath: (//div[text()='Service']//a)]
+[INFO ][09-Nov-2021 14:11:10 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (a248449ddc89553563f7a843e6915ecd)] -> xpath: (//div[text()='Knowledge Advanced']//a)]
+[INFO ][09-Nov-2021 14:11:15 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (a248449ddc89553563f7a843e6915ecd)] -> xpath: //span[text()='Authoring']]
+[INFO ][09-Nov-2021 14:11:32 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (a248449ddc89553563f7a843e6915ecd)] -> xpath: //div[@id='rntab']//ul//li[@testidentifier='MainNavBar_Content']//a]
+[INFO ][09-Nov-2021 14:11:47 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (a248449ddc89553563f7a843e6915ecd)] -> xpath: //div[text()='Process']//following-sibling::a[@testidentifier='ContentNavBar_Add_Process']]
+[ERROR][09-Nov-2021 14:11:50 pm] Selenium_Wrapper.enterText:(317) - java.lang.IllegalArgumentException: Keys to send should be a not null CharSequence
+[ERROR][09-Nov-2021 14:11:50 pm] CreateNewArticleFlow.testCreateArticleFlow:(295) - Create Article  un-successfull
+[ERROR][09-Nov-2021 14:11:57 pm] CreateNewArticleFlow.testPublishArticleFlow:(345) - Publish Article un-successfull
+[INFO ][09-Nov-2021 14:11:58 pm] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][09-Nov-2021 14:12:06 pm] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--tst.custhelp.com/app/home
+[INFO ][09-Nov-2021 14:12:10 pm] Selenium_Wrapper.enterText:(311) - Entering Text :pramodk in WebElement :[[ChromeDriver: chrome on WINDOWS (7d0e54c1b8b4713514a4c1ff2c2dd999)] -> id: rn_LoginForm_2_Username]
+[INFO ][09-Nov-2021 14:12:11 pm] Selenium_Wrapper.enterText:(311) - Entering Text :Soft@123 in WebElement :[[ChromeDriver: chrome on WINDOWS (7d0e54c1b8b4713514a4c1ff2c2dd999)] -> id: rn_LoginForm_2_Password]
+[INFO ][09-Nov-2021 14:12:18 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (7d0e54c1b8b4713514a4c1ff2c2dd999)] -> id: rn_LoginForm_2_Submit]
+[INFO ][09-Nov-2021 14:12:42 pm] Selenium_Wrapper.closeCurrentBrowser:(650) - Closing the current Browser

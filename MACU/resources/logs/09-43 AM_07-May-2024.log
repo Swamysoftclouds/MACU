@@ -1,0 +1,21 @@
+[INFO ][07-May-2024 09:43:51 AM] Selenium_Wrapper.openBrowser:(54) - Opening chrome browser.
+[INFO ][07-May-2024 09:43:57 AM] Selenium_Wrapper.enterURL:(88) - Entering url :https://macu1--tst1.custhelp.com/AgentWeb/
+[INFO ][07-May-2024 09:44:01 AM] Selenium_Wrapper.enterText:(317) - Entering Text :automation_testing in WebElement :[[ChromeDriver: chrome on WINDOWS (49f55408214383bada74147bb578af5f)] -> id: username]
+[INFO ][07-May-2024 09:44:02 AM] Selenium_Wrapper.enterText:(317) - Entering Text :Welcome123 in WebElement :[[ChromeDriver: chrome on WINDOWS (49f55408214383bada74147bb578af5f)] -> id: password]
+[INFO ][07-May-2024 09:44:12 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (49f55408214383bada74147bb578af5f)] -> id: loginbutton]
+[INFO ][07-May-2024 09:44:28 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (49f55408214383bada74147bb578af5f)] -> id: navigationSetBtn]
+[INFO ][07-May-2024 09:44:31 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (49f55408214383bada74147bb578af5f)] -> xpath: //div[@automationid='Analytics']]
+[INFO ][07-May-2024 09:44:41 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (49f55408214383bada74147bb578af5f)] -> xpath: //div[@automationid='Analytics_Reports Explorer']//span[text()='Reports Explorer']]
+[INFO ][07-May-2024 09:44:53 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (49f55408214383bada74147bb578af5f)] -> xpath: //div[@aria-label='Public Reports'][text()='Public Reports']]
+[INFO ][07-May-2024 09:44:56 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (49f55408214383bada74147bb578af5f)] -> xpath: //div[@aria-label='MACU CUSTOM REPORTS'][text()='MACU CUSTOM REPORTS']]
+[INFO ][07-May-2024 09:44:58 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (49f55408214383bada74147bb578af5f)] -> xpath: //div[@aria-label='SoftClouds'][text()='SoftClouds']]
+[INFO ][07-May-2024 09:45:00 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (49f55408214383bada74147bb578af5f)] -> xpath: //div[@aria-label='OKCS'][text()='OKCS'][contains(@id,'ExplorerFolderLabelAnalyticsFolder103223')]]
+[ERROR][07-May-2024 09:45:13 AM] ActionsDashboardReport.testVisitorActionsDashboard:(94) - Select Actions Report in BUI Test is un-successfull
+[INFO ][07-May-2024 09:45:18 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (49f55408214383bada74147bb578af5f)] -> xpath: //body//oj-avatar[@initials='[[userMenuLabel]]']]
+[ERROR][07-May-2024 09:47:02 AM] Selenium_Wrapper.getWebElement:(130) - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of [[ChromeDriver: chrome on WINDOWS (49f55408214383bada74147bb578af5f)] -> xpath: //a//span[text()='Sign Out']] (tried for 100 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SC-CAF-CND84305', ip: '172.26.9.210', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 124.0.6367.119, chrome: {chromedriverVersion: 123.0.6312.58 (6b4b19e9dfbb..., userDataDir: C:\Users\SWAMYK~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50654}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 49f55408214383bada74147bb578af5f
+[ERROR][07-May-2024 09:47:02 AM] ActionsDashboardReport.testSignout:(110) - Logout/SignOut un-successfull

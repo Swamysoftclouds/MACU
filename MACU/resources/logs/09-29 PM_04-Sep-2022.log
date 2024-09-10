@@ -1,0 +1,5 @@
+[INFO ][04-Sep-2022 21:29:05 PM] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][04-Sep-2022 21:29:08 PM] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--upgrade.custhelp.com/AgentWeb/
+[INFO ][04-Sep-2022 21:29:13 PM] Selenium_Wrapper.enterText:(311) - Entering Text :RNT_pramod in WebElement :[[ChromeDriver: chrome on WINDOWS (1614317e66744c1dc4e78617565e54da)] -> id: username]
+[INFO ][04-Sep-2022 21:29:14 PM] Selenium_Wrapper.enterText:(311) - Entering Text :Welcome123 in WebElement :[[ChromeDriver: chrome on WINDOWS (1614317e66744c1dc4e78617565e54da)] -> id: password]
+[INFO ][04-Sep-2022 21:29:45 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (1614317e66744c1dc4e78617565e54da)] -> id: loginbutton]

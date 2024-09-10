@@ -1,0 +1,31 @@
+[INFO ][04-Sep-2022 20:39:48 PM] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][04-Sep-2022 20:39:53 PM] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--upgrade.custhelp.com/
+[INFO ][04-Sep-2022 20:39:57 PM] Selenium_Wrapper.enterText:(311) - Entering Text :pramodk in WebElement :[[ChromeDriver: chrome on WINDOWS (94798220a06fb7826c7a30a69e6281f6)] -> id: rn_LoginForm_2_Username]
+[INFO ][04-Sep-2022 20:39:58 PM] Selenium_Wrapper.enterText:(311) - Entering Text :Soft@123 in WebElement :[[ChromeDriver: chrome on WINDOWS (94798220a06fb7826c7a30a69e6281f6)] -> id: rn_LoginForm_2_Password]
+[INFO ][04-Sep-2022 20:40:05 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (94798220a06fb7826c7a30a69e6281f6)] -> id: rn_LoginForm_2_Submit]
+[INFO ][04-Sep-2022 20:40:16 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (94798220a06fb7826c7a30a69e6281f6)] -> xpath: //input[@type='search']]
+[INFO ][04-Sep-2022 20:40:17 PM] Selenium_Wrapper.enterText:(311) - Entering Text :Auto Loan in WebElement :[[ChromeDriver: chrome on WINDOWS (94798220a06fb7826c7a30a69e6281f6)] -> xpath: //input[@type='search']]
+[INFO ][04-Sep-2022 20:40:34 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (94798220a06fb7826c7a30a69e6281f6)] -> xpath: //ul[@aria-label='Suggested Search']//li[normalize-space()= 'Auto Loan' ]]
+[INFO ][04-Sep-2022 20:40:41 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (94798220a06fb7826c7a30a69e6281f6)] -> xpath: //div[@class='rn_SearchResultContent']//a[text()='Auto Loan']]
+[INFO ][04-Sep-2022 20:41:04 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (94798220a06fb7826c7a30a69e6281f6)] -> xpath: //button[@class='rn_RecommendContentButton p-0']]
+[INFO ][04-Sep-2022 20:41:05 PM] Selenium_Wrapper.enterText:(311) - Entering Text :Test Improve, comments, updates in WebElement :[[ChromeDriver: chrome on WINDOWS (94798220a06fb7826c7a30a69e6281f6)] -> id: rn_RequestUpdate_26_Description]
+[INFO ][04-Sep-2022 20:41:10 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (94798220a06fb7826c7a30a69e6281f6)] -> xpath: //button[text()='Submit']]
+[INFO ][04-Sep-2022 20:41:23 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (94798220a06fb7826c7a30a69e6281f6)] -> xpath: //div[@id='rnDialog2']//button[@type='button']]
+[INFO ][04-Sep-2022 20:41:37 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (94798220a06fb7826c7a30a69e6281f6)] -> class name: knowledge]
+[INFO ][04-Sep-2022 20:41:45 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (94798220a06fb7826c7a30a69e6281f6)] -> xpath: //div[@class='dropdown']]
+[INFO ][04-Sep-2022 20:41:54 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (94798220a06fb7826c7a30a69e6281f6)] -> xpath: //a[text()='My Feedback']]
+[INFO ][04-Sep-2022 20:41:55 PM] Selenium_Wrapper.enterText:(311) - Entering Text :Auto Loan in WebElement :[[ChromeDriver: chrome on WINDOWS (94798220a06fb7826c7a30a69e6281f6)] -> xpath: //input[@placeholder='Search Your Feedback Report']]
+[INFO ][04-Sep-2022 20:42:09 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (94798220a06fb7826c7a30a69e6281f6)] -> xpath: //div[@class='rn_SearchInput1 mt-3']//span[@class='btn-srch-icon']//i[@class='fa fa-search']]
+[ERROR][04-Sep-2022 20:42:17 PM] Selenium_Wrapper.highlightWebElement:(417) - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//tr[@data-yui3-record='model_11']//td[@headers='Grid_6_c1']/a"}
+  (Session info: chrome=105.0.5195.102)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'QA-SWAMYK', ip: '192.168.0.4', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.102, chrome: {chromedriverVersion: 105.0.5195.52 (412c95e51883..., userDataDir: C:\Users\SWAMYK~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:60773}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 94798220a06fb7826c7a30a69e6281f6
+*** Element info: {Using=xpath, value=//tr[@data-yui3-record='model_11']//td[@headers='Grid_6_c1']/a}
+[ERROR][04-Sep-2022 20:42:27 PM] FeedbackAdmin.testMyFeedbackStatus:(116) - My Feedback Article Status in CP Test is un-successfull
+[INFO ][04-Sep-2022 20:42:28 PM] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][04-Sep-2022 20:42:37 PM] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--upgrade.custhelp.com/AgentWeb/
+[INFO ][04-Sep-2022 20:42:41 PM] Selenium_Wrapper.enterText:(311) - Entering Text :RNT_pramod in WebElement :[[ChromeDriver: chrome on WINDOWS (fb25e96e32729954e6c180bfcd4aefac)] -> id: username]

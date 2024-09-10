@@ -1,0 +1,23 @@
+[INFO ][07-May-2024 16:08:26 PM] Selenium_Wrapper.openBrowser:(54) - Opening chrome browser.
+[INFO ][07-May-2024 16:08:31 PM] Selenium_Wrapper.enterURL:(88) - Entering url :https://macu1--tst1.custhelp.com/app/home
+[INFO ][07-May-2024 16:08:35 PM] Selenium_Wrapper.enterText:(317) - Entering Text :swamyk in WebElement :[[ChromeDriver: chrome on WINDOWS (e421ca09d7974bfef049f76f5ba05e70)] -> id: rn_LoginForm_2_Username]
+[INFO ][07-May-2024 16:08:36 PM] Selenium_Wrapper.enterText:(317) - Entering Text :Soft@123 in WebElement :[[ChromeDriver: chrome on WINDOWS (e421ca09d7974bfef049f76f5ba05e70)] -> id: rn_LoginForm_2_Password]
+[INFO ][07-May-2024 16:08:41 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (e421ca09d7974bfef049f76f5ba05e70)] -> id: rn_LoginForm_2_Submit]
+[INFO ][07-May-2024 16:08:54 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (e421ca09d7974bfef049f76f5ba05e70)] -> xpath: //input[@type='search']]
+[INFO ][07-May-2024 16:08:55 PM] Selenium_Wrapper.enterText:(317) - Entering Text :Business Use Auto Loan in WebElement :[[ChromeDriver: chrome on WINDOWS (e421ca09d7974bfef049f76f5ba05e70)] -> xpath: //input[@type='search']]
+[INFO ][07-May-2024 16:09:06 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (e421ca09d7974bfef049f76f5ba05e70)] -> xpath: (//div[@class='yui3-aclist-content']//li//li)[1]]
+[INFO ][07-May-2024 16:09:11 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (e421ca09d7974bfef049f76f5ba05e70)] -> xpath: (//div[@class='rn_SearchResultContent']//a)[1]]
+[INFO ][07-May-2024 16:09:22 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (e421ca09d7974bfef049f76f5ba05e70)] -> class name: knowledge]
+[INFO ][07-May-2024 16:09:33 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (e421ca09d7974bfef049f76f5ba05e70)] -> xpath: //div[@class='dropdown']]
+[INFO ][07-May-2024 16:09:40 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (e421ca09d7974bfef049f76f5ba05e70)] -> xpath: //a[text()='SEE MORE']]
+[INFO ][07-May-2024 16:09:52 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (e421ca09d7974bfef049f76f5ba05e70)] -> class name: knowledge]
+[INFO ][07-May-2024 16:09:57 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (e421ca09d7974bfef049f76f5ba05e70)] -> xpath: //div[@class='dropdown']]
+[INFO ][07-May-2024 16:10:07 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (e421ca09d7974bfef049f76f5ba05e70)] -> xpath: //div[@class='dropdown-content']//a[normalize-space()='My Bookmarks']]
+[INFO ][07-May-2024 16:10:21 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (e421ca09d7974bfef049f76f5ba05e70)] -> xpath: //select[@class='BookmarkFilter']]
+[INFO ][07-May-2024 16:10:28 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (e421ca09d7974bfef049f76f5ba05e70)] -> xpath: //select[@class='BookmarkFilter']//option[text()='Alphabetical A-Z']]
+[INFO ][07-May-2024 16:10:37 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (e421ca09d7974bfef049f76f5ba05e70)] -> class name: knowledge]
+[INFO ][07-May-2024 16:10:41 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (e421ca09d7974bfef049f76f5ba05e70)] -> xpath: //div[@class='dropdown']]
+[INFO ][07-May-2024 16:10:47 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (e421ca09d7974bfef049f76f5ba05e70)] -> xpath: //div[@class='dropdown-content']//a[normalize-space()='My Notifications']]
+[INFO ][07-May-2024 16:10:52 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (e421ca09d7974bfef049f76f5ba05e70)] -> xpath: //a[text()='browse all PAGES']]
+[ERROR][07-May-2024 16:11:16 PM] QuickNavigation.testPreferencesNotificationPage:(194) - Preferences My Notification Test is un-successfull
+[INFO ][07-May-2024 16:11:19 PM] Selenium_Wrapper.closeCurrentBrowser:(657) - Closing the current Browser

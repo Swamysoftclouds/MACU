@@ -1,0 +1,21 @@
+[INFO ][02-Jul-2024 15:47:25 PM] Selenium_Wrapper.openBrowser:(54) - Opening chrome browser.
+[INFO ][02-Jul-2024 15:47:32 PM] Selenium_Wrapper.enterURL:(88) - Entering url :https://macu1--tst1.custhelp.com/app/home
+[INFO ][02-Jul-2024 15:47:36 PM] Selenium_Wrapper.enterText:(317) - Entering Text :swamyk in WebElement :[[ChromeDriver: chrome on WINDOWS (df0fca4c8fdbe6ba714d099edce55942)] -> id: rn_LoginForm_2_Username]
+[INFO ][02-Jul-2024 15:47:37 PM] Selenium_Wrapper.enterText:(317) - Entering Text :Soft@123 in WebElement :[[ChromeDriver: chrome on WINDOWS (df0fca4c8fdbe6ba714d099edce55942)] -> id: rn_LoginForm_2_Password]
+[INFO ][02-Jul-2024 15:47:42 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (df0fca4c8fdbe6ba714d099edce55942)] -> id: rn_LoginForm_2_Submit]
+[INFO ][02-Jul-2024 15:47:58 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (df0fca4c8fdbe6ba714d099edce55942)] -> xpath: //a[text()='browse all PAGES']]
+[INFO ][02-Jul-2024 15:48:22 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (df0fca4c8fdbe6ba714d099edce55942)] -> xpath: //a[text()='Business Accounts']]
+[INFO ][02-Jul-2024 15:48:35 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (df0fca4c8fdbe6ba714d099edce55942)] -> xpath: //a[text()='Employee Experience']]
+[DEBUG][02-Jul-2024 15:50:41 PM] Selenium_Wrapper.click:(216) - Handled ElementClickInterceptedException and Clicked on :[[ChromeDriver: chrome on WINDOWS (df0fca4c8fdbe6ba714d099edce55942)] -> xpath: //a[text()='Personal Accounts']]
+[INFO ][02-Jul-2024 15:50:54 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (df0fca4c8fdbe6ba714d099edce55942)] -> xpath: //a[text()='Services']]
+[INFO ][02-Jul-2024 15:51:07 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (df0fca4c8fdbe6ba714d099edce55942)] -> xpath: //a[text()='Technology']]
+[INFO ][02-Jul-2024 15:51:32 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (df0fca4c8fdbe6ba714d099edce55942)] -> xpath: //a[text()='VIEW A-Z INDEX']]
+[INFO ][02-Jul-2024 15:51:53 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (df0fca4c8fdbe6ba714d099edce55942)] -> xpath: //div[@id='rn_A_ZIndex_2']//ul[@class='indexing_list']//li//a[text()='D']]
+[INFO ][02-Jul-2024 15:52:07 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (df0fca4c8fdbe6ba714d099edce55942)] -> xpath: //div[@id='rn_A_ZIndex_2']//ul[@class='indexing_list']//li//a[text()='J']]
+[INFO ][02-Jul-2024 15:52:20 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (df0fca4c8fdbe6ba714d099edce55942)] -> xpath: //div[@id='rn_A_ZIndex_2']//ul[@class='indexing_list']//li//a[text()='P']]
+[INFO ][02-Jul-2024 15:52:33 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (df0fca4c8fdbe6ba714d099edce55942)] -> xpath: //div[@id='rn_A_ZIndex_2']//ul[@class='indexing_list']//li//a[text()='V']]
+[INFO ][02-Jul-2024 15:52:47 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (df0fca4c8fdbe6ba714d099edce55942)] -> xpath: //div[@id='rn_A_ZIndex_2']//ul[@class='indexing_list']//li//a[text()='0-9']]
+[INFO ][02-Jul-2024 15:53:08 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (df0fca4c8fdbe6ba714d099edce55942)] -> xpath: (//div[@class='rn_A_ZIndex']//div[@class='index-content']//a)[1]]
+[INFO ][02-Jul-2024 15:53:33 PM] Selenium_Wrapper.enterText:(317) - Entering Text :100% First Time Home Buyer Loan in WebElement :[[ChromeDriver: chrome on WINDOWS (df0fca4c8fdbe6ba714d099edce55942)] -> xpath: //input[@type='search']]
+[INFO ][02-Jul-2024 15:54:13 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (df0fca4c8fdbe6ba714d099edce55942)] -> xpath: //div[@id='rn_PageTitle']//a[text()='BROWSE ALL PAGES']]
+[INFO ][02-Jul-2024 15:54:21 PM] Selenium_Wrapper.closeCurrentBrowser:(657) - Closing the current Browser

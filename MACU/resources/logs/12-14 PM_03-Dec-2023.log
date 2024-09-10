@@ -1,0 +1,10 @@
+[INFO ][03-Dec-2023 12:14:04 PM] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][03-Dec-2023 12:14:07 PM] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--tst1.custhelp.com/AgentWeb/
+[INFO ][03-Dec-2023 12:14:11 PM] Selenium_Wrapper.enterText:(311) - Entering Text :automation_testing in WebElement :[[ChromeDriver: chrome on WINDOWS (168ffd210b0417d2c97b8d11a851e302)] -> id: username]
+[INFO ][03-Dec-2023 12:14:12 PM] Selenium_Wrapper.enterText:(311) - Entering Text :Welcome123 in WebElement :[[ChromeDriver: chrome on WINDOWS (168ffd210b0417d2c97b8d11a851e302)] -> id: password]
+[INFO ][03-Dec-2023 12:14:41 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (168ffd210b0417d2c97b8d11a851e302)] -> id: loginbutton]
+[INFO ][03-Dec-2023 12:15:16 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (168ffd210b0417d2c97b8d11a851e302)] -> id: navigationSetBtn]
+[INFO ][03-Dec-2023 12:15:23 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (168ffd210b0417d2c97b8d11a851e302)] -> xpath: //div[@automationid='Configuration']]
+[INFO ][03-Dec-2023 12:15:28 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (168ffd210b0417d2c97b8d11a851e302)] -> xpath: //div[@automationid='Configuration_Service']]
+[INFO ][03-Dec-2023 12:15:33 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (168ffd210b0417d2c97b8d11a851e302)] -> xpath: //div[@automationid='Configuration_Service_Knowledge Advanced']]
+[INFO ][03-Dec-2023 12:15:38 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (168ffd210b0417d2c97b8d11a851e302)] -> xpath: //div[@automationid='Configuration_Service_Knowledge Advanced_Authoring']//span[text()='Authoring']]

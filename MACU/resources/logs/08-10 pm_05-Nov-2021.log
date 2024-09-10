@@ -1,0 +1,10 @@
+[INFO ][05-Nov-2021 20:10:23 pm] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][05-Nov-2021 20:10:28 pm] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--tst.custhelp.com/AgentWeb/
+[INFO ][05-Nov-2021 20:10:32 pm] Selenium_Wrapper.enterText:(311) - Entering Text :RNT_pramod in WebElement :[[ChromeDriver: chrome on WINDOWS (bb83ea791199e4b5dcdd70aa413e9a86)] -> id: username]
+[INFO ][05-Nov-2021 20:10:34 pm] Selenium_Wrapper.enterText:(311) - Entering Text :Welcome123 in WebElement :[[ChromeDriver: chrome on WINDOWS (bb83ea791199e4b5dcdd70aa413e9a86)] -> id: password]
+[INFO ][05-Nov-2021 20:11:52 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (bb83ea791199e4b5dcdd70aa413e9a86)] -> id: loginbutton]
+[INFO ][05-Nov-2021 20:12:01 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (bb83ea791199e4b5dcdd70aa413e9a86)] -> xpath: //div[@id='landingPanel-notifications']//button[@class='oj-button oj-button-half-chrome mobile-close-icon mobile-close-button closeFoldout']//label[text()='Close Action Center']]
+[INFO ][05-Nov-2021 20:12:05 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (bb83ea791199e4b5dcdd70aa413e9a86)] -> xpath: (//span[@class='oj-button-icon oj-start navigator-icon oj-button-icon oj-start'])[1]]
+[INFO ][05-Nov-2021 20:12:06 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (bb83ea791199e4b5dcdd70aa413e9a86)] -> xpath: (//div[text()='Contacts']//a)]
+[ERROR][05-Nov-2021 20:12:07 pm] Contact_View.testNavigateToArticleFlow:(36) - Navigate To Article Test is un-successfull
+[ERROR][05-Nov-2021 20:12:08 pm] Contact_View.testCreateArticleFlow:(54) - Create Article Test is un-successfull

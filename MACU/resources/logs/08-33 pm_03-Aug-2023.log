@@ -1,0 +1,30 @@
+[INFO ][03-Aug-2023 20:33:40 pm] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][03-Aug-2023 20:33:48 pm] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--tst1.custhelp.com/app/home
+[INFO ][03-Aug-2023 20:33:52 pm] Selenium_Wrapper.enterText:(311) - Entering Text :swamyk in WebElement :[[ChromeDriver: chrome on WINDOWS (f3391fed58aed4579f98dce285972f23)] -> id: rn_LoginForm_2_Username]
+[INFO ][03-Aug-2023 20:33:53 pm] Selenium_Wrapper.enterText:(311) - Entering Text :Soft@123 in WebElement :[[ChromeDriver: chrome on WINDOWS (f3391fed58aed4579f98dce285972f23)] -> id: rn_LoginForm_2_Password]
+[INFO ][03-Aug-2023 20:34:01 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (f3391fed58aed4579f98dce285972f23)] -> id: rn_LoginForm_2_Submit]
+[INFO ][03-Aug-2023 20:34:22 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (f3391fed58aed4579f98dce285972f23)] -> xpath: //a[text()='browse all PAGES']]
+[INFO ][03-Aug-2023 20:34:35 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (f3391fed58aed4579f98dce285972f23)] -> xpath: (//div[@id='category']//following-sibling::ul//a)[1]]
+[INFO ][03-Aug-2023 20:34:56 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (f3391fed58aed4579f98dce285972f23)] -> xpath: //a[text()='Business Accounts']]
+[INFO ][03-Aug-2023 20:35:01 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (f3391fed58aed4579f98dce285972f23)] -> xpath: (//div[@id='category']//following-sibling::ul//a)[1]]
+[INFO ][03-Aug-2023 20:35:17 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (f3391fed58aed4579f98dce285972f23)] -> xpath: //a[text()='Employee Experience']]
+[ERROR][03-Aug-2023 20:35:27 pm] Selenium_Wrapper.waitTillVisible:(264) - org.openqa.selenium.StaleElementReferenceException: stale element reference: stale element not found
+  (Session info: chrome=115.0.5790.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'CAF-QA-SWAMYK', ip: '192.168.0.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 115.0.5790.110, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: C:\Users\swamyk\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:57759}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f3391fed58aed4579f98dce285972f23
+[ERROR][03-Aug-2023 20:35:31 pm] BrowseAllPages.testFilterByProductAndFilterByCategory:(208) - Filter By Product And Filter By Category testing Test is un-successfull
+[INFO ][03-Aug-2023 20:35:52 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (f3391fed58aed4579f98dce285972f23)] -> xpath: //a[text()='VIEW A-Z INDEX']]
+[INFO ][03-Aug-2023 20:36:14 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (f3391fed58aed4579f98dce285972f23)] -> xpath: //div[@id='rn_A_ZIndex_2']//ul[@class='indexing_list']//li//a[text()='D']]
+[INFO ][03-Aug-2023 20:36:28 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (f3391fed58aed4579f98dce285972f23)] -> xpath: //div[@id='rn_A_ZIndex_2']//ul[@class='indexing_list']//li//a[text()='J']]
+[INFO ][03-Aug-2023 20:36:41 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (f3391fed58aed4579f98dce285972f23)] -> xpath: //div[@id='rn_A_ZIndex_2']//ul[@class='indexing_list']//li//a[text()='P']]
+[INFO ][03-Aug-2023 20:36:55 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (f3391fed58aed4579f98dce285972f23)] -> xpath: //div[@id='rn_A_ZIndex_2']//ul[@class='indexing_list']//li//a[text()='V']]
+[INFO ][03-Aug-2023 20:37:09 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (f3391fed58aed4579f98dce285972f23)] -> xpath: //div[@id='rn_A_ZIndex_2']//ul[@class='indexing_list']//li//a[text()='0-9']]
+[INFO ][03-Aug-2023 20:37:34 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (f3391fed58aed4579f98dce285972f23)] -> xpath: (//div[@class='rn_A_ZIndex']//div[@class='index-content']//a)[1]]
+[INFO ][03-Aug-2023 20:38:01 pm] Selenium_Wrapper.enterText:(311) - Entering Text :100% First Time Home Buyer Loan in WebElement :[[ChromeDriver: chrome on WINDOWS (f3391fed58aed4579f98dce285972f23)] -> xpath: //input[@type='search']]
+[INFO ][03-Aug-2023 20:38:49 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (f3391fed58aed4579f98dce285972f23)] -> xpath: //div[@id='rn_PageTitle']//a[text()='BROWSE ALL PAGES']]
+[ERROR][03-Aug-2023 20:39:16 pm] BrowseAllPages.testVerifyKeyWords:(308) - Verify KeyWords Test is un-successfull
+[INFO ][03-Aug-2023 20:39:20 pm] Selenium_Wrapper.closeCurrentBrowser:(651) - Closing the current Browser

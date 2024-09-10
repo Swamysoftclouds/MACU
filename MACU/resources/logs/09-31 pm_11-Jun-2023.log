@@ -1,0 +1,19 @@
+[INFO ][11-Jun-2023 21:31:30 pm] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][11-Jun-2023 21:31:34 pm] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--tst1.custhelp.com/app/home
+[INFO ][11-Jun-2023 21:31:38 pm] Selenium_Wrapper.enterText:(311) - Entering Text :swamyk in WebElement :[[ChromeDriver: chrome on WINDOWS (696a36582ffb162de2e8752949d09a9a)] -> id: rn_LoginForm_2_Username]
+[INFO ][11-Jun-2023 21:31:39 pm] Selenium_Wrapper.enterText:(311) - Entering Text :Soft@123 in WebElement :[[ChromeDriver: chrome on WINDOWS (696a36582ffb162de2e8752949d09a9a)] -> id: rn_LoginForm_2_Password]
+[INFO ][11-Jun-2023 21:31:46 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (696a36582ffb162de2e8752949d09a9a)] -> id: rn_LoginForm_2_Submit]
+[INFO ][11-Jun-2023 21:32:07 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (696a36582ffb162de2e8752949d09a9a)] -> class name: knowledge]
+[INFO ][11-Jun-2023 21:32:15 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (696a36582ffb162de2e8752949d09a9a)] -> xpath: //input[@type='search']]
+[INFO ][11-Jun-2023 21:32:16 pm] Selenium_Wrapper.enterText:(311) - Entering Text :Business Auto Loan in WebElement :[[ChromeDriver: chrome on WINDOWS (696a36582ffb162de2e8752949d09a9a)] -> xpath: //input[@type='search']]
+[ERROR][11-Jun-2023 21:32:19 pm] Selenium_Wrapper.highlightWebElement:(417) - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//ul[@aria-label='Suggested Search']//li[normalize-space()='Business Auto Loan']"}
+  (Session info: chrome=114.0.5735.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'CAF-QA-SWAMYK', ip: '192.168.0.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.110, chrome: {chromedriverVersion: 113.0.5672.63 (0e1a4471d5ae..., userDataDir: C:\Users\swamyk\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:65113}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 696a36582ffb162de2e8752949d09a9a
+*** Element info: {Using=xpath, value=//ul[@aria-label='Suggested Search']//li[normalize-space()='Business Auto Loan']}
+[ERROR][11-Jun-2023 21:32:24 pm] QuickNavigation.testBookmarkArticle:(80) - Bookmark Article Test is un-successfull
+[ERROR][11-Jun-2023 21:32:24 pm] QuickNavigation.testVerifyBookmarkArticle:(147) - Verify Bookmark Article and Highlight in List Test is un-successfull

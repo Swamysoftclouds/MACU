@@ -1,0 +1,9 @@
+[INFO ][03-Jul-2024 17:05:19 PM] Selenium_Wrapper.openBrowser:(54) - Opening chrome browser.
+[INFO ][03-Jul-2024 17:05:31 PM] Selenium_Wrapper.enterURL:(88) - Entering url :https://macu1--tst1.custhelp.com/app/home
+[INFO ][03-Jul-2024 17:05:36 PM] Selenium_Wrapper.enterText:(317) - Entering Text :swamyk in WebElement :[[ChromeDriver: chrome on WINDOWS (bac8145dad4cf0a065ebb5c335e976b8)] -> id: rn_LoginForm_2_Username]
+[INFO ][03-Jul-2024 17:05:37 PM] Selenium_Wrapper.enterText:(317) - Entering Text :Soft@123 in WebElement :[[ChromeDriver: chrome on WINDOWS (bac8145dad4cf0a065ebb5c335e976b8)] -> id: rn_LoginForm_2_Password]
+[INFO ][03-Jul-2024 17:05:41 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (bac8145dad4cf0a065ebb5c335e976b8)] -> id: rn_LoginForm_2_Submit]
+[ERROR][03-Jul-2024 17:05:45 PM] ThumbsDownFeedBack.testJumpToSection:(42) - Jump to section Test is un-successfull
+[ERROR][03-Jul-2024 17:05:49 PM] ThumbsDownFeedBack.testFeedbackPage:(72) - Request Updates, Comments, Thumbs Up & Down Test is un-successfull
+[INFO ][03-Jul-2024 17:05:54 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (bac8145dad4cf0a065ebb5c335e976b8)] -> xpath: //div[@class='dropdown']]
+[INFO ][03-Jul-2024 17:05:58 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (bac8145dad4cf0a065ebb5c335e976b8)] -> xpath: //a[text()='My Feedback']]

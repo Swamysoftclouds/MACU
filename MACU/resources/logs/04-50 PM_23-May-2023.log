@@ -1,0 +1,46 @@
+[INFO ][23-May-2023 16:50:57 PM] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][23-May-2023 16:51:03 PM] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--tst1.custhelp.com/app/home
+[INFO ][23-May-2023 16:51:07 PM] Selenium_Wrapper.enterText:(311) - Entering Text :swamyk in WebElement :[[ChromeDriver: chrome on WINDOWS (fb72f58aea6d43dea166537113cdf22b)] -> id: rn_LoginForm_2_Username]
+[INFO ][23-May-2023 16:51:09 PM] Selenium_Wrapper.enterText:(311) - Entering Text :Soft@123 in WebElement :[[ChromeDriver: chrome on WINDOWS (fb72f58aea6d43dea166537113cdf22b)] -> id: rn_LoginForm_2_Password]
+[INFO ][23-May-2023 16:51:16 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (fb72f58aea6d43dea166537113cdf22b)] -> id: rn_LoginForm_2_Submit]
+[INFO ][23-May-2023 16:51:28 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (fb72f58aea6d43dea166537113cdf22b)] -> xpath: //input[@type='search']]
+[INFO ][23-May-2023 16:51:29 PM] Selenium_Wrapper.enterText:(311) - Entering Text :Business Auto Loan in WebElement :[[ChromeDriver: chrome on WINDOWS (fb72f58aea6d43dea166537113cdf22b)] -> xpath: //input[@type='search']]
+[INFO ][23-May-2023 16:51:45 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (fb72f58aea6d43dea166537113cdf22b)] -> xpath: (//div[@class='yui3-aclist-content']//li//li)[1]]
+[INFO ][23-May-2023 16:51:52 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (fb72f58aea6d43dea166537113cdf22b)] -> xpath: (//div[@class='rn_SearchResultContent']//a)[1]]
+[INFO ][23-May-2023 16:52:14 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (fb72f58aea6d43dea166537113cdf22b)] -> xpath: //div[@class='main_image_div']//div[@class='thumbs_up_down'][2]]
+[INFO ][23-May-2023 16:52:26 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (fb72f58aea6d43dea166537113cdf22b)] -> xpath: //textarea[@class='rn_DocumentTextArea']]
+[INFO ][23-May-2023 16:52:27 PM] Selenium_Wrapper.enterText:(311) - Entering Text :Flexible Work - ThumbDown Comments in WebElement :[[ChromeDriver: chrome on WINDOWS (fb72f58aea6d43dea166537113cdf22b)] -> xpath: //textarea[@class='rn_DocumentTextArea']]
+[INFO ][23-May-2023 16:52:32 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (fb72f58aea6d43dea166537113cdf22b)] -> xpath: //button[text()='SUBMIT']]
+[INFO ][23-May-2023 16:52:38 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (fb72f58aea6d43dea166537113cdf22b)] -> xpath: //button[@class='yui3-button yui3-button-close']]
+[INFO ][23-May-2023 16:52:45 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (fb72f58aea6d43dea166537113cdf22b)] -> xpath: //div[@class='dropdown']]
+[INFO ][23-May-2023 16:52:55 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (fb72f58aea6d43dea166537113cdf22b)] -> xpath: //a[text()='My Feedback']]
+[INFO ][23-May-2023 16:53:24 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (fb72f58aea6d43dea166537113cdf22b)] -> xpath: ((//table//tbody)[2]//a)[1]]
+[INFO ][23-May-2023 16:53:58 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (fb72f58aea6d43dea166537113cdf22b)] -> class name: knowledge]
+[INFO ][23-May-2023 16:54:00 PM] Selenium_Wrapper.closeCurrentBrowser:(651) - Closing the current Browser
+[INFO ][23-May-2023 16:54:01 PM] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][23-May-2023 16:54:09 PM] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--tst1.custhelp.com/AgentWeb/
+[INFO ][23-May-2023 16:54:14 PM] Selenium_Wrapper.enterText:(311) - Entering Text :automation_testing in WebElement :[[ChromeDriver: chrome on WINDOWS (c01f0f737085a07acda781cc941a68d2)] -> id: username]
+[INFO ][23-May-2023 16:54:15 PM] Selenium_Wrapper.enterText:(311) - Entering Text :Welcome123 in WebElement :[[ChromeDriver: chrome on WINDOWS (c01f0f737085a07acda781cc941a68d2)] -> id: password]
+[INFO ][23-May-2023 16:54:28 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (c01f0f737085a07acda781cc941a68d2)] -> id: loginbutton]
+[ERROR][23-May-2023 16:54:48 PM] AnswerVotingFeedbackReport.testNavigateToAnwserVotingFeedBackReportlow:(118) - Navigate To Anwser Voting FeedBackReport testing un-successfull
+[ERROR][23-May-2023 16:54:51 PM] Selenium_Wrapper.highlightWebElement:(417) - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='explorer-right-panel']//div[@class='explorer-data-grid']//span[text()='Feedback Admin Report']"}
+  (Session info: chrome=113.0.5672.127)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'QA-SWAMYK', ip: '192.168.0.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 113.0.5672.127, chrome: {chromedriverVersion: 113.0.5672.63 (0e1a4471d5ae..., userDataDir: C:\Users\SWAMYK~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:55157}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c01f0f737085a07acda781cc941a68d2
+*** Element info: {Using=xpath, value=//div[@class='explorer-right-panel']//div[@class='explorer-data-grid']//span[text()='Feedback Admin Report']}
+[ERROR][23-May-2023 16:54:52 PM] Selenium_Wrapper.doubleClick:(273) - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='explorer-right-panel']//div[@class='explorer-data-grid']//span[text()='Feedback Admin Report']"}
+  (Session info: chrome=113.0.5672.127)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'QA-SWAMYK', ip: '192.168.0.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 113.0.5672.127, chrome: {chromedriverVersion: 113.0.5672.63 (0e1a4471d5ae..., userDataDir: C:\Users\SWAMYK~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:55157}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c01f0f737085a07acda781cc941a68d2
+*** Element info: {Using=xpath, value=//div[@class='explorer-right-panel']//div[@class='explorer-data-grid']//span[text()='Feedback Admin Report']}
+[ERROR][23-May-2023 16:54:52 PM] AnswerVotingFeedbackReport.testSelectingandGivingAnswerstoReportFlow:(170) - Selecting and Giving Asnwers to Report  un-successfull
+[INFO ][23-May-2023 16:55:00 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (c01f0f737085a07acda781cc941a68d2)] -> xpath: //body//oj-avatar[@initials='[[userMenuLabel]]']]
+[ERROR][23-May-2023 16:55:07 PM] AnswerVotingFeedbackReport.testSignout:(185) - Logout/SignOut un-successfull

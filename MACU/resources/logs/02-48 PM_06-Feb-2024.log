@@ -1,0 +1,16 @@
+[INFO ][06-Feb-2024 14:48:16 PM] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][06-Feb-2024 14:48:19 PM] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--tst1.custhelp.com/AgentWeb/
+[INFO ][06-Feb-2024 14:48:23 PM] Selenium_Wrapper.enterText:(311) - Entering Text :automation_testing in WebElement :[[ChromeDriver: chrome on WINDOWS (867aa929e2ff27857552917e8ece5f3e)] -> id: username]
+[INFO ][06-Feb-2024 14:48:25 PM] Selenium_Wrapper.enterText:(311) - Entering Text :Welcome123 in WebElement :[[ChromeDriver: chrome on WINDOWS (867aa929e2ff27857552917e8ece5f3e)] -> id: password]
+[INFO ][06-Feb-2024 14:48:53 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (867aa929e2ff27857552917e8ece5f3e)] -> id: loginbutton]
+[INFO ][06-Feb-2024 14:49:12 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (867aa929e2ff27857552917e8ece5f3e)] -> id: navigationSetBtn]
+[ERROR][06-Feb-2024 14:49:17 PM] ContactView.testNavigateToContacts:(34) - Navigate To Contact Test is un-successfull
+[ERROR][06-Feb-2024 14:49:18 PM] ContactView.testContactView:(55) - Contact View Test is un-successfull
+[INFO ][06-Feb-2024 14:49:26 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (867aa929e2ff27857552917e8ece5f3e)] -> xpath: //body//oj-avatar[@initials='[[userMenuLabel]]']]
+[ERROR][06-Feb-2024 14:51:14 PM] Selenium_Wrapper.getWebElement:(124) - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of [[ChromeDriver: chrome on WINDOWS (867aa929e2ff27857552917e8ece5f3e)] -> xpath: //a//span[text()='Sign Out']] (tried for 100 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'CAF-QA-SWAMYK', ip: '192.168.0.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.140, chrome: {chromedriverVersion: 121.0.6167.85 (3f98d690ad7e..., userDataDir: C:\Users\swamyk\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53835}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 867aa929e2ff27857552917e8ece5f3e
+[ERROR][06-Feb-2024 14:51:14 PM] ContactView.testSignout:(72) - Logout/SignOut un-successfull

@@ -1,0 +1,16 @@
+[INFO ][09-Nov-2021 11:32:47 am] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][09-Nov-2021 11:32:52 am] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--tst.custhelp.com/AgentWeb/
+[INFO ][09-Nov-2021 11:32:56 am] Selenium_Wrapper.enterText:(311) - Entering Text :RNT_pramod in WebElement :[[ChromeDriver: chrome on WINDOWS (314c08bb0097665858640b73e73bf6b1)] -> id: username]
+[INFO ][09-Nov-2021 11:32:57 am] Selenium_Wrapper.enterText:(311) - Entering Text :Welcome123 in WebElement :[[ChromeDriver: chrome on WINDOWS (314c08bb0097665858640b73e73bf6b1)] -> id: password]
+[INFO ][09-Nov-2021 11:34:40 am] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (314c08bb0097665858640b73e73bf6b1)] -> id: loginbutton]
+[INFO ][09-Nov-2021 11:34:56 am] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (314c08bb0097665858640b73e73bf6b1)] -> id: navigationSetBtn]
+[INFO ][09-Nov-2021 11:35:01 am] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (314c08bb0097665858640b73e73bf6b1)] -> xpath: //div[@automationid='Analytics']]
+[INFO ][09-Nov-2021 11:35:12 am] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (314c08bb0097665858640b73e73bf6b1)] -> xpath: //div[@automationid='Analytics_Reports Explorer']//span[text()='Reports Explorer']]
+[INFO ][09-Nov-2021 11:35:28 am] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (314c08bb0097665858640b73e73bf6b1)] -> xpath: //div[@aria-label='Public Reports'][text()='Public Reports']]
+[INFO ][09-Nov-2021 11:35:33 am] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (314c08bb0097665858640b73e73bf6b1)] -> xpath: //div[@aria-label='MACU CUSTOM REPORTS'][text()='MACU CUSTOM REPORTS']]
+[INFO ][09-Nov-2021 11:35:38 am] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (314c08bb0097665858640b73e73bf6b1)] -> xpath: //div[@aria-label='SoftClouds'][text()='SoftClouds']]
+[INFO ][09-Nov-2021 11:35:44 am] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (314c08bb0097665858640b73e73bf6b1)] -> xpath: //div[@aria-label='OKCS'][text()='OKCS'][contains(@id,'ExplorerFolderLabelAnalyticsFolder103223')]]
+[INFO ][09-Nov-2021 11:35:56 am] Selenium_Wrapper.doubleClick:(280) - Double clicking on :[[ChromeDriver: chrome on WINDOWS (314c08bb0097665858640b73e73bf6b1)] -> xpath: //span[contains(@title,'Visitor Actions')][contains(text(),'Visitor Actions')]]
+[INFO ][09-Nov-2021 11:36:03 am] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (314c08bb0097665858640b73e73bf6b1)] -> xpath: //oj-input-text[@automationid='Email']//input]
+[INFO ][09-Nov-2021 11:36:04 am] Selenium_Wrapper.enterText:(311) - Entering Text :Swamyk@softclouds.com in WebElement :[[ChromeDriver: chrome on WINDOWS (314c08bb0097665858640b73e73bf6b1)] -> xpath: //oj-input-text[@automationid='Email']//input]
+[INFO ][09-Nov-2021 11:36:10 am] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (314c08bb0097665858640b73e73bf6b1)] -> xpath: //div[contains(@class,'filterRegionMargin')]//button[@title='Search']//span[text()='Search']]

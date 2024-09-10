@@ -1,0 +1,13 @@
+[INFO ][04-Sep-2022 08:03:04 AM] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][04-Sep-2022 08:03:08 AM] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--upgrade.custhelp.com/AgentWeb/
+[INFO ][04-Sep-2022 08:03:12 AM] Selenium_Wrapper.enterText:(311) - Entering Text :RNT_pramod in WebElement :[[ChromeDriver: chrome on WINDOWS (266e9cc7648d94bdfdb8cdcb2289cad5)] -> id: username]
+[INFO ][04-Sep-2022 08:03:13 AM] Selenium_Wrapper.enterText:(311) - Entering Text :Welcome123 in WebElement :[[ChromeDriver: chrome on WINDOWS (266e9cc7648d94bdfdb8cdcb2289cad5)] -> id: password]
+[INFO ][04-Sep-2022 08:03:40 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (266e9cc7648d94bdfdb8cdcb2289cad5)] -> id: loginbutton]
+[INFO ][04-Sep-2022 08:03:51 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (266e9cc7648d94bdfdb8cdcb2289cad5)] -> id: navigationSetBtn]
+[INFO ][04-Sep-2022 08:03:56 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (266e9cc7648d94bdfdb8cdcb2289cad5)] -> xpath: (//div[text()='Analytics']//a)]
+[INFO ][04-Sep-2022 08:04:01 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (266e9cc7648d94bdfdb8cdcb2289cad5)] -> xpath: //span[text()='Reports Explorer']]
+[INFO ][04-Sep-2022 08:04:06 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (266e9cc7648d94bdfdb8cdcb2289cad5)] -> xpath: //div[text()='Public Reports']]
+[INFO ][04-Sep-2022 08:04:12 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (266e9cc7648d94bdfdb8cdcb2289cad5)] -> xpath: //div[text()='MACU CUSTOM REPORTS']]
+[INFO ][04-Sep-2022 08:04:17 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (266e9cc7648d94bdfdb8cdcb2289cad5)] -> xpath: //div[text()='SoftClouds']]
+[INFO ][04-Sep-2022 08:04:22 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (266e9cc7648d94bdfdb8cdcb2289cad5)] -> xpath: //div[text()='OKCS']]
+[ERROR][04-Sep-2022 08:04:39 AM] ThumbsUpAndThumbsDownFeedback.testSelectingandVerifyingFlow:(137) - Selecting and Verifying Test is un-successfull

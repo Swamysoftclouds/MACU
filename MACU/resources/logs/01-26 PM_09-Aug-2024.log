@@ -1,0 +1,33 @@
+[INFO ][09-Aug-2024 13:26:24 PM] Selenium_Wrapper.openBrowser:(54) - Opening chrome browser.
+[INFO ][09-Aug-2024 13:26:33 PM] Selenium_Wrapper.enterURL:(88) - Entering url :https://macu1--tst1.custhelp.com/app/home
+[INFO ][09-Aug-2024 13:26:38 PM] Selenium_Wrapper.enterText:(317) - Entering Text :swamyk in WebElement :[[ChromeDriver: chrome on WINDOWS (3951065823bbb2110b2318b3209ce0ae)] -> id: rn_LoginForm_2_Username]
+[INFO ][09-Aug-2024 13:26:39 PM] Selenium_Wrapper.enterText:(317) - Entering Text :Soft@123 in WebElement :[[ChromeDriver: chrome on WINDOWS (3951065823bbb2110b2318b3209ce0ae)] -> id: rn_LoginForm_2_Password]
+[INFO ][09-Aug-2024 13:26:44 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (3951065823bbb2110b2318b3209ce0ae)] -> id: rn_LoginForm_2_Submit]
+[INFO ][09-Aug-2024 13:27:00 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (3951065823bbb2110b2318b3209ce0ae)] -> xpath: //a[text()='browse all PAGES']]
+[INFO ][09-Aug-2024 13:27:12 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (3951065823bbb2110b2318b3209ce0ae)] -> xpath: (//div[@id='category']//following-sibling::ul//a)[1]]
+[INFO ][09-Aug-2024 13:27:30 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (3951065823bbb2110b2318b3209ce0ae)] -> xpath: //a[text()='Business Accounts']]
+[INFO ][09-Aug-2024 13:27:35 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (3951065823bbb2110b2318b3209ce0ae)] -> xpath: (//div[@id='category']//following-sibling::ul//a)[1]]
+[INFO ][09-Aug-2024 13:27:49 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (3951065823bbb2110b2318b3209ce0ae)] -> xpath: //a[text()='Employee Experience']]
+[INFO ][09-Aug-2024 13:28:11 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (3951065823bbb2110b2318b3209ce0ae)] -> xpath: //a[text()='Employee Experience']]
+[INFO ][09-Aug-2024 13:28:25 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (3951065823bbb2110b2318b3209ce0ae)] -> xpath: //a[text()='Personal Accounts']]
+[INFO ][09-Aug-2024 13:28:30 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (3951065823bbb2110b2318b3209ce0ae)] -> xpath: (//div[@id='category']//following-sibling::ul//a)[1]]
+[INFO ][09-Aug-2024 13:28:43 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (3951065823bbb2110b2318b3209ce0ae)] -> xpath: //a[text()='Services']]
+[ERROR][09-Aug-2024 13:28:58 PM] Selenium_Wrapper.waitTillVisible:(270) - org.openqa.selenium.StaleElementReferenceException: stale element reference: stale element not found in the current frame
+  (Session info: chrome=127.0.6533.100)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SC-CAF-CND84305', ip: '192.168.1.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 127.0.6533.100, chrome: {chromedriverVersion: 127.0.6533.72 (9755e24ca85a..., userDataDir: C:\Users\SWAMYK~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49323}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 3951065823bbb2110b2318b3209ce0ae
+[ERROR][09-Aug-2024 13:28:59 PM] BrowseAllPages.testFilterByProductAndFilterByCategory:(216) - Filter By Product And Filter By Category testing Test is un-successfull
+[INFO ][09-Aug-2024 13:29:16 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (3951065823bbb2110b2318b3209ce0ae)] -> xpath: //a[text()='VIEW A-Z INDEX']]
+[INFO ][09-Aug-2024 13:29:38 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (3951065823bbb2110b2318b3209ce0ae)] -> xpath: //div[@id='rn_A_ZIndex_2']//ul[@class='indexing_list']//li//a[text()='D']]
+[INFO ][09-Aug-2024 13:29:52 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (3951065823bbb2110b2318b3209ce0ae)] -> xpath: //div[@id='rn_A_ZIndex_2']//ul[@class='indexing_list']//li//a[text()='J']]
+[INFO ][09-Aug-2024 13:30:06 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (3951065823bbb2110b2318b3209ce0ae)] -> xpath: //div[@id='rn_A_ZIndex_2']//ul[@class='indexing_list']//li//a[text()='P']]
+[INFO ][09-Aug-2024 13:30:21 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (3951065823bbb2110b2318b3209ce0ae)] -> xpath: //div[@id='rn_A_ZIndex_2']//ul[@class='indexing_list']//li//a[text()='V']]
+[INFO ][09-Aug-2024 13:30:35 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (3951065823bbb2110b2318b3209ce0ae)] -> xpath: //div[@id='rn_A_ZIndex_2']//ul[@class='indexing_list']//li//a[text()='0-9']]
+[INFO ][09-Aug-2024 13:30:57 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (3951065823bbb2110b2318b3209ce0ae)] -> xpath: (//div[@class='rn_A_ZIndex']//div[@class='index-content']//a)[1]]
+[INFO ][09-Aug-2024 13:31:29 PM] Selenium_Wrapper.enterText:(317) - Entering Text :100% First Time Home Buyer Loan in WebElement :[[ChromeDriver: chrome on WINDOWS (3951065823bbb2110b2318b3209ce0ae)] -> xpath: //input[@type='search']]
+[INFO ][09-Aug-2024 13:32:10 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (3951065823bbb2110b2318b3209ce0ae)] -> xpath: //div[@id='rn_PageTitle']//a[text()='BROWSE ALL PAGES']]
+[INFO ][09-Aug-2024 13:32:19 PM] Selenium_Wrapper.closeCurrentBrowser:(657) - Closing the current Browser

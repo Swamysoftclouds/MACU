@@ -1,0 +1,29 @@
+[INFO ][04-Apr-2024 10:32:09 AM] Selenium_Wrapper.openBrowser:(54) - Opening chrome browser.
+[INFO ][04-Apr-2024 10:32:16 AM] Selenium_Wrapper.enterURL:(88) - Entering url :https://macu1--tst1.custhelp.com/app/home
+[INFO ][04-Apr-2024 10:32:20 AM] Selenium_Wrapper.enterText:(317) - Entering Text :swamyk in WebElement :[[ChromeDriver: chrome on WINDOWS (cd85dcb06f0701be3efc33881bfdf86b)] -> id: rn_LoginForm_2_Username]
+[INFO ][04-Apr-2024 10:32:22 AM] Selenium_Wrapper.enterText:(317) - Entering Text :Soft@123 in WebElement :[[ChromeDriver: chrome on WINDOWS (cd85dcb06f0701be3efc33881bfdf86b)] -> id: rn_LoginForm_2_Password]
+[INFO ][04-Apr-2024 10:32:26 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (cd85dcb06f0701be3efc33881bfdf86b)] -> id: rn_LoginForm_2_Submit]
+[INFO ][04-Apr-2024 10:32:42 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (cd85dcb06f0701be3efc33881bfdf86b)] -> xpath: //a[text()='browse all PAGES']]
+[INFO ][04-Apr-2024 10:32:54 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (cd85dcb06f0701be3efc33881bfdf86b)] -> xpath: (//div[@id='category']//following-sibling::ul//a)[1]]
+[INFO ][04-Apr-2024 10:33:13 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (cd85dcb06f0701be3efc33881bfdf86b)] -> xpath: //a[text()='Business Accounts']]
+[INFO ][04-Apr-2024 10:33:18 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (cd85dcb06f0701be3efc33881bfdf86b)] -> xpath: (//div[@id='category']//following-sibling::ul//a)[1]]
+[INFO ][04-Apr-2024 10:33:31 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (cd85dcb06f0701be3efc33881bfdf86b)] -> xpath: //a[text()='Employee Experience']]
+[ERROR][04-Apr-2024 10:33:41 AM] Selenium_Wrapper.waitTillVisible:(270) - org.openqa.selenium.StaleElementReferenceException: stale element reference: stale element not found in the current frame
+  (Session info: chrome=123.0.6312.88)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SC-CAF-IN-CND84', ip: '192.168.0.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 123.0.6312.88, chrome: {chromedriverVersion: 123.0.6312.58 (6b4b19e9dfbb..., userDataDir: C:\Users\SWAMYK~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:65255}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: cd85dcb06f0701be3efc33881bfdf86b
+[ERROR][04-Apr-2024 10:33:42 AM] BrowseAllPages.testFilterByProductAndFilterByCategory:(212) - Filter By Product And Filter By Category testing Test is un-successfull
+[INFO ][04-Apr-2024 10:33:59 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (cd85dcb06f0701be3efc33881bfdf86b)] -> xpath: //a[text()='VIEW A-Z INDEX']]
+[INFO ][04-Apr-2024 10:34:21 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (cd85dcb06f0701be3efc33881bfdf86b)] -> xpath: //div[@id='rn_A_ZIndex_2']//ul[@class='indexing_list']//li//a[text()='D']]
+[INFO ][04-Apr-2024 10:34:35 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (cd85dcb06f0701be3efc33881bfdf86b)] -> xpath: //div[@id='rn_A_ZIndex_2']//ul[@class='indexing_list']//li//a[text()='J']]
+[INFO ][04-Apr-2024 10:34:50 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (cd85dcb06f0701be3efc33881bfdf86b)] -> xpath: //div[@id='rn_A_ZIndex_2']//ul[@class='indexing_list']//li//a[text()='P']]
+[INFO ][04-Apr-2024 10:35:04 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (cd85dcb06f0701be3efc33881bfdf86b)] -> xpath: //div[@id='rn_A_ZIndex_2']//ul[@class='indexing_list']//li//a[text()='V']]
+[INFO ][04-Apr-2024 10:35:18 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (cd85dcb06f0701be3efc33881bfdf86b)] -> xpath: //div[@id='rn_A_ZIndex_2']//ul[@class='indexing_list']//li//a[text()='0-9']]
+[INFO ][04-Apr-2024 10:35:41 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (cd85dcb06f0701be3efc33881bfdf86b)] -> xpath: (//div[@class='rn_A_ZIndex']//div[@class='index-content']//a)[1]]
+[INFO ][04-Apr-2024 10:36:06 AM] Selenium_Wrapper.enterText:(317) - Entering Text :100% First Time Home Buyer Loan in WebElement :[[ChromeDriver: chrome on WINDOWS (cd85dcb06f0701be3efc33881bfdf86b)] -> xpath: //input[@type='search']]
+[INFO ][04-Apr-2024 10:36:49 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (cd85dcb06f0701be3efc33881bfdf86b)] -> xpath: //div[@id='rn_PageTitle']//a[text()='BROWSE ALL PAGES']]
+[INFO ][04-Apr-2024 10:36:57 AM] Selenium_Wrapper.closeCurrentBrowser:(657) - Closing the current Browser

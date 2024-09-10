@@ -1,0 +1,24 @@
+[INFO ][04-Apr-2024 10:58:57 AM] Selenium_Wrapper.openBrowser:(54) - Opening chrome browser.
+[INFO ][04-Apr-2024 10:59:03 AM] Selenium_Wrapper.enterURL:(88) - Entering url :https://macu1--tst1.custhelp.com/app/home
+[INFO ][04-Apr-2024 10:59:07 AM] Selenium_Wrapper.enterText:(317) - Entering Text :swamyk in WebElement :[[ChromeDriver: chrome on WINDOWS (1d2b4ee086324c35b1bcd651ad410e2a)] -> id: rn_LoginForm_2_Username]
+[INFO ][04-Apr-2024 10:59:09 AM] Selenium_Wrapper.enterText:(317) - Entering Text :Soft@123 in WebElement :[[ChromeDriver: chrome on WINDOWS (1d2b4ee086324c35b1bcd651ad410e2a)] -> id: rn_LoginForm_2_Password]
+[INFO ][04-Apr-2024 10:59:13 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (1d2b4ee086324c35b1bcd651ad410e2a)] -> id: rn_LoginForm_2_Submit]
+[INFO ][04-Apr-2024 10:59:30 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (1d2b4ee086324c35b1bcd651ad410e2a)] -> xpath: //a[text()='browse all PAGES']]
+[INFO ][04-Apr-2024 10:59:42 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (1d2b4ee086324c35b1bcd651ad410e2a)] -> xpath: (//div[@id='category']//following-sibling::ul//a)[1]]
+[INFO ][04-Apr-2024 11:00:00 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (1d2b4ee086324c35b1bcd651ad410e2a)] -> xpath: //a[text()='Business Accounts']]
+[INFO ][04-Apr-2024 11:00:05 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (1d2b4ee086324c35b1bcd651ad410e2a)] -> xpath: (//div[@id='category']//following-sibling::ul//a)[1]]
+[INFO ][04-Apr-2024 11:00:19 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (1d2b4ee086324c35b1bcd651ad410e2a)] -> xpath: //a[text()='Employee Experience']]
+[INFO ][04-Apr-2024 11:00:32 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (1d2b4ee086324c35b1bcd651ad410e2a)] -> xpath: //a[text()='Personal Accounts']]
+[INFO ][04-Apr-2024 11:00:37 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (1d2b4ee086324c35b1bcd651ad410e2a)] -> xpath: (//div[@id='category']//following-sibling::ul//a)[1]]
+[INFO ][04-Apr-2024 11:00:51 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (1d2b4ee086324c35b1bcd651ad410e2a)] -> xpath: //a[text()='Services']]
+[ERROR][04-Apr-2024 11:01:00 AM] BrowseAllPages.testFilterByProductAndFilterByCategory:(212) - Filter By Product And Filter By Category testing Test is un-successfull
+[INFO ][04-Apr-2024 11:01:19 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (1d2b4ee086324c35b1bcd651ad410e2a)] -> xpath: //a[text()='VIEW A-Z INDEX']]
+[INFO ][04-Apr-2024 11:01:41 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (1d2b4ee086324c35b1bcd651ad410e2a)] -> xpath: //div[@id='rn_A_ZIndex_2']//ul[@class='indexing_list']//li//a[text()='D']]
+[INFO ][04-Apr-2024 11:01:55 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (1d2b4ee086324c35b1bcd651ad410e2a)] -> xpath: //div[@id='rn_A_ZIndex_2']//ul[@class='indexing_list']//li//a[text()='J']]
+[INFO ][04-Apr-2024 11:02:10 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (1d2b4ee086324c35b1bcd651ad410e2a)] -> xpath: //div[@id='rn_A_ZIndex_2']//ul[@class='indexing_list']//li//a[text()='P']]
+[INFO ][04-Apr-2024 11:02:24 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (1d2b4ee086324c35b1bcd651ad410e2a)] -> xpath: //div[@id='rn_A_ZIndex_2']//ul[@class='indexing_list']//li//a[text()='V']]
+[INFO ][04-Apr-2024 11:02:38 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (1d2b4ee086324c35b1bcd651ad410e2a)] -> xpath: //div[@id='rn_A_ZIndex_2']//ul[@class='indexing_list']//li//a[text()='0-9']]
+[INFO ][04-Apr-2024 11:03:00 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (1d2b4ee086324c35b1bcd651ad410e2a)] -> xpath: (//div[@class='rn_A_ZIndex']//div[@class='index-content']//a)[1]]
+[INFO ][04-Apr-2024 11:03:26 AM] Selenium_Wrapper.enterText:(317) - Entering Text :100% First Time Home Buyer Loan in WebElement :[[ChromeDriver: chrome on WINDOWS (1d2b4ee086324c35b1bcd651ad410e2a)] -> xpath: //input[@type='search']]
+[INFO ][04-Apr-2024 11:04:06 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (1d2b4ee086324c35b1bcd651ad410e2a)] -> xpath: //div[@id='rn_PageTitle']//a[text()='BROWSE ALL PAGES']]
+[INFO ][04-Apr-2024 11:04:14 AM] Selenium_Wrapper.closeCurrentBrowser:(657) - Closing the current Browser

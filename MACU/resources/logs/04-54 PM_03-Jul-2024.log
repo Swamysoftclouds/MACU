@@ -1,0 +1,20 @@
+[INFO ][03-Jul-2024 16:54:20 PM] Selenium_Wrapper.openBrowser:(54) - Opening chrome browser.
+[INFO ][03-Jul-2024 16:54:29 PM] Selenium_Wrapper.enterURL:(88) - Entering url :https://macu1--tst1.custhelp.com/app/home
+[INFO ][03-Jul-2024 16:54:34 PM] Selenium_Wrapper.enterText:(317) - Entering Text :swamyk in WebElement :[[ChromeDriver: chrome on WINDOWS (f4e1a988fe6a27bf4ecfa88a470f3f56)] -> id: rn_LoginForm_2_Username]
+[INFO ][03-Jul-2024 16:54:35 PM] Selenium_Wrapper.enterText:(317) - Entering Text :Soft@123 in WebElement :[[ChromeDriver: chrome on WINDOWS (f4e1a988fe6a27bf4ecfa88a470f3f56)] -> id: rn_LoginForm_2_Password]
+[INFO ][03-Jul-2024 16:54:40 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (f4e1a988fe6a27bf4ecfa88a470f3f56)] -> id: rn_LoginForm_2_Submit]
+[INFO ][03-Jul-2024 16:54:46 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (f4e1a988fe6a27bf4ecfa88a470f3f56)] -> xpath: //input[@type='search']]
+[INFO ][03-Jul-2024 16:54:47 PM] Selenium_Wrapper.enterText:(317) - Entering Text :Business Use Auto Loan in WebElement :[[ChromeDriver: chrome on WINDOWS (f4e1a988fe6a27bf4ecfa88a470f3f56)] -> xpath: //input[@type='search']]
+[INFO ][03-Jul-2024 16:55:04 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (f4e1a988fe6a27bf4ecfa88a470f3f56)] -> xpath: (//div[@class='yui3-aclist-content']//li//li)[1]]
+[INFO ][03-Jul-2024 16:55:08 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (f4e1a988fe6a27bf4ecfa88a470f3f56)] -> xpath: (//div[@class='rn_SearchResultContent']//a)[1]]
+[INFO ][03-Jul-2024 16:55:17 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (f4e1a988fe6a27bf4ecfa88a470f3f56)] -> xpath: //div[@class='main_image_div']//div[@class='thumbs_up_down'][2]]
+[ERROR][03-Jul-2024 16:55:27 PM] ThumbsDownFeedBack.testFeedbackPage:(72) - Request Updates, Comments, Thumbs Up & Down Test is un-successfull
+[INFO ][03-Jul-2024 16:55:31 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (f4e1a988fe6a27bf4ecfa88a470f3f56)] -> xpath: //div[@class='dropdown']]
+[INFO ][03-Jul-2024 16:55:39 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (f4e1a988fe6a27bf4ecfa88a470f3f56)] -> xpath: //a[text()='My Feedback']]
+[INFO ][03-Jul-2024 16:56:11 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (f4e1a988fe6a27bf4ecfa88a470f3f56)] -> xpath: ((//table//tbody)[2]//a)[1]]
+[INFO ][03-Jul-2024 16:56:41 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (f4e1a988fe6a27bf4ecfa88a470f3f56)] -> class name: knowledge]
+[INFO ][03-Jul-2024 16:56:43 PM] Selenium_Wrapper.closeCurrentBrowser:(657) - Closing the current Browser
+[INFO ][03-Jul-2024 16:56:44 PM] Selenium_Wrapper.openBrowser:(54) - Opening chrome browser.
+[INFO ][03-Jul-2024 16:56:49 PM] Selenium_Wrapper.enterURL:(88) - Entering url :https://macu1--tst1.custhelp.com/AgentWeb/
+[INFO ][03-Jul-2024 16:56:54 PM] Selenium_Wrapper.enterText:(317) - Entering Text :automation_testing in WebElement :[[ChromeDriver: chrome on WINDOWS (26db6cea611eed759c3af02108c08238)] -> id: username]
+[ERROR][03-Jul-2024 16:56:55 PM] MACU_Wrapper.signIntoBUI:(37) - Error in the loginin process

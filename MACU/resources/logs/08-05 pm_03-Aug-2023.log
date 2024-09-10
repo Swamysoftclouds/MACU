@@ -1,0 +1,26 @@
+[INFO ][03-Aug-2023 20:05:09 pm] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][03-Aug-2023 20:05:14 pm] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--tst1.custhelp.com/app/home
+[INFO ][03-Aug-2023 20:05:18 pm] Selenium_Wrapper.enterText:(311) - Entering Text :swamyk in WebElement :[[ChromeDriver: chrome on WINDOWS (0d3081d5d3d30d6b587c87cbb4eae7ea)] -> id: rn_LoginForm_2_Username]
+[INFO ][03-Aug-2023 20:05:19 pm] Selenium_Wrapper.enterText:(311) - Entering Text :Soft@123 in WebElement :[[ChromeDriver: chrome on WINDOWS (0d3081d5d3d30d6b587c87cbb4eae7ea)] -> id: rn_LoginForm_2_Password]
+[INFO ][03-Aug-2023 20:05:27 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (0d3081d5d3d30d6b587c87cbb4eae7ea)] -> id: rn_LoginForm_2_Submit]
+[INFO ][03-Aug-2023 20:05:36 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (0d3081d5d3d30d6b587c87cbb4eae7ea)] -> xpath: //input[@type='search']]
+[INFO ][03-Aug-2023 20:05:37 pm] Selenium_Wrapper.enterText:(311) - Entering Text :Business Auto Loan in WebElement :[[ChromeDriver: chrome on WINDOWS (0d3081d5d3d30d6b587c87cbb4eae7ea)] -> xpath: //input[@type='search']]
+[INFO ][03-Aug-2023 20:05:48 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (0d3081d5d3d30d6b587c87cbb4eae7ea)] -> xpath: //i[@class='fas fa-search search_icon']]
+[INFO ][03-Aug-2023 20:05:55 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (0d3081d5d3d30d6b587c87cbb4eae7ea)] -> xpath: //div[@class='rn_SearchResultContent']//tbody//tr//div//span[@class='rn_Element1']//a]
+[ERROR][03-Aug-2023 20:06:04 pm] ArticlePage.testBookmarkArticle:(94) - Bookmark Article Test case is un-successfull
+[INFO ][03-Aug-2023 20:06:13 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (0d3081d5d3d30d6b587c87cbb4eae7ea)] -> xpath: //div[contains(@class,'EmailAnswerLink')]//img[@class='share_icon_default']]
+[INFO ][03-Aug-2023 20:06:18 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (0d3081d5d3d30d6b587c87cbb4eae7ea)] -> xpath: //div[@id='rnDialog1']//input[@class='select2-search__field']]
+[INFO ][03-Aug-2023 20:06:19 pm] Selenium_Wrapper.enterText:(311) - Entering Text :Aaron Brown in WebElement :[[ChromeDriver: chrome on WINDOWS (0d3081d5d3d30d6b587c87cbb4eae7ea)] -> xpath: //div[@id='rnDialog1']//input[@class='select2-search__field']]
+[INFO ][03-Aug-2023 20:06:27 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (0d3081d5d3d30d6b587c87cbb4eae7ea)] -> xpath: //ul[@class='select2-results__options']//li[text()='Aaron Brown']]
+[INFO ][03-Aug-2023 20:06:32 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (0d3081d5d3d30d6b587c87cbb4eae7ea)] -> xpath: //button[@class='yui3-button yui3-button-close']]
+[INFO ][03-Aug-2023 20:06:48 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (0d3081d5d3d30d6b587c87cbb4eae7ea)] -> xpath: //div[@id='formsResources_panel']//div[@id='formsResources_headingOne']]
+[INFO ][03-Aug-2023 20:07:07 pm] Selenium_Wrapper.clickUsingActions:(249) - Clicking on :[[ChromeDriver: chrome on WINDOWS (0d3081d5d3d30d6b587c87cbb4eae7ea)] -> xpath: (//ul[@class='formsResources']//ul//li/a)[2]]
+[INFO ][03-Aug-2023 20:07:42 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (0d3081d5d3d30d6b587c87cbb4eae7ea)] -> xpath: //li[@class='breadcrumb-item']//a]
+[INFO ][03-Aug-2023 20:07:55 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (0d3081d5d3d30d6b587c87cbb4eae7ea)] -> class name: knowledge]
+[INFO ][03-Aug-2023 20:08:06 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (0d3081d5d3d30d6b587c87cbb4eae7ea)] -> xpath: //input[@type='search']]
+[INFO ][03-Aug-2023 20:08:07 pm] Selenium_Wrapper.enterText:(311) - Entering Text :Business Auto Loan in WebElement :[[ChromeDriver: chrome on WINDOWS (0d3081d5d3d30d6b587c87cbb4eae7ea)] -> xpath: //input[@type='search']]
+[INFO ][03-Aug-2023 20:08:14 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (0d3081d5d3d30d6b587c87cbb4eae7ea)] -> xpath: //i[@class='fas fa-search search_icon']]
+[ERROR][03-Aug-2023 20:08:28 pm] ArticlePage.testSearchArticle:(152) - Search Existing Article Test case is un-successfull
+[INFO ][03-Aug-2023 20:09:31 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (0d3081d5d3d30d6b587c87cbb4eae7ea)] -> xpath: //button[@class='rn_RecommendContentButton p-0']]
+[INFO ][03-Aug-2023 20:09:32 pm] Selenium_Wrapper.enterText:(311) - Entering Text :Test Improve, comments, updates in WebElement :[[ChromeDriver: chrome on WINDOWS (0d3081d5d3d30d6b587c87cbb4eae7ea)] -> xpath: //div[@id='rnDialog1_c']//textarea[contains(@id,RequestUpdate)]]
+[INFO ][03-Aug-2023 20:09:37 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (0d3081d5d3d30d6b587c87cbb4eae7ea)] -> xpath: //button[@class='yui3-button yui3-button-close']]

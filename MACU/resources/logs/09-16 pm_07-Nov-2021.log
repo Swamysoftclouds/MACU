@@ -1,0 +1,51 @@
+[INFO ][07-Nov-2021 21:16:55 pm] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][07-Nov-2021 21:17:03 pm] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--tst.custhelp.com/app/home
+[INFO ][07-Nov-2021 21:17:07 pm] Selenium_Wrapper.enterText:(311) - Entering Text :pramodk in WebElement :[[ChromeDriver: chrome on WINDOWS (2d3637070188e8d95cec1d67fdbcf6dc)] -> id: rn_LoginForm_2_Username]
+[INFO ][07-Nov-2021 21:17:08 pm] Selenium_Wrapper.enterText:(311) - Entering Text :Soft@123 in WebElement :[[ChromeDriver: chrome on WINDOWS (2d3637070188e8d95cec1d67fdbcf6dc)] -> id: rn_LoginForm_2_Password]
+[INFO ][07-Nov-2021 21:17:15 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (2d3637070188e8d95cec1d67fdbcf6dc)] -> id: rn_LoginForm_2_Submit]
+[INFO ][07-Nov-2021 21:17:24 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (2d3637070188e8d95cec1d67fdbcf6dc)] -> xpath: //input[@type='search']]
+[INFO ][07-Nov-2021 21:17:25 pm] Selenium_Wrapper.enterText:(311) - Entering Text :Flexible Work in WebElement :[[ChromeDriver: chrome on WINDOWS (2d3637070188e8d95cec1d67fdbcf6dc)] -> xpath: //input[@type='search']]
+[INFO ][07-Nov-2021 21:17:38 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (2d3637070188e8d95cec1d67fdbcf6dc)] -> xpath: //ul[@aria-label='Suggested Search']//li[normalize-space()='Flexible Work']]
+[ERROR][07-Nov-2021 21:17:45 pm] ThumbsDownFeedBack.testJumpToSection:(45) - Jump to section Test is un-successfull
+[ERROR][07-Nov-2021 21:17:46 pm] Selenium_Wrapper.highlightWebElement:(417) - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='main_image_div']//div[@class='thumbs_up_down'][2]"}
+  (Session info: chrome=95.0.4638.54)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-N43657M', ip: '192.168.29.58', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 95.0.4638.54, chrome: {chromedriverVersion: 95.0.4638.17 (a9d0719444d4b..., userDataDir: C:\Users\Pramod\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:51666}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 2d3637070188e8d95cec1d67fdbcf6dc
+*** Element info: {Using=xpath, value=//div[@class='main_image_div']//div[@class='thumbs_up_down'][2]}
+[ERROR][07-Nov-2021 21:17:52 pm] ThumbsDownFeedBack.testFeedbackPage:(69) - Request Updates, Comments, Thumbs Up & Down Test is un-successfull
+[INFO ][07-Nov-2021 21:18:02 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (2d3637070188e8d95cec1d67fdbcf6dc)] -> xpath: //div[@class='dropdown']]
+[INFO ][07-Nov-2021 21:18:12 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (2d3637070188e8d95cec1d67fdbcf6dc)] -> xpath: //a[text()='My Feedback']]
+[INFO ][07-Nov-2021 21:18:35 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (2d3637070188e8d95cec1d67fdbcf6dc)] -> xpath: ((//table//tbody)[2]//a)[1]]
+[ERROR][07-Nov-2021 21:18:42 pm] Selenium_Wrapper.highlightWebElement:(417) - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//li//div[normalize-space()='Unresolved']"}
+  (Session info: chrome=95.0.4638.54)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-N43657M', ip: '192.168.29.58', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 95.0.4638.54, chrome: {chromedriverVersion: 95.0.4638.17 (a9d0719444d4b..., userDataDir: C:\Users\Pramod\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:51666}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 2d3637070188e8d95cec1d67fdbcf6dc
+*** Element info: {Using=xpath, value=//li//div[normalize-space()='Unresolved']}
+[INFO ][07-Nov-2021 21:18:53 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (2d3637070188e8d95cec1d67fdbcf6dc)] -> class name: knowledge]
+[INFO ][07-Nov-2021 21:18:58 pm] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][07-Nov-2021 21:19:03 pm] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--tst.custhelp.com/AgentWeb/
+[INFO ][07-Nov-2021 21:19:07 pm] Selenium_Wrapper.enterText:(311) - Entering Text :RNT_pramod in WebElement :[[ChromeDriver: chrome on WINDOWS (1af87f138a80af91c99668a699265d3c)] -> id: username]
+[INFO ][07-Nov-2021 21:19:08 pm] Selenium_Wrapper.enterText:(311) - Entering Text :Welcome123 in WebElement :[[ChromeDriver: chrome on WINDOWS (1af87f138a80af91c99668a699265d3c)] -> id: password]
+[INFO ][07-Nov-2021 21:19:42 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (1af87f138a80af91c99668a699265d3c)] -> id: loginbutton]
+[INFO ][07-Nov-2021 21:19:52 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (1af87f138a80af91c99668a699265d3c)] -> xpath: //div[@id='landingPanel-notifications']//button[@class='oj-button oj-button-half-chrome mobile-close-icon mobile-close-button closeFoldout']//label[text()='Close Action Center']]
+[INFO ][07-Nov-2021 21:19:59 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (1af87f138a80af91c99668a699265d3c)] -> xpath: (//span[@class='oj-button-icon oj-start navigator-icon oj-button-icon oj-start'])[1]]
+[INFO ][07-Nov-2021 21:20:05 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (1af87f138a80af91c99668a699265d3c)] -> xpath: (//div[text()='Analytics']//a)]
+[INFO ][07-Nov-2021 21:20:10 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (1af87f138a80af91c99668a699265d3c)] -> xpath: //span[text()='Reports Explorer']]
+[INFO ][07-Nov-2021 21:20:15 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (1af87f138a80af91c99668a699265d3c)] -> xpath: //div[text()='Public Reports']]
+[INFO ][07-Nov-2021 21:20:21 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (1af87f138a80af91c99668a699265d3c)] -> xpath: //div[text()='MACU CUSTOM REPORTS']]
+[INFO ][07-Nov-2021 21:20:26 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (1af87f138a80af91c99668a699265d3c)] -> xpath: //div[text()='SoftClouds']]
+[INFO ][07-Nov-2021 21:20:31 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (1af87f138a80af91c99668a699265d3c)] -> xpath: //div[text()='OKCS']]
+[INFO ][07-Nov-2021 21:20:56 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (1af87f138a80af91c99668a699265d3c)] -> xpath: //div[contains(@class,'cke_wysiwyg_div')]]
+[INFO ][07-Nov-2021 21:21:02 pm] Selenium_Wrapper.enterText:(311) - Entering Text :It is working as per Expected in WebElement :[[ChromeDriver: chrome on WINDOWS (1af87f138a80af91c99668a699265d3c)] -> xpath: //div[contains(@class,'cke_wysiwyg_div')]]
+[INFO ][07-Nov-2021 21:21:07 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (1af87f138a80af91c99668a699265d3c)] -> xpath: //button[@title='Send an incident response and save the incident']]
+[INFO ][07-Nov-2021 21:21:18 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (1af87f138a80af91c99668a699265d3c)] -> xpath: //button[@data-commandtype='SaveAndSendAndClose']]
+[INFO ][07-Nov-2021 21:21:28 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (1af87f138a80af91c99668a699265d3c)] -> xpath: //span[text()='Yes']]
+[INFO ][07-Nov-2021 21:21:38 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (1af87f138a80af91c99668a699265d3c)] -> xpath: //div[contains(@class,'refresh-icon')]]

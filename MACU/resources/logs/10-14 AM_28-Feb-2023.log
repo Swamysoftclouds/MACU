@@ -1,0 +1,19 @@
+[INFO ][28-Feb-2023 10:14:28 AM] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][28-Feb-2023 10:14:33 AM] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--upgrade.custhelp.com/
+[INFO ][28-Feb-2023 10:14:37 AM] Selenium_Wrapper.enterText:(311) - Entering Text :automation_testing in WebElement :[[ChromeDriver: chrome on WINDOWS (d6eb8d29c4959751d60302277547744e)] -> id: rn_LoginForm_2_Username]
+[INFO ][28-Feb-2023 10:14:38 AM] Selenium_Wrapper.enterText:(311) - Entering Text :Soft@123 in WebElement :[[ChromeDriver: chrome on WINDOWS (d6eb8d29c4959751d60302277547744e)] -> id: rn_LoginForm_2_Password]
+[INFO ][28-Feb-2023 10:14:45 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (d6eb8d29c4959751d60302277547744e)] -> id: rn_LoginForm_2_Submit]
+[INFO ][28-Feb-2023 10:14:54 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (d6eb8d29c4959751d60302277547744e)] -> xpath: //div[@class='dropdown']]
+[ERROR][28-Feb-2023 10:15:03 AM] Selenium_Wrapper.highlightWebElement:(417) - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='rn_HoverBookmark']//a[contains(text(),'COVID-19 Critical Updates')]"}
+  (Session info: chrome=110.0.5481.178)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'QA-SWAMYK', ip: '192.168.0.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 110.0.5481.178, chrome: {chromedriverVersion: 110.0.5481.77 (65ed616c6e8e..., userDataDir: C:\Users\SWAMYK~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:60733}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: d6eb8d29c4959751d60302277547744e
+*** Element info: {Using=xpath, value=//div[@class='rn_HoverBookmark']//a[contains(text(),'COVID-19 Critical Updates')]}
+[ERROR][28-Feb-2023 10:15:08 AM] QuickNavigation.testAssertBookmarkArticle:(49) - Assert Article from My Top Bookmarks Test is un-successfull
+[INFO ][28-Feb-2023 10:15:19 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (d6eb8d29c4959751d60302277547744e)] -> class name: knowledge]
+[INFO ][28-Feb-2023 10:15:27 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (d6eb8d29c4959751d60302277547744e)] -> xpath: //input[@type='search']]
+[INFO ][28-Feb-2023 10:15:28 AM] Selenium_Wrapper.enterText:(311) - Entering Text :Business Auto Loan in WebElement :[[ChromeDriver: chrome on WINDOWS (d6eb8d29c4959751d60302277547744e)] -> xpath: //input[@type='search']]

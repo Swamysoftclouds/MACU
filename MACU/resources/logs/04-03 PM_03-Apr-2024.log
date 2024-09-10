@@ -1,0 +1,34 @@
+[INFO ][03-Apr-2024 16:03:04 PM] Selenium_Wrapper.openBrowser:(54) - Opening chrome browser.
+[INFO ][03-Apr-2024 16:03:10 PM] Selenium_Wrapper.enterURL:(88) - Entering url :https://macu1--tst1.custhelp.com/app/home
+[INFO ][03-Apr-2024 16:03:14 PM] Selenium_Wrapper.enterText:(317) - Entering Text :swamyk in WebElement :[[ChromeDriver: chrome on WINDOWS (a5218ac87c4562964448eb7adfac71dc)] -> id: rn_LoginForm_2_Username]
+[INFO ][03-Apr-2024 16:03:16 PM] Selenium_Wrapper.enterText:(317) - Entering Text :Soft@123 in WebElement :[[ChromeDriver: chrome on WINDOWS (a5218ac87c4562964448eb7adfac71dc)] -> id: rn_LoginForm_2_Password]
+[INFO ][03-Apr-2024 16:03:20 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (a5218ac87c4562964448eb7adfac71dc)] -> id: rn_LoginForm_2_Submit]
+[INFO ][03-Apr-2024 16:03:30 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (a5218ac87c4562964448eb7adfac71dc)] -> xpath: //input[@type='search']]
+[INFO ][03-Apr-2024 16:03:31 PM] Selenium_Wrapper.enterText:(317) - Entering Text :Business Auto Loan - ALPS 1.0 in WebElement :[[ChromeDriver: chrome on WINDOWS (a5218ac87c4562964448eb7adfac71dc)] -> xpath: //input[@type='search']]
+[ERROR][03-Apr-2024 16:04:06 PM] Selenium_Wrapper.highlightWebElement:(423) - org.openqa.selenium.StaleElementReferenceException: stale element reference: stale element not found in the current frame
+  (Session info: chrome=123.0.6312.86)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SC-CAF-IN-CND84', ip: '172.26.8.170', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 123.0.6312.86, chrome: {chromedriverVersion: 123.0.6312.58 (6b4b19e9dfbb..., userDataDir: C:\Users\SWAMYK~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52137}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a5218ac87c4562964448eb7adfac71dc
+[INFO ][03-Apr-2024 16:04:12 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (a5218ac87c4562964448eb7adfac71dc)] -> xpath: (//ul[text()='Suggested Search']//li//li)[1]]
+[INFO ][03-Apr-2024 16:04:16 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (a5218ac87c4562964448eb7adfac71dc)] -> xpath: //div[@class='rn_SearchResultContent']//tbody//tr//div//span[@class='rn_Element1']//a]
+[ERROR][03-Apr-2024 16:04:22 PM] ArticlePage.testBookmarkArticle:(94) - Bookmark Article Test case is un-successfull
+[ERROR][03-Apr-2024 16:04:27 PM] ArticlePage.testShareEmail:(133) - Share Email Test case is un-successfull
+[INFO ][03-Apr-2024 16:04:35 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (a5218ac87c4562964448eb7adfac71dc)] -> xpath: //input[@type='search']]
+[INFO ][03-Apr-2024 16:04:36 PM] Selenium_Wrapper.enterText:(317) - Entering Text :Business Auto Loan - ALPS 1.0 in WebElement :[[ChromeDriver: chrome on WINDOWS (a5218ac87c4562964448eb7adfac71dc)] -> xpath: //input[@type='search']]
+[INFO ][03-Apr-2024 16:04:49 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (a5218ac87c4562964448eb7adfac71dc)] -> xpath: (//ul[text()='Suggested Search']//li//li)[1]]
+[INFO ][03-Apr-2024 16:04:55 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (a5218ac87c4562964448eb7adfac71dc)] -> xpath: //div[@class='rn_SearchResultContent']//tbody//tr//div//span[@class='rn_Element1']//a]
+[ERROR][03-Apr-2024 16:05:42 PM] Selenium_Wrapper.scrollToWebElement:(493) - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//h5[@class='recently-viewed']//bold[text()='Recently Viewed']"}
+  (Session info: chrome=123.0.6312.86)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SC-CAF-IN-CND84', ip: '172.26.8.170', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 123.0.6312.86, chrome: {chromedriverVersion: 123.0.6312.58 (6b4b19e9dfbb..., userDataDir: C:\Users\SWAMYK~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52137}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a5218ac87c4562964448eb7adfac71dc
+*** Element info: {Using=xpath, value=//h5[@class='recently-viewed']//bold[text()='Recently Viewed']}
+[ERROR][03-Apr-2024 16:05:42 PM] ArticlePage.testRequests:(203) - testRequests Test case is un-successfull
+[INFO ][03-Apr-2024 16:05:45 PM] Selenium_Wrapper.closeCurrentBrowser:(657) - Closing the current Browser

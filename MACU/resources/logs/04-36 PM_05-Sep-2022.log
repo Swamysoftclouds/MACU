@@ -1,0 +1,13 @@
+[INFO ][05-Sep-2022 16:36:10 PM] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][05-Sep-2022 16:36:14 PM] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--upgrade.custhelp.com/AgentWeb/
+[INFO ][05-Sep-2022 16:36:18 PM] Selenium_Wrapper.enterText:(311) - Entering Text :RNT_pramod in WebElement :[[ChromeDriver: chrome on WINDOWS (b4338f12c5cf980a6431ff59c65ee78a)] -> id: username]
+[INFO ][05-Sep-2022 16:36:19 PM] Selenium_Wrapper.enterText:(311) - Entering Text :Welcome123 in WebElement :[[ChromeDriver: chrome on WINDOWS (b4338f12c5cf980a6431ff59c65ee78a)] -> id: password]
+[INFO ][05-Sep-2022 16:36:51 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (b4338f12c5cf980a6431ff59c65ee78a)] -> id: loginbutton]
+[INFO ][05-Sep-2022 16:37:07 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (b4338f12c5cf980a6431ff59c65ee78a)] -> xpath: //oj-button[@id='navigationSetBtn']]
+[INFO ][05-Sep-2022 16:37:12 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (b4338f12c5cf980a6431ff59c65ee78a)] -> xpath: (//div[text()='Analytics']//a)]
+[INFO ][05-Sep-2022 16:37:17 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (b4338f12c5cf980a6431ff59c65ee78a)] -> xpath: //span[text()='Reports Explorer']]
+[INFO ][05-Sep-2022 16:37:23 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (b4338f12c5cf980a6431ff59c65ee78a)] -> xpath: //div[text()='Public Reports']]
+[INFO ][05-Sep-2022 16:37:28 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (b4338f12c5cf980a6431ff59c65ee78a)] -> xpath: //div[text()='MACU CUSTOM REPORTS']]
+[INFO ][05-Sep-2022 16:37:33 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (b4338f12c5cf980a6431ff59c65ee78a)] -> xpath: //div[text()='SoftClouds']]
+[INFO ][05-Sep-2022 16:37:38 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (b4338f12c5cf980a6431ff59c65ee78a)] -> xpath: //div[text()='OKCS']]
+[ERROR][05-Sep-2022 16:37:45 PM] SmileyFacesFeedBackReport2.testSelectingandVerifyingFlow:(169) - Selecting and Verifying  un-successfull

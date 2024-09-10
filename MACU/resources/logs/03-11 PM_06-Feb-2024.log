@@ -1,0 +1,6 @@
+[INFO ][06-Feb-2024 15:11:02 PM] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][06-Feb-2024 15:11:03 PM] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--tst1.custhelp.com/AgentWeb/
+[ERROR][06-Feb-2024 15:11:07 PM] MACU_Wrapper.signIntoBUI:(37) - Error in the loginin process
+[ERROR][06-Feb-2024 15:11:41 PM] CallOuts.testExistingAccount:(95) - Login/SignIn un-successfull
+[INFO ][06-Feb-2024 15:11:45 PM] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][06-Feb-2024 15:11:52 PM] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--tst1.custhelp.com/app/home

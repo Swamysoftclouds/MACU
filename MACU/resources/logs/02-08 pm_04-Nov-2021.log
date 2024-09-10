@@ -1,0 +1,28 @@
+[INFO ][04-Nov-2021 14:08:05 pm] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][04-Nov-2021 14:08:15 pm] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--tst.custhelp.com/app/home
+[INFO ][04-Nov-2021 14:08:19 pm] Selenium_Wrapper.enterText:(311) - Entering Text :pramodk in WebElement :[[ChromeDriver: chrome on WINDOWS (28cea27bce169c10263529c45d2df989)] -> id: rn_LoginForm_2_Username]
+[INFO ][04-Nov-2021 14:08:21 pm] Selenium_Wrapper.enterText:(311) - Entering Text :Soft@123 in WebElement :[[ChromeDriver: chrome on WINDOWS (28cea27bce169c10263529c45d2df989)] -> id: rn_LoginForm_2_Password]
+[INFO ][04-Nov-2021 14:08:24 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (28cea27bce169c10263529c45d2df989)] -> id: rn_LoginForm_2_Submit]
+[INFO ][04-Nov-2021 14:08:33 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (28cea27bce169c10263529c45d2df989)] -> xpath: //div[@class='dropdown']]
+[INFO ][04-Nov-2021 14:08:55 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (28cea27bce169c10263529c45d2df989)] -> xpath: //div[@class='rn_HoverBookmark']//a[contains(text(),'COVID-19 Critical Updates')]]
+[INFO ][04-Nov-2021 14:08:55 pm] QuickNavigation.testAssertBookmarkArticle:(45) - Assert Done
+[INFO ][04-Nov-2021 14:08:57 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (28cea27bce169c10263529c45d2df989)] -> class name: knowledge]
+[INFO ][04-Nov-2021 14:09:02 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (28cea27bce169c10263529c45d2df989)] -> xpath: //input[@type='search']]
+[INFO ][04-Nov-2021 14:09:03 pm] Selenium_Wrapper.enterText:(311) - Entering Text :Flexible Work in WebElement :[[ChromeDriver: chrome on WINDOWS (28cea27bce169c10263529c45d2df989)] -> xpath: //input[@type='search']]
+[INFO ][04-Nov-2021 14:09:11 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (28cea27bce169c10263529c45d2df989)] -> xpath: //ul[@aria-label='Suggested Search']//li[normalize-space()='Flexible Work']]
+[INFO ][04-Nov-2021 14:09:14 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (28cea27bce169c10263529c45d2df989)] -> xpath: //div[@class='rn_SearchResultContent']//a[text()='Flexible Work']]
+[INFO ][04-Nov-2021 14:09:23 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (28cea27bce169c10263529c45d2df989)] -> class name: knowledge]
+[INFO ][04-Nov-2021 14:09:31 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (28cea27bce169c10263529c45d2df989)] -> xpath: //div[@class='dropdown']]
+[INFO ][04-Nov-2021 14:09:39 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (28cea27bce169c10263529c45d2df989)] -> xpath: //a[text()='SEE MORE']]
+[INFO ][04-Nov-2021 14:09:48 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (28cea27bce169c10263529c45d2df989)] -> class name: knowledge]
+[INFO ][04-Nov-2021 14:09:52 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (28cea27bce169c10263529c45d2df989)] -> xpath: //div[@class='dropdown']]
+[INFO ][04-Nov-2021 14:10:00 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (28cea27bce169c10263529c45d2df989)] -> xpath: //div[@class='dropdown-content']//a[normalize-space()='My Bookmarks']]
+[INFO ][04-Nov-2021 14:10:09 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (28cea27bce169c10263529c45d2df989)] -> xpath: //select[@class='BookmarkFilter']]
+[INFO ][04-Nov-2021 14:10:14 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (28cea27bce169c10263529c45d2df989)] -> xpath: //select[@class='BookmarkFilter']//option[text()='Alphabetical A-Z']]
+[INFO ][04-Nov-2021 14:10:19 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (28cea27bce169c10263529c45d2df989)] -> class name: knowledge]
+[INFO ][04-Nov-2021 14:10:22 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (28cea27bce169c10263529c45d2df989)] -> xpath: //div[@class='dropdown']]
+[INFO ][04-Nov-2021 14:10:28 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (28cea27bce169c10263529c45d2df989)] -> xpath: //div[@class='dropdown-content']//a[normalize-space()='My Notifications']]
+[INFO ][04-Nov-2021 14:10:33 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (28cea27bce169c10263529c45d2df989)] -> xpath: //a[text()='browse all PAGES']]
+[INFO ][04-Nov-2021 14:10:45 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (28cea27bce169c10263529c45d2df989)] -> xpath: //a[text()='VIEW A-Z INDEX']]
+[INFO ][04-Nov-2021 14:10:51 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (28cea27bce169c10263529c45d2df989)] -> class name: knowledge]
+[INFO ][04-Nov-2021 14:10:54 pm] Selenium_Wrapper.closeCurrentBrowser:(650) - Closing the current Browser

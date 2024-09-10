@@ -1,0 +1,19 @@
+[INFO ][04-Oct-2023 11:38:17 am] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][04-Oct-2023 11:38:23 am] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--tst1.custhelp.com/app/home
+[INFO ][04-Oct-2023 11:38:27 am] Selenium_Wrapper.enterText:(311) - Entering Text :swamyk in WebElement :[[ChromeDriver: chrome on WINDOWS (50036d63c3385ce8d39ed3beb23a527c)] -> id: rn_LoginForm_2_Username]
+[INFO ][04-Oct-2023 11:38:28 am] Selenium_Wrapper.enterText:(311) - Entering Text :Soft@123 in WebElement :[[ChromeDriver: chrome on WINDOWS (50036d63c3385ce8d39ed3beb23a527c)] -> id: rn_LoginForm_2_Password]
+[INFO ][04-Oct-2023 11:38:35 am] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (50036d63c3385ce8d39ed3beb23a527c)] -> id: rn_LoginForm_2_Submit]
+[INFO ][04-Oct-2023 11:38:44 am] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (50036d63c3385ce8d39ed3beb23a527c)] -> xpath: //div[@class='dropdown']]
+[ERROR][04-Oct-2023 11:38:49 am] Selenium_Wrapper.highlightWebElement:(417) - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//label[text()='My Top Bookmarks']"}
+  (Session info: chrome=117.0.5938.150)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'CAF-QA-SWAMYK', ip: '192.168.0.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 117.0.5938.150, chrome: {chromedriverVersion: 117.0.5938.92 (67649b10b92b..., userDataDir: C:\Users\swamyk\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56301}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 50036d63c3385ce8d39ed3beb23a527c
+*** Element info: {Using=xpath, value=//label[text()='My Top Bookmarks']}
+[INFO ][04-Oct-2023 11:39:04 am] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (50036d63c3385ce8d39ed3beb23a527c)] -> xpath: (//div[@class='dropdown-content']//a)[1]]
+[ERROR][04-Oct-2023 11:39:12 am] QuickNavigation.testAssertBookmarkArticle:(59) - Assert Article from My Top Bookmarks Test is un-successfull
+[ERROR][04-Oct-2023 11:39:22 am] QuickNavigation.testBookmarkArticle:(79) - Bookmark Article Test is un-successfull
+[ERROR][04-Oct-2023 11:39:22 am] QuickNavigation.testVerifyBookmarkArticle:(146) - Verify Bookmark Article and Highlight in List Test is un-successfull

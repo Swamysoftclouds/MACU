@@ -1,0 +1,15 @@
+[INFO ][09-Nov-2021 12:32:36 pm] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][09-Nov-2021 12:32:45 pm] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--tst.custhelp.com/app/home
+[INFO ][09-Nov-2021 12:32:49 pm] Selenium_Wrapper.enterText:(311) - Entering Text :pramodk in WebElement :[[ChromeDriver: chrome on WINDOWS (50e67d40daee3c3b63a3d2d06ef75cf1)] -> id: rn_LoginForm_2_Username]
+[INFO ][09-Nov-2021 12:32:50 pm] Selenium_Wrapper.enterText:(311) - Entering Text :Soft@123 in WebElement :[[ChromeDriver: chrome on WINDOWS (50e67d40daee3c3b63a3d2d06ef75cf1)] -> id: rn_LoginForm_2_Password]
+[INFO ][09-Nov-2021 12:32:57 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (50e67d40daee3c3b63a3d2d06ef75cf1)] -> id: rn_LoginForm_2_Submit]
+[INFO ][09-Nov-2021 12:33:07 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (50e67d40daee3c3b63a3d2d06ef75cf1)] -> xpath: //input[@type='search']]
+[INFO ][09-Nov-2021 12:33:08 pm] Selenium_Wrapper.enterText:(311) - Entering Text :Flexible Work in WebElement :[[ChromeDriver: chrome on WINDOWS (50e67d40daee3c3b63a3d2d06ef75cf1)] -> xpath: //input[@type='search']]
+[INFO ][09-Nov-2021 12:33:23 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (50e67d40daee3c3b63a3d2d06ef75cf1)] -> xpath: //ul[@aria-label='Suggested Search']//li[normalize-space()='Flexible Work']]
+[INFO ][09-Nov-2021 12:33:31 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (50e67d40daee3c3b63a3d2d06ef75cf1)] -> xpath: //div[@class='rn_SearchResultContent']//a[text()='Flexible Work']]
+[INFO ][09-Nov-2021 12:33:51 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (50e67d40daee3c3b63a3d2d06ef75cf1)] -> xpath: //button[@class='rn_RecommendContentButton p-0']]
+[INFO ][09-Nov-2021 12:33:56 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (50e67d40daee3c3b63a3d2d06ef75cf1)] -> id: rn_RequestUpdate_25_Description]
+[INFO ][09-Nov-2021 12:33:57 pm] Selenium_Wrapper.enterText:(311) - Entering Text :Test Feedback given2 in WebElement :[[ChromeDriver: chrome on WINDOWS (50e67d40daee3c3b63a3d2d06ef75cf1)] -> id: rn_RequestUpdate_25_Description]
+[INFO ][09-Nov-2021 12:34:02 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (50e67d40daee3c3b63a3d2d06ef75cf1)] -> xpath: //button[text()='Submit']]
+[INFO ][09-Nov-2021 12:34:15 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (50e67d40daee3c3b63a3d2d06ef75cf1)] -> xpath: //div[@id='rnDialog2']//button[@type='button']]
+[ERROR][09-Nov-2021 12:39:31 pm] FeedbackAdmin.testFeedbackPage:(69) - Request Updates, Comments, Thumbs Up & Down Test is un-successfull

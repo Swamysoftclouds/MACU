@@ -1,0 +1,4 @@
+[INFO ][03-Jul-2024 16:59:53 PM] Selenium_Wrapper.openBrowser:(54) - Opening chrome browser.
+[INFO ][03-Jul-2024 16:59:55 PM] Selenium_Wrapper.enterURL:(88) - Entering url :https://macu1--tst1.custhelp.com/app/home
+[ERROR][03-Jul-2024 16:59:59 PM] MACU_Wrapper.signIntoCP:(23) - Error in the signin process
+[ERROR][03-Jul-2024 17:00:03 PM] ThumbsDownFeedBack.testJumpToSection:(42) - Jump to section Test is un-successfull

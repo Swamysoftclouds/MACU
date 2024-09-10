@@ -1,0 +1,28 @@
+[INFO ][06-May-2024 10:22:21 AM] Selenium_Wrapper.openBrowser:(54) - Opening chrome browser.
+[INFO ][06-May-2024 10:22:24 AM] Selenium_Wrapper.enterURL:(88) - Entering url :https://macu1--tst1.custhelp.com/AgentWeb/
+[INFO ][06-May-2024 10:22:29 AM] Selenium_Wrapper.enterText:(317) - Entering Text :automation_testing in WebElement :[[ChromeDriver: chrome on WINDOWS (59e9db8e5ebec193f2e12856e7c3dfc1)] -> id: username]
+[INFO ][06-May-2024 10:22:30 AM] Selenium_Wrapper.enterText:(317) - Entering Text :Welcome123 in WebElement :[[ChromeDriver: chrome on WINDOWS (59e9db8e5ebec193f2e12856e7c3dfc1)] -> id: password]
+[INFO ][06-May-2024 10:22:42 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (59e9db8e5ebec193f2e12856e7c3dfc1)] -> id: loginbutton]
+[INFO ][06-May-2024 10:23:03 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (59e9db8e5ebec193f2e12856e7c3dfc1)] -> xpath: //oj-button[@id='navigationSetBtn']]
+[INFO ][06-May-2024 10:23:09 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (59e9db8e5ebec193f2e12856e7c3dfc1)] -> xpath: //div[text()='Analytics']]
+[INFO ][06-May-2024 10:23:12 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (59e9db8e5ebec193f2e12856e7c3dfc1)] -> xpath: //span[text()='Reports Explorer']]
+[INFO ][06-May-2024 10:23:14 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (59e9db8e5ebec193f2e12856e7c3dfc1)] -> xpath: //div[text()='Public Reports']]
+[INFO ][06-May-2024 10:23:16 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (59e9db8e5ebec193f2e12856e7c3dfc1)] -> xpath: //div[text()='MACU CUSTOM REPORTS']]
+[INFO ][06-May-2024 10:23:18 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (59e9db8e5ebec193f2e12856e7c3dfc1)] -> xpath: //div[text()='SoftClouds']]
+[INFO ][06-May-2024 10:23:21 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (59e9db8e5ebec193f2e12856e7c3dfc1)] -> xpath: //div[text()='OKCS']]
+[INFO ][06-May-2024 10:23:29 AM] Selenium_Wrapper.doubleClick:(286) - Double clicking on :[[ChromeDriver: chrome on WINDOWS (59e9db8e5ebec193f2e12856e7c3dfc1)] -> xpath: //div[@class='explorer-right-panel']//div[@class='explorer-data-grid']//span[text()='Feedback Admin Report']]
+[INFO ][06-May-2024 10:23:39 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (59e9db8e5ebec193f2e12856e7c3dfc1)] -> xpath: //div[@class='container wsx-flex']//div[@class='analyticsTopSection']//div[@class='select-box-root select-box-display-text-active']]
+[INFO ][06-May-2024 10:23:57 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (59e9db8e5ebec193f2e12856e7c3dfc1)] -> xpath: (//span[text()='Search'])[2]]
+[ERROR][06-May-2024 10:24:03 AM] Selenium_Wrapper.highlightWebElement:(423) - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='container wsx-flex']//div[contains(@column-id,'2')][1]"}
+  (Session info: chrome=124.0.6367.119)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SC-CAF-CND84305', ip: '192.168.1.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 124.0.6367.119, chrome: {chromedriverVersion: 123.0.6312.58 (6b4b19e9dfbb..., userDataDir: C:\Users\SWAMYK~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60990}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 59e9db8e5ebec193f2e12856e7c3dfc1
+*** Element info: {Using=xpath, value=//div[@class='container wsx-flex']//div[contains(@column-id,'2')][1]}
+[ERROR][06-May-2024 10:24:03 AM] FeedbackReport.testFeedbackStatus:(88) - Feedback Status in BUI Test is un-successfull
+[INFO ][06-May-2024 10:24:06 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (59e9db8e5ebec193f2e12856e7c3dfc1)] -> xpath: //body//oj-avatar[@initials='[[userMenuLabel]]']]
+[INFO ][06-May-2024 10:24:10 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (59e9db8e5ebec193f2e12856e7c3dfc1)] -> xpath: //a//span[text()='Sign Out']]
+[INFO ][06-May-2024 10:24:12 AM] Selenium_Wrapper.closeCurrentBrowser:(657) - Closing the current Browser

@@ -1,0 +1,34 @@
+[INFO ][24-May-2023 15:01:23 PM] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][24-May-2023 15:01:32 PM] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--tst1.custhelp.com/app/home
+[INFO ][24-May-2023 15:01:36 PM] Selenium_Wrapper.enterText:(311) - Entering Text :swamyk in WebElement :[[ChromeDriver: chrome on WINDOWS (086525546c0f3c34bd95abbef2020253)] -> id: rn_LoginForm_2_Username]
+[INFO ][24-May-2023 15:01:37 PM] Selenium_Wrapper.enterText:(311) - Entering Text :Soft@123 in WebElement :[[ChromeDriver: chrome on WINDOWS (086525546c0f3c34bd95abbef2020253)] -> id: rn_LoginForm_2_Password]
+[INFO ][24-May-2023 15:01:44 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (086525546c0f3c34bd95abbef2020253)] -> id: rn_LoginForm_2_Submit]
+[INFO ][24-May-2023 15:01:54 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (086525546c0f3c34bd95abbef2020253)] -> xpath: //input[@type='search']]
+[INFO ][24-May-2023 15:01:55 PM] Selenium_Wrapper.enterText:(311) - Entering Text :Business Auto Loan in WebElement :[[ChromeDriver: chrome on WINDOWS (086525546c0f3c34bd95abbef2020253)] -> xpath: //input[@type='search']]
+[INFO ][24-May-2023 15:02:11 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (086525546c0f3c34bd95abbef2020253)] -> xpath: (//div[@class='yui3-aclist-content']//li//li)[1]]
+[INFO ][24-May-2023 15:02:18 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (086525546c0f3c34bd95abbef2020253)] -> xpath: (//div[@class='rn_SearchResultContent']//a)[1]]
+[INFO ][24-May-2023 15:02:40 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (086525546c0f3c34bd95abbef2020253)] -> xpath: //div[@class='main_image_div']//div[@class='thumbs_up_down'][2]]
+[INFO ][24-May-2023 15:02:51 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (086525546c0f3c34bd95abbef2020253)] -> xpath: //textarea[@class='rn_DocumentTextArea']]
+[INFO ][24-May-2023 15:02:52 PM] Selenium_Wrapper.enterText:(311) - Entering Text :Flexible Work - ThumbDown Comments in WebElement :[[ChromeDriver: chrome on WINDOWS (086525546c0f3c34bd95abbef2020253)] -> xpath: //textarea[@class='rn_DocumentTextArea']]
+[INFO ][24-May-2023 15:02:58 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (086525546c0f3c34bd95abbef2020253)] -> xpath: //button[text()='SUBMIT']]
+[INFO ][24-May-2023 15:03:03 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (086525546c0f3c34bd95abbef2020253)] -> xpath: //button[@class='yui3-button yui3-button-close']]
+[INFO ][24-May-2023 15:03:10 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (086525546c0f3c34bd95abbef2020253)] -> xpath: //div[@class='dropdown']]
+[INFO ][24-May-2023 15:03:20 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (086525546c0f3c34bd95abbef2020253)] -> xpath: //a[text()='My Feedback']]
+[INFO ][24-May-2023 15:03:47 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (086525546c0f3c34bd95abbef2020253)] -> xpath: ((//table//tbody)[2]//a)[1]]
+[INFO ][24-May-2023 15:04:24 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (086525546c0f3c34bd95abbef2020253)] -> class name: knowledge]
+[INFO ][24-May-2023 15:04:26 PM] Selenium_Wrapper.closeCurrentBrowser:(651) - Closing the current Browser
+[INFO ][24-May-2023 15:04:27 PM] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][24-May-2023 15:04:36 PM] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--tst1.custhelp.com/AgentWeb/
+[INFO ][24-May-2023 15:04:40 PM] Selenium_Wrapper.enterText:(311) - Entering Text :automation_testing in WebElement :[[ChromeDriver: chrome on WINDOWS (e1067dc23dacda1ef8534766a8455b80)] -> id: username]
+[INFO ][24-May-2023 15:04:41 PM] Selenium_Wrapper.enterText:(311) - Entering Text :Welcome123 in WebElement :[[ChromeDriver: chrome on WINDOWS (e1067dc23dacda1ef8534766a8455b80)] -> id: password]
+[INFO ][24-May-2023 15:05:12 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (e1067dc23dacda1ef8534766a8455b80)] -> id: loginbutton]
+[INFO ][24-May-2023 15:05:52 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (e1067dc23dacda1ef8534766a8455b80)] -> id: navigationSetBtn]
+[INFO ][24-May-2023 15:06:00 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (e1067dc23dacda1ef8534766a8455b80)] -> xpath: (//div[text()='Analytics']//a)]
+[INFO ][24-May-2023 15:06:05 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (e1067dc23dacda1ef8534766a8455b80)] -> xpath: //span[text()='Reports Explorer']]
+[INFO ][24-May-2023 15:06:10 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (e1067dc23dacda1ef8534766a8455b80)] -> xpath: //div[text()='Public Reports']]
+[INFO ][24-May-2023 15:06:16 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (e1067dc23dacda1ef8534766a8455b80)] -> xpath: //div[text()='MACU CUSTOM REPORTS']]
+[INFO ][24-May-2023 15:06:21 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (e1067dc23dacda1ef8534766a8455b80)] -> xpath: //div[text()='SoftClouds']]
+[INFO ][24-May-2023 15:06:27 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (e1067dc23dacda1ef8534766a8455b80)] -> xpath: //div[text()='OKCS']]
+[INFO ][24-May-2023 15:06:39 PM] Selenium_Wrapper.doubleClick:(280) - Double clicking on :[[ChromeDriver: chrome on WINDOWS (e1067dc23dacda1ef8534766a8455b80)] -> xpath: //div[@class='explorer-right-panel']//div[@class='explorer-data-grid']//span[text()='Feedback Admin Report']]
+[INFO ][24-May-2023 15:06:55 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (e1067dc23dacda1ef8534766a8455b80)] -> xpath: //div[@class='container wsx-flex']//div[@class='analyticsTopSection']//div[@class='select-box-root select-box-display-text-active']]
+[ERROR][24-May-2023 15:07:01 PM] AnswerVotingFeedbackReport.testSelectingandGivingAnswerstoReportFlow:(170) - Selecting and Giving Asnwers to Report  un-successfull

@@ -1,0 +1,10 @@
+[INFO ][03-Aug-2023 19:04:09 pm] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][03-Aug-2023 19:04:17 pm] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--tst1.custhelp.com/app/home
+[INFO ][03-Aug-2023 19:04:21 pm] Selenium_Wrapper.enterText:(311) - Entering Text :swamyk in WebElement :[[ChromeDriver: chrome on WINDOWS (68b8bd152194176cf2104108cd6892ed)] -> id: rn_LoginForm_2_Username]
+[INFO ][03-Aug-2023 19:04:22 pm] Selenium_Wrapper.enterText:(311) - Entering Text :Soft@123 in WebElement :[[ChromeDriver: chrome on WINDOWS (68b8bd152194176cf2104108cd6892ed)] -> id: rn_LoginForm_2_Password]
+[INFO ][03-Aug-2023 19:04:29 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (68b8bd152194176cf2104108cd6892ed)] -> id: rn_LoginForm_2_Submit]
+[INFO ][03-Aug-2023 19:04:39 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (68b8bd152194176cf2104108cd6892ed)] -> xpath: //input[@type='search']]
+[INFO ][03-Aug-2023 19:04:40 pm] Selenium_Wrapper.enterText:(311) - Entering Text :Business Auto Loan in WebElement :[[ChromeDriver: chrome on WINDOWS (68b8bd152194176cf2104108cd6892ed)] -> xpath: //input[@type='search']]
+[INFO ][03-Aug-2023 19:04:45 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (68b8bd152194176cf2104108cd6892ed)] -> xpath: //i[@class='fas fa-search search_icon active']]
+[ERROR][03-Aug-2023 19:04:52 pm] ArticlePage.testSearchPage:(36) - Search and Select Article Test case is un-successfull
+[ERROR][03-Aug-2023 19:04:57 pm] ArticlePage.testBookmarkArticle:(93) - Bookmark Article Test case is un-successfull

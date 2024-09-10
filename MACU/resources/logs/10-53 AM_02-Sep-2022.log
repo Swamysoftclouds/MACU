@@ -1,0 +1,3 @@
+[INFO ][02-Sep-2022 10:53:26 AM] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][02-Sep-2022 10:53:29 AM] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--upgrade.custhelp.com/
+[ERROR][02-Sep-2022 10:53:33 AM] MACU_Wrapper.signIntoCP:(23) - Error in the signin process

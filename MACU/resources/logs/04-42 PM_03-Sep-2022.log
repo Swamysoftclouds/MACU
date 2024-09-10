@@ -1,0 +1,20 @@
+[INFO ][03-Sep-2022 16:42:52 PM] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][03-Sep-2022 16:42:57 PM] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--upgrade.custhelp.com/AgentWeb/
+[INFO ][03-Sep-2022 16:43:01 PM] Selenium_Wrapper.enterText:(311) - Entering Text :RNT_pramod in WebElement :[[ChromeDriver: chrome on WINDOWS (1b47c00bcc4d61e78ded8d6c7330cb53)] -> id: username]
+[INFO ][03-Sep-2022 16:43:02 PM] Selenium_Wrapper.enterText:(311) - Entering Text :Welcome123 in WebElement :[[ChromeDriver: chrome on WINDOWS (1b47c00bcc4d61e78ded8d6c7330cb53)] -> id: password]
+[INFO ][03-Sep-2022 16:43:25 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (1b47c00bcc4d61e78ded8d6c7330cb53)] -> id: loginbutton]
+[INFO ][03-Sep-2022 16:43:37 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (1b47c00bcc4d61e78ded8d6c7330cb53)] -> id: navigationSetBtn]
+[INFO ][03-Sep-2022 16:43:45 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (1b47c00bcc4d61e78ded8d6c7330cb53)] -> xpath: //div[@automationid='Configuration']]
+[INFO ][03-Sep-2022 16:43:50 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (1b47c00bcc4d61e78ded8d6c7330cb53)] -> xpath: //div[@automationid='Configuration_Service']]
+[INFO ][03-Sep-2022 16:43:55 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (1b47c00bcc4d61e78ded8d6c7330cb53)] -> xpath: //div[@automationid='Configuration_Service_Knowledge Advanced']]
+[INFO ][03-Sep-2022 16:44:01 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (1b47c00bcc4d61e78ded8d6c7330cb53)] -> xpath: //div[@automationid='Configuration_Service_Knowledge Advanced_Authoring']//span[text()='Authoring']]
+[INFO ][03-Sep-2022 16:44:15 PM] Selenium_Wrapper.clickUsingActions:(249) - Clicking on :[[ChromeDriver: chrome on WINDOWS (1b47c00bcc4d61e78ded8d6c7330cb53)] -> xpath: //div[@class='bodyDivRN']//li[@testidentifier='MainNavBar_Content']//a]
+[INFO ][03-Sep-2022 16:44:35 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (1b47c00bcc4d61e78ded8d6c7330cb53)] -> xpath: //a[@testidentifier='ContentNavBar_Add_Technology'][normalize-space()='Add']]
+[INFO ][03-Sep-2022 16:44:44 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (1b47c00bcc4d61e78ded8d6c7330cb53)] -> xpath: //input[@testidentifier='Content_ContentType_Add_SUMMARY']]
+[INFO ][03-Sep-2022 16:44:45 PM] Selenium_Wrapper.enterText:(311) - Entering Text :Test Technology through Automation 3 in WebElement :[[ChromeDriver: chrome on WINDOWS (1b47c00bcc4d61e78ded8d6c7330cb53)] -> xpath: //input[@testidentifier='Content_ContentType_Add_SUMMARY']]
+[INFO ][03-Sep-2022 16:44:51 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (1b47c00bcc4d61e78ded8d6c7330cb53)] -> xpath: //input[@testidentifier='Content_ContentType_Add_KEYWORD']]
+[INFO ][03-Sep-2022 16:44:52 PM] Selenium_Wrapper.enterText:(311) - Entering Text :Automation Technology Test 3 in WebElement :[[ChromeDriver: chrome on WINDOWS (1b47c00bcc4d61e78ded8d6c7330cb53)] -> xpath: //input[@testidentifier='Content_ContentType_Add_KEYWORD']]
+[INFO ][03-Sep-2022 16:45:02 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (1b47c00bcc4d61e78ded8d6c7330cb53)] -> xpath: (//span[text()='Source'])[5]]
+[INFO ][03-Sep-2022 16:45:07 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (1b47c00bcc4d61e78ded8d6c7330cb53)] -> xpath: //textarea[contains(@title,'Rich Text Editor')]]
+[INFO ][03-Sep-2022 16:45:15 PM] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[ERROR][03-Sep-2022 16:45:31 PM] MACU_Wrapper.signIntoCP:(23) - Error in the signin process

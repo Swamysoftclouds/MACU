@@ -1,0 +1,36 @@
+[INFO ][02-Jul-2024 11:39:51 AM] Selenium_Wrapper.openBrowser:(54) - Opening chrome browser.
+[INFO ][02-Jul-2024 11:40:05 AM] Selenium_Wrapper.enterURL:(88) - Entering url :https://macu1--tst1.custhelp.com/app/home
+[INFO ][02-Jul-2024 11:40:09 AM] Selenium_Wrapper.enterText:(317) - Entering Text :swamyk in WebElement :[[ChromeDriver: chrome on WINDOWS (c29acfceb02c28a58d603914bed9f27d)] -> id: rn_LoginForm_2_Username]
+[INFO ][02-Jul-2024 11:40:10 AM] Selenium_Wrapper.enterText:(317) - Entering Text :Soft@123 in WebElement :[[ChromeDriver: chrome on WINDOWS (c29acfceb02c28a58d603914bed9f27d)] -> id: rn_LoginForm_2_Password]
+[INFO ][02-Jul-2024 11:40:15 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (c29acfceb02c28a58d603914bed9f27d)] -> id: rn_LoginForm_2_Submit]
+[INFO ][02-Jul-2024 11:40:30 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (c29acfceb02c28a58d603914bed9f27d)] -> xpath: //input[@type='search']]
+[INFO ][02-Jul-2024 11:40:31 AM] Selenium_Wrapper.enterText:(317) - Entering Text :Business Use Auto Loan in WebElement :[[ChromeDriver: chrome on WINDOWS (c29acfceb02c28a58d603914bed9f27d)] -> xpath: //input[@type='search']]
+[INFO ][02-Jul-2024 11:40:33 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (c29acfceb02c28a58d603914bed9f27d)] -> xpath: //input[@type='search']]
+[INFO ][02-Jul-2024 11:40:44 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (c29acfceb02c28a58d603914bed9f27d)] -> xpath: (//div[@class='yui3-aclist-content']//li//li)[1]]
+[ERROR][02-Jul-2024 11:40:48 AM] AnswerVotingFeedbackReport.testSearchanArticle:(34) - Search an Article in CP is un-successfull
+[ERROR][02-Jul-2024 11:40:51 AM] Selenium_Wrapper.highlightWebElement:(423) - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='main_image_div']//div[@class='thumbs_up_down'][2]"}
+  (Session info: chrome=126.0.6478.127)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SC-CAF-CND84305', ip: '192.168.1.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.127, chrome: {chromedriverVersion: 125.0.6422.141 (4b1e8393712..., userDataDir: C:\Users\SWAMYK~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50390}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c29acfceb02c28a58d603914bed9f27d
+*** Element info: {Using=xpath, value=//div[@class='main_image_div']//div[@class='thumbs_up_down'][2]}
+[ERROR][02-Jul-2024 11:40:54 AM] AnswerVotingFeedbackReport.testFeedbackPage:(57) - Thumbs Up & Down Test is un-successfull
+[INFO ][02-Jul-2024 11:40:58 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (c29acfceb02c28a58d603914bed9f27d)] -> xpath: //div[@class='dropdown']]
+[INFO ][02-Jul-2024 11:41:05 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (c29acfceb02c28a58d603914bed9f27d)] -> xpath: //a[text()='My Feedback']]
+[INFO ][02-Jul-2024 11:41:28 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (c29acfceb02c28a58d603914bed9f27d)] -> xpath: ((//table//tbody)[2]//a)[1]]
+[ERROR][02-Jul-2024 11:41:39 AM] Selenium_Wrapper.highlightWebElement:(423) - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//li//div[normalize-space()='Unresolved']"}
+  (Session info: chrome=126.0.6478.127)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SC-CAF-CND84305', ip: '192.168.1.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.127, chrome: {chromedriverVersion: 125.0.6422.141 (4b1e8393712..., userDataDir: C:\Users\SWAMYK~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50390}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c29acfceb02c28a58d603914bed9f27d
+*** Element info: {Using=xpath, value=//li//div[normalize-space()='Unresolved']}
+[INFO ][02-Jul-2024 11:41:55 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (c29acfceb02c28a58d603914bed9f27d)] -> class name: knowledge]
+[INFO ][02-Jul-2024 11:41:57 AM] Selenium_Wrapper.closeCurrentBrowser:(657) - Closing the current Browser
+[INFO ][02-Jul-2024 11:42:01 AM] Selenium_Wrapper.openBrowser:(54) - Opening chrome browser.
+[ERROR][02-Jul-2024 11:42:10 AM] MACU_Wrapper.signIntoBUI:(37) - Error in the loginin process

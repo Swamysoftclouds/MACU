@@ -1,0 +1,12 @@
+[INFO ][09-Aug-2023 19:15:28 pm] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][09-Aug-2023 19:15:33 pm] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--tst1.custhelp.com/app/home
+[INFO ][09-Aug-2023 19:15:37 pm] Selenium_Wrapper.enterText:(311) - Entering Text :swamyk in WebElement :[[ChromeDriver: chrome on WINDOWS (b37beeb6dbb9cb8cbc927ffeb475b949)] -> id: rn_LoginForm_2_Username]
+[INFO ][09-Aug-2023 19:15:39 pm] Selenium_Wrapper.enterText:(311) - Entering Text :Soft@123 in WebElement :[[ChromeDriver: chrome on WINDOWS (b37beeb6dbb9cb8cbc927ffeb475b949)] -> id: rn_LoginForm_2_Password]
+[INFO ][09-Aug-2023 19:15:46 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (b37beeb6dbb9cb8cbc927ffeb475b949)] -> id: rn_LoginForm_2_Submit]
+[INFO ][09-Aug-2023 19:16:03 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (b37beeb6dbb9cb8cbc927ffeb475b949)] -> class name: knowledge]
+[INFO ][09-Aug-2023 19:16:10 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (b37beeb6dbb9cb8cbc927ffeb475b949)] -> xpath: //div[@class='dropdown']]
+[INFO ][09-Aug-2023 19:16:19 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (b37beeb6dbb9cb8cbc927ffeb475b949)] -> xpath: //div[@class='dropdown-content']//a[normalize-space()='My Notifications']]
+[INFO ][09-Aug-2023 19:16:28 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (b37beeb6dbb9cb8cbc927ffeb475b949)] -> xpath: //a[text()='browse all PAGES']]
+[INFO ][09-Aug-2023 19:16:46 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (b37beeb6dbb9cb8cbc927ffeb475b949)] -> xpath: //a[text()='VIEW A-Z INDEX']]
+[INFO ][09-Aug-2023 19:17:02 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (b37beeb6dbb9cb8cbc927ffeb475b949)] -> class name: knowledge]
+[INFO ][09-Aug-2023 19:17:05 pm] Selenium_Wrapper.closeCurrentBrowser:(651) - Closing the current Browser

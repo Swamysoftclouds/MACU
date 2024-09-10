@@ -1,0 +1,13 @@
+[INFO ][03-Jul-2024 16:22:13 PM] Selenium_Wrapper.openBrowser:(54) - Opening chrome browser.
+[INFO ][03-Jul-2024 16:22:19 PM] Selenium_Wrapper.enterURL:(88) - Entering url :https://macu1--tst1.custhelp.com/app/home
+[INFO ][03-Jul-2024 16:22:23 PM] Selenium_Wrapper.enterText:(317) - Entering Text :swamyk in WebElement :[[ChromeDriver: chrome on WINDOWS (d1f8c1324d89d17e65fadbd40a3bde97)] -> id: rn_LoginForm_2_Username]
+[INFO ][03-Jul-2024 16:22:25 PM] Selenium_Wrapper.enterText:(317) - Entering Text :Soft@123 in WebElement :[[ChromeDriver: chrome on WINDOWS (d1f8c1324d89d17e65fadbd40a3bde97)] -> id: rn_LoginForm_2_Password]
+[INFO ][03-Jul-2024 16:22:29 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (d1f8c1324d89d17e65fadbd40a3bde97)] -> id: rn_LoginForm_2_Submit]
+[INFO ][03-Jul-2024 16:22:36 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (d1f8c1324d89d17e65fadbd40a3bde97)] -> xpath: //input[@type='search']]
+[INFO ][03-Jul-2024 16:22:37 PM] Selenium_Wrapper.enterText:(317) - Entering Text :Business Use Auto Loan in WebElement :[[ChromeDriver: chrome on WINDOWS (d1f8c1324d89d17e65fadbd40a3bde97)] -> xpath: //input[@type='search']]
+[INFO ][03-Jul-2024 16:22:50 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (d1f8c1324d89d17e65fadbd40a3bde97)] -> xpath: (//div[@class='yui3-aclist-content']//li//li)[1]]
+[INFO ][03-Jul-2024 16:22:54 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (d1f8c1324d89d17e65fadbd40a3bde97)] -> xpath: (//div[@class='rn_SearchResultContent']//a)[1]]
+[INFO ][03-Jul-2024 16:23:03 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (d1f8c1324d89d17e65fadbd40a3bde97)] -> xpath: //div[@class='main_image_div']//div[@class='thumbs_up_down'][2]]
+[ERROR][03-Jul-2024 16:23:13 PM] ThumbsDownFeedBack.testFeedbackPage:(69) - Request Updates, Comments, Thumbs Up & Down Test is un-successfull
+[INFO ][03-Jul-2024 16:23:17 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (d1f8c1324d89d17e65fadbd40a3bde97)] -> xpath: //div[@class='dropdown']]
+[INFO ][03-Jul-2024 16:23:24 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (d1f8c1324d89d17e65fadbd40a3bde97)] -> xpath: //a[text()='My Feedback']]

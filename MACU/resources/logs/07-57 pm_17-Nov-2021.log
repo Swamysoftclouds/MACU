@@ -1,0 +1,12 @@
+[INFO ][17-Nov-2021 19:57:26 pm] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][17-Nov-2021 19:57:32 pm] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--tst.custhelp.com/app/home
+[INFO ][17-Nov-2021 19:57:37 pm] Selenium_Wrapper.enterText:(311) - Entering Text :pramodk in WebElement :[[ChromeDriver: chrome on WINDOWS (a993e0484482a6c8c90b86edbcf6cb9c)] -> id: rn_LoginForm_2_Username]
+[INFO ][17-Nov-2021 19:57:38 pm] Selenium_Wrapper.enterText:(311) - Entering Text :Soft@123 in WebElement :[[ChromeDriver: chrome on WINDOWS (a993e0484482a6c8c90b86edbcf6cb9c)] -> id: rn_LoginForm_2_Password]
+[INFO ][17-Nov-2021 19:57:45 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (a993e0484482a6c8c90b86edbcf6cb9c)] -> id: rn_LoginForm_2_Submit]
+[INFO ][17-Nov-2021 19:57:54 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (a993e0484482a6c8c90b86edbcf6cb9c)] -> xpath: //input[@type='search']]
+[INFO ][17-Nov-2021 19:57:56 pm] Selenium_Wrapper.enterText:(311) - Entering Text :Auto Loan in WebElement :[[ChromeDriver: chrome on WINDOWS (a993e0484482a6c8c90b86edbcf6cb9c)] -> xpath: //input[@type='search']]
+[INFO ][17-Nov-2021 19:58:10 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (a993e0484482a6c8c90b86edbcf6cb9c)] -> xpath: //ul[@aria-label='Suggested Search']//li[normalize-space()= 'Auto Loan' ]]
+[INFO ][17-Nov-2021 19:58:17 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (a993e0484482a6c8c90b86edbcf6cb9c)] -> xpath: //div[@class='rn_SearchResultContent']//a[text()='Auto Loan']]
+[INFO ][17-Nov-2021 19:58:32 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (a993e0484482a6c8c90b86edbcf6cb9c)] -> xpath: //a[contains(@class,'bookmarkedFilled')]//img[@class='bookmark_icon_red']]
+[INFO ][17-Nov-2021 19:58:46 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (a993e0484482a6c8c90b86edbcf6cb9c)] -> xpath: //a[@class='add_bookmarkButton']//img[@class='bookmark_icon_blank']]
+[INFO ][17-Nov-2021 19:58:53 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (a993e0484482a6c8c90b86edbcf6cb9c)] -> xpath: //div[@class='dropdown']]

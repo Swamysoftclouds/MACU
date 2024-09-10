@@ -1,0 +1,15 @@
+[INFO ][06-May-2024 10:34:15 AM] Selenium_Wrapper.openBrowser:(54) - Opening chrome browser.
+[INFO ][06-May-2024 10:34:21 AM] Selenium_Wrapper.enterURL:(88) - Entering url :https://macu1--tst1.custhelp.com/AgentWeb/
+[INFO ][06-May-2024 10:34:26 AM] Selenium_Wrapper.enterText:(317) - Entering Text :automation_testing in WebElement :[[ChromeDriver: chrome on WINDOWS (75773cef167d53ed42cdf49b29f88865)] -> id: username]
+[INFO ][06-May-2024 10:34:28 AM] Selenium_Wrapper.enterText:(317) - Entering Text :Welcome123 in WebElement :[[ChromeDriver: chrome on WINDOWS (75773cef167d53ed42cdf49b29f88865)] -> id: password]
+[INFO ][06-May-2024 10:34:48 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (75773cef167d53ed42cdf49b29f88865)] -> id: loginbutton]
+[INFO ][06-May-2024 10:35:00 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (75773cef167d53ed42cdf49b29f88865)] -> id: navigationSetBtn]
+[INFO ][06-May-2024 10:35:03 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (75773cef167d53ed42cdf49b29f88865)] -> xpath: //div[text()='Contacts']]
+[INFO ][06-May-2024 10:35:05 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (75773cef167d53ed42cdf49b29f88865)] -> xpath: (//span[text()='Contacts'])[2]]
+[INFO ][06-May-2024 10:35:12 AM] Selenium_Wrapper.enterText:(317) - Entering Text :V1002 in WebElement :[[ChromeDriver: chrome on WINDOWS (75773cef167d53ed42cdf49b29f88865)] -> xpath: (//label[text()='Login']//following::input)[1]]
+[INFO ][06-May-2024 10:35:15 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (75773cef167d53ed42cdf49b29f88865)] -> xpath: //span[text()='Search']]
+[INFO ][06-May-2024 10:35:20 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (75773cef167d53ed42cdf49b29f88865)] -> xpath: //span[text()='Summary']]
+[INFO ][06-May-2024 10:35:23 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (75773cef167d53ed42cdf49b29f88865)] -> xpath: (//div[@class='primary-tab-header']//ul//li)[2]//span//a//i]
+[INFO ][06-May-2024 10:35:26 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (75773cef167d53ed42cdf49b29f88865)] -> xpath: //a[@class='closeButton']]
+[INFO ][06-May-2024 10:35:30 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (75773cef167d53ed42cdf49b29f88865)] -> xpath: //body//oj-avatar[@initials='[[userMenuLabel]]']]
+[INFO ][06-May-2024 10:35:33 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (75773cef167d53ed42cdf49b29f88865)] -> xpath: //a//span[text()='Sign Out']]

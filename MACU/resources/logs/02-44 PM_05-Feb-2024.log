@@ -1,0 +1,9 @@
+[INFO ][05-Feb-2024 14:44:44 PM] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][05-Feb-2024 14:44:47 PM] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--tst1.custhelp.com/AgentWeb/
+[INFO ][05-Feb-2024 14:44:51 PM] Selenium_Wrapper.enterText:(311) - Entering Text :automation_testing in WebElement :[[ChromeDriver: chrome on WINDOWS (705b9b85a7b8daa3d005b82ad99fbf05)] -> id: username]
+[INFO ][05-Feb-2024 14:44:53 PM] Selenium_Wrapper.enterText:(311) - Entering Text :Welcome123 in WebElement :[[ChromeDriver: chrome on WINDOWS (705b9b85a7b8daa3d005b82ad99fbf05)] -> id: password]
+[INFO ][05-Feb-2024 14:45:05 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (705b9b85a7b8daa3d005b82ad99fbf05)] -> id: loginbutton]
+[INFO ][05-Feb-2024 14:45:30 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (705b9b85a7b8daa3d005b82ad99fbf05)] -> xpath: //oj-button[@id='navigationSetBtn']]
+[ERROR][05-Feb-2024 14:45:35 PM] ThumbsUpAndThumbsDownFeedback.testThumbsUpAndThumbsDownFeedbackFlow:(40) - Navigate To ThumbsUp_And_ThumbsDown_Feedback Test is un-successfull
+[ERROR][05-Feb-2024 14:45:40 PM] ThumbsUpAndThumbsDownFeedback.testSelectingandVerifyingFlow:(167) - Selecting and Verifying Test is un-successfull
+[INFO ][05-Feb-2024 14:45:50 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (705b9b85a7b8daa3d005b82ad99fbf05)] -> xpath: //body//oj-avatar[@initials='[[userMenuLabel]]']]

@@ -1,0 +1,20 @@
+[INFO ][02-Sep-2022 15:18:57 PM] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][02-Sep-2022 15:19:03 PM] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--upgrade.custhelp.com/
+[INFO ][02-Sep-2022 15:19:07 PM] Selenium_Wrapper.enterText:(311) - Entering Text :pramodk in WebElement :[[ChromeDriver: chrome on WINDOWS (87e680c8feff2f29d002ffca4b1904a2)] -> id: rn_LoginForm_2_Username]
+[INFO ][02-Sep-2022 15:19:09 PM] Selenium_Wrapper.enterText:(311) - Entering Text :Soft@123 in WebElement :[[ChromeDriver: chrome on WINDOWS (87e680c8feff2f29d002ffca4b1904a2)] -> id: rn_LoginForm_2_Password]
+[INFO ][02-Sep-2022 15:19:16 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (87e680c8feff2f29d002ffca4b1904a2)] -> id: rn_LoginForm_2_Submit]
+[INFO ][02-Sep-2022 15:19:32 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (87e680c8feff2f29d002ffca4b1904a2)] -> class name: dropdown]
+[INFO ][02-Sep-2022 15:19:48 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (87e680c8feff2f29d002ffca4b1904a2)] -> xpath: //a[text()='My Activity']]
+[INFO ][02-Sep-2022 15:19:56 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (87e680c8feff2f29d002ffca4b1904a2)] -> xpath: //input[@type='search']]
+[INFO ][02-Sep-2022 15:19:57 PM] Selenium_Wrapper.enterText:(311) - Entering Text :Auto Loan in WebElement :[[ChromeDriver: chrome on WINDOWS (87e680c8feff2f29d002ffca4b1904a2)] -> xpath: //input[@type='search']]
+[INFO ][02-Sep-2022 15:20:12 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (87e680c8feff2f29d002ffca4b1904a2)] -> xpath: //ul[@aria-label='Suggested Search']/li[normalize-space()='Auto Loan']]
+[INFO ][02-Sep-2022 15:20:19 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (87e680c8feff2f29d002ffca4b1904a2)] -> class name: dropdown]
+[INFO ][02-Sep-2022 15:20:28 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (87e680c8feff2f29d002ffca4b1904a2)] -> xpath: //a[text()='My Activity']]
+[INFO ][02-Sep-2022 15:20:36 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (87e680c8feff2f29d002ffca4b1904a2)] -> xpath: //a[text()='browse all PAGES']]
+[INFO ][02-Sep-2022 15:20:45 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (87e680c8feff2f29d002ffca4b1904a2)] -> class name: dropdown]
+[INFO ][02-Sep-2022 15:20:53 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (87e680c8feff2f29d002ffca4b1904a2)] -> xpath: //a[text()='My Activity']]
+[INFO ][02-Sep-2022 15:21:06 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (87e680c8feff2f29d002ffca4b1904a2)] -> xpath: //button[@class='rn_RecommendContentButton p-0']]
+[INFO ][02-Sep-2022 15:21:07 PM] Selenium_Wrapper.enterText:(311) - Entering Text :Test Improve, comments, updates in WebElement :[[ChromeDriver: chrome on WINDOWS (87e680c8feff2f29d002ffca4b1904a2)] -> id: rn_RequestUpdate_9_Description]
+[INFO ][02-Sep-2022 15:21:13 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (87e680c8feff2f29d002ffca4b1904a2)] -> xpath: //button[@class='yui3-button yui3-button-close']]
+[INFO ][02-Sep-2022 15:21:28 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (87e680c8feff2f29d002ffca4b1904a2)] -> class name: knowledge]
+[INFO ][02-Sep-2022 15:21:31 PM] Selenium_Wrapper.closeCurrentBrowser:(651) - Closing the current Browser

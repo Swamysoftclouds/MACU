@@ -1,0 +1,40 @@
+[INFO ][03-Sep-2022 10:56:54 AM] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][03-Sep-2022 10:57:01 AM] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--upgrade.custhelp.com/
+[INFO ][03-Sep-2022 10:57:05 AM] Selenium_Wrapper.enterText:(311) - Entering Text :pramodk in WebElement :[[ChromeDriver: chrome on WINDOWS (9b4921269ca25ba7d245e277336eacdd)] -> id: rn_LoginForm_2_Username]
+[INFO ][03-Sep-2022 10:57:06 AM] Selenium_Wrapper.enterText:(311) - Entering Text :Soft@123 in WebElement :[[ChromeDriver: chrome on WINDOWS (9b4921269ca25ba7d245e277336eacdd)] -> id: rn_LoginForm_2_Password]
+[INFO ][03-Sep-2022 10:57:13 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (9b4921269ca25ba7d245e277336eacdd)] -> id: rn_LoginForm_2_Submit]
+[INFO ][03-Sep-2022 10:57:26 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (9b4921269ca25ba7d245e277336eacdd)] -> xpath: //input[@type='search']]
+[INFO ][03-Sep-2022 10:57:27 AM] Selenium_Wrapper.enterText:(311) - Entering Text :Auto Loan in WebElement :[[ChromeDriver: chrome on WINDOWS (9b4921269ca25ba7d245e277336eacdd)] -> xpath: //input[@type='search']]
+[ERROR][03-Sep-2022 10:57:30 AM] Selenium_Wrapper.highlightWebElement:(417) - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//ul[@aria-label='Suggested Search']//li[normalize-space()='Flexible Work']"}
+  (Session info: chrome=105.0.5195.102)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'QA-SWAMYK', ip: '192.168.0.4', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.102, chrome: {chromedriverVersion: 105.0.5195.52 (412c95e51883..., userDataDir: C:\Users\SWAMYK~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:59896}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 9b4921269ca25ba7d245e277336eacdd
+*** Element info: {Using=xpath, value=//ul[@aria-label='Suggested Search']//li[normalize-space()='Flexible Work']}
+[ERROR][03-Sep-2022 10:57:35 AM] AnswerVotingFeedbackReport.testSearchanArticle:(40) - Search an Article in CP is un-successfull
+[ERROR][03-Sep-2022 10:57:38 AM] Selenium_Wrapper.highlightWebElement:(417) - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='main_image_div']//div[@class='thumbs_up_down'][2]"}
+  (Session info: chrome=105.0.5195.102)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'QA-SWAMYK', ip: '192.168.0.4', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.102, chrome: {chromedriverVersion: 105.0.5195.52 (412c95e51883..., userDataDir: C:\Users\SWAMYK~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:59896}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 9b4921269ca25ba7d245e277336eacdd
+*** Element info: {Using=xpath, value=//div[@class='main_image_div']//div[@class='thumbs_up_down'][2]}
+[ERROR][03-Sep-2022 10:57:44 AM] AnswerVotingFeedbackReport.testFeedbackPage:(62) - Thumbs Up & Down Test is un-successfull
+[INFO ][03-Sep-2022 10:57:51 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (9b4921269ca25ba7d245e277336eacdd)] -> xpath: //div[@class='dropdown']]
+[INFO ][03-Sep-2022 10:58:02 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (9b4921269ca25ba7d245e277336eacdd)] -> xpath: //a[text()='My Feedback']]
+[INFO ][03-Sep-2022 10:58:31 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (9b4921269ca25ba7d245e277336eacdd)] -> xpath: ((//table//tbody)[2]//a)[1]]
+[INFO ][03-Sep-2022 10:59:07 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (9b4921269ca25ba7d245e277336eacdd)] -> class name: knowledge]
+[INFO ][03-Sep-2022 10:59:09 AM] Selenium_Wrapper.closeCurrentBrowser:(651) - Closing the current Browser
+[INFO ][03-Sep-2022 10:59:10 AM] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][03-Sep-2022 10:59:19 AM] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--upgrade.custhelp.com/AgentWeb/
+[INFO ][03-Sep-2022 10:59:24 AM] Selenium_Wrapper.enterText:(311) - Entering Text :RNT_pramod in WebElement :[[ChromeDriver: chrome on WINDOWS (176bee2d929304ec086d711ec0a72991)] -> id: username]
+[INFO ][03-Sep-2022 10:59:25 AM] Selenium_Wrapper.enterText:(311) - Entering Text :Welcome123 in WebElement :[[ChromeDriver: chrome on WINDOWS (176bee2d929304ec086d711ec0a72991)] -> id: password]
+[INFO ][03-Sep-2022 10:59:40 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (176bee2d929304ec086d711ec0a72991)] -> id: loginbutton]
+[ERROR][03-Sep-2022 10:59:48 AM] AnswerVotingFeedbackReport.testNavigateToAnwserVotingFeedBackReportlow:(122) - Navigate To Anwser Voting FeedBackReport testing un-successfull
+[ERROR][03-Sep-2022 10:59:48 AM] AnswerVotingFeedbackReport.testSelectingandGivingAnswerstoReportFlow:(214) - Selecting and Giving Asnwers to Report  un-successfull
+[ERROR][03-Sep-2022 10:59:56 AM] AnswerVotingFeedbackReport.testSignout:(229) - Logout/SignOut un-successfull

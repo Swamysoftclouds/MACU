@@ -1,0 +1,5 @@
+[INFO ][05-Jun-2024 13:01:43 PM] Selenium_Wrapper.openBrowser:(54) - Opening chrome browser.
+[INFO ][05-Jun-2024 13:01:48 PM] Selenium_Wrapper.enterURL:(88) - Entering url :https://macu1--tst1.custhelp.com/AgentWeb/
+[INFO ][05-Jun-2024 13:01:52 PM] Selenium_Wrapper.enterText:(317) - Entering Text :automation_testing in WebElement :[[ChromeDriver: chrome on WINDOWS (c8e274e54df154bbd9048d25ba357273)] -> id: username]
+[INFO ][05-Jun-2024 13:01:54 PM] Selenium_Wrapper.enterText:(317) - Entering Text :Welcome123 in WebElement :[[ChromeDriver: chrome on WINDOWS (c8e274e54df154bbd9048d25ba357273)] -> id: password]
+[DEBUG][05-Jun-2024 13:08:41 PM] Selenium_Wrapper.click:(240) - Handled the WebDriverException and Clicked on :[[ChromeDriver: chrome on WINDOWS (c8e274e54df154bbd9048d25ba357273)] -> id: loginbutton]

@@ -1,0 +1,5 @@
+[INFO ][28-Aug-2024 10:50:27 AM] Selenium_Wrapper.openBrowser:(54) - Opening chrome browser.
+[INFO ][28-Aug-2024 10:50:32 AM] Selenium_Wrapper.enterURL:(88) - Entering url :https://macu1--tst1.custhelp.com/AgentWeb/
+[INFO ][28-Aug-2024 10:50:36 AM] Selenium_Wrapper.enterText:(317) - Entering Text :automation_testing in WebElement :[[ChromeDriver: chrome on WINDOWS (f03297cbce26278293c00dd24f208709)] -> id: username]
+[INFO ][28-Aug-2024 10:50:37 AM] Selenium_Wrapper.enterText:(317) - Entering Text :Welcome123 in WebElement :[[ChromeDriver: chrome on WINDOWS (f03297cbce26278293c00dd24f208709)] -> id: password]
+[INFO ][28-Aug-2024 10:50:57 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (f03297cbce26278293c00dd24f208709)] -> id: loginbutton]

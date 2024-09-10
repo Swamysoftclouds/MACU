@@ -1,0 +1,20 @@
+[INFO ][24-Feb-2023 08:15:17 AM] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][24-Feb-2023 08:15:19 AM] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--upgrade.custhelp.com/
+[ERROR][24-Feb-2023 08:15:23 AM] MACU_Wrapper.signIntoCP:(23) - Error in the signin process
+[ERROR][24-Feb-2023 08:15:30 AM] AnswerVotingFeedbackReport.testSearchanArticle:(40) - Search an Article in CP is un-successfull
+[ERROR][24-Feb-2023 08:15:33 AM] Selenium_Wrapper.highlightWebElement:(417) - org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=110.0.5481.177)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'QA-SWAMYK', ip: '192.168.0.4', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 110.0.5481.177, chrome: {chromedriverVersion: 110.0.5481.77 (65ed616c6e8e..., userDataDir: C:\Users\SWAMYK~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:58505}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 1003696489d324a82a429b1cf13d2be9
+*** Element info: {Using=xpath, value=//div[@class='main_image_div']//div[@class='thumbs_up_down'][2]}
+[ERROR][24-Feb-2023 08:15:39 AM] AnswerVotingFeedbackReport.testFeedbackPage:(62) - Thumbs Up & Down Test is un-successfull
+[ERROR][24-Feb-2023 08:15:46 AM] AnswerVotingFeedbackReport.testMyFeedbackStatus:(97) - My Feedback Article Status in CP Test is un-successfull
+[INFO ][24-Feb-2023 08:15:48 AM] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[ERROR][24-Feb-2023 08:15:57 AM] MACU_Wrapper.signIntoBUI:(37) - Error in the loginin process
+[ERROR][24-Feb-2023 08:16:17 AM] AnswerVotingFeedbackReport.testNavigateToAnwserVotingFeedBackReportlow:(123) - Navigate To Anwser Voting FeedBackReport testing un-successfull
+[ERROR][24-Feb-2023 08:16:17 AM] AnswerVotingFeedbackReport.testSelectingandGivingAnswerstoReportFlow:(238) - Selecting and Giving Asnwers to Report  un-successfull
+[ERROR][24-Feb-2023 08:16:25 AM] AnswerVotingFeedbackReport.testSignout:(253) - Logout/SignOut un-successfull

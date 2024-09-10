@@ -1,0 +1,33 @@
+[INFO ][17-Nov-2021 18:17:59 pm] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][17-Nov-2021 18:18:06 pm] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--tst.custhelp.com/app/home
+[INFO ][17-Nov-2021 18:18:10 pm] Selenium_Wrapper.enterText:(311) - Entering Text :pramodk in WebElement :[[ChromeDriver: chrome on WINDOWS (8ffb202213d28bc7d2b00ae44d1ff4e6)] -> id: rn_LoginForm_2_Username]
+[INFO ][17-Nov-2021 18:18:11 pm] Selenium_Wrapper.enterText:(311) - Entering Text :Soft@123 in WebElement :[[ChromeDriver: chrome on WINDOWS (8ffb202213d28bc7d2b00ae44d1ff4e6)] -> id: rn_LoginForm_2_Password]
+[INFO ][17-Nov-2021 18:18:18 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (8ffb202213d28bc7d2b00ae44d1ff4e6)] -> id: rn_LoginForm_2_Submit]
+[INFO ][17-Nov-2021 18:18:28 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (8ffb202213d28bc7d2b00ae44d1ff4e6)] -> xpath: //input[@type='search']]
+[INFO ][17-Nov-2021 18:18:29 pm] Selenium_Wrapper.enterText:(311) - Entering Text :Auto Loan in WebElement :[[ChromeDriver: chrome on WINDOWS (8ffb202213d28bc7d2b00ae44d1ff4e6)] -> xpath: //input[@type='search']]
+[INFO ][17-Nov-2021 18:18:43 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (8ffb202213d28bc7d2b00ae44d1ff4e6)] -> xpath: //ul[@aria-label='Suggested Search']//li[normalize-space()= 'Auto Loan' ]]
+[INFO ][17-Nov-2021 18:18:50 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (8ffb202213d28bc7d2b00ae44d1ff4e6)] -> xpath: //div[@class='rn_SearchResultContent']//a[text()='Auto Loan']]
+[INFO ][17-Nov-2021 18:19:07 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (8ffb202213d28bc7d2b00ae44d1ff4e6)] -> xpath: //a[@class='add_bookmarkButton']//img[@class='bookmark_icon_blank']]
+[INFO ][17-Nov-2021 18:19:12 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (8ffb202213d28bc7d2b00ae44d1ff4e6)] -> xpath: //div[@class='dropdown']]
+[INFO ][17-Nov-2021 18:19:21 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (8ffb202213d28bc7d2b00ae44d1ff4e6)] -> xpath: //div[@class='data Custom-data']//a[text()='My Bookmarks']]
+[ERROR][17-Nov-2021 18:19:32 pm] Selenium_Wrapper.highlightWebElement:(417) - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//a[text()='Auto Loan']//parent::div[@class='rn_Notification_Info']//following-sibling::div[@class='rn_Notification_Actions']//button[@class='rn_Notification_Delete']//img[@class='bookmark_del_ico_red']"}
+  (Session info: chrome=95.0.4638.69)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-N43657M', ip: '192.168.29.58', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 95.0.4638.69, chrome: {chromedriverVersion: 95.0.4638.17 (a9d0719444d4b..., userDataDir: C:\Users\Pramod\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:56414}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 8ffb202213d28bc7d2b00ae44d1ff4e6
+*** Element info: {Using=xpath, value=//a[text()='Auto Loan']//parent::div[@class='rn_Notification_Info']//following-sibling::div[@class='rn_Notification_Actions']//button[@class='rn_Notification_Delete']//img[@class='bookmark_del_ico_red']}
+[ERROR][17-Nov-2021 18:19:37 pm] ArticlePage.testBookmarkArticle:(90) - Bookmark Article Test case is un-successfull
+[ERROR][17-Nov-2021 18:19:45 pm] ArticlePage.testShareEmail:(126) - Share Email Test case is un-successfull
+[INFO ][17-Nov-2021 18:19:52 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (8ffb202213d28bc7d2b00ae44d1ff4e6)] -> xpath: //input[@type='search']]
+[INFO ][17-Nov-2021 18:19:54 pm] Selenium_Wrapper.enterText:(311) - Entering Text :COVID-19 Critical Updates in WebElement :[[ChromeDriver: chrome on WINDOWS (8ffb202213d28bc7d2b00ae44d1ff4e6)] -> xpath: //input[@type='search']]
+[INFO ][17-Nov-2021 18:20:08 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (8ffb202213d28bc7d2b00ae44d1ff4e6)] -> xpath: //ul[@aria-label='Suggested Search']//li[normalize-space()='COVID-19 Critical Updates']]
+[INFO ][17-Nov-2021 18:20:15 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (8ffb202213d28bc7d2b00ae44d1ff4e6)] -> xpath: //div[@class='rn_SearchResultContent']//a[text()='COVID-19 Critical Updates']]
+[ERROR][17-Nov-2021 18:20:22 pm] Selenium_Wrapper.scrollToWebElement:(487) - org.openqa.selenium.NoSuchElementException: Cannot locate an element using class name=knowledge
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-N43657M', ip: '192.168.29.58', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.1'
+Driver info: driver.version: RemoteWebDriver
+[ERROR][17-Nov-2021 18:20:22 pm] ArticlePage.testRequests:(192) - testRequests Test case is un-successfull

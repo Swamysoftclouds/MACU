@@ -1,0 +1,65 @@
+[INFO ][04-Apr-2024 10:09:24 AM] Selenium_Wrapper.openBrowser:(54) - Opening chrome browser.
+[INFO ][04-Apr-2024 10:09:33 AM] Selenium_Wrapper.enterURL:(88) - Entering url :https://macu1--tst1.custhelp.com/app/home
+[INFO ][04-Apr-2024 10:09:38 AM] Selenium_Wrapper.enterText:(317) - Entering Text :swamyk in WebElement :[[ChromeDriver: chrome on WINDOWS (cd53fe8e7d2a3dbb7c4b86bdeffba2fb)] -> id: rn_LoginForm_2_Username]
+[INFO ][04-Apr-2024 10:09:39 AM] Selenium_Wrapper.enterText:(317) - Entering Text :Soft@123 in WebElement :[[ChromeDriver: chrome on WINDOWS (cd53fe8e7d2a3dbb7c4b86bdeffba2fb)] -> id: rn_LoginForm_2_Password]
+[INFO ][04-Apr-2024 10:09:44 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (cd53fe8e7d2a3dbb7c4b86bdeffba2fb)] -> id: rn_LoginForm_2_Submit]
+[INFO ][04-Apr-2024 10:09:52 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (cd53fe8e7d2a3dbb7c4b86bdeffba2fb)] -> xpath: //input[@type='search']]
+[INFO ][04-Apr-2024 10:09:53 AM] Selenium_Wrapper.enterText:(317) - Entering Text :Business Use Auto Loan in WebElement :[[ChromeDriver: chrome on WINDOWS (cd53fe8e7d2a3dbb7c4b86bdeffba2fb)] -> xpath: //input[@type='search']]
+[INFO ][04-Apr-2024 10:10:11 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (cd53fe8e7d2a3dbb7c4b86bdeffba2fb)] -> xpath: (//ul[text()='Suggested Search']//li//li)[1]]
+[INFO ][04-Apr-2024 10:10:15 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (cd53fe8e7d2a3dbb7c4b86bdeffba2fb)] -> xpath: //div[@class='rn_SearchResultContent']//tbody//tr//div//span[@class='rn_Element1']//a]
+[INFO ][04-Apr-2024 10:10:38 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (cd53fe8e7d2a3dbb7c4b86bdeffba2fb)] -> xpath: //a[@class='add_bookmarkButton']//img[@class='bookmark_icon_blank']]
+[INFO ][04-Apr-2024 10:10:43 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (cd53fe8e7d2a3dbb7c4b86bdeffba2fb)] -> xpath: //div[@class='dropdown']]
+[INFO ][04-Apr-2024 10:10:48 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (cd53fe8e7d2a3dbb7c4b86bdeffba2fb)] -> xpath: //div[@class='data Custom-data']//a[text()='My Bookmarks']]
+[INFO ][04-Apr-2024 10:11:08 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (cd53fe8e7d2a3dbb7c4b86bdeffba2fb)] -> xpath: //a[contains(text(),'Business Use Auto Loan')]//parent::div[@class='rn_Notification_Info']//following-sibling::div[@class='rn_Notification_Actions']//button[@class='rn_Notification_Delete']//img[@class='bookmark_del_ico']]
+[INFO ][04-Apr-2024 10:11:20 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (cd53fe8e7d2a3dbb7c4b86bdeffba2fb)] -> class name: knowledge]
+[INFO ][04-Apr-2024 10:11:25 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (cd53fe8e7d2a3dbb7c4b86bdeffba2fb)] -> xpath: //input[@type='search']]
+[INFO ][04-Apr-2024 10:11:26 AM] Selenium_Wrapper.enterText:(317) - Entering Text :Business Use Auto Loan in WebElement :[[ChromeDriver: chrome on WINDOWS (cd53fe8e7d2a3dbb7c4b86bdeffba2fb)] -> xpath: //input[@type='search']]
+[INFO ][04-Apr-2024 10:11:31 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (cd53fe8e7d2a3dbb7c4b86bdeffba2fb)] -> xpath: (//ul[text()='Suggested Search']//li//li)[1]]
+[INFO ][04-Apr-2024 10:11:35 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (cd53fe8e7d2a3dbb7c4b86bdeffba2fb)] -> xpath: //div[@class='rn_SearchResultContent']//tbody//tr//div//span[@class='rn_Element1']//a]
+[INFO ][04-Apr-2024 10:11:43 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (cd53fe8e7d2a3dbb7c4b86bdeffba2fb)] -> xpath: //div[contains(@class,'EmailAnswerLink')]//img[@class='share_icon_default']]
+[INFO ][04-Apr-2024 10:11:45 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (cd53fe8e7d2a3dbb7c4b86bdeffba2fb)] -> xpath: //div[@id='rnDialog1']//input[@class='select2-search__field']]
+[INFO ][04-Apr-2024 10:11:47 AM] Selenium_Wrapper.enterText:(317) - Entering Text :Aaron Brown in WebElement :[[ChromeDriver: chrome on WINDOWS (cd53fe8e7d2a3dbb7c4b86bdeffba2fb)] -> xpath: //div[@id='rnDialog1']//input[@class='select2-search__field']]
+[INFO ][04-Apr-2024 10:11:52 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (cd53fe8e7d2a3dbb7c4b86bdeffba2fb)] -> xpath: //ul[@class='select2-results__options']//li[text()='Aaron Brown']]
+[INFO ][04-Apr-2024 10:11:55 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (cd53fe8e7d2a3dbb7c4b86bdeffba2fb)] -> xpath: //button[@class='yui3-button yui3-button-close']]
+[INFO ][04-Apr-2024 10:12:07 AM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (cd53fe8e7d2a3dbb7c4b86bdeffba2fb)] -> xpath: //div[@id='formsResources_panel']//div[@id='formsResources_headingOne']]
+[INFO ][04-Apr-2024 10:12:17 AM] Selenium_Wrapper.clickUsingActions:(255) - Clicking on :[[ChromeDriver: chrome on WINDOWS (cd53fe8e7d2a3dbb7c4b86bdeffba2fb)] -> xpath: (//ul[@class='formsResources']//ul//li/a)[2]]
+[ERROR][04-Apr-2024 10:12:36 AM] ArticlePage.testShareEmail:(133) - Share Email Test case is un-successfull
+[ERROR][04-Apr-2024 10:12:54 AM] ArticlePage.testSearchArticle:(154) - Search Existing Article Test case is un-successfull
+[ERROR][04-Apr-2024 10:13:03 AM] Selenium_Wrapper.highlightWebElement:(423) - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//a[@class='add_bookmarkButton']//img[@class='bookmark_icon_blank']"}
+  (Session info: chrome=123.0.6312.88)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SC-CAF-IN-CND84', ip: '192.168.0.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 123.0.6312.88, chrome: {chromedriverVersion: 123.0.6312.58 (6b4b19e9dfbb..., userDataDir: C:\Users\SWAMYK~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63445}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: cd53fe8e7d2a3dbb7c4b86bdeffba2fb
+*** Element info: {Using=xpath, value=//a[@class='add_bookmarkButton']//img[@class='bookmark_icon_blank']}
+[ERROR][04-Apr-2024 10:13:06 AM] Selenium_Wrapper.highlightWebElement:(423) - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//a[@class='print_anchor tooltip  prt']//img[@class='img-fluid printimg']"}
+  (Session info: chrome=123.0.6312.88)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SC-CAF-IN-CND84', ip: '192.168.0.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 123.0.6312.88, chrome: {chromedriverVersion: 123.0.6312.58 (6b4b19e9dfbb..., userDataDir: C:\Users\SWAMYK~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63445}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: cd53fe8e7d2a3dbb7c4b86bdeffba2fb
+*** Element info: {Using=xpath, value=//a[@class='print_anchor tooltip  prt']//img[@class='img-fluid printimg']}
+[ERROR][04-Apr-2024 10:13:09 AM] Selenium_Wrapper.highlightWebElement:(423) - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//a[@class='share_icon_wrapper tooltip  prt']//img[@class='share_icon_default']"}
+  (Session info: chrome=123.0.6312.88)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SC-CAF-IN-CND84', ip: '192.168.0.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 123.0.6312.88, chrome: {chromedriverVersion: 123.0.6312.58 (6b4b19e9dfbb..., userDataDir: C:\Users\SWAMYK~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63445}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: cd53fe8e7d2a3dbb7c4b86bdeffba2fb
+*** Element info: {Using=xpath, value=//a[@class='share_icon_wrapper tooltip  prt']//img[@class='share_icon_default']}
+[ERROR][04-Apr-2024 10:13:09 AM] Selenium_Wrapper.scrollToWebElement:(493) - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//a[@class='print_anchor tooltip  prt']//img[@class='img-fluid printimg']"}
+  (Session info: chrome=123.0.6312.88)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SC-CAF-IN-CND84', ip: '192.168.0.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 123.0.6312.88, chrome: {chromedriverVersion: 123.0.6312.58 (6b4b19e9dfbb..., userDataDir: C:\Users\SWAMYK~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63445}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: cd53fe8e7d2a3dbb7c4b86bdeffba2fb
+*** Element info: {Using=xpath, value=//a[@class='print_anchor tooltip  prt']//img[@class='img-fluid printimg']}
+[ERROR][04-Apr-2024 10:13:09 AM] ArticlePage.testRequests:(203) - testRequests Test case is un-successfull
+[INFO ][04-Apr-2024 10:13:12 AM] Selenium_Wrapper.closeCurrentBrowser:(657) - Closing the current Browser

@@ -1,0 +1,18 @@
+[INFO ][04-Sep-2024 15:11:39 PM] Selenium_Wrapper.openBrowser:(54) - Opening chrome browser.
+[INFO ][04-Sep-2024 15:11:46 PM] Selenium_Wrapper.enterURL:(88) - Entering url :https://macu1--tst1.custhelp.com/app/home
+[ERROR][04-Sep-2024 15:11:50 PM] MACU_Wrapper.signIntoCP:(23) - Error in the signin process
+[ERROR][04-Sep-2024 15:11:56 PM] ArticlePage.testSearchPage:(37) - Search and Select Article Test case is un-successfull
+[ERROR][04-Sep-2024 15:12:02 PM] ArticlePage.testBookmarkArticle:(94) - Bookmark Article Test case is un-successfull
+[ERROR][04-Sep-2024 15:12:07 PM] ArticlePage.testShareEmail:(133) - Share Email Test case is un-successfull
+[ERROR][04-Sep-2024 15:12:14 PM] ArticlePage.testSearchArticle:(154) - Search Existing Article Test case is un-successfull
+[ERROR][04-Sep-2024 15:12:16 PM] Selenium_Wrapper.scrollToWebElement:(493) - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":".knowledge"}
+  (Session info: chrome=128.0.6613.115)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SC-CAF-CND84305', ip: '172.26.8.201', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 128.0.6613.115, chrome: {chromedriverVersion: 127.0.6533.72 (9755e24ca85a..., userDataDir: C:\Users\SWAMYK~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49606}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 35fb2edf7f432cca0c2adb4564e7cd4c
+*** Element info: {Using=class name, value=knowledge}
+[ERROR][04-Sep-2024 15:12:16 PM] ArticlePage.testRequests:(203) - testRequests Test case is un-successfull
+[INFO ][04-Sep-2024 15:12:19 PM] Selenium_Wrapper.closeCurrentBrowser:(657) - Closing the current Browser

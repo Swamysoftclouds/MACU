@@ -1,0 +1,9 @@
+[INFO ][28-Feb-2023 06:26:53 AM] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][28-Feb-2023 06:26:56 AM] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--upgrade.custhelp.com/
+[ERROR][28-Feb-2023 06:27:00 AM] MACU_Wrapper.signIntoCP:(23) - Error in the signin process
+[ERROR][28-Feb-2023 06:27:09 AM] QuickNavigation.testAssertBookmarkArticle:(49) - Assert Article from My Top Bookmarks Test is un-successfull
+[ERROR][28-Feb-2023 06:27:14 AM] QuickNavigation.testBookmarkArticle:(70) - Bookmark Article Test is un-successfull
+[ERROR][28-Feb-2023 06:27:14 AM] QuickNavigation.testVerifyBookmarkArticle:(137) - Verify Bookmark Article and Highlight in List Test is un-successfull
+[ERROR][28-Feb-2023 06:27:19 AM] QuickNavigation.testPreferencesBookmarkPage:(162) - Preferences in My Bookmarks Test is un-successfull
+[ERROR][28-Feb-2023 06:27:24 AM] QuickNavigation.testPreferencesNotificationPage:(183) - Preferences My Notification Test is un-successfull
+[INFO ][28-Feb-2023 06:27:28 AM] Selenium_Wrapper.closeCurrentBrowser:(651) - Closing the current Browser

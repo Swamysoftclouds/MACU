@@ -1,0 +1,12 @@
+[INFO ][05-Nov-2021 20:22:38 pm] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][05-Nov-2021 20:22:43 pm] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--tst.custhelp.com/AgentWeb/
+[INFO ][05-Nov-2021 20:22:47 pm] Selenium_Wrapper.enterText:(311) - Entering Text :RNT_pramod in WebElement :[[ChromeDriver: chrome on WINDOWS (7e389f8908be0959b0aa3f609ad4585f)] -> id: username]
+[INFO ][05-Nov-2021 20:22:49 pm] Selenium_Wrapper.enterText:(311) - Entering Text :Welcome123 in WebElement :[[ChromeDriver: chrome on WINDOWS (7e389f8908be0959b0aa3f609ad4585f)] -> id: password]
+[INFO ][05-Nov-2021 20:23:18 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (7e389f8908be0959b0aa3f609ad4585f)] -> id: loginbutton]
+[INFO ][05-Nov-2021 20:23:28 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (7e389f8908be0959b0aa3f609ad4585f)] -> xpath: //div[@id='landingPanel-notifications']//button[@class='oj-button oj-button-half-chrome mobile-close-icon mobile-close-button closeFoldout']//label[text()='Close Action Center']]
+[INFO ][05-Nov-2021 20:23:31 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (7e389f8908be0959b0aa3f609ad4585f)] -> xpath: (//span[@class='oj-button-icon oj-start navigator-icon oj-button-icon oj-start'])[1]]
+[INFO ][05-Nov-2021 20:23:32 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (7e389f8908be0959b0aa3f609ad4585f)] -> xpath: (//div[text()='Contacts']//a)]
+[INFO ][05-Nov-2021 20:23:33 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (7e389f8908be0959b0aa3f609ad4585f)] -> xpath: //span[text()='Contacts']]
+[INFO ][05-Nov-2021 20:23:41 pm] Selenium_Wrapper.enterText:(311) - Entering Text :swamyk in WebElement :[[ChromeDriver: chrome on WINDOWS (7e389f8908be0959b0aa3f609ad4585f)] -> xpath: (//label[text()='Login']//following::input)[1]]
+[INFO ][05-Nov-2021 20:23:42 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (7e389f8908be0959b0aa3f609ad4585f)] -> xpath: //span[text()='Search']]
+[ERROR][05-Nov-2021 20:23:47 pm] Contact_View.testCreateArticleFlow:(54) - Create Article Test is un-successfull

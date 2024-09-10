@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+       
+      <class name="com.MACU.BUI.FeedbackReport"/>
+      
+     <!--  <methods>
+          <exclude name="testQuickNavigation" />
+          <include name="testPreferencesBookmarkPage" />
+          <include name="testPreferencesNotificationPage" />
+          
+         </methods> 
+      </class>
+      <class name="com.MACU.BUI.SchedulerJobs"/>
+      <class name="com.MACU.CP.MyFeedback"/>
+      <class name="com.MACU.BUI.CallOuts_POC"/>
+      <class name="com.MACU.CP.Quick_Navigation"/>
+      <class name="com.MACU.BUI.Actions_Dashboard_Report"/>
+      <class name="com.MACU.CP.HomePage"/>
+      <class name="com.MACU.BUI.FeedbackReport"/>
+      <class name="com.MACU.CP.MyActivity"/>
+      <class name="com.MACU.CP.MyFeedback"/>
+      <class name="com.MACU.CP.ArticlePage"/>
+      <class name="com.MACU.framework.ExtentReportsClass"/>-->
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

@@ -1,0 +1,16 @@
+[INFO ][26-Jul-2023 17:30:41 pm] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][26-Jul-2023 17:30:44 pm] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--tst1.custhelp.com/AgentWeb/
+[INFO ][26-Jul-2023 17:30:49 pm] Selenium_Wrapper.enterText:(311) - Entering Text :automation_testing in WebElement :[[ChromeDriver: chrome on WINDOWS (4e659af5877d1bef8a02b0b92839e09b)] -> id: username]
+[INFO ][26-Jul-2023 17:30:50 pm] Selenium_Wrapper.enterText:(311) - Entering Text :Welcome123 in WebElement :[[ChromeDriver: chrome on WINDOWS (4e659af5877d1bef8a02b0b92839e09b)] -> id: password]
+[INFO ][26-Jul-2023 17:31:30 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (4e659af5877d1bef8a02b0b92839e09b)] -> id: loginbutton]
+[INFO ][26-Jul-2023 17:31:42 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (4e659af5877d1bef8a02b0b92839e09b)] -> id: navigationSetBtn]
+[INFO ][26-Jul-2023 17:31:47 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (4e659af5877d1bef8a02b0b92839e09b)] -> xpath: //div[@automationid='Analytics']]
+[INFO ][26-Jul-2023 17:32:01 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (4e659af5877d1bef8a02b0b92839e09b)] -> xpath: //div[@automationid='Analytics_Reports Explorer']//span[text()='Reports Explorer']]
+[INFO ][26-Jul-2023 17:32:16 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (4e659af5877d1bef8a02b0b92839e09b)] -> xpath: //div[@aria-label='Public Reports'][text()='Public Reports']]
+[INFO ][26-Jul-2023 17:32:21 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (4e659af5877d1bef8a02b0b92839e09b)] -> xpath: //div[@aria-label='MACU CUSTOM REPORTS'][text()='MACU CUSTOM REPORTS']]
+[INFO ][26-Jul-2023 17:32:27 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (4e659af5877d1bef8a02b0b92839e09b)] -> xpath: //div[@aria-label='SoftClouds'][text()='SoftClouds']]
+[INFO ][26-Jul-2023 17:32:32 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (4e659af5877d1bef8a02b0b92839e09b)] -> xpath: //div[@aria-label='OKCS'][text()='OKCS'][contains(@id,'ExplorerFolderLabelAnalyticsFolder103223')]]
+[ERROR][26-Jul-2023 17:32:40 pm] ActionsDashboardReport.testVisitorActionsDashboard:(131) - Select Actions Report in BUI Test is un-successfull
+[INFO ][26-Jul-2023 17:32:48 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (4e659af5877d1bef8a02b0b92839e09b)] -> xpath: //body//oj-avatar[@initials='[[userMenuLabel]]']]
+[INFO ][26-Jul-2023 17:32:56 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (4e659af5877d1bef8a02b0b92839e09b)] -> xpath: //a//span[text()='Sign Out']]
+[INFO ][26-Jul-2023 17:33:01 pm] Selenium_Wrapper.closeCurrentBrowser:(651) - Closing the current Browser

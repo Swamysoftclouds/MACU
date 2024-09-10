@@ -1,0 +1,11 @@
+[INFO ][23-May-2023 16:34:13 PM] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][23-May-2023 16:34:18 PM] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--tst1.custhelp.com/app/home
+[INFO ][23-May-2023 16:34:23 PM] Selenium_Wrapper.enterText:(311) - Entering Text :swamyk in WebElement :[[ChromeDriver: chrome on WINDOWS (e92b68f949e86eac0812d3c7fa73225a)] -> id: rn_LoginForm_2_Username]
+[INFO ][23-May-2023 16:34:24 PM] Selenium_Wrapper.enterText:(311) - Entering Text :Soft@123 in WebElement :[[ChromeDriver: chrome on WINDOWS (e92b68f949e86eac0812d3c7fa73225a)] -> id: rn_LoginForm_2_Password]
+[INFO ][23-May-2023 16:34:31 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (e92b68f949e86eac0812d3c7fa73225a)] -> id: rn_LoginForm_2_Submit]
+[INFO ][23-May-2023 16:34:40 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (e92b68f949e86eac0812d3c7fa73225a)] -> xpath: //input[@type='search']]
+[INFO ][23-May-2023 16:34:42 PM] Selenium_Wrapper.enterText:(311) - Entering Text :Business Auto Loan in WebElement :[[ChromeDriver: chrome on WINDOWS (e92b68f949e86eac0812d3c7fa73225a)] -> xpath: //input[@type='search']]
+[INFO ][23-May-2023 16:34:58 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (e92b68f949e86eac0812d3c7fa73225a)] -> xpath: (//div[@class='yui3-aclist-content']//li//li)[1]]
+[INFO ][23-May-2023 16:35:05 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (e92b68f949e86eac0812d3c7fa73225a)] -> xpath: (//div[@class='rn_SearchResultContent']//a)[1]]
+[INFO ][23-May-2023 16:35:28 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (e92b68f949e86eac0812d3c7fa73225a)] -> xpath: //div[@class='main_image_div']//div[@class='thumbs_up_down'][2]]
+[ERROR][23-May-2023 16:35:39 PM] AnswerVotingFeedbackReport.testFeedbackPage:(56) - Thumbs Up & Down Test is un-successfull

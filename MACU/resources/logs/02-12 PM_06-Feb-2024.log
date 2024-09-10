@@ -1,0 +1,18 @@
+[INFO ][06-Feb-2024 14:12:55 PM] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][06-Feb-2024 14:12:59 PM] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--tst1.custhelp.com/AgentWeb/
+[INFO ][06-Feb-2024 14:13:03 PM] Selenium_Wrapper.enterText:(311) - Entering Text :automation_testing in WebElement :[[ChromeDriver: chrome on WINDOWS (921aa6984a567339d9cf51205d84f71b)] -> id: username]
+[INFO ][06-Feb-2024 14:13:04 PM] Selenium_Wrapper.enterText:(311) - Entering Text :Welcome123 in WebElement :[[ChromeDriver: chrome on WINDOWS (921aa6984a567339d9cf51205d84f71b)] -> id: password]
+[INFO ][06-Feb-2024 14:13:38 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (921aa6984a567339d9cf51205d84f71b)] -> id: loginbutton]
+[INFO ][06-Feb-2024 14:13:49 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (921aa6984a567339d9cf51205d84f71b)] -> id: navigationSetBtn]
+[INFO ][06-Feb-2024 14:13:54 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (921aa6984a567339d9cf51205d84f71b)] -> xpath: //div[@automationid='Configuration']]
+[INFO ][06-Feb-2024 14:13:59 PM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (921aa6984a567339d9cf51205d84f71b)] -> xpath: //div[@automationid='Configuration_Service']]
+[ERROR][06-Feb-2024 14:14:04 PM] CreateNewArticleFlow.testNavigateToArticleFlow:(41) - Navigate To Article un-successfull
+[ERROR][06-Feb-2024 14:14:05 PM] CreateNewArticleFlow.testCreateArticleFlow:(306) - Create Article  un-successfull
+[ERROR][06-Feb-2024 14:14:11 PM] CreateNewArticleFlow.testPublishArticleFlow:(359) - Publish Article un-successfull
+[INFO ][06-Feb-2024 14:14:11 PM] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][06-Feb-2024 14:14:18 PM] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--tst1.custhelp.com/app/home
+[INFO ][06-Feb-2024 14:14:22 PM] Selenium_Wrapper.enterText:(311) - Entering Text :swamyk in WebElement :[[ChromeDriver: chrome on WINDOWS (8f650f5e355645d5cd7b17784c8e3fd2)] -> id: rn_LoginForm_2_Username]
+[INFO ][06-Feb-2024 14:14:23 PM] Selenium_Wrapper.enterText:(311) - Entering Text :Soft@123 in WebElement :[[ChromeDriver: chrome on WINDOWS (8f650f5e355645d5cd7b17784c8e3fd2)] -> id: rn_LoginForm_2_Password]
+[ERROR][06-Feb-2024 14:14:30 PM] MACU_Wrapper.signIntoCP:(23) - Error in the signin process
+[ERROR][06-Feb-2024 14:14:36 PM] CreateNewArticleFlow.testSearchanArticle:(377) - Search an Article in CP is un-successfull
+[ERROR][06-Feb-2024 14:14:39 PM] CreateNewArticleFlow.testCPClose:(388) - Logout/SignOut un-successfull

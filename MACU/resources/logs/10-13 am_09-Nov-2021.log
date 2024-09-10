@@ -1,0 +1,6 @@
+[INFO ][09-Nov-2021 10:13:13 am] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][09-Nov-2021 10:13:21 am] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--tst.custhelp.com/AgentWeb/
+[INFO ][09-Nov-2021 10:13:25 am] Selenium_Wrapper.enterText:(311) - Entering Text :RNT_pramod in WebElement :[[ChromeDriver: chrome on WINDOWS (b9f7a1b40bbd6c78824369ce5dc0efc1)] -> id: username]
+[INFO ][09-Nov-2021 10:13:27 am] Selenium_Wrapper.enterText:(311) - Entering Text :Welcome123 in WebElement :[[ChromeDriver: chrome on WINDOWS (b9f7a1b40bbd6c78824369ce5dc0efc1)] -> id: password]
+[INFO ][09-Nov-2021 10:15:39 am] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (b9f7a1b40bbd6c78824369ce5dc0efc1)] -> id: loginbutton]
+[ERROR][09-Nov-2021 10:16:04 am] CallOuts.testExistingAccount:(98) - Login/SignIn un-successfull

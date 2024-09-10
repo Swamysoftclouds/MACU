@@ -1,0 +1,19 @@
+[INFO ][23-May-2023 11:29:07 AM] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][23-May-2023 11:29:13 AM] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--tst1.custhelp.com/AgentWeb/
+[INFO ][23-May-2023 11:29:17 AM] Selenium_Wrapper.enterText:(311) - Entering Text :automation_testing in WebElement :[[ChromeDriver: chrome on WINDOWS (4c1bec97bed82e8c28cb59fe5b7ccc35)] -> id: username]
+[INFO ][23-May-2023 11:29:18 AM] Selenium_Wrapper.enterText:(311) - Entering Text :Welcome123 in WebElement :[[ChromeDriver: chrome on WINDOWS (4c1bec97bed82e8c28cb59fe5b7ccc35)] -> id: password]
+[INFO ][23-May-2023 11:29:34 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (4c1bec97bed82e8c28cb59fe5b7ccc35)] -> id: loginbutton]
+[ERROR][23-May-2023 11:29:46 AM] ActionsDashboardReport.testOKCSReports:(45) - Selecting OKCS Reports in BUI Test is un-successfull
+[ERROR][23-May-2023 11:30:09 AM] Selenium_Wrapper.highlightWebElement:(417) - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[contains(@title,'Full Name')]"}
+  (Session info: chrome=113.0.5672.127)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'QA-SWAMYK', ip: '192.168.0.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 113.0.5672.127, chrome: {chromedriverVersion: 113.0.5672.63 (0e1a4471d5ae..., userDataDir: C:\Users\SWAMYK~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:57104}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 4c1bec97bed82e8c28cb59fe5b7ccc35
+*** Element info: {Using=xpath, value=//span[contains(@title,'Full Name')]}
+[ERROR][23-May-2023 11:30:20 AM] ActionsDashboardReport.testVisitorActionsDashboard:(130) - Select Actions Report in BUI Test is un-successfull
+[INFO ][23-May-2023 11:30:28 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (4c1bec97bed82e8c28cb59fe5b7ccc35)] -> xpath: //body//oj-avatar[@initials='[[userMenuLabel]]']]
+[INFO ][23-May-2023 11:30:35 AM] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (4c1bec97bed82e8c28cb59fe5b7ccc35)] -> xpath: //a//span[text()='Sign Out']]
+[INFO ][23-May-2023 11:30:41 AM] Selenium_Wrapper.closeCurrentBrowser:(651) - Closing the current Browser

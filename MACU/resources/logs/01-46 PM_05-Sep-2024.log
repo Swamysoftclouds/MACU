@@ -1,0 +1,4 @@
+[ERROR][05-Sep-2024 13:46:20 PM] MACU_Wrapper.signIntoBUI:(37) - Error in the loginin process
+[ERROR][05-Sep-2024 13:46:42 PM] ThumbsUpAndThumbsDownFeedback.testThumbsUpAndThumbsDownFeedbackFlow:(42) - Navigate To ThumbsUp_And_ThumbsDown_Feedback Test is un-successfull
+[ERROR][05-Sep-2024 13:46:42 PM] ThumbsUpAndThumbsDownFeedback.testSelectingandVerifyingFlow:(169) - Selecting and Verifying Test is un-successfull
+[ERROR][05-Sep-2024 13:46:45 PM] ThumbsUpAndThumbsDownFeedback.testSignout:(186) - Logout/SignOut un-successfull

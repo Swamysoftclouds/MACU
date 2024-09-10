@@ -1,0 +1,34 @@
+[INFO ][08-Nov-2021 19:28:31 pm] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][08-Nov-2021 19:28:36 pm] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--tst.custhelp.com/AgentWeb/
+[INFO ][08-Nov-2021 19:28:40 pm] Selenium_Wrapper.enterText:(311) - Entering Text :RNT_pramod in WebElement :[[ChromeDriver: chrome on WINDOWS (89c59ded8d40d2261ad6891d907df3e7)] -> id: username]
+[INFO ][08-Nov-2021 19:28:41 pm] Selenium_Wrapper.enterText:(311) - Entering Text :Welcome123 in WebElement :[[ChromeDriver: chrome on WINDOWS (89c59ded8d40d2261ad6891d907df3e7)] -> id: password]
+[INFO ][08-Nov-2021 19:29:11 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (89c59ded8d40d2261ad6891d907df3e7)] -> id: loginbutton]
+[INFO ][08-Nov-2021 19:29:23 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (89c59ded8d40d2261ad6891d907df3e7)] -> id: navigationSetBtn]
+[INFO ][08-Nov-2021 19:29:31 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (89c59ded8d40d2261ad6891d907df3e7)] -> xpath: //div[@automationid='Configuration']]
+[INFO ][08-Nov-2021 19:29:36 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (89c59ded8d40d2261ad6891d907df3e7)] -> xpath: //div[@automationid='Configuration_Service']]
+[INFO ][08-Nov-2021 19:29:41 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (89c59ded8d40d2261ad6891d907df3e7)] -> xpath: //div[@automationid='Configuration_Service_Knowledge Advanced']]
+[INFO ][08-Nov-2021 19:29:46 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (89c59ded8d40d2261ad6891d907df3e7)] -> xpath: //div[@automationid='Configuration_Service_Knowledge Advanced_Authoring']//span[text()='Authoring']]
+[INFO ][08-Nov-2021 19:30:00 pm] Selenium_Wrapper.clickUsingActions:(249) - Clicking on :[[ChromeDriver: chrome on WINDOWS (89c59ded8d40d2261ad6891d907df3e7)] -> xpath: //div[@class='bodyDivRN']//li[@testidentifier='MainNavBar_Content']//a]
+[INFO ][08-Nov-2021 19:30:14 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (89c59ded8d40d2261ad6891d907df3e7)] -> xpath: //a[@testidentifier='ContentNavBar_Add_Technology'][normalize-space()='Add']]
+[INFO ][08-Nov-2021 19:30:23 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (89c59ded8d40d2261ad6891d907df3e7)] -> xpath: //input[@testidentifier='Content_ContentType_Add_SUMMARY']]
+[INFO ][08-Nov-2021 19:30:24 pm] Selenium_Wrapper.enterText:(311) - Entering Text :Test Technology through Automation 3 in WebElement :[[ChromeDriver: chrome on WINDOWS (89c59ded8d40d2261ad6891d907df3e7)] -> xpath: //input[@testidentifier='Content_ContentType_Add_SUMMARY']]
+[INFO ][08-Nov-2021 19:30:29 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (89c59ded8d40d2261ad6891d907df3e7)] -> xpath: //input[@testidentifier='Content_ContentType_Add_KEYWORD']]
+[INFO ][08-Nov-2021 19:30:30 pm] Selenium_Wrapper.enterText:(311) - Entering Text :Automation Technology Test 3 in WebElement :[[ChromeDriver: chrome on WINDOWS (89c59ded8d40d2261ad6891d907df3e7)] -> xpath: //input[@testidentifier='Content_ContentType_Add_KEYWORD']]
+[INFO ][08-Nov-2021 19:30:40 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (89c59ded8d40d2261ad6891d907df3e7)] -> xpath: (//span[text()='Source'])[6]]
+[INFO ][08-Nov-2021 19:30:45 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (89c59ded8d40d2261ad6891d907df3e7)] -> xpath: //textarea[contains(@title,'Rich Text Editor')]]
+[INFO ][08-Nov-2021 19:30:50 pm] Selenium_Wrapper.openBrowser:(48) - Opening chrome browser.
+[INFO ][08-Nov-2021 19:30:59 pm] Selenium_Wrapper.enterURL:(82) - Entering url :https://macu1--tst.custhelp.com/app/home
+[INFO ][08-Nov-2021 19:31:04 pm] Selenium_Wrapper.enterText:(311) - Entering Text :pramodk in WebElement :[[ChromeDriver: chrome on WINDOWS (3c852dcae74c234b21daa24ef4e6199e)] -> id: rn_LoginForm_2_Username]
+[INFO ][08-Nov-2021 19:31:05 pm] Selenium_Wrapper.enterText:(311) - Entering Text :Soft@123 in WebElement :[[ChromeDriver: chrome on WINDOWS (3c852dcae74c234b21daa24ef4e6199e)] -> id: rn_LoginForm_2_Password]
+[INFO ][08-Nov-2021 19:31:12 pm] Selenium_Wrapper.click:(199) - Clicking on :[[ChromeDriver: chrome on WINDOWS (3c852dcae74c234b21daa24ef4e6199e)] -> id: rn_LoginForm_2_Submit]
+[ERROR][08-Nov-2021 19:31:33 pm] Selenium_Wrapper.scrollToWebElement:(487) - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='rn_SchemaAttribute']"}
+  (Session info: chrome=95.0.4638.54)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-N43657M', ip: '192.168.29.58', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 95.0.4638.54, chrome: {chromedriverVersion: 95.0.4638.17 (a9d0719444d4b..., userDataDir: C:\Users\Pramod\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:62442}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 3c852dcae74c234b21daa24ef4e6199e
+*** Element info: {Using=xpath, value=//div[@class='rn_SchemaAttribute']}
+[ERROR][08-Nov-2021 19:31:33 pm] CallOuts.testCPCallouts:(119) - Login/SignIn un-successfull
+[INFO ][08-Nov-2021 19:31:36 pm] Selenium_Wrapper.closeCurrentBrowser:(650) - Closing the current Browser

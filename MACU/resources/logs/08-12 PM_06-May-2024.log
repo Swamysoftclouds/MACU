@@ -1,0 +1,8 @@
+[INFO ][06-May-2024 20:12:35 PM] Selenium_Wrapper.openBrowser:(54) - Opening chrome browser.
+[INFO ][06-May-2024 20:12:41 PM] Selenium_Wrapper.enterURL:(88) - Entering url :https://macu1--tst1.custhelp.com/AgentWeb/
+[INFO ][06-May-2024 20:12:46 PM] Selenium_Wrapper.enterText:(317) - Entering Text :automation_testing in WebElement :[[ChromeDriver: chrome on WINDOWS (a637d3e601f0e89bdcdeddbfca7deb78)] -> id: username]
+[INFO ][06-May-2024 20:12:47 PM] Selenium_Wrapper.enterText:(317) - Entering Text :Welcome123 in WebElement :[[ChromeDriver: chrome on WINDOWS (a637d3e601f0e89bdcdeddbfca7deb78)] -> id: password]
+[INFO ][06-May-2024 20:12:58 PM] Selenium_Wrapper.click:(205) - Clicking on :[[ChromeDriver: chrome on WINDOWS (a637d3e601f0e89bdcdeddbfca7deb78)] -> id: loginbutton]
+[ERROR][06-May-2024 20:13:01 PM] ContactView.testNavigateToContacts:(39) - Navigate To Contact Test is un-successfull
+[ERROR][06-May-2024 20:13:02 PM] ContactView.testContactView:(62) - Contact View Test is un-successfull
+[ERROR][06-May-2024 20:13:05 PM] ContactView.testSignout:(79) - Logout/SignOut un-successfull
